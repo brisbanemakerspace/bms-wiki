@@ -2,7 +2,7 @@
 title: Digital Multimeters
 description: Learn about our digital multimeters.
 published: true
-date: 2021-09-07T13:31:47.875Z
+date: 2021-09-07T14:08:36.372Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:40.179Z

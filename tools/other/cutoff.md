@@ -2,7 +2,7 @@
 title: Air Cutoff Tool
 description: Learn about our Air Cutoff Tool.
 published: true
-date: 2021-09-07T13:31:53.643Z
+date: 2021-09-07T14:08:42.293Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:48.642Z

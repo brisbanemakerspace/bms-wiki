@@ -2,7 +2,7 @@
 title: Air Nailer and Stapler
 description: Learn about our Air Nailer and Stapler.
 published: true
-date: 2021-09-07T13:31:57.429Z
+date: 2021-09-07T14:08:46.157Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:54.025Z

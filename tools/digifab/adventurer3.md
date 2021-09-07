@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2021-09-07T13:31:33.866Z
+date: 2021-09-07T14:08:20.894Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z

@@ -2,7 +2,7 @@
 title: Cricut
 description: Learn about our cricut machine.
 published: true
-date: 2021-09-07T13:31:38.015Z
+date: 2021-09-07T14:08:25.359Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:25.709Z

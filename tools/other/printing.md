@@ -2,7 +2,7 @@
 title: A4 Colour Printer
 description: Print (in 2D) using our AirPrint and WiFi enabled A4 laser printer.
 published: true
-date: 2021-09-07T13:31:59.319Z
+date: 2021-09-07T14:08:48.043Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:56.747Z
