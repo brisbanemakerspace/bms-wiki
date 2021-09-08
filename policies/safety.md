@@ -2,7 +2,7 @@
 title: Safety Policy
 description: Being safe is important, and this policy outlines our expectations around safety.
 published: true
-date: 2021-09-07T14:08:13.942Z
+date: 2021-09-08T12:48:00.136Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:09.917Z
@@ -54,7 +54,7 @@ When dealing with any chemical that is at risk of being splashed or spilled, at 
 * Casting resins (for woodwork, art, etc.) - any specific brand must be inserted into the MSDS folder if it isn't already there.
 
 ### Other Chemicals in the MSDS
-The following is a list of other chemicals (and similar substances) that are already in the MSDS and may be on site. The MSDS is linked below for each chemical.
+The following is a list of other chemicals (and substances) that are already in the MSDS and may be on site. The MSDS is linked below for each chemical.
 
 * [PVA Glue](/msds/j_burrows_&_studymate_pva_glue_sds.pdf)
 * [Nova3D 3D printer resin](/msds/405nm_resin.pdf)
