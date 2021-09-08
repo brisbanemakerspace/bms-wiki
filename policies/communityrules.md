@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-09-07T14:08:09.783Z
+date: 2021-09-08T12:42:15.388Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -63,7 +63,7 @@ We welcome walk in guests during our staffed hours. During this time, we're happ
 
 If you're a member wanting to bring a guest along, you must follow these rules:
 * No more than 2 people are allowed to accompany you as a guest.
-* Guests are not allowed to use any power tools, or tools that require an induction.
+* Guests are not allowed to use orange or red tools.
 * Guests under 12 are not allowed to use any tools (including scissors etc).
 * You and your guest(s) must be working on the same project.
 * Guests may be asked to leave if Brisbane Makerspace is at capacity, or they cause a nuisance.
