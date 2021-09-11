@@ -2,7 +2,7 @@
 title: Soldering and Hot Air
 description: Learn about our soldering and hot air stations.
 published: true
-date: 2021-09-07T14:08:38.467Z
+date: 2021-09-11T13:04:27.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:42.974Z
@@ -20,7 +20,7 @@ This is a great general purpose soldering iron as it has an adjustable soldering
 The hot air stations also have different sized tips/nozzles and are great for using on heat shrink and SMT parts. The air flow rate and temperature are also adjustable.
 
 # Specifications
-**Induction Class:** Orange Tool (Induction Required)
+**Induction Class:** Yellow Tool (Induction Required)
 **Temp Range:** 100 - 480°C
 **Max Air Flow:** 24L/min
 
