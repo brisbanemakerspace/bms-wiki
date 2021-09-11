@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2021-09-07T14:08:05.080Z
+date: 2021-09-11T11:50:23.159Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -52,6 +52,10 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Soldering Iron / Hot Air
 		![solder_station.png](/electronics/solder_station.png =x60)
 	](/tools/electronics/soldering)
+
+- [Fume Extractor / Filter
+		![fume-extractor.png](/electronics/fume-extractor.png =x60)
+	](/tools/electronics/fume-extractor)
 
 - Rigol Oscilloscope (Coming Soon)
 	![rigol-ds1202z-e.png](/electronics/rigol-ds1202z-e.png =x60)
