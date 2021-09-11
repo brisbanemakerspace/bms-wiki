@@ -2,7 +2,7 @@
 title: Craft Supplies & Tools
 description: Our range of craft supply boxes contain all the tools and consumables you need for making stuff.
 published: true
-date: 2021-09-11T10:43:40.265Z
+date: 2021-09-11T12:12:51.203Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:19:32.326Z
@@ -22,6 +22,7 @@ This box contains the following:
 * Wooden Pegs (Mini)
 * Pom Poms
 * Googly Eyes
+* Pipe Cleaners (Colour)
 * Washi and Glitter Tape (Brown, Black, Pink, Blue and Green)
 
 ## Pens and Pencils
