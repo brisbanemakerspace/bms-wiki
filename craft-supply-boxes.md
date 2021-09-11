@@ -2,7 +2,7 @@
 title: Craft Supplies & Tools
 description: Our range of craft supply boxes contain all the tools and consumables you need for making stuff.
 published: true
-date: 2021-09-07T14:07:57.795Z
+date: 2021-09-11T10:43:40.265Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:19:32.326Z
@@ -55,3 +55,12 @@ This box contains the following:
 * Assorted Decorative Stickers
 * A3 Butchers Paper
 * A4 Paper
+
+## Sticky Stuff
+* Packing Tape Dispenser
+* Sticky Tape Rolls (small/large)
+* Double Sided Tape
+* Foam Mounting Tape
+* Foam Mounting Squares
+* PVA Glue
+* Hot Melt Glue Sticks
