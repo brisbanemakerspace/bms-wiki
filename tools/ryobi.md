@@ -2,7 +2,7 @@
 title: Ryobi Cordless Tools
 description: Learn more about our Ryobi cordless power tools.
 published: true
-date: 2021-09-11T03:30:42.204Z
+date: 2021-09-11T03:40:27.514Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:16.492Z
@@ -15,7 +15,7 @@ Our range of Ryobi cordless power tools are great for assisting in your projects
 *A picture of our Ryobi cordless drill driver.*
 
 # Specifications
-**Induction Class:** Orange Tool (Induction Required)
+**Induction Class:** Yellow Tool (Induction Required)
 **Voltage:** 18v
 
 # How to use
