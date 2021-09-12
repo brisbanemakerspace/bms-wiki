@@ -2,7 +2,7 @@
 title: Craft Supplies & Tools
 description: Our range of craft supply boxes contain all the tools and consumables you need for making stuff.
 published: true
-date: 2021-09-12T09:24:16.787Z
+date: 2021-09-12T09:28:26.646Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:19:32.326Z
@@ -61,6 +61,7 @@ This box contains the following:
 * Compass (Pencil)
 * Stapler and Staples
 * Staple Remover
+* 30cm Clear Rulers
 
 ## Paper
 * A3 Laminator
