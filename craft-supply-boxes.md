@@ -2,7 +2,7 @@
 title: Craft Supplies & Tools
 description: Our range of craft supply boxes contain all the tools and consumables you need for making stuff.
 published: true
-date: 2021-09-12T09:28:26.646Z
+date: 2021-09-12T10:47:31.388Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:19:32.326Z
@@ -11,7 +11,7 @@ dateCreated: 2021-09-07T13:19:32.326Z
 # Introduction
 Brisbane Makerspace offers a wide range of arts and craft consumables and tools. To make things easy for our members, we've bundled similar things together into "craft supply boxes". You can view information about the contents of each box below.
 
-Unless otherwise noted, reasonable quanities of consumables listed on this page are included in your membership fee. We reserve the right to charge you for unreasonable or commerical use of consumables as per our [Community Rules](/Policies/CommunityRules).
+Unless otherwise noted, reasonable quanities of consumables listed on this page are included in your membership fee. We reserve the right to charge you for unreasonable or commerical use of consumables as per our [Community Rules](/policies/community-rules).
 
 # List of Craft Supply Boxes
 ## Sewing and Knitting Toolbox
