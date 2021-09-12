@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2021-09-12T10:48:16.390Z
+date: 2021-09-12T10:53:49.209Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -94,6 +94,10 @@ All tools are available on a first come, first serve basis. Most of the time the
 
 - [Ryobi ONE+ Compact Glue Gun
 		![ryobi-compact-glue-gun.png](/ryobi/ryobi-compact-glue-gun.png =x60)
+  ](/tools/ryobi)
+
+- [Ryobi ONE+ Heat Gun
+		![ryobi-heat-gun.png](/ryobi/ryobi-heat-gun.png =x60)
   ](/tools/ryobi)
 
 ## Other
