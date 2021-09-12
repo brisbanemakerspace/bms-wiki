@@ -2,7 +2,7 @@
 title: Craft Supplies & Tools
 description: Our range of craft supply boxes contain all the tools and consumables you need for making stuff.
 published: true
-date: 2021-09-12T01:21:32.576Z
+date: 2021-09-12T09:24:16.787Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:19:32.326Z
@@ -22,9 +22,12 @@ It contains:
 * Knitting Needles
 * Pins and pin cushions
 * Scissors and thread puller
+* Fabric Scissors (FABRIC ONLY!)
 * Thread set
 * Multi colour yarn pack
 * "Big Book of Small Projects" for ideas and inspirations
+* Precision Craft Knife and Blade Set
+* Cutting Mats (nearby box)
 
 ## Bits and Bobs
 This box contains the following:
