@@ -2,7 +2,7 @@
 title: Ryobi Cordless Tools
 description: Learn more about our Ryobi cordless power tools.
 published: true
-date: 2021-09-11T03:40:27.514Z
+date: 2021-09-12T10:55:00.249Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:16.492Z
@@ -17,6 +17,11 @@ Our range of Ryobi cordless power tools are great for assisting in your projects
 # Specifications
 **Induction Class:** Yellow Tool (Induction Required)
 **Voltage:** 18v
+
+# Induction Process
+This induction has one part:
+
+1. Complete the online component by visiting this link: https://comingsoon.example.com
 
 # How to use
 Grab a battery from the Ryobi charging station. Check that it has enough charge (aim for > 50%) and then insert it into the bottom of your tool until you hear a click.
