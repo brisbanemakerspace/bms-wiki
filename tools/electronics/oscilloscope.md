@@ -2,7 +2,7 @@
 title: Oscilloscope
 description: Learn about our oscilloscope.
 published: true
-date: 2021-09-21T06:06:18.902Z
+date: 2021-09-21T06:08:06.695Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-21T06:06:18.902Z
@@ -19,17 +19,16 @@ These are great for general purpose testing and troubleshooting of your electron
 
 # Specifications
 **Induction Class:** Green Tool (No Induction Required)
-**Model:** UNI-T UT136A
-**Max Voltage:** 500v
-**Max Current:** 10A
-**Max Resistance:** 40MOhm
-**Frequency:** 10Hz to 10MHz
-**Measures:** Voltage, Current, Resistance, Diodes, Frequency, Continuity
+**Model:** Siglent SDS 1102DL+
+**Channels:** 2
+**Bandwidth:** 100MHz
+**Sample Rate:** 500 MSa/s
+**USB Recording:** Yes
 
 # Induction Process
 No induction required.
 
-However, we do offer an electronics workshop for a complete introduction to electronics, including digital multimeters.
+However, we do offer an electronics workshop for a complete introduction to electronics, including oscilloscopes.
 https://brisbanemaker.space/workshops/
 
 # How To Operate
