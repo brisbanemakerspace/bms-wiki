@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2021-09-21T05:59:45.618Z
+date: 2021-09-21T05:59:55.912Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -59,7 +59,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 
 - [Oscilloscope
 		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =x60)
-	](/tools/electronics/fume-extractor)
+	](/tools/electronics/oscilloscope)
 
 ## Craft
 - [Craft Supplies / Consumables](https://wiki.brisbanemakerspace.co/en/craft-supply-boxes)
