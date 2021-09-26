@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2021-09-26T06:52:57.760Z
+date: 2021-09-26T06:53:30.777Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -20,7 +20,7 @@ You can cut out unique shapes from sheets of materials up to 8mm thick. Laser cu
 You can also engrave text, images and other shapes directly onto your projects. This allows you to create truly unique works of art, add a personal touch to your project, or make something as simple as a name badge or plaque.
 
 # Specifications
-**Usage Cost:** $6/hr
+**Usage Cost:** $10/hr
 **Induction Class:** Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** Up to 60w
