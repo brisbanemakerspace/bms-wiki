@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-09-08T12:42:15.388Z
+date: 2021-09-27T15:04:32.449Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -68,6 +68,7 @@ If you're a member wanting to bring a guest along, you must follow these rules:
 * You and your guest(s) must be working on the same project.
 * Guests may be asked to leave if Brisbane Makerspace is at capacity, or they cause a nuisance.
 * Guests are not permitted to work on commercial projects and all individuals doing so must have their own membership (but it's fine to bring a co-worker if they're just watching for example).
+* All guests must use the QLD government check in app, and must complete an indemnity waiver prior to using any tools (available at the check in desk). You are responsible for ensuring this happens.
 
 ## COVID-19
 Brisbane Makerspace requires all members to follow current public health orders and best practices at all times. This includes wearing masks and signing in with the QLD check in app if necessary. We recommend that all members regularly wash and sanitise their hands, and stay socially distant to other members where possible. If you refuse to follow a current public health order (such as checking in or wearing a mask), you will be refused entry and asked to leave.
