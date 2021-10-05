@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-10-03T04:02:30.039Z
+date: 2021-10-05T13:54:15.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -71,7 +71,7 @@ If you're a member wanting to bring a guest along, you must follow these rules:
 * All guests must use the QLD government check in app, and must complete an indemnity waiver prior to using any tools (available at the check in desk). You are responsible for ensuring this happens.
 
 ## COVID-19
-Brisbane Makerspace requires all members to follow current public health orders and best practices at all times. This includes wearing masks and signing in with the QLD check in app if necessary. We recommend that all members regularly wash and sanitise their hands, and stay socially distant to other members where possible. If you refuse to follow a current public health order (such as checking in or wearing a mask), you will be refused entry and asked to leave.
+Brisbane Makerspace requires all members to follow current public health orders and best practices at all times. This includes wearing masks and signing in with the QLD check in app if required by current guidelines. We recommend that all members regularly wash and sanitise their hands, and stay socially distant to other members where possible. If you refuse to follow a current public health order (such as checking in or wearing a mask), you will be refused entry and asked to leave.
 
 ### Vaccinations
-From December 1st 2021, Brisbane Makerspace will require all members and guests to be fully vaccinated against COVID-19 with a recognised or approved vaccine. When you collect your membership card or come on site as a guest, you will be asked to provide proof of vaccination status or a medical exemption. If you cannot provide either, your memhership will be suspended and you will be asked to leave until you can.
+From December 1st 2021, Brisbane Makerspace will require all members and guests to be at least partially vaccinated against COVID-19 with a recognised or approved vaccine. When you collect your membership card or come on site as a guest, you will be asked to provide proof of vaccination status or a medical exemption. If you cannot provide either, your memhership will be suspended until you can provide proof.
