@@ -2,7 +2,7 @@
 title: Cricut
 description: Learn about our cricut machine.
 published: true
-date: 2021-09-07T14:08:25.359Z
+date: 2021-10-31T17:43:37.310Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:25.709Z
@@ -26,7 +26,7 @@ Our Cricut maker 3 is a cutting machine that can cut out lots of different shape
 # Induction Process
 This induction has one part:
 
-1. Complete the online component by visiting this link: https://comingsoon.example.com
+1. Visit us during staffed hours to be inducted.
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
