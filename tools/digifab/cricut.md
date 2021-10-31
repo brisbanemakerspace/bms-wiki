@@ -2,7 +2,7 @@
 title: Cricut
 description: Learn about our cricut machine.
 published: true
-date: 2021-10-31T17:43:37.310Z
+date: 2021-10-31T17:44:44.272Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:25.709Z
@@ -15,9 +15,10 @@ Our Cricut can handle fabric, leather, paper, balsa wood, leather and more. Cut 
 *A picture of our cricut machine*
 
 # Recommended Uses
-Our Cricut maker 3 is a cutting machine that can cut out lots of different shapes and designs from materials like paper, vinyl, card stock, and iron-on transfers. It can even cut leather and balsa wood! Anything that you would typically use with scissors or a craft knife generally works with our cricut maker.
+Our Cricut Explore 3 is a cutting machine that can cut out lots of different shapes and designs from materials like paper, vinyl, card stock, and iron-on transfers. It can even cut leather and balsa wood! Anything that you would typically use with scissors or a craft knife generally works with our cricut maker.
 
 # Specifications
+**Model:** Cricut Explore 3
 **Induction Class:** Orange Tool (Induction Required)
 **Cut Area:** 330 wide x 3.6m Max Length
 **Max Material Thickness:** Up to 2.4mm
