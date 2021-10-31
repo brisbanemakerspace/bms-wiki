@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2021-10-31T17:45:53.170Z
+date: 2021-10-31T17:46:03.961Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -30,7 +30,7 @@ This induction has one part:
 
 ***OR***
 
-Attend our introductory 3D printing workshop for a complete introduction. https://brisbanemaker.space/workshops/
+Attend our introductory 3D printing class for a complete introduction. https://brisbanemaker.space/classes/
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
