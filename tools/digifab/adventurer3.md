@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2021-10-31T17:46:03.961Z
+date: 2021-10-31T18:00:44.560Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -18,7 +18,7 @@ Our Adventurer 3 is small in size but mighty in capability. It's enclosed print 
 Our Adventurer 3 can be used for printing many different objects. It's setup to print with ABS which gives a great surface finish, and strong, structurally sound parts. Use it for printing brackets, enclosures and other small parts.
 
 # Specifications
-**Usage Cost:** $3/hr
+**Usage Cost:** $3/hr (50% discount for BYO filament, see staff)
 **Induction Class:** Orange Tool (Induction Required)
 **Print Area:** 150mm(L) x 150mm(W) x 150mm(H)
 **Print Speed:** 60mm/s to 80mm/s
