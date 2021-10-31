@@ -2,7 +2,7 @@
 title: Ryobi Cordless Tools
 description: Learn more about our Ryobi cordless power tools.
 published: true
-date: 2021-10-31T17:52:22.867Z
+date: 2021-10-31T17:53:57.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:16.492Z
@@ -19,12 +19,17 @@ Our range of Ryobi cordless power tools are great for assisting in your projects
 **Voltage:** 18v
 
 # Induction Process
-No induction is required.
+
+1. Visit us during staffed hours to be inducted.
+
+**OR**
+
+If you have prior experience using similar tools, you are welcome to use them without induction. By doing so you agree that you know how to safely operate these tools.
 
 # How to use
 Grab a battery from the Ryobi charging station. Check that it has enough charge (aim for > 50%) and then insert it into the bottom of your tool until you hear a click.
 
-All of our Ryobi cordless tools are low risk, and can be used without induction. However, if you've never used a specific tool before, or are unsure about anything, we recommend you ask staff for a quick run through on how to use it.
+All of our Ryobi cordless tools are medium to low risk, and can be used without induction. However, if you've never used a specific tool before, or are unsure about anything, please ask staff for a quick run through on how to use it.
 
 When you are finished, please return the battery back to the Ryobi charging station. Please put the battery back on charge so it's full when the next person needs it.
 
