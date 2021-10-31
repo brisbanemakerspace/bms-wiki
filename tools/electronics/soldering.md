@@ -2,7 +2,7 @@
 title: Soldering and Hot Air
 description: Learn about our soldering and hot air stations.
 published: true
-date: 2021-09-11T13:04:27.803Z
+date: 2021-10-31T17:48:25.964Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:42.974Z
@@ -27,7 +27,7 @@ The hot air stations also have different sized tips/nozzles and are great for us
 # Induction Process
 This induction has one part:
 
-1. Complete the online component by visiting this link: https://comingsoon.example.com
+1. Visit us during staffed hours to be inducted.
 
 ***OR***
 
