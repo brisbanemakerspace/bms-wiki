@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2021-09-26T06:53:30.777Z
+date: 2021-10-31T17:45:11.814Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -32,8 +32,7 @@ The laser cutter is also fitted with a professional air filtration system called
 # Induction Process
 This induction has two parts:
 
-1. Complete the online component by visiting this link: https://comingsoon.example.com
-2. Visit during our staffed hours to complete the practical competency demonstration.
+1. Visit us during staffed hours to be inducted.
 
 ***OR***
 
