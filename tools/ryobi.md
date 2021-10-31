@@ -2,7 +2,7 @@
 title: Ryobi Cordless Tools
 description: Learn more about our Ryobi cordless power tools.
 published: true
-date: 2021-09-12T10:55:00.249Z
+date: 2021-10-31T17:51:33.199Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:16.492Z
@@ -21,7 +21,7 @@ Our range of Ryobi cordless power tools are great for assisting in your projects
 # Induction Process
 This induction has one part:
 
-1. Complete the online component by visiting this link: https://comingsoon.example.com
+1. Visit us during staffed hours to be inducted.
 
 # How to use
 Grab a battery from the Ryobi charging station. Check that it has enough charge (aim for > 50%) and then insert it into the bottom of your tool until you hear a click.
