@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2021-11-14T12:49:44.329Z
+date: 2021-11-14T12:54:55.880Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -47,21 +47,21 @@ You should be familiar with how to operate this tool after completing an inducti
 ## Before Use
 1. Check that your material is on the approved materials list (we recommend up to 8mm thick acrylic, plywood or MDF only).
 2. Focus the machine by moving the laser head over your material and pressing the "focus" button in Lightburn. 
-3. Import your job into lightburn and place it on your material. Check the correct profile has been selected for your material.
-4. Start the job and watch until it is finished.
+3. Import your job into lightburn and place it on your material. Enter the correct settings for your material based on our sample cards.
+4. Start the job and watch the machine until it is finished.
 
 ## During Use
 1. Watch the machine **at all times** while it is running.
-2. Do not look away from the machine or leave the machine unattended. Doing so will result in immediate termination of your membership for breaching our [safety policy](/policies/safety).
-3. Immediately press the red "e-stop" button if you think there is a problem with the machine. It's always better to spoil a $20 piece of acrylic than an expensive machine. If a fire does not subside after stopping the machine, immediately grab a **CO2** fire extinguisher *then* open the machine.
+2. Do not look away from the machine for a moment, or leave the machine unattended. Doing so will result in immediate termination of your job and a warning for breaching our [safety policy](/policies/safety).
+3. Immediately press the red "e-stop" button if you think there is a problem with the machine. It's always better to spoil a $20 piece of acrylic than a multi-thousand dollar machine. If a fire does not subside after stopping the machine, immediately grab a **CO2** fire extinguisher *then* open the machine to put it out.
 
 ## After Use
 1. Clean every horizontal surface with the provided cleaning wipes.
-2. Dispose of all offcuts into the bin or offcut box and tidy up the area.
+2. Dispose of all offcuts into the bin and tidy up the area.
 3. Swipe off, and turn off the machine.
 
 # Offcuts and Scraps
-We have an offcuts box right next to the laser cutter. You are welcome to use any offcuts or scrap pieces of material from this bin for free. You are encouraged to leave any offcuts from your projects in this bin. However, you should break off any thin pieces and you should check that it's larger than the offcut size checker.
+We have an offcuts box right next to the laser cutter. You are welcome to use any offcuts or scrap pieces of material from this bin for free. You are also encouraged to leave any offcuts from your projects in this bin (ie give some/take some). However, you should break off any thin pieces and you should check that there is at least 10cmx10cm of usable material left.
 
 # Approved Materials
 Some materials are dangerous to cut or engrave and can damage the machine or even worse, release poisonous fumes. We operate a very strict list of approved materials. If you use a material not on this list (without prior approval from staff), we will likely terminate your membership for breaching our safety policy.
@@ -70,7 +70,7 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 
 ## List of Approved Materials
 * "Laser Safe" plywood such as [LaserPly from Plyco](https://plyco.com.au/collections/laserply)
-* Bunnings Plywood (BC Grade, not marine grade)
+* Bunnings Plywood (BC Grade)
 * Bunnings MDF
 * Acrylic
 	* Some materials are similar in appearance to acrylic but are quite different. Some can release poisonous fumes or result in poor cuts. Any acrylic that is not sourced from us must have a receipt or manufacturer affixed label showing that it is acrylic.
@@ -83,13 +83,7 @@ We try to keep the following materials / consumables in stock for members to pur
 * 3mm Acrylic - A Grade (White, Black) ($20)
 * 3mm Acrylic - C Grade, approx size, has scratches and marks (White, Black) ($3)
 * 3mm MDF ($3)
-* 6mm MDF ($6)
 * 3mm Plywood ($5)
-* 7mm Red Oak Plywood ($12)
-
-## 400 x 300mm sheets
-* 3mm Acrylic (White, Black) ($11)
-* 7mm Red Oak Plywood ($7)
 
 ## 86 x 54mm Metal Business Cards (Engrave Only)
 * Black ($4 per 10)
