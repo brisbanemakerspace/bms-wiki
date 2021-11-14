@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2021-10-31T17:45:11.814Z
+date: 2021-11-14T12:49:44.329Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -15,7 +15,7 @@ Our laser cutter is one of our most popular tools. It can be used to cut or engr
 *A picture of our laser cutter*
 
 # Recommended Uses
-You can cut out unique shapes from sheets of materials up to 8mm thick. Laser cutting is ideal for making mounting plates, custom enclosures and boxes, etc.
+You can cut out unique shapes from sheets of materials up to 8mm thick. Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
 
 You can also engrave text, images and other shapes directly onto your projects. This allows you to create truly unique works of art, add a personal touch to your project, or make something as simple as a name badge or plaque.
 
@@ -24,13 +24,16 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Induction Class:** Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** Up to 60w
-**Max Cut Depth:** 8mm depending on material
+**Max Cut Depth:** Up to 8mm depending on material
 
 ## Air Filtration
 The laser cutter is also fitted with a professional air filtration system called the "BeamAir". This ensures fumes and smells associated with laser cutting are minimised, and you don't need to put up with them during jobs. You can find out more about the BeamAir system here: https://flux3dp.com.au/pages/beam-air but it's fully automated and switches on/off automatically.
 
+## Software
+We use an industry standard software called [Lightburn](https://lightburnsoftware.com) to run our laser cutter. You can bring an SVG of your job and import it into Lightburn on our iMac. Alternatively, you can purchase a license if you'd like to experiment at home or on your own computer (recomended if you do a lot of lasering).
+
 # Induction Process
-This induction has two parts:
+This induction has two options:
 
 1. Visit us during staffed hours to be inducted.
 
@@ -42,8 +45,8 @@ Attend our introductory laser cutting workshop for a complete introduction. http
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
 
 ## Before Use
-1. Check that your material is on the approved materials list.
-2. Focus the machine by placing the focus block on your piece of material. 
+1. Check that your material is on the approved materials list (we recommend up to 8mm thick acrylic, plywood or MDF only).
+2. Focus the machine by moving the laser head over your material and pressing the "focus" button in Lightburn. 
 3. Import your job into lightburn and place it on your material. Check the correct profile has been selected for your material.
 4. Start the job and watch until it is finished.
 
