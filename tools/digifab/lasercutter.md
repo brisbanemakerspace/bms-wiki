@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2021-11-14T12:54:55.880Z
+date: 2021-11-14T13:12:16.625Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -77,7 +77,7 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 * Cardboard
 
 # Brisbane Makerspace Stocked Materials
-We try to keep the following materials / consumables in stock for members to purchase. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles.
+We try to keep the following materials / consumables in stock for members to purchase. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machines and have calibrated parameter cards to choose from.
 
 ## 600 x 400mm sheets
 * 3mm Acrylic - A Grade (White, Black) ($20)
