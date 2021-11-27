@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-10-05T13:54:15.796Z
+date: 2021-11-27T13:08:02.057Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -18,7 +18,7 @@ We have a list of policies available on our wiki at https://wiki.brisbanemaker.s
 Our [code of conduct](/policies/codeofconduct) is part of our policies page, but it deserves a special mention. We do not tolerate any sort of discrimination, anti-social behaviour, violence or "problem makers". If you breach our Code of Conduct, there's a very good chance that your membership will be immediately, and permanently, terminated. Please be respectful of everyone around you.
 
 ## Commercial Use
-Brisbane Makerspace is focused on providing an amazing workshop and learning environment for *individuals*. Commercial prototyping is acceptable, but using our facilities to manufacture goods is not. If you're using our facilities to generate a large part of your business or personal income, please reconsider if you're doing the right thing. Commercially focused manufacturing facilities are significantly more expensive (and more suitable) for a reason.
+Brisbane Makerspace is focused on providing an amazing workshop and learning environment for *individuals*. Commercial prototyping is acceptable, but using our facilities to manufacture a large amount of goods is not. If you're using our facilities to generate a large part of your business or personal income, please reconsider if you're doing the right thing. Commercially focused manufacturing facilities are significantly more expensive (and more suitable) for a reason. If you're unsure, just let us know and we're happy to clarify what is or is not reasonable.
 
 We encourage (and in fact love to see!) commissioned projects. Just make sure you're not using our facilities as a full time manufacturing workshop. If you're using our facilities significantly more than a typical individual member, you may be asked to pay more or reduce your usage.
 
