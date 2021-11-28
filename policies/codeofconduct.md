@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: Our Code of Conduct outlines our expectations for community behaviour.
 published: true
-date: 2021-09-07T14:08:07.608Z
+date: 2021-11-28T12:56:56.739Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:01.228Z
@@ -24,12 +24,12 @@ An important part of our Code of Conduct is respecting and using a person's corr
 More often than not, the world is unfortunately not an equal or equitable place. We're doing our part to improve this, so if you have any suggestions on making Brisbane Makerspace more accessible or inclusive, please let our staff know.
 
 ## Abuse and Violence
-Abuse and violence of any kind are strictly prohibited. This includes verbal/physical assault, harassment, or intimidation. We have a zero tolerance policy for abuse and violence. Your membership will be immediately and permanently terminated if you are found to have demonstrated abusive or violent behaviour.
+Abuse and violence of any kind are strictly prohibited. This includes verbal/physical assault, harassment, or intimidation. We have a zero tolerance policy for abuse and violence. Your will be immediately and permanently banned if you are found to have demonstrated abusive or violent behaviour.
 
 ## Honesty
 Honesty is an important aspect of any community. Brisbane Makerspace will always be honest and upfront with our members and community, and we expect the same in return. We know that sometimes not everything goes to plan, and accidents do happen. However, it's always better to be upfront about something, even if it means admitting you did something wrong.
 
-Being honest is always the right thing to do, and any sort of dishonesty (including manipulation, lying by omission, etc.) goes against this code of conduct. If you leave a mess, break a tool, or do something wrong, please let us know before we find out and you'll always be better off.
+Being honest is always the right thing to do, and any sort of dishonesty (including manipulation, lying by omission, etc.) goes against this code of conduct. If you leave a mess, break a tool, or do something wrong, please let us know before we find out.
 
 ## Nuisance Behaviour
 Any other behaviour or action not described in this Code of Conduct, but would be considered by a reasonable person to cause a nuisance (such as being too loud, leaving a mess, etc.) is prohibited.
