@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-12-02T00:07:10.913Z
+date: 2021-12-02T00:08:32.336Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -15,7 +15,7 @@ We try to foster a fun and collaborative environment at Brisbane Makerspace. To 
 We have a list of policies available on our wiki at https://wiki.brisbanemaker.space/policies. As a member or guest using our facilities, you are required to follow **all** of our policies at **all times**. Our policies (including our community rules) may change at any time. Significant changes will be anounced to members.
 
 ## Code of Conduct
-Our [code of conduct](/policies/codeofconduct) is part of our policies page, but it deserves a special mention. We do not tolerate any sort of discrimination, anti-social behaviour, violence or "problem makers". If you breach our Code of Conduct, there's a very good chance that your membership will be immediately, and permanently, terminated. Please be respectful of everyone around you.
+Our [code of conduct](/policies/codeofconduct) is part of our policies page, but it deserves a special mention. We do not tolerate any sort of discrimination, anti-social behaviour, violence or "problem makers". If you breach our Code of Conduct, there's a very good chance that your membership will be terminated; and in extreme cases you may be issued a permanent ban. Please be respectful of everyone around you, including our visitors.
 
 ## Fair Use and Commercial Use
 Brisbane Makerspace is focused on providing an amazing workshop and learning environment for *individuals*. Commercial prototyping and occasional commercial use is perfectly acceptable, as long as it doesn't impact other members.
