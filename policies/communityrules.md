@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-11-27T13:08:02.057Z
+date: 2021-12-02T00:07:10.913Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -17,10 +17,12 @@ We have a list of policies available on our wiki at https://wiki.brisbanemaker.s
 ## Code of Conduct
 Our [code of conduct](/policies/codeofconduct) is part of our policies page, but it deserves a special mention. We do not tolerate any sort of discrimination, anti-social behaviour, violence or "problem makers". If you breach our Code of Conduct, there's a very good chance that your membership will be immediately, and permanently, terminated. Please be respectful of everyone around you.
 
-## Commercial Use
-Brisbane Makerspace is focused on providing an amazing workshop and learning environment for *individuals*. Commercial prototyping is acceptable, but using our facilities to manufacture a large amount of goods is not. If you're using our facilities to generate a large part of your business or personal income, please reconsider if you're doing the right thing. Commercially focused manufacturing facilities are significantly more expensive (and more suitable) for a reason. If you're unsure, just let us know and we're happy to clarify what is or is not reasonable.
+## Fair Use and Commercial Use
+Brisbane Makerspace is focused on providing an amazing workshop and learning environment for *individuals*. Commercial prototyping and occasional commercial use is perfectly acceptable, as long as it doesn't impact other members.
 
-We encourage (and in fact love to see!) commissioned projects. Just make sure you're not using our facilities as a full time manufacturing workshop. If you're using our facilities significantly more than a typical individual member, you may be asked to pay more or reduce your usage.
+Even for personal use, you must stay within reasonable limits and not unfairly impact other members with excessive use. For example, laser cutting (commercial or personal) projects a few times per week is fine. However, using the laser cutter for a few hours every day of the week on a regular basis is not.
+
+If our facilities are directly used to generate a large part of your business or personal income, please reconsider if you're doing the right thing. Commercial manufacturing facilities are significantly more expensive (and more suitable) for a reason. If you're unsure, just let us know and we're happy to clarify what is or is not reasonable use. If you're using our facilities significantly more than a typical individual member, you may be asked to pay more or reduce your usage.
 
 ## Membership Eligibility and Termination
 We strive to be an accepting and inclusive place for all members of society who are interested in making amazing projects. As such, generally membership is eligible to everyone. However, we reserve the right to refuse membership to any person for any reason if we think they may cause problems in our community.
