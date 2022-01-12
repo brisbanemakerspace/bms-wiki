@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2021-12-02T00:08:32.336Z
+date: 2022-01-12T00:42:20.605Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -76,4 +76,4 @@ If you're a member wanting to bring a guest along, you must follow these rules:
 Brisbane Makerspace requires all members to follow current public health orders and best practices at all times. This includes wearing masks and signing in with the QLD check in app if required by current guidelines. We recommend that all members regularly wash and sanitise their hands, and stay socially distant to other members where possible. If you refuse to follow a current public health order (such as checking in or wearing a mask), you will be refused entry and asked to leave.
 
 ### Vaccinations
-From December 1st 2021, Brisbane Makerspace will require all members and guests to be at least partially vaccinated against COVID-19 with a recognised or approved vaccine. When you collect your membership card or come on site as a guest, you will be asked to provide proof of vaccination status or a medical exemption. If you cannot provide either, your memhership will be suspended until you can provide proof.
+Brisbane Makerspace requires every person who comes on site to be fully vaccinated against COVID-19 with a recognised or approved vaccine. When you collect your membership card or come on site as a guest (including as part of a workshop), you will be asked to provide proof of vaccination status or a recognised medical contraindication. If you cannot provide either, you will be asked to leave.
