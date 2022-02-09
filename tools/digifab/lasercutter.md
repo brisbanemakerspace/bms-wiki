@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2021-11-14T13:12:16.625Z
+date: 2022-02-09T11:05:01.999Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -15,7 +15,7 @@ Our laser cutter is one of our most popular tools. It can be used to cut or engr
 *A picture of our laser cutter*
 
 # Recommended Uses
-You can cut out unique shapes from sheets of materials up to 8mm thick. Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
+You can cut out unique shapes from sheets of materials up to 10mm thick. Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
 
 You can also engrave text, images and other shapes directly onto your projects. This allows you to create truly unique works of art, add a personal touch to your project, or make something as simple as a name badge or plaque.
 
@@ -23,8 +23,8 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Usage Cost:** $10/hr
 **Induction Class:** Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
-**Laser Power:** Up to 60w
-**Max Cut Depth:** Up to 8mm depending on material
+**Laser Power:** 100w (usable power; 130w peak Reci tube)
+**Max Cut Depth:** Up to 10mm depending on material
 
 ## Air Filtration
 The laser cutter is also fitted with a professional air filtration system called the "BeamAir". This ensures fumes and smells associated with laser cutting are minimised, and you don't need to put up with them during jobs. You can find out more about the BeamAir system here: https://flux3dp.com.au/pages/beam-air but it's fully automated and switches on/off automatically.
@@ -47,7 +47,7 @@ You should be familiar with how to operate this tool after completing an inducti
 ## Before Use
 1. Check that your material is on the approved materials list (we recommend up to 8mm thick acrylic, plywood or MDF only).
 2. Focus the machine by moving the laser head over your material and pressing the "focus" button in Lightburn. 
-3. Import your job into lightburn and place it on your material. Enter the correct settings for your material based on our sample cards.
+3. Import your job into lightburn and place it on your material. Use our pre calibrated profiles to start with and adjust settings as needed.
 4. Start the job and watch the machine until it is finished.
 
 ## During Use
@@ -56,9 +56,9 @@ You should be familiar with how to operate this tool after completing an inducti
 3. Immediately press the red "e-stop" button if you think there is a problem with the machine. It's always better to spoil a $20 piece of acrylic than a multi-thousand dollar machine. If a fire does not subside after stopping the machine, immediately grab a **CO2** fire extinguisher *then* open the machine to put it out.
 
 ## After Use
-1. Clean every horizontal surface with the provided cleaning wipes.
+1. Wipe down the horizontal surfaces with the provided cleaning wipes.
 2. Dispose of all offcuts into the bin and tidy up the area.
-3. Swipe off, and turn off the machine.
+3. Turn off the machine.
 
 # Offcuts and Scraps
 We have an offcuts box right next to the laser cutter. You are welcome to use any offcuts or scrap pieces of material from this bin for free. You are also encouraged to leave any offcuts from your projects in this bin (ie give some/take some). However, you should break off any thin pieces and you should check that there is at least 10cmx10cm of usable material left.
@@ -75,6 +75,7 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 * Acrylic
 	* Some materials are similar in appearance to acrylic but are quite different. Some can release poisonous fumes or result in poor cuts. Any acrylic that is not sourced from us must have a receipt or manufacturer affixed label showing that it is acrylic.
 * Cardboard
+* Veg Tan Leather
 
 # Brisbane Makerspace Stocked Materials
 We try to keep the following materials / consumables in stock for members to purchase. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machines and have calibrated parameter cards to choose from.
@@ -83,7 +84,5 @@ We try to keep the following materials / consumables in stock for members to pur
 * 3mm Acrylic - A Grade (White, Black) ($20)
 * 3mm Acrylic - C Grade, approx size, has scratches and marks (White, Black) ($3)
 * 3mm MDF ($3)
-* 3mm Plywood ($5)
-
-## 86 x 54mm Metal Business Cards (Engrave Only)
-* Black ($4 per 10)
+* 3mm Radiata Plywood ($7)
+* 3mm Poplar Plywood ($14)
