@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-03-03T05:53:37.218Z
+date: 2022-03-03T06:14:35.957Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -45,10 +45,6 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![solder_station.png](/electronics/solder_station.png =x60)
 	](/tools/electronics/soldering)
 
-- [Fume Extractor / Filter
-		![fume-extractor.png](/electronics/fume-extractor.png =x60)
-	](/tools/electronics/fume-extractor)
-
 - [Lab Power Supply
 			![lab_power_supply.png](/electronics/lab_power_supply.png =x60)
   ](/tools/electronics/lab-supply)
@@ -57,9 +53,18 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =x60)
 	](/tools/electronics/oscilloscope)
   
+- [kWeld Battery Spot Welder
+		![kweld.png](/electronics/kweld.png =x60)
+	](/tools/electronics/kweld)
+  
+  
 - [Digital Multimeters
 		![multimeters.png](/electronics/multimeters.png =x60)
 	](/tools/electronics/multimeters)
+
+- [Fume Extractor / Filter
+		![fume-extractor.png](/electronics/fume-extractor.png =x60)
+	](/tools/electronics/fume-extractor)
 
 - [Consumables
 		![wire.png](/electronics/wire.png =x60)
