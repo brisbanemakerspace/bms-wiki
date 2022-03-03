@@ -2,7 +2,7 @@
 title: kWeld Battery Spot Welder
 description: Learn about our kWeld "next level" battery spot welder.
 published: true
-date: 2022-03-03T06:12:57.639Z
+date: 2022-03-03T06:18:16.813Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:59:01.759Z
@@ -11,7 +11,7 @@ dateCreated: 2022-03-03T05:59:01.759Z
 # Introduction
 The kWeld battery spot welder is an amazing tool for constructing and/or fixing battery packs, particularly with 18650 lithium ion battery cells.
 
-![kweld.png](/electronics/kweld.png =x300)
+![kweld.png](/electronics/kweld_battery_spot_welder.png =x250)
 *A picture of a kWeld battery welding system*
 
 # Recommended Uses
