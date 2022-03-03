@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-03-03T05:37:55.016Z
+date: 2022-03-03T05:53:37.218Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -38,9 +38,8 @@ All tools are available on a first come, first serve basis. Most of the time the
 
 ## Electronics
 - [Induction Soldering Iron
-		![solder_station.png](/electronics/ts1584.jpg =x60)
+		![solder_station.png](/electronics/induction.png =x70)
 	](/tools/electronics/induction-soldering-iron)
-
 
 - [Soldering Iron / Hot Air
 		![solder_station.png](/electronics/solder_station.png =x60)
