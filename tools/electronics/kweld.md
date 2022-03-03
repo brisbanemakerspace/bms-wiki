@@ -2,7 +2,7 @@
 title: kWeld Battery Spot Welder
 description: Learn about our kWeld "next level" battery spot welder.
 published: true
-date: 2022-03-03T05:59:01.759Z
+date: 2022-03-03T06:12:57.639Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:59:01.759Z
@@ -11,7 +11,7 @@ dateCreated: 2022-03-03T05:59:01.759Z
 # Introduction
 The kWeld battery spot welder is an amazing tool for constructing and/or fixing battery packs, particularly with 18650 lithium ion battery cells.
 
-![solder_station.png](/electronics/solder_station.png =x300)
+![kweld.png](/electronics/kweld.png =x300)
 *A picture of a kWeld battery welding system*
 
 # Recommended Uses
@@ -19,6 +19,9 @@ This is specifically designed for spot welding metal tabs onto battery cells. An
 
 # Specifications
 **Induction Class:** Yellow Tool (Induction Required)
+**Welding Input Voltage:**	4v - 30v
+**Maximum Switch Current:**	2,000A
+**Maximum Weld Energy:**	500 Joules
 
 # Induction Process
 This induction has two parts:
@@ -29,20 +32,23 @@ This induction has two parts:
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
 
-> Warning: soldering irons and hot air can become extremely hot and result in severe burns if touched.
+> Warning: the kWeld produces large magnetic fields and **must not be used around people with pacemakers or similar sensitive equipment**.
 {.is-warning}
 
 
 ## Before Use
-1. Allow the hot air or soldering iron to reach temperature.
-2. Clean the soldering iron tip in the steel wool once heated up.
+1. Wipe down the electrode tips with dry paper towel.
+2. Configure the kWeld energy as per the following (seek advice with staff for other materials):
+	1. 0.1mm pure nickel strip	20J
+	2. 0.2mm pure nickel strip	50J
+	3. 0.3mm pure nickel strip	100J
 
 ## During Use
-1. Never leave the soldering iron or hot air sitting on the bench. Always return them to their holders when not in your hands.
-2. Pay careful attention not to touch the soldering iron tip or direct the hot air onto your skin or other things like wire insulation, etc.
-3. For soldering, hold both things together (or use a soldering third hand) and heat them with the iron. Slowly push soldering wire into the joint and allow it to become covered in solder. Keep the soldered joint still until it has cooled down.
-4. For hot air, carefully direct the hot air around the heat shrink or component, avoiding other components/wires nearby. 
+1. Continually check the battery, battery connectors, and electrodes for excessive heat.
+2. If any of the above components get too hot to touch, stop use for 5 minutes and check again before continuing.
+3. If you receive any errors or low battery warnings please stop use and contact a staff member for assistance. *Note: only authorised members are permitted to recharge the kWeld battery.*
 
 ## After Use
-1. Wipe down the soldering iron tip in the steel wool and return the tool(s) to their holder(s).
-2. Remove all bits of loose heat shrink, wires, insulation cutoffs, etc. from the work area.
+1. Wipe down the electrode tip with dry paper towel.
+2. Remove all bits of loose heat shrink, wires, metal strip cutoffs, etc. from the work area.
+3. Unplug the battery connector and pack the kWeld away into it's box.
