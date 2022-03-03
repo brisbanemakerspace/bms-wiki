@@ -2,7 +2,7 @@
 title: Induction Soldering Iron
 description: Learn about our induction soldering iron.
 published: true
-date: 2022-03-03T05:36:25.662Z
+date: 2022-03-03T05:53:53.706Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:36:25.662Z
@@ -11,7 +11,7 @@ dateCreated: 2022-03-03T05:36:25.662Z
 # Introduction
 Our induction soldring iron is a pleasure to use. There is no need to mess about with temperature settings, and with a quick change tip it's super easy to swap between tiny wires and thick ones.
 
-![ts1584.jpg](/electronics/ts1584.jpg =x300)
+![ts1584.jpg](/electronics/induction.png =x300)
 *A picture of the induction soldering iron*
 
 # Recommended Uses
