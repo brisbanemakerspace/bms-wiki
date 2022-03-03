@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2021-09-21T06:09:57.056Z
+date: 2022-03-03T05:37:55.016Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -37,17 +37,10 @@ All tools are available on a first come, first serve basis. Most of the time the
 	](/tools/digifab/cricut)
 
 ## Electronics
-- [Consumables
-		![wire.png](/electronics/wire.png =x60)
-	](/tools/electronics/consumables)
-  
-- [Digital Multimeters
-		![multimeters.png](/electronics/multimeters.png =x60)
-	](/tools/electronics/multimeters)
+- [Induction Soldering Iron
+		![solder_station.png](/electronics/ts1584.jpg =x60)
+	](/tools/electronics/induction-soldering-iron)
 
-- [Lab Power Supply
-			![lab_power_supply.png](/electronics/lab_power_supply.png =x60)
-  ](/tools/electronics/lab-supply)
 
 - [Soldering Iron / Hot Air
 		![solder_station.png](/electronics/solder_station.png =x60)
@@ -57,9 +50,22 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![fume-extractor.png](/electronics/fume-extractor.png =x60)
 	](/tools/electronics/fume-extractor)
 
+- [Lab Power Supply
+			![lab_power_supply.png](/electronics/lab_power_supply.png =x60)
+  ](/tools/electronics/lab-supply)
+
 - [Oscilloscope
 		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =x60)
 	](/tools/electronics/oscilloscope)
+  
+- [Digital Multimeters
+		![multimeters.png](/electronics/multimeters.png =x60)
+	](/tools/electronics/multimeters)
+
+- [Consumables
+		![wire.png](/electronics/wire.png =x60)
+	](/tools/electronics/consumables)
+  
 
 ## Craft
 - [Craft Supplies / Consumables](https://wiki.brisbanemakerspace.co/en/craft-supply-boxes)
