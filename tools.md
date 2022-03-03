@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-03-03T06:14:35.957Z
+date: 2022-03-03T06:18:47.180Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -54,9 +54,8 @@ All tools are available on a first come, first serve basis. Most of the time the
 	](/tools/electronics/oscilloscope)
   
 - [kWeld Battery Spot Welder
-		![kweld.png](/electronics/kweld.png =x60)
+		![kweld.png](/electronics/kweld_battery_spot_welder.png =x60)
 	](/tools/electronics/kweld)
-  
   
 - [Digital Multimeters
 		![multimeters.png](/electronics/multimeters.png =x60)
