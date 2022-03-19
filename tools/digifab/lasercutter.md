@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-03-03T05:15:29.252Z
+date: 2022-03-19T01:13:07.144Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -84,7 +84,7 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 We try to keep the following materials / consumables in stock for members to purchase. However, please check with us first if you really need something as we sometimes run out of stock. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machine and have calibrated profiles to choose from.
 
 ## 600 x 400mm sheets
-* 3mm Acrylic - A Grade (White, Black) ($20)
+* 3mm or 6mm Acrylic - A Grade ($20 or $30) * **order in advanced**
 * 3mm Acrylic - C Grade, approx size, has scratches and marks (White, Black) ($3)
 * 3mm MDF ($3)
 * 3mm Radiata Plywood ($7)
