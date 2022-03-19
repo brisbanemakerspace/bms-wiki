@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-03-19T01:13:07.144Z
+date: 2022-03-19T01:15:43.512Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -90,3 +90,10 @@ We try to keep the following materials / consumables in stock for members to pur
 * 3mm Radiata Plywood ($7)
 * 3mm Poplar Plywood ($14)
 * 6mm Poplar Plywood ($20)
+
+# Tips / Suppliers
+The following is a list of tips/recommended suppliers for commonly used consumables:
+* Radiata Plywood & MDF - Bunnings
+* Poplar (and other laser safe) Plywood - [Plyco](https://plyco.com.au)
+* Acrylic (local supplier) - [Acrylics Online](https://acrylicsonline.com.au)
+* 
