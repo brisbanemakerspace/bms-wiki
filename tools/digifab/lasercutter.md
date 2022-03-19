@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-03-19T01:15:43.512Z
+date: 2022-03-19T01:16:46.955Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -93,7 +93,8 @@ We try to keep the following materials / consumables in stock for members to pur
 
 # Tips / Suppliers
 The following is a list of tips/recommended suppliers for commonly used consumables:
-* Radiata Plywood & MDF - Bunnings
+* Radiata Plywood, MDF & Sand Paper - Bunnings
 * Poplar (and other laser safe) Plywood - [Plyco](https://plyco.com.au)
 * Acrylic (local supplier) - [Acrylics Online](https://acrylicsonline.com.au)
-* 
+* Acrylic (online supplier) - [Koenig]()
+* Extra Wide Masking Tape - [Graphpic Art Mart](https://www.gamart.com.au/Products/Item/tapear)
