@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-03-19T01:17:28.837Z
+date: 2022-03-19T01:17:46.197Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -86,7 +86,7 @@ We try to keep the following materials / consumables in stock for members to pur
 ## 600 x 400mm sheets
 * 3mm or 6mm Acrylic - A Grade ($20 or $30) * **order in advanced**
 * 3mm Acrylic - C Grade, approx size, has scratches and marks (White, Black) ($3)
-* 3mm MDF ($3)
+* 3mm MDF ($3) * **not recommended to use normally**
 * 3mm Radiata Plywood ($7)
 * 3mm Poplar Plywood ($14)
 * 6mm Poplar Plywood ($20)
