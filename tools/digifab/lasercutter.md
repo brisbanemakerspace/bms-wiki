@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-03-19T01:17:46.197Z
+date: 2022-03-19T01:18:07.217Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -73,8 +73,8 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 
 ## List of Approved Materials
 * "Laser Safe" plywood such as [LaserPly from Plyco](https://plyco.com.au/collections/laserply)
-* Bunnings Plywood (BC Grade)
-* Bunnings MDF
+* Bunnings Plywood (BC Grade) * **not recommended to use normally**
+* Bunnings MDF * **not recommended to use normally**
 * Acrylic
 	* Some materials are similar in appearance to acrylic but are quite different. Some can release poisonous fumes or result in poor cuts. Any acrylic that is not sourced from us must have a receipt or manufacturer affixed label showing that it is acrylic.
 * Cardboard
