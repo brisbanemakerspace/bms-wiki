@@ -2,7 +2,7 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2021-10-31T18:01:06.007Z
+date: 2022-03-30T04:12:31.150Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
@@ -18,7 +18,7 @@ Our Elegoo Mars 2 Pro 3D Printer allows you to print with incredible resolution 
 Resin printers have a fairly small build area when compared to traditional FDM printers. This means they are best suited for small parts, where detail and quality is the most important thing. Our resin printer is suitable for printing prototype parts, miniature figurines, etc.
 
 # Specifications
-**Usage Cost:** $4/hr (50% discount for BYO filament, see staff)
+**Usage Cost:** $3/hr
 **Induction Class:** Red Tool (Supervised Use Required)
 **Print Area:** 129mm(L) x 80mm(W) x 160mm(H)
 **Print Speed:** 30mm to 50mm per hour
