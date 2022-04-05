@@ -2,14 +2,14 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-04-04T15:17:56.849Z
+date: 2022-04-05T00:28:56.482Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
 ---
 
 # Introduction
-Our laser cutter is one of our most popular tools. It can be used to cut or engrave lots of common materials including timber, plastic, and paper, to name a few.
+Our laser cutter is one of our most popular tools. It can be used to cut or engrave lots of common materials including timber, plastic, and paper, to name a few. Unfortunately it cannot cut metal or glass (though it can engrave them in the right circumstance).
 
 ![laser.png](/digitalfabrication/laser.png =x300)
 *A picture of our laser cutter*
