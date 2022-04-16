@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-04-05T00:34:43.779Z
+date: 2022-04-16T02:42:36.178Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -32,8 +32,8 @@ The laser cutter is also fitted with a professional air filtration system called
 ## Camera Positioning System
 We have a super cool camera positioning system setup on the laser cutter. It allows you to put offcuts or irregular sized sheets inside and visually move your cut/engrave job around with a preview of where it's going to cut. It's accurate to within 2-3mm normally, but may deviate by up to 5mm towards the outer edges. Make sure to move the Z height of the machine down to the engrave/cut height for best accuracy.
 
-## Software
-We use an industry standard software called [Lightburn](https://lightburnsoftware.com) to run our laser cutter. You can bring an SVG of your job and import it into Lightburn on our iMac. Alternatively, you can purchase a license if you'd like to experiment at home or on your own computer (recomended if you do a lot of lasering).
+## Software / Cut Files
+We use an industry standard software called [Lightburn](https://lightburnsoftware.com) to run our laser cutter. This software supports the following files: .SVG, .DXF or . PDF. You can bring your files on a USB flash drive/SD card, or use AirDrop to copy it to our iMac. Alternatively, you can purchase a license of Lightburn if you'd like to experiment at home or on your own computer (recomended if you do a lot of lasering).
 
 # Induction Process
 This induction has two options:
