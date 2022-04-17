@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2022-01-12T00:42:53.699Z
+date: 2022-04-17T06:27:55.428Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -33,6 +33,13 @@ Sometimes, after becoming a member, someone causes unnecessary stress to our sta
 To maintain membership, you are required to pay your membership fees by the due date of your billing period. Failure to do so may result in suspension of your access to our facilities until payment is made. If you fall too far into arrears, we may terminate your membership entirely. If you have any problems paying for your membership please let us know, we're here to help!
 
 In addition, we offer discounted rates to try and enable more equitable access to our community. To be eligible for our discounted rates, you must prove that you're a current full time student or concession card holder. If you cease meeting these requirements, please notify us as soon as possible so we can update your membership rates. If you don't notify us, and we later find out, we reserve the right to collect the difference of any unpaid fees.
+
+## Refund/Cancellation Policy
+This refund policy does not override or exclude your rights under Australian Consumer Law (ACL). If goods and services you purchase from BMS are faulty or not fit for purpose, you may be entitled to a refund under ACL.
+
+In the event that you wish to cancel your membership, you can do so from our member portal [here](https://portal.brisbanemaker.space). We do not have any mandatory notice periods for cancellation. Your membership will be automatically terminated at the end of your current billing cycle after you request cancellation. We do not give refunds for unused membership part way through a billing cycle.
+
+All materials and tool usage charges are not refundable outside of exceptional circumstances or where required under ACL.
 
 ## Consumables
 As a member, you are allowed to use any consumable we have on site (for example, glue, popsicle sticks, pens, etc.). All consumables, unless otherwise noted, are free to use. However, a fair use policy applies.
