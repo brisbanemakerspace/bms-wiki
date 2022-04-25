@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2022-04-25T07:37:50.018Z
+date: 2022-04-25T07:38:15.131Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -59,7 +59,7 @@ You should be familiar with how to operate this tool after completing an inducti
 3. Clean up all bits of loose filament / plastic from around the print area, and gently use side cutters to remove excess plastic from the print bed.
 
 # Brisbane Makerspace Stocked Materials
-We try to keep the following filaments in stock for members to use. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
+We try to keep the following filaments in stock for members to use but check with staff ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
 
 ## 1.75mm eSUN ABS+ Filament
 * Black
