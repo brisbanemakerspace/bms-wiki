@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-03-03T06:18:47.180Z
+date: 2022-04-25T08:22:56.169Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -24,13 +24,13 @@ All tools are available on a first come, first serve basis. Most of the time the
   	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
   ](/tools/digifab/elegoomars2pro)
 
-- [Adventurer 3D Printer
+- [Adventurer 3 3D Printer (Printer 1)
 		![adventurer_3.png](/digitalfabrication/adventurer_3.png =x60)
   ](/tools/digifab/adventurer3)
 
-- [CR-10 v2 3D Printer
-		![cr_10_v2.png](/digitalfabrication/cr_10_v2.png =80x)
-  ](/tools/digifab/cr10v2)
+- [Adventurer 4 3D Printer (Printer 2)
+		![adventurer_3.png](/digitalfabrication/adventurer_4.png =x60)
+  ](/tools/digifab/adventurer4)
 
 - [Cricut
 		![cricut.png](/digitalfabrication/cricut.png =x60)
