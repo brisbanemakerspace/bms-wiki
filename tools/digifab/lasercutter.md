@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-04-16T02:42:36.178Z
+date: 2022-04-27T22:47:06.448Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -24,7 +24,9 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Induction Class:** Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** 100w usable power from a 130w peak Reci tube
-**Max Cut Depth:** Up to 10mm depending on material
+**Focal Lengths:** 50.8mm / 76.2mm (coming soon!)
+**Max Cut Depth:** Up to 8mm / 12mm (depending on material)
+**Notable Features:** Camera assisted positioning, Automatic focus
 
 ## Air Filtration
 The laser cutter is also fitted with a professional air filtration system called the "BeamAir". This ensures fumes and smells associated with laser cutting are minimised, and you don't need to put up with them during jobs. You can find out more about the BeamAir system here: https://flux3dp.com.au/pages/beam-air but it's fully automated and switches on/off automatically.
