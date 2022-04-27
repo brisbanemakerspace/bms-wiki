@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-04-27T22:47:06.448Z
+date: 2022-04-27T22:49:34.737Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -15,7 +15,7 @@ Our laser cutter is one of our most popular tools. It can be used to cut or engr
 *A picture of our laser cutter*
 
 # Recommended Uses
-You can cut out unique shapes from sheets of materials up to 10mm thick. Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
+You can cut out unique shapes from sheets of materials up to 8-10mm thick (material dependent). Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
 
 You can also engrave text, images and other shapes directly onto your projects. This allows you to create truly unique works of art, add a personal touch to your project, or make something as simple as a name badge or plaque.
 
@@ -27,9 +27,6 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Focal Lengths:** 50.8mm / 76.2mm (coming soon!)
 **Max Cut Depth:** Up to 8mm / 12mm (depending on material)
 **Notable Features:** Camera assisted positioning, Automatic focus
-
-## Air Filtration
-The laser cutter is also fitted with a professional air filtration system called the "BeamAir". This ensures fumes and smells associated with laser cutting are minimised, and you don't need to put up with them during jobs. You can find out more about the BeamAir system here: https://flux3dp.com.au/pages/beam-air but it's fully automated and switches on/off automatically.
 
 ## Camera Positioning System
 We have a super cool camera positioning system setup on the laser cutter. It allows you to put offcuts or irregular sized sheets inside and visually move your cut/engrave job around with a preview of where it's going to cut. It's accurate to within 2-3mm normally, but may deviate by up to 5mm towards the outer edges. Make sure to move the Z height of the machine down to the engrave/cut height for best accuracy.
