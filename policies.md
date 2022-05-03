@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2022-05-03T11:17:26.366Z
+date: 2022-05-03T11:43:59.618Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -25,4 +25,4 @@ Our constitution is a special document that governs how BMS Inc. runs. It contai
 
 Once it has been approved by the office of fair trading, you'll find it here.
 
-[Our Constitution]()
+[Our Constitution](/policies/constitution)
