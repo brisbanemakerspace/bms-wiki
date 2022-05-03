@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2022-05-03T11:10:12.547Z
+date: 2022-05-03T11:13:19.973Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -18,6 +18,7 @@ Our policies (including our community guidelines) may change at any time by a vo
 - [Code of Conduct](/policies/codeofconduct)
 - [Safety](/policies/safety)
 - [Tool Inductions](/policies/inductions)
+- [Policy Changes](/policies/policy-changes)
 
 # Constitution
 Our constitution is a special document that governs how BMS Inc. runs. It contains the rules and procedures for how the organisation is legally required to function.
