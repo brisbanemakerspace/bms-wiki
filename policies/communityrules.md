@@ -14,7 +14,7 @@ If a rule or policy isn't big enough to get it's own page on our [list of polici
 ## Fair Use and Commercial Use
 Brisbane Makerspace is focused on providing an amazing workshop and learning environment for *individuals*. Commercial prototyping and occasional commercial use is perfectly acceptable, as long as it doesn't impact other members.
 
-Even for personal use, you must stay within reasonable limits and not unfairly impact other members with excessive use. For example, laser cutting (commercial or personal) projects a few times per week is fine. However, using the laser cutter for a few hours every day of the week on a regular basis is not.
+Even for personal use, you must stay within reasonable limits and not unfairly impact other members with excessive use. For example, laser cutting (commercial or personal) projects a few times per week is fine. However, using the laser cutter every day of the week on a regular basis is not.
 
 If our facilities are directly used to generate a large part of your business or personal income, please reconsider if you're doing the right thing. Commercial manufacturing facilities are significantly more expensive (and more suitable) for a reason. If you're unsure, just let us know and we're happy to clarify what is or is not reasonable use. If you're using our facilities significantly more than a typical individual member, you may be asked to pay more or reduce your usage.
 
