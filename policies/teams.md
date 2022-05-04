@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T01:41:13.972Z
+date: 2022-05-04T01:42:51.140Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -44,7 +44,7 @@ Most makerspaces around the world end up creating some sort of "group" or "sub-c
 
 [HSBNE Inc.](https://hsbne.org) is one of Australia's largest hackerspaces, and has gone through several iterations of what they now call "teams". A lot of this policy is based on what our community has learnt from them, and we recognise the valuable insight their experience has given us. Several BMS members went through both systems first hand, so ask around for even more context.
 
-Originally, HSBNE "causes" existed which were funded based on how many members they had. This caused a lot of internal conflict between the different causes/cliques which was detrimental to the long term stability of the space. It also meant that getting funding to grow or even just maintain the smaller "causes" became increasingly difficult. "Causes" could also vote on what they spent money on, and what policies they wanted to enforce in their areas (such as what tools need inductions, etc).
+Originally, HSBNE "causes" existed which were funded based on how many members they had. This caused a lot of internal conflict between the different causes/cliques which was detrimental to the long term stability of the space. It also meant that getting funding to grow or even just maintain the smaller "causes" became increasingly difficult. "Causes" could also vote on what they spent their "cause fund" on, and what policies they wanted to enforce in their areas (such as what tools need inductions, etc).
 
 Eventually, "causes" were replaced with "teams" in an attempt to fix some of these issues. Whilst "teams" were a step in the right direction, that structure bought new problems with it. The entire model changed so that teams were more general and could cover things like infrastructure as well as physical workspaces. However, the additional red tape, reporting and bureaucracy, and "volunteer contract" requirements made it hard to find people who were willing to join a team. Several people who use to run a "cause" either never created a "team" or resigned not long after forming one. This is because the additional overheads and red tape removed all the "fun" from volunteering and required that they make unreasonable commitments.
 
