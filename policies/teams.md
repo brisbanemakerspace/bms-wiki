@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T01:30:35.711Z
+date: 2022-05-04T01:37:18.836Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -43,8 +43,10 @@ Create an operations page on our wiki [here](/teams/), then bring it to a vote a
 # Historical footnotes
 Most makerspaces around the world end up creating some sort of "group" or "sub-committee" structure to help them manage their space and volunteer resources. Due to the chaotic nature of community-run makerspaces, it's critical to have some sort of structure. However, because everyone is a volunteer, it's important not to impose unreasonable requirements and red tape which take the fun out of volunteering.
 
-HSBNE Inc. has gone through several iterations of what they now call "teams". Originally, "causes" existed which were funded based on how many members they had. This caused a lot of internal conflict between the different cliques which was detrimental to the long term stability of the space. It also meant that getting funding to grow or even just maintain the smaller "causes" became increasingly difficult. "Causes" could also vote on what they spent money on, and what policies they wanted to enforce in their areas (such as what tools need inductions, etc).
+[HSBNE Inc.](https://hsbne.org) is one of Australia's largest hackerspaces, and has gone through several iterations of what they now call "teams". A lot of this policy is based on what our community has learnt from this community group.
+
+Originally, HSBNE "causes" existed which were funded based on how many members they had. This caused a lot of internal conflict between the different causes/cliques which was detrimental to the long term stability of the space. It also meant that getting funding to grow or even just maintain the smaller "causes" became increasingly difficult. "Causes" could also vote on what they spent money on, and what policies they wanted to enforce in their areas (such as what tools need inductions, etc).
 
 Eventually, "causes" were replaced with "teams" in an attempt to fix some of these issues. Whilst "teams" were a step in the right direction, that structure bought new problems with it. The entire model changed so that teams were more general and could cover things like infrastructure as well as physical workspaces. However, the additional red tape, reporting and bureaucracy, and "volunteer contract" requirements made it hard to find people who were willing to join a team. Several people who use to run a "cause" either never created a "team" or resigned not long after forming one. This is because the additional overheads and red tape removed all the "fun" from volunteering and required that they make unreasonable commitments.
 
-The system of "teams" in use at BMS Inc. aims to strike a balance between creating division through the inequitable funding and popularity contests created by "causes" and the onerous requirements imposed by their "teams" structure. We hope that by taking a middle ground we can provide enough structure to get things done efficiently while respecting the time and effort of our volunteers.
+The system of "teams" in use at BMS Inc. aims to strike a balance between the division created through the inequitable funding and popularity contest of HSBNE "causes", and the onerous requirements imposed by their latest "teams" structure. We hope that by taking a middle ground we can provide enough structure to get things done efficiently while respecting the time and effort of our volunteers.
