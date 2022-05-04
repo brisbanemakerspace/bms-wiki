@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T01:37:18.836Z
+date: 2022-05-04T01:38:47.887Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -43,7 +43,7 @@ Create an operations page on our wiki [here](/teams/), then bring it to a vote a
 # Historical footnotes
 Most makerspaces around the world end up creating some sort of "group" or "sub-committee" structure to help them manage their space and volunteer resources. Due to the chaotic nature of community-run makerspaces, it's critical to have some sort of structure. However, because everyone is a volunteer, it's important not to impose unreasonable requirements and red tape which take the fun out of volunteering.
 
-[HSBNE Inc.](https://hsbne.org) is one of Australia's largest hackerspaces, and has gone through several iterations of what they now call "teams". A lot of this policy is based on what our community has learnt from this community group.
+[HSBNE Inc.](https://hsbne.org) is one of Australia's largest hackerspaces, and has gone through several iterations of what they now call "teams". A lot of this policy is based on what our community has learnt from them, and we recognise the valuable insight their experience has given us. Several BMS members went through both systems first hand, so ask around for even more context.
 
 Originally, HSBNE "causes" existed which were funded based on how many members they had. This caused a lot of internal conflict between the different causes/cliques which was detrimental to the long term stability of the space. It also meant that getting funding to grow or even just maintain the smaller "causes" became increasingly difficult. "Causes" could also vote on what they spent money on, and what policies they wanted to enforce in their areas (such as what tools need inductions, etc).
 
