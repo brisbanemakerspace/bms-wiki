@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-04-25T08:22:56.169Z
+date: 2022-05-04T15:54:40.840Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -115,7 +115,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![hammer.png](/other/hand-tools/hammer.png =x60)
   ](/tools/other/hand-tools)
   
-- [Ryobi Air Compressor
+- [Air Compressor
 		![ryobi-compressor.png](/ryobi/ryobi-compressor.png =x60)
   ](/tools/other/compressor)
   
