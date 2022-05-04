@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T01:40:37.761Z
+date: 2022-05-04T01:41:13.972Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -34,8 +34,7 @@ Any changes to a team budget must be approved by a vote at a general meeting bef
 
 All purchases made under a team budget must:
 * be approved by the team leader in writing (discord or email is fine)
-* have an itemised tax invoice or receipt
-* have a tax invoice or receipt that is sent to the treasurer for record keeping purposes
+* have an itemised tax invoice or receipt that is sent to the treasurer for record keeping purposes
 
 ## How to start a team
 Create an operations page on our wiki [here](/teams/), then bring it to a vote at a general meeting. If it's approved, you now have a new team! Once it's been approved, don't forget to add it to the list of current teams.
