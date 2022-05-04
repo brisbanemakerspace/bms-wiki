@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T01:39:31.782Z
+date: 2022-05-04T01:40:12.296Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -24,7 +24,7 @@ The minimum requirements to run a team is as follows:
   
 To change any part of their team operations page requires a vote at a general meeting, or a majority vote by all current team members.
 
-A team leader does not have any special privileges other than approving purchases under a budget. However, it is expected that a team leader is the most involved member of the team and help sets the direction and pace of the team.
+A team leader does not have any special privileges other than approving purchases under a budget. However, it is expected that a team leader is the most involved member of the team and helps to set the direction and pace of the team.
 
 ## Joining / leaving an existing team
 To join an existing team, you just need to ask the team - it's up to them if they want to take a formal vote or not. The team cannot unreasonably deny your request to join. However, a team reserves the right to reject your request to join a team if they have a good reason (such as you've caused problems in the past).
