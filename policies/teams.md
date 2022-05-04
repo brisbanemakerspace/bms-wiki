@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T01:38:47.887Z
+date: 2022-05-04T01:39:31.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -18,7 +18,7 @@ The minimum requirements to run a team is as follows:
 * a team leader (as elected by the team from time to time)
 * an operations page on the wiki that contains:
 	* the goal of the team
-  * the physical area they want to look after (if relevant)
+  * the area they want to look after (physical, digital, or other)
   * what policies govern their team area
   * what budgets they have access to
   
