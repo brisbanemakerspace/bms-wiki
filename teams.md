@@ -2,7 +2,7 @@
 title: Teams
 description: This page contains a list of our teams and how they each run.
 published: true
-date: 2022-05-04T00:42:23.128Z
+date: 2022-05-04T01:41:40.157Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T00:41:27.371Z
