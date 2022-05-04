@@ -2,7 +2,7 @@
 title: Teams
 description: This page contains a list of our teams and how they each run.
 published: true
-date: 2022-05-04T00:41:27.371Z
+date: 2022-05-04T00:42:23.128Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T00:41:27.371Z
@@ -14,6 +14,8 @@ Teams are an important part of how BMS runs and is how we manage different areas
 This page documents all of the current and past team operations pages. These team operations pages are a simple document that explains why a team exists, what it's goals are, how it plans to achieve them, and how is part of that team.
 
 # Current Teams
+These teams are currently in operation! If you want to help a team achieve it's goals, jump into it's operations page to learn more about how it runs.
+
 * None currently!
 
 # Past Teams
