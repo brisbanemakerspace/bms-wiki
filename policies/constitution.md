@@ -2,7 +2,7 @@
 title: BMS Inc. Constitution
 description: The official BMS Inc. constitution.
 published: true
-date: 2022-05-04T15:24:03.792Z
+date: 2022-05-06T08:29:42.014Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T15:24:03.792Z
@@ -21,6 +21,10 @@ dateCreated: 2022-05-04T15:24:03.792Z
 	
 	* ***writing***, ***written***, or ***write-***
 		1. can be done in an electronic form (e.g. by email or forum post) as long as the content can be stored and later retrieved.
+    
+	
+	* ***policy***
+		1. context permitting, refers to a by-law passed by resolution at a general meeting.
 	
 	* ***official communications method***, or ***official communications medium-***
 		1. can be changed by a motion carried at a general meeting, but defaults to the official forum software hosted at https://forum.brisbanemaker.space.
@@ -49,8 +53,11 @@ The objects of the association are—
 
 
 ## 5. Classes of members
-1. The membership of the association consists of Ordinary Members; and
-2. The number of ordinary members is unlimited.
+1. The membership of the association consists of Ordinary Members; Associate Members, and Lifetime Members.
+2. The number of Associate Members and Ordinary Members is unlimited, and Lifetime Members are capped at 5% of the total number of Ordinary and Associate Members combined.
+3. The eligibility requirements and process to become a Lifetime Member may be defined by a policy, but defaults to requiring a resolution passed at a general meeting.
+4. A Lifetime Member has the same rights and entitlements as an Ordinary Member under these rules, but does not have to pay membership fees to retain their membership.
+5. An Associate Member does not have the right to vote at any meeting or access facilities. Facility access may be granted with certain conditions by a policy.
 
 ## 6. Automatic membership and by-laws
 1. A person who, on the day the association is incorporated, was a member of the unincorporated association and who, on or before a day fixed by the management committee, agrees in writing to become a member of the incorporated association, must be admitted by the management committee—
@@ -65,7 +72,7 @@ The objects of the association are—
 	2. submitted in the form decided by the management committee from time to time.
 
 ## 8. Membership fees
-1. The membership fee for each ordinary membership and for each other class of membership (if any)—
+1. The membership fee for each ordinary membership and for each other class of membership—
 	1. is the amount decided by the management committee from time to time; and
 	2. is payable when, and in the way, the management committee decides; and
 	3. may differ depending on the person's situation and intended participation in the association (e.g. concession discounts).
