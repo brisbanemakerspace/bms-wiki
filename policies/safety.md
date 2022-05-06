@@ -2,7 +2,7 @@
 title: Safety Policy
 description: Being safe is important, and this policy outlines our expectations around safety.
 published: true
-date: 2022-05-06T17:42:32.471Z
+date: 2022-05-06T17:48:18.152Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:09.917Z
@@ -18,6 +18,9 @@ If a safety incident occurs, no matter how small, it must be reported to the exe
 You must not do anything that poses an unacceptable risk to safety.
 
 If you see someone about to do something that poses an unacceptable risk to safety, you should politely but firmly advise them to stop and explain why. If this happens, please let us know so we can improve our documentation and procedures.
+
+## Drugs and Alcohol
+You must not be under the influence of any illegal drugs or substances while on site. You must not use any tools whilst under the influence of alcohol or a prescription medication that may cause a safety hazard.
 
 ## Tools
 The use of any tool poses certain risks. Some are low risk like a pair of scissors, and others are high risk such as our laser cutter. We try to reduce the chances of any safety incidents happening through extensive training, documentation, and procedures.
