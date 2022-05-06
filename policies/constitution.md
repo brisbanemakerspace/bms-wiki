@@ -2,7 +2,7 @@
 title: BMS Inc. Constitution
 description: The official BMS Inc. constitution.
 published: true
-date: 2022-05-06T08:29:42.014Z
+date: 2022-05-06T16:00:03.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T15:24:03.792Z
@@ -57,7 +57,7 @@ The objects of the association are—
 2. The number of Associate Members and Ordinary Members is unlimited, and Lifetime Members are capped at 5% of the total number of Ordinary and Associate Members combined.
 3. The eligibility requirements and process to become a Lifetime Member may be defined by a policy, but defaults to requiring a resolution passed at a general meeting.
 4. A Lifetime Member has the same rights and entitlements as an Ordinary Member under these rules, but does not have to pay membership fees to retain their membership.
-5. An Associate Member does not have the right to vote at any meeting or access facilities. Facility access may be granted with certain conditions by a policy.
+5. An Associate Member does not have the right to vote at any meeting or access facilities. However, facility access may be granted with certain conditions by a policy.
 
 ## 6. Automatic membership and by-laws
 1. A person who, on the day the association is incorporated, was a member of the unincorporated association and who, on or before a day fixed by the management committee, agrees in writing to become a member of the incorporated association, must be admitted by the management committee—
@@ -162,7 +162,7 @@ The secretary’s functions include, but are not limited to—
 4. maintaining the register of members of the association.
 
 ## 18. Membership of management committee
-1. The management committee of the association consists of a president, treasurer and secretary, and any other members of the association elected at a general meeting.
+1. The management committee of the association consists of a president, vice president, treasurer, secretary and diversity officer, and any other members of the association elected at a general meeting.
 2. A member of the management committee, other than a secretary appointed by the management committee under rule 15(1)(2)(3), must be a member of the association.
 3. At each annual general meeting of the association, the members of the management committee must retire from office, but are eligible, on nomination, for re-election.
 4. A member of the association may be appointed to a casual vacancy on the management committee under rule 21.
