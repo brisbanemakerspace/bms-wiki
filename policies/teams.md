@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-04T17:02:06.095Z
+date: 2022-05-06T15:53:05.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -24,7 +24,7 @@ The minimum requirements to run a team is as follows:
   * what policies govern their team area
   * what budgets they have access to
   
-To change any part of their team operations page requires a vote at a general meeting, or a majority vote by all current team members.
+To change any part of their team operations page requires a vote at a general meeting, or a majority vote by all current team members (except budget changes which must go through a general meeting).
 
 A team leader does not have any special privileges other than approving purchases under a budget. However, it is expected that a team leader is the most involved member of the team and helps to set the direction and pace of the team.
 
@@ -32,7 +32,7 @@ A team leader does not have any special privileges other than approving purchase
 To join an existing team, you just need to ask the team - it's up to them if they want to take a formal vote or not. The team cannot unreasonably deny your request to join. However, a team reserves the right to reject your request if they have a good reason (such as you've caused problems in the past).
 
 ## Team Budgets
-Any changes to a team budget must be approved by a vote at a general meeting before a team can spend it. 
+Any changes to a team budget must be approved by a vote at a general meeting before a team can spend it. A team budget can be a once off, ongoing, or other type of budget.
 
 All purchases made under a team budget must:
 * be approved by the team leader in writing (discord or email is fine)
@@ -48,6 +48,6 @@ Most makerspaces around the world end up creating some sort of "group" or "sub-c
 
 Originally, HSBNE "causes" existed which were funded based on how many members they had. This caused a lot of internal conflict between the different causes/cliques which was detrimental to the long term stability of the space. It also meant that getting funding to grow or even just maintain the smaller "causes" became increasingly difficult. "Causes" could also vote on what they spent their "cause fund" on, and what policies they wanted to enforce in their areas (such as what tools need inductions, etc).
 
-Eventually, "causes" were replaced with "teams" in an attempt to fix some of these issues. Whilst "teams" were a step in the right direction, that structure bought new problems with it. The entire model changed so that teams were more general and could cover things like infrastructure as well as physical workspaces. However, the additional red tape, reporting and bureaucracy, and "volunteer contract" requirements made it hard to find people who were willing to join a team. Several people who use to run a "cause" either never created a "team" or resigned not long after forming one. This is because the additional overheads and red tape removed all the "fun" from volunteering and required that they make unreasonable commitments.
+Eventually, "causes" were replaced with "teams" in an attempt to fix some of these issues. Whilst "teams" were a step in the right direction, that structure bought new problems with it. The entire model changed so that teams were more general and could cover things like infrastructure as well as physical workspaces. However, the additional red tape, reporting and bureaucracy, and "volunteer contract" requirements made it hard to find people who were willing to join a team. Several people who used to run a "cause" either never created a "team" or stepped down not long after forming one. This is because the additional overheads and red tape removed all the "fun" from volunteering and required that they make unreasonable commitments.
 
 The system of "teams" in use at BMS Inc. aims to strike a balance between the division created through the inequitable funding and popularity contest of HSBNE "causes", and the onerous requirements imposed by their latest "teams" structure. We hope that by taking a middle ground we can provide enough structure to get things done efficiently while respecting the time and effort of our volunteers.
