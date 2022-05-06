@@ -2,7 +2,7 @@
 title: Safety Policy
 description: Being safe is important, and this policy outlines our expectations around safety.
 published: true
-date: 2022-05-06T17:32:54.606Z
+date: 2022-05-06T17:42:32.471Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:09.917Z
@@ -35,6 +35,9 @@ We have a range of basic PPE such as safety glasses and gloves. You are encourag
 
 ## Tidy Workspaces
 All workspaces must be left clean and tidy both during, and after, you are using them. An untidy workspace is a common cause of safety incidents and should be avoided.
+
+## Electrical Work
+All electrical work that requires an electrical license must be completed by a licensed electrician. Most of the time, this means any project where voltages in excess of 120v DC or 50v RMS AC are present.
 
 ## Chemicals & Dangerous Substances
 Due to the nature of the tools and resources available at Brisbane Makerspace, we sometimes have to deal with chemicals and dangerous substances. We have requirements in place to ensure we maintain a safe workshop and that we have the necessary documentation in the event of an incident.
