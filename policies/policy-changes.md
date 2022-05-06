@@ -2,7 +2,7 @@
 title: Policy Changes
 description: This is our Policy Policy!
 published: true
-date: 2022-05-06T16:48:01.812Z
+date: 2022-05-06T16:50:45.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T16:48:01.812Z
@@ -29,4 +29,4 @@ The point of a policy is for people to follow it, so it's critical we make that 
 2. Minor change suggestions can come directly from members, but they are encouraged to consult with the policy team.
 
 ## Constitution Changes
-These are a little bit special. They must be approved at a *special general meeting*, and must be submitted to the Office of Fair Trading for approval before they can be adopted. Check [the constitution](/policies/constitution) for details on what a *special general meeting* is.
+These are a little bit special, but should follow the new policy process above. They must be approved at a *special general meeting*, and must be submitted to the Office of Fair Trading for approval before they can be adopted. Check [the constitution](/policies/constitution) for details on what a *special general meeting* is.
