@@ -2,7 +2,7 @@
 title: Bad Behaviour Policy
 description: How we deal with bad behaviour.
 published: true
-date: 2022-05-07T02:31:57.609Z
+date: 2022-05-07T02:32:35.244Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -63,7 +63,7 @@ These Infractions are more severe than Category 1, and first offences **should**
 
 * Not reporting a safety or maintenance issue that you caused or contributed to (e.g. you broke a tool and didn't report it). This includes making and leaving dangerous items like exposed extension cords, etc.
 * Causing a significant nuisance to BMS Inc. such as engaging in Unreasonable Complainant Conduct as defined by the Federal Ombudsman.
-* Using a tool contrary to it's official process or without meeting all of it's induction requirements (such as being inducted, or cleaning it before use).
+* Using a tool contrary to it's official process or without meeting all of it's induction requirements (such as using it without being inducted or up to date on training).
 * Intentionally using a tool in an unsafe manner, or a manner which is likely to damage it.
 * Leaving a tool running and leaving the immediate area (with the exception of tools allowed to be left unatended like some 3D printers).
 * Modifying a tool, including permorming maintenance, without the consent of the team managing it (except for things permitted as per it's wiki page).
