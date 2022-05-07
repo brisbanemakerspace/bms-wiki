@@ -2,7 +2,7 @@
 title: Asset Purchases
 description: How we go about buying shiny new (or used) stuff!
 published: true
-date: 2022-05-07T05:15:30.564Z
+date: 2022-05-07T05:18:21.555Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:51:49.314Z
@@ -22,16 +22,17 @@ Each asset requires an accountable team. This team is accountable for performing
 
 ## Process for purchasing a new asset
 **When deciding upon an asset (which will typically be a tool) to purchase, the most important factors are:**
-1. How easy it is for the average member to use (even if this ease of use is a compromise over a better or more capable machine).
+1. How easy it is for the average member to use (ease of use should be preferred over more capable machines).
 2. The value it brings to the organisation as a whole, not just a small number of members.
 3. Is it going to improve our capabilities in a meaningful way and get used, or is it just a "shiny new tool"?
+4. Is the value that the asset brings enough to justify the ongoing maintenance and costs?
 
 **The following requirements must be met before the purchase of a new asset can be voted on:**
 1. A fully costed installation/maintenance plan must be completed and presented with the purchase proposal. This must include all additional infrastructure and installation costs required to make the asset operational. It must also include the typical costs associated with consumables and maintenance over the life of the asset.
 2. The proposed asset must have an accountable team.
 3. *Every* asset the accountable team is responsible for must be fully operational (assets that are waiting on parts or a third party for repair are exempt), and must meet the documentation standards.
 
-**The following requirements must be met before the machine can be purchased / funds transferred (but may happen after the vote is approved):**
+**The following requirements must be met before the machine can be purchased / funds transferred (but this may happen after the vote is approved):**
 1. All documentation of the asset must be complete and published on the wiki. This documentation must meet the standards defined in the documentation section below.
 2. The induction checklist and process must be complete (as much as reasonably possible without the asset being present).
 
