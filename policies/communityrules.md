@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2022-05-07T02:57:07.206Z
+date: 2022-05-07T05:33:46.715Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -20,6 +20,27 @@ All materials and tool usage charges are not refundable outside of exceptional c
 
 ## Meeting Discussions
 The majority of agenda item related discussions should happen on the forum before a meeting. Discussion of agenda items should be capped to 10 minutes at most during a meeting. If more discussion is required, it should be tabled and voted on at the next meeting.
+
+## Moderation
+Sometimes certain discussions or posts may need to be removed or hidden, or other moderation actions taken in order to keep a discussion civil. Any member who is part of the Executive or Infraction committee, or that has been given explicit permission by either of those two committees to perform moderation actions, is permitted to do so. No other member (even if they have the technical means to) is permitted to perform moderation actions.
+
+All official communication platforms such as Discord, the Forum, the Wiki, Social Media accounts, etc. may be moderated.
+
+Moderation actions that are **permitted**:
+1. Activating a "slow mode" or limiting the frequency at which a member can post or add to a discussion.
+2. Temporarily mute or silence a member.
+3. Placing a member into post approval mode (with the approval of at least one other moderator).
+3. Hide or remove certain posts or comments (should only be done in extreme situations, with the approval of at least one other moderator).
+
+Moderation actions that are **not permitted**:
+1. Editing the content of a member's post or comments unless it is to comply with a legal requirement or to remove personal information that was accidentally posted.
+2. Removing a member from any platform (such as discord or the forum) that they are entitled to access without explicit consent from the Executive committee (which must vote on it) or by a resolution at a general meeting.
+3. Approving or denying posts in a moderation queue unless that action was voted on by the Executive committee.
+4. Preventing members from adding items to a meeting agenda.
+
+Moderators must log any action they take in the appropriate Discord channel, along with justification of why they took that action. Moderators must not take any moderation action where they are involved with or related to a discussion (other than to activate slow mode).
+
+An appeal against a moderation action may be initiated by asking the moderators to vote on it. A simple majority decision of all moderators shall decide the final outcome.
 
 ## Storage at Brisbane Makerspace
 Due to the limited space available on-site, there is no general storage of personal belongings or member projects permitted. However, we recognise that sometimes you may need to leave a project on-site while the paint is drying or glue is setting, etc. Each member is entitled to leave one project on the designated temporary storage shelf for up to 7 days at a time. If there is not enough room on the temporary storage shelf, you will have to make arrangements to transport your project home and you may not leave it on site.
