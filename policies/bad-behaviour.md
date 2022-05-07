@@ -2,7 +2,7 @@
 title: Bad Behaviour Policy
 description: How we deal with bad behaviour.
 published: true
-date: 2022-05-07T02:23:00.380Z
+date: 2022-05-07T02:24:18.437Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -12,7 +12,7 @@ dateCreated: 2022-05-06T17:25:16.409Z
 Everyone is human, and we try not to unreasonably penalise or reprimand people for genuine mistakes. However, patterns of mistakes, or more serious instances of bad behaviour need to be dealt with appropriately. Our Bad Behaviour policy is how we do that.
 
 # Infractions
-The way we identify bad behaviour is with an *Infraction*. An Infraction is our way of identifying that you breached one of our policies or expectations, and recording that breach for future reference. By default, there is no penalty attached to an Infraction. Members are encouraged to report all Infractions to the Infraction Committee, no matter how small.
+The way we identify bad behaviour is with an *Infraction*. An Infraction is our way of identifying that you breached one of our policies or expectations, and recording that breach for future reference. By default, there is no penalty attached to an Infraction. Members are encouraged to report all Infractions to the Infraction Committee, no matter how small. The Infraction Committee decides if an Infraction should be issued based on the evidence presented to them, or that they discover.
 
 # Penalties
 If an Infraction is serious enough to warrant some form of penalty, or a pattern of bad behaviour is identified, an Infraction may be accompanied with a penalty. Primarily, a penalty will be an Access Suspension, but may be another form of "making good" such as cleaning up a mess or paying for a tool that was damaged.
