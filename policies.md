@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2022-05-06T17:58:48.749Z
+date: 2022-05-07T05:18:47.854Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -20,8 +20,6 @@ Our policies may change at any time by a vote at a general meeting. Significant 
 - [Tool Inductions](/policies/inductions)
 - [Fair Use](/policies/fair-use)
 - [Fee Schedule](/policies/fees)
-
-# Draft Policies
 - [Teams](/policies/teams)
 - [Policy Changes](/policies/policy-changes)
 - [Asset Purchases](/policies/asset-purchases)
