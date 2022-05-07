@@ -2,7 +2,7 @@
 title: Asset Purchases
 description: How we go about buying shiny new (or used) stuff!
 published: true
-date: 2022-05-07T05:12:59.308Z
+date: 2022-05-07T05:15:30.564Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:51:49.314Z
@@ -20,20 +20,20 @@ To avoid confusion, a "new asset" is considered to be anything that is "new to B
 ## Accountable Team
 Each asset requires an accountable team. This team is accountable for performing maintenance and repairs, keeping documentation up to date, and running inductions. A team becomes an accountable team if they agree (by vote at a team meeting) to become an accountable team and there isn't already one.
 
-## Requirements for purchasing a new asset
+## Process for purchasing a new asset
+**When deciding upon an asset (which will typically be a tool) to purchase, the most important factors are:**
+1. How easy it is for the average member to use (even if this ease of use is a compromise over a better or more capable machine).
+2. The value it brings to the organisation as a whole, not just a small number of members.
+3. Is it going to improve our capabilities in a meaningful way and get used, or is it just a "shiny new tool"?
+
 **The following requirements must be met before the purchase of a new asset can be voted on:**
 1. A fully costed installation/maintenance plan must be completed and presented with the purchase proposal. This must include all additional infrastructure and installation costs required to make the asset operational. It must also include the typical costs associated with consumables and maintenance over the life of the asset.
 2. The proposed asset must have an accountable team.
 3. *Every* asset the accountable team is responsible for must be fully operational (assets that are waiting on parts or a third party for repair are exempt), and must meet the documentation standards.
 
-**The following requirements must be met before the machine can be purchased / funds transferred:**
+**The following requirements must be met before the machine can be purchased / funds transferred (but may happen after the vote is approved):**
 1. All documentation of the asset must be complete and published on the wiki. This documentation must meet the standards defined in the documentation section below.
 2. The induction checklist and process must be complete (as much as reasonably possible without the asset being present).
-
-**When deciding upon an asset (which will typically be a tool) to purchase, the most important factors are:**
-1. How easy it is for the average member to use (even if this ease of use is a compromise over a better or more capable machine).
-2. The value it brings to the organisation as a whole, not just a small number of members.
-3. Is it going to improve our capabilities in a meaningful way and get used, or is it just a "shiny new tool"?
 
 ## Abandoned Assets
 **An asset becomes abandoned if any of the following becomes true:**
