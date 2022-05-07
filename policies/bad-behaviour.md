@@ -2,7 +2,7 @@
 title: Bad Behaviour Policy
 description: How we deal with bad behaviour.
 published: true
-date: 2022-05-07T02:29:05.569Z
+date: 2022-05-07T02:30:01.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -51,7 +51,7 @@ These Infractions are minor, and first offences **should not** be accompanied by
 * Not cleaning up after yourself (e.g. leaving a mess and not tidying the area that you used).
 * Not locking up or securing the site properly.
 * Not reporting a safety or maintenance issue that you discovered.
-* Leaving a battery charging unatended.
+* Leaving a battery charging unattended.
 * Causing minor (repairable) damage to a tool due to accidental misuse or negligence.
 * Causing BMS Inc. to breach any condition of our lease not already defined in a category.
 * Breaching a policy enacted by a team.
