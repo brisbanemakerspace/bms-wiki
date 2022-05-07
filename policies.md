@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2022-05-07T05:19:18.223Z
+date: 2022-05-07T06:22:58.089Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -24,6 +24,7 @@ Our policies may change at any time by a vote at a general meeting. Significant 
 - [Policy Changes](/policies/policy-changes)
 - [Asset Purchases](/policies/asset-purchases)
 - [Bad Behaviour](/policies/bad-behaviour)
+- [Restricted Resources](/policies/restricted-resources)
 
 # Constitution
 Our constitution is a special document that governs how BMS Inc. runs. It contains the rules and procedures for how the organisation is legally required to function.
