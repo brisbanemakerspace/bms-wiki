@@ -2,7 +2,7 @@
 title: Bad Behaviour Policy
 description: How we deal with bad behaviour.
 published: true
-date: 2022-05-07T02:24:18.437Z
+date: 2022-05-07T02:28:04.597Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -43,7 +43,7 @@ The Infraction Schedule below contains a list of Infractions that the Infraction
 ## Escalation
 Each time an additional Infraction is issued in a category, the penalty should become more severe. Each category outlines the expected escalation of a penalty and should be treated separately from each other.
 
-Once a member has been issued with the maximum number of Infractions per category, they are required to show cause as to why their membership shouldn't be cancelled. This is 4x offences for Category 1, 3x for Category 2, and 2x for Category 3.
+Once a member has been issued with the maximum number of Infractions in any category, they are required to show cause as to why their membership shouldn't be cancelled. This is 4x offences for Category 1, 3x for Category 2, and 2x for Category 3.
 
 ## Category 1
 These Infractions are minor, and first offences **should not** be accompanied by an Access Suspension penalty. However, after the first offence, each additional offence should be accompanied by an Access Suspension going from 1 week, 2 weeks, then up to 4 weeks.
