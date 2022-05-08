@@ -2,7 +2,7 @@
 title: List of Teams
 description: This page contains a list of our teams and how they each run.
 published: true
-date: 2022-05-08T13:39:58.745Z
+date: 2022-05-08T13:41:08.710Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T00:41:27.371Z
@@ -17,7 +17,7 @@ These teams are currently in operation! If you want to help a team achieve it's 
 * [Infrastructure](/teams/infrastructure)
 * [Digifab](/teams/digifab) [DRAFT]
 * [Electronics](/teams/electronics) [DRAFT]
-* [Policy](/teams/infrastructure) [DRAFT]
+* [Policy](/teams/policy) [DRAFT]
 
 # Past Teams
 These teams are no longer in operation. If this is due to a lack of volunteer time, we encourage you to put your hand up to revive a team. Please check it's operations page for information about why this team isn't running any more.
