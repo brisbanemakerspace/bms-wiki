@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: true
-date: 2022-05-08T12:33:44.836Z
+date: 2022-05-08T12:39:53.721Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z
@@ -23,13 +23,17 @@ The minimum requirements to run a team are as follows:
   * the area they want to look after (physical, digital, or other)
   * what policies govern their team area
   * what budgets do they have access to
+* have a team meeting at least once every 3 months which should discuss at least:
+	* current/future goals
+  * status update for every asset they're accountable for
+  * the plan for the next 3 months
   
 To change any part of their team operations page requires a vote at a general meeting, or a majority vote by all current team members (except budget changes which must go through a general meeting).
 
 A team leader does not have any special privileges other than approving purchases under a budget. However, it is expected that a team leader is the most involved member of the team and helps to set the direction and pace of the team.
 
 ## Joining/leaving an existing team
-To join an existing team, you just need to ask the team - it's up to them if they want to take a formal vote or not. The team cannot unreasonably deny your request to join. However, a team reserves the right to reject your request if they have a good reason (such as you've caused problems in the past).
+To join an existing team, you just need to ask the team - it's up to them if they want to take a formal vote or not. The team cannot unreasonably deny your request to join. However, a team reserves the right to reject your request if they have a good reason (such as you've caused problems in the past). If you miss 3 consecutive team meetings, you are automatically removed from the team, but can join again later.
 
 ## Team Budgets
 Any changes to a team budget must be approved by a vote at a general meeting before a team can spend it. A team budget can be a once-off, ongoing, or another type of budget.
