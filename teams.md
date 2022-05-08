@@ -2,7 +2,7 @@
 title: List of Teams
 description: This page contains a list of our teams and how they each run.
 published: true
-date: 2022-05-08T12:41:02.463Z
+date: 2022-05-08T13:39:58.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T00:41:27.371Z
@@ -14,7 +14,7 @@ Teams are an important part of how BMS runs and is how we manage different areas
 # Current Teams
 These teams are currently in operation! If you want to help a team achieve it's goals, jump into it's operations page to learn more about how it runs.
 
-* [Infrastructure](/teams/infrastructure) [DRAFT]
+* [Infrastructure](/teams/infrastructure)
 * [Digifab](/teams/digifab) [DRAFT]
 * [Electronics](/teams/electronics) [DRAFT]
 * [Policy](/teams/infrastructure) [DRAFT]
