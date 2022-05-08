@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2022-05-07T05:33:46.715Z
+date: 2022-05-08T12:05:05.741Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -19,7 +19,7 @@ If you wish to cancel your membership, you can do so from our member portal [her
 All materials and tool usage charges are not refundable outside of exceptional circumstances or where required under ACL.
 
 ## Meeting Discussions
-The majority of agenda item related discussions should happen on the forum before a meeting. Discussion of agenda items should be capped to 10 minutes at most during a meeting. If more discussion is required, it should be tabled and voted on at the next meeting.
+The majority of agenda item related discussions should happen on the forum before a meeting. Discussion of agenda items should be capped to 5 minutes each during a meeting. If more discussion is required, it should be tabled and voted on at the next meeting.
 
 ## Moderation
 Sometimes certain discussions or posts may need to be removed or hidden, or other moderation actions taken in order to keep a discussion civil. Any member who is part of the Executive or Infraction committee, or that has been given explicit permission by either of those two committees to perform moderation actions, is permitted to do so. No other member (even if they have the technical means to) is permitted to perform moderation actions.
@@ -47,7 +47,7 @@ Due to the limited space available on-site, there is no general storage of perso
 
 Anything that is left on site unattended, is done so at your own risk. If you choose to leave anything on-site under this policy, you must label it with your name and mobile number. Brisbane Makerspace takes no responsibility for anything that may happen to your belongings or personal projects.
 
-Any personal belongings or member projects found to be in breach of this policy may be disposed of without warning, so please make sure you understand this policy.
+Any personal belongings or member projects found to be in breach of this policy may be disposed of after 7 days of being in breach. However, a good faith effort to contact the owner must be made before belongings can be disposed of.
 
 ## Guests
 Outside of our publically advertised events, access is only available to paid up members and their guests.
@@ -55,8 +55,8 @@ Outside of our publically advertised events, access is only available to paid up
 If you're a member wanting to bring a guest along, you must follow these rules:
 * No more than 2 people are allowed to accompany you as a guest.
 * Guests are not allowed to use yellow or red tools.
-* Guests under 18 are not allowed to use any tools.
-* You and your guest(s) must be working on the same project - ie one project per active membership.
+* Guests under 18 are not allowed to use any tools without direct supervision.
+* You and your guest(s) must be working on the same project - ie one project per membership.
 * Guests may be asked to leave if Brisbane Makerspace is at capacity, or if they cause a nuisance.
 * Guests are not permitted to work on commercial projects. All individuals working on commercial projects must have their own membership (but it's fine to bring a co-worker if they're just watching).
 
