@@ -2,7 +2,7 @@
 title: BMS Inc. Constitution
 description: The official BMS Inc. constitution.
 published: true
-date: 2022-05-07T03:05:47.513Z
+date: 2022-05-11T12:21:48.695Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T15:24:03.792Z
@@ -162,7 +162,7 @@ The secretary’s functions include, but are not limited to—
 4. maintaining the register of members of the association.
 
 ## 18. Membership in the management committee
-1. The management committee of the association consists of a president, vice president, treasurer, secretary and diversity officer, and any other members of the association elected at a general meeting.
+1. The management committee of the association consists of a president, vice president, treasurer, secretary, equity officer, and any other members of the association elected at a general meeting.
 2. A member of the management committee, other than a secretary appointed by the management committee under rule 15(1)(2)(3), must be a member of the association.
 3. At each annual general meeting of the association, the members of the management committee must retire from office, but are eligible, on nomination, for re-election.
 4. A member of the association may be appointed to a casual vacancy on the management committee under rule 21.
