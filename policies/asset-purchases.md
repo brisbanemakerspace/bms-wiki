@@ -1,8 +1,8 @@
 ---
 title: Asset Purchases
 description: How we go about buying shiny new (or used) stuff!
-published: true
-date: 2022-05-07T05:18:21.555Z
+published: false
+date: 2022-05-17T06:11:22.318Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:51:49.314Z
