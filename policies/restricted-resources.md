@@ -2,7 +2,7 @@
 title: Restricted Resources
 description: How resources can become restricted, and who can access them.
 published: false
-date: 2022-05-17T06:10:32.563Z
+date: 2022-05-17T06:10:52.497Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-07T06:22:26.140Z
