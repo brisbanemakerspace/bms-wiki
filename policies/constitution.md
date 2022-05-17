@@ -1,8 +1,8 @@
 ---
 title: BMS Inc. Constitution
 description: The official BMS Inc. constitution.
-published: true
-date: 2022-05-17T06:11:35.183Z
+published: false
+date: 2022-05-17T06:11:51.236Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T15:24:03.792Z
