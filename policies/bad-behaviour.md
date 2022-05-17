@@ -2,7 +2,7 @@
 title: Bad Behaviour Policy
 description: How we deal with bad behaviour.
 published: true
-date: 2022-05-07T02:41:03.412Z
+date: 2022-05-17T06:09:21.783Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -27,7 +27,7 @@ A penalty may come in the form of an Access Suspension. This does not change you
 During an access suspension, you are required to maintain your membership by paying your fees. If you do not wish to pay membership while you have an Access Suspension, you can cancel your membership.
 
 # Issuing an Infraction
-For an Infraction to be official, it must be issued by the Infraction Committee, or by a vote at a general meeting. An infraction or penalty may be appealed at a general meeting by a simple majority vote.
+For an Infraction to be official, it must be issued by the Infraction Committee. An infraction or penalty may be appealed at a general meeting.
 
 Any member can report an Infraction to the Infraction Committee for investigation. If the Infraction Committee finds evidence that a breach of policy or group expectations occurred, they are obligated to issue an Infraction. If they choose not to issue an Infraction, it can be referred to a general meeting for consideration. The Infraction Committee can issue an Infraction by a simple majority vote.
 
