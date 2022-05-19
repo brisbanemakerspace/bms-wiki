@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-04-27T22:49:34.737Z
+date: 2022-05-19T05:32:59.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -24,12 +24,12 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Induction Class:** Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** 100w usable power from a 130w peak Reci tube
-**Focal Lengths:** 50.8mm / 76.2mm (coming soon!)
-**Max Cut Depth:** Up to 8mm / 12mm (depending on material)
+**Focal Length:** 50.8mm / 76.2mm (coming soon!)
+**Max Cut Depth:** Up to 8mm - 10mm (depending on material)
 **Notable Features:** Camera assisted positioning, Automatic focus
 
 ## Camera Positioning System
-We have a super cool camera positioning system setup on the laser cutter. It allows you to put offcuts or irregular sized sheets inside and visually move your cut/engrave job around with a preview of where it's going to cut. It's accurate to within 2-3mm normally, but may deviate by up to 5mm towards the outer edges. Make sure to move the Z height of the machine down to the engrave/cut height for best accuracy.
+We have a super cool camera positioning system setup on the laser cutter. It allows you to put offcuts or irregular sized sheets inside and visually move your cut/engrave job around with a preview of where it's going to cut. It's accurate to within 2-3mm normally, but may deviate by up to 5mm towards the outer edges. Make sure to move the Z height of the machine to the engrave/cut height for best accuracy.
 
 ## Software / Cut Files
 We use an industry standard software called [Lightburn](https://lightburnsoftware.com) to run our laser cutter. This software supports the following files: .SVG, .DXF or . PDF. You can bring your files on a USB flash drive/SD card, or use AirDrop to copy it to our iMac. Alternatively, you can purchase a license of Lightburn if you'd like to experiment at home or on your own computer (recomended if you do a lot of lasering).
