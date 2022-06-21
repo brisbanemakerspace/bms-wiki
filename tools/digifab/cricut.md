@@ -2,7 +2,7 @@
 title: Cricut
 description: Learn about our cricut machine.
 published: true
-date: 2021-10-31T17:44:44.272Z
+date: 2022-06-21T05:33:01.357Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:25.709Z
@@ -19,15 +19,13 @@ Our Cricut Explore 3 is a cutting machine that can cut out lots of different sha
 
 # Specifications
 **Model:** Cricut Explore 3
-**Induction Class:** Orange Tool (Induction Required)
+**Induction Class:** Green Tool (NO Induction Required)
 **Cut Area:** 330 wide x 3.6m Max Length
 **Max Material Thickness:** Up to 2.4mm
 **Software:** Cricut Design Space
 
 # Induction Process
-This induction has one part:
-
-1. Visit us during staffed hours to be inducted.
+No induction necessary, but drop by during our open night or book an appointment if you need assistance.
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
