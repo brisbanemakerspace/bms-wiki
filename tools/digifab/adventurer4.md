@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2022-04-25T07:42:34.466Z
+date: 2022-06-21T05:31:16.400Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -30,7 +30,7 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 # Induction Process
 This induction has one part:
 
-1. Visit us during staffed hours to be inducted.
+1. Email us to book an appointment to be inducted.
 
 ***OR***
 
