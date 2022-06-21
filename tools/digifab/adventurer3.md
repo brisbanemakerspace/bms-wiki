@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2022-04-25T07:38:15.131Z
+date: 2022-06-21T05:30:54.176Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -30,7 +30,7 @@ Our Adventurer 3 can be used for printing many different objects. It's setup to 
 # Induction Process
 This induction has one part:
 
-1. Visit us during staffed hours to be inducted.
+1. Email us to book an appointment to be inducted.
 
 ***OR***
 
