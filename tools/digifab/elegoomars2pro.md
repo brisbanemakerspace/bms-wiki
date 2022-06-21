@@ -2,7 +2,7 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2022-03-30T04:12:31.150Z
+date: 2022-06-21T05:30:28.163Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
@@ -26,7 +26,7 @@ Resin printers have a fairly small build area when compared to traditional FDM p
 # Induction Process
 This tool is a "Red Tool" which means it can only be used under the supervision of our staff. The resins involved in the printing process are extremely toxic and require special procedures, chemicals, and PPE to operate safely.
 
-If you would like to learn how to use this tool, visit during our staffed hours and we'll give you an induction. Please note however, that use must be supervised by staff. We recommend you use our [job completion service](/services/job-completion) for resin prints if you're not available during staffed hours.
+If you would like to learn how to use this tool, visit during our open night and we'll give you an induction. Please note however, that use must be supervised by staff. We recommend you use our [job completion service](/services/job-completion) for resin prints if you're not available during staffed hours.
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
