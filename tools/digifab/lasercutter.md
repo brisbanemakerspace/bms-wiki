@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-05-19T05:32:59.922Z
+date: 2022-06-21T05:29:45.373Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -37,7 +37,7 @@ We use an industry standard software called [Lightburn](https://lightburnsoftwar
 # Induction Process
 This induction has two options:
 
-1. Visit us during staffed hours to be inducted.
+1. Email us to book an appointment to be inducted.
 
 ***OR***
 
