@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-06-21T05:29:45.373Z
+date: 2022-06-22T23:14:07.123Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -20,7 +20,8 @@ You can cut out unique shapes from sheets of materials up to 8-10mm thick (mater
 You can also engrave text, images and other shapes directly onto your projects. This allows you to create truly unique works of art, add a personal touch to your project, or make something as simple as a name badge or plaque.
 
 # Specifications
-**Usage Cost:** $10/hr
+### Usage Cost: $10/hr
+
 **Induction Class:** Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** 100w usable power from a 130w peak Reci tube
@@ -72,12 +73,14 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 
 ## List of Approved Materials
 * "Laser Safe" plywood such as [LaserPly from Plyco](https://plyco.com.au/collections/laserply)
-* Bunnings Plywood (BC Grade) * **not recommended to use due to excessive charring and inconsistencies**
+* Bunnings Plywood (BC Grade) * **not recommended for high quality finish due to material inconsistencies**
 * Bunnings MDF * **not recommended to use due to excessive charring and smoke**
 * Acrylic
 	* Some materials are similar in appearance to acrylic but are quite different. Some can release poisonous fumes or result in poor cuts. Any acrylic that is not sourced from our material shelf must have a receipt or manufacturer affixed label showing that it is acrylic.
-* Cardboard
-* Veg Tan Leather (other colours / types please ask first)
+* Cardboard and Card
+* Veg Tan Leather (other colours / types please **ask first**)
+* Very thin polycarbonate (<1mm)
+* EVA Foam
 
 # Brisbane Makerspace Stocked Materials
 We try to keep the following materials / consumables in stock for members to purchase. However, please check with us first if you really need something as we sometimes run out of stock. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machine and have calibrated profiles to choose from.
