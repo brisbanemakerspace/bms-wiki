@@ -1,8 +1,8 @@
 ---
 title: List of Teams
 description: This page contains a list of our teams and how they each run.
-published: true
-date: 2022-05-08T13:51:31.534Z
+published: false
+date: 2022-07-21T02:55:19.653Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T00:41:27.371Z
