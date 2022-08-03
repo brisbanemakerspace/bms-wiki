@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2022-06-21T05:31:16.400Z
+date: 2022-08-03T06:21:11.867Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -10,6 +10,8 @@ dateCreated: 2022-04-25T07:34:19.824Z
 
 # Introduction
 Our Adventurer 4 is a mid size, highly capable machine. It's enclosed print area and two nozzle choices make it ideal for printing high quality ABS prints without warping.
+
+**You've found the secret code for our competition! The code is "#makesomethingamazing".**
 
 ![adventurer_4.png](/digitalfabrication/adventurer_4.png =x300)
 *A picture of our adventurer 4*
