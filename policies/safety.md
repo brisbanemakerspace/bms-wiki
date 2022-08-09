@@ -2,7 +2,7 @@
 title: Safety Policy
 description: Being safe is important, and this policy outlines our expectations around safety.
 published: true
-date: 2022-05-07T02:52:12.114Z
+date: 2022-08-09T01:04:12.238Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:09.917Z
@@ -12,12 +12,12 @@ dateCreated: 2021-09-07T13:27:09.917Z
 You can't work on projects when you're injured! But also, it's no fun for anyone. At Brisbane Makerspace, safety is extremely important. In an environment like ours, there are certain risks that a lot of people aren't normally exposed to.
 
 ## Safety Incidents
-If a safety incident occurs, no matter how small, it must be reported to the executive committee. We will try to capture as many details as possible and keep a record of them, so we can improve our documentation and procedures.
+If a safety incident occurs, no matter how small, it must be reported via the member portal or email to staff. Try to capture as many details as possible. We'll keep a record of incidents so we can improve our documentation and procedures.
 
 ## Safety Risks
 You must not do anything that poses an unacceptable safety risk.
 
-If you see someone about to do something that poses an unacceptable safety risk, you should politely but firmly advise them to stop and explain why. If this happens, please let us know so we can improve our documentation and procedures.
+If you see someone about to do something that poses an unacceptable safety risk, you should politely but firmly advise them to stop and explain why. If you have to stop someone, please file an incident report so that we can improve our documentation and procedures.
 
 ## Drugs and Alcohol
 You must not be under the influence of any illegal drugs or substances while on site. You must not use any tools whilst under the influence of alcohol or prescription medication that may cause a safety hazard.
@@ -27,12 +27,10 @@ The use of any tool poses certain risks. Some are low risk like a pair of scisso
 
 It is a requirement before using a tool for the first time, that you read its wiki page and complete any required inductions. Some very low-risk tools (like scissors or rulers) may not have a wiki page, but it's still important to be safe when using them. Our [Tool Inductions](/policies/inductions) policy explains how our traffic light induction system works.
 
-Every tool with a wiki page has a label attached with its name and a QR code. Scanning this QR code will take you to its wiki page. Alternatively, you can use the search feature on the wiki to find it.
-
-Some tools have a specific procedure that must be followed every time you use the tool. A summary of the most important steps is attached to some of these tools and is called "just in time documentation" (or JIT documentation for short). If you see JIT documentation, you are required to follow all relevant steps at a minimum.
+Some tools have a specific procedure that must be followed every time you use the tool. A summary of the most important steps is attached to some of these tools and is called "just in time documentation" (or JIT doc for short). If you see a JIT doc, you are required to follow all relevant steps at a minimum.
 
 ## Clothing and PPE
-Due to the various hazards that exist at Brisbane Makerspace, we require everyone on site to wear closed in shoes (sandals etc. are not permitted). We recommend that you remove the jewellery and tie up long hair before working with tools.
+Due to the various hazards that exist at Brisbane Makerspace, we require everyone on site to wear closed in shoes (sandals etc. are not permitted). We recommend that you remove all jewellery and tie up long hair before working with tools.
 
 We have a range of basic PPE such as safety glasses and gloves. You are encouraged to bring your own PPE as it's likely to be more comfortable and better fitting. We require that you wear appropriate PPE at all times.
 
