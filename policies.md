@@ -2,16 +2,21 @@
 title: Policies
 description: 
 published: true
-date: 2022-05-17T06:07:08.293Z
+date: 2022-08-09T01:13:47.232Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
 ---
 
 # Introduction
-We try to foster a fun, safe and collaborative environment at Brisbane Makerspace. To assist us, we have a list of policies and rules that everyone is required to follow. If you are using our physical space, attending a workshop, or using our discord/forum, these rules apply to you.
+We try to foster a fun, safe and collaborative environment at Brisbane Makerspace. To assist us, we have a list of policies and rules that everyone is required to follow. If you are using our physical space, attending a workshop, or using our digital resources, these rules apply to you.
 
-Our policies may change at any time by a vote at a general meeting. Significant changes will be anounced to members via email.
+Our policies may change at any time. Significant changes will be anounced to members via email.
+
+The overarching theme to our policies can be summarised as:
+* be respectful
+* be reasonable
+* be honest
 
 # Policies
 - [Community Rules](/policies/communityrules)
