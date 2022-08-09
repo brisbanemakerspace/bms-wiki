@@ -2,7 +2,7 @@
 title: Tool Inductions Policy
 description: 
 published: true
-date: 2022-05-07T02:49:37.833Z
+date: 2022-08-09T01:06:59.917Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:27:07.140Z
@@ -15,7 +15,7 @@ To maintain a safe operating environment, Brisbane Makerspace requires that memb
 
 *Every* tool has either an A4 label with a written note stating the tool's colour or it will have a small colour coded label. For example, the Cricut has a green coloured label on it, indicating that it's a "Green Tool" and the laser cutter has a yellow sticker on it.
 
-If a tool does not have a label on it, then it has been deemed very low risk and it doesn't require documentation or induction (for example, scissors). Scan the QR code on a tool's label to read its wiki page.
+If a tool does not have a label on it, then it has been deemed very low risk and it doesn't require documentation or induction (for example, scissors).
 
 # Green Tool
 These tools require no special induction as they have been deemed low risk. Members are allowed to use these tools without any special training requirements. It is still a requirement to read and understand its wiki page if it exists.
@@ -26,4 +26,4 @@ These tools have been deemed a medium risk, and a formal induction is required. 
 Each Yellow Tool is different, so you should carefully read its wiki page to understand its induction requirements.
 
 # Red Tool
-This is a high-risk tool. Members are not allowed to operate Red Tool tools by themselves unless they are a supervisor of that tool. However, our volunteers are more than happy to assist you by either operating this tool for you or supervising your use of it.
+This is a high-risk tool. Members are not allowed to operate Red Tool tools without supervision from an authorised supervisor (usually staff). However, our staff are more than happy to assist you by either operating this tool for you or supervising your use of it.
