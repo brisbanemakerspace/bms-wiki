@@ -2,7 +2,7 @@
 title: Bad Behaviour Policy
 description: How we deal with bad behaviour.
 published: true
-date: 2022-07-21T02:52:46.570Z
+date: 2022-08-09T01:27:25.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -17,7 +17,7 @@ The way we identify bad behaviour is with an *Infraction*. An Infraction is our 
 # Penalties
 If an Infraction is serious enough to warrant some form of penalty, or a pattern of bad behaviour is identified, an Infraction may be accompanied by a penalty. A penalty will usually be an Access Suspension but may be another form of "making good" such as cleaning up a mess or paying for a tool that was damaged.
 
-A penalty usually won't be in the form of a fine or monetary penalty unless there was a direct cost to BMS such as a broken tool due to negligence. In this case, any monetary penalty must not be greater than the actual cost incurred by BMS. Fines are not an equitable penalty in most cases.
+A penalty usually won't be in the form of a fine or monetary penalty unless there was a direct cost to BMS such as a broken tool due to negligence. In this case, any monetary penalty must not be greater than the actual cost incurred by BMS. Fines are not an equitable penalty in most cases and we avoid them.
 
 # Access Suspension
 A penalty may come in the form of an Access Suspension. This does not change your membership status - you are still a member and must follow policies. However, during the Access Suspension period, you are not permitted to:
@@ -32,7 +32,7 @@ The Infraction Schedule below contains a list of behaviours that will likely rec
 ## Escalation
 Each time an additional Infraction is issued in a category, the penalty should become more severe. Each category outlines the expected escalation of a penalty and should be treated separately from each other.
 
-Once a member has been issued with the maximum number of Infractions in any category, they are required to show cause as to why their membership shouldn't be cancelled. This is 4x offences for Category 1, 3x for Category 2, and 2x for Category 3.
+**Once a member has been issued with the maximum number of Infractions in any category, they are required to show cause as to why their membership shouldn't be cancelled.** This is 4x offences for Category 1, 3x for Category 2, and 2x for Category 3.
 
 ## Category 1
 These Infractions are minor, and first offences **should not** be accompanied by an Access Suspension penalty. However, after the first offence, each additional offence should be accompanied by an Access Suspension going from 1 week, to 2 weeks, then up to 4 weeks.
