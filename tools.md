@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-08-11T01:11:40.233Z
+date: 2022-08-11T01:38:53.640Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -69,6 +69,26 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![wire.png](/electronics/wire.png =x60)
 	](/tools/electronics/consumables)
   
+## Office Equipment
+- [A4 Colour Printing (Laser and Inkjet)
+		![a4-printer.png](/other/a4-printer.png =60x)
+	](/tools/other/printing)
+
+- [Shipping Label Printer
+		![hero-printer.png](/tools/hero-printer.png =60x)
+	](/tools/other/label-printer)
+
+- [Thermal Camera (Flir One Pro - iOS)
+		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
+	](/tools/other/flir-one-pro)
+
+- [Sony Mirrorless Camera
+		![sony-a5100.png](/tools/sony-a5100.png =60x)
+	](/tools/other/sony-mirrorless)
+
+- [Photo Lightbox
+		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
+  ](/tools/other/lightbox)
 
 ## Craft
 - [Craft Supplies / Consumables](https://wiki.brisbanemakerspace.co/en/craft-supply-boxes)
@@ -109,23 +129,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Ryobi ONE+ Heat Gun
 		![ryobi-heat-gun.png](/ryobi/ryobi-heat-gun.png =x60)
   ](/tools/ryobi)
-  
-## Office Equipment
-- [A4 Colour Printing (Laser and Inkjet)
-		![a4-printer.png](/other/a4-printer.png =60x)
-	](/tools/other/printing)
-
-- [A6 Thermal Label Printer
-		![hero-printer.png](/tools/hero-printer.png =60x)
-	](/tools/other/label-printer)
-
-- [Flir One Pro (iOS)
-		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
-	](/tools/other/flir-one-pro)
-
-- [Sony Mirrorless Camera
-		![sony-a5100.png](/tools/sony-a5100.png =60x)
-	](/tools/other/sony-mirrorless)
+ 
 
 ## Woodworking
 **Due to our current space, these tools are only able to be used by staff for small/once off jobs.**
