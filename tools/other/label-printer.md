@@ -2,7 +2,7 @@
 title: A6 Thermal Printer
 description: Our A6 direct thermal printer is great for making shipping labels.
 published: true
-date: 2022-08-11T01:21:11.147Z
+date: 2022-08-11T01:24:04.647Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T01:21:11.147Z
@@ -27,7 +27,8 @@ After you install the driver, **you must read and follow the steps at the link a
 If you are having trouble printing, first check that you've connected the correct USB cable directly to the printer or try restarting your device. If you're still having trouble, book an appointment with a staff member and we can get you setup.
 
 # Specifications
-**Colour:** Black & White (Direct Thermal)
+**Induction class:** Green Tool (**No Induction Required**)
+**Colour printing:** Black & White (Direct Thermal)
 **Size:** A6 (Most Standard Shipping Labels)
 **Label type:** thermal paper only
 **Minimum label width:** 40 mm - 110 mm
