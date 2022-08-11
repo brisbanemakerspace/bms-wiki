@@ -2,7 +2,7 @@
 title: A4 Colour Printer
 description: Print (in 2D) using our AirPrint and WiFi enabled A4 laser printer.
 published: true
-date: 2021-10-31T17:58:41.566Z
+date: 2022-08-11T01:23:43.683Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:56.747Z
@@ -19,9 +19,10 @@ On Apple devices (including macOS, iOS and iPadOS) simply select "Brisbane Maker
 On Android and Windows computers, you may have to manually add our printer if it doesn't automatically show up. It should be available on the network as "BrisbaneMakerspacePrinter" or "BrisbaneMakerspaceInkjet" (or something similar). This process differs depending on your device and operating system.
 
 # Troubleshooting
-If you are having trouble printing, first check that you're connected to our WiFi or try restarting your device. If you're still having trouble, pop in during staffed hours and we can get you setup.
+If you are having trouble printing, first check that you're connected to our WiFi or try restarting your device. If you're still having trouble, book an appointment with staff and we can get you setup.
 
 # Specifications
+**Induction Class:** Green Tool (**No Induction Required**)
 **Colour:** Full Colour
 **Size:** A4
 **Double Sided Printing:** Yes
