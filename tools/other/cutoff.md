@@ -2,7 +2,7 @@
 title: Air Cutoff Tool
 description: Learn about our Air Cutoff Tool.
 published: true
-date: 2021-09-07T14:08:42.293Z
+date: 2022-08-11T01:24:38.261Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:48.642Z
@@ -17,7 +17,7 @@ We have a Ryobi Airwave cutoff tool.
 Our Ryobi Airwave cutoff tool is great for trimming and cutting up lengths of soft material like plastic and timber.
 
 # Specifications
-**Induction Class:** Orange Tool (Induction Required)
+**Induction Class:** Yellow Tool (Induction Required)
 **Disc Size:** 76mm
 
 # Induction Process
