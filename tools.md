@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-05-04T15:54:40.840Z
+date: 2022-08-11T01:11:40.233Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -109,8 +109,32 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Ryobi ONE+ Heat Gun
 		![ryobi-heat-gun.png](/ryobi/ryobi-heat-gun.png =x60)
   ](/tools/ryobi)
+  
+## Office Equipment
+- [A4 Colour Printing (Laser and Inkjet)
+		![a4-printer.png](/other/a4-printer.png =60x)
+	](/tools/other/printing)
 
-## Other
+- [A6 Thermal Label Printer
+		![hero-printer.png](/tools/hero-printer.png =60x)
+	](/tools/other/label-printer)
+
+- [Flir One Pro (iOS)
+		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
+	](/tools/other/flir-one-pro)
+
+- [Sony Mirrorless Camera
+		![sony-a5100.png](/tools/sony-a5100.png =60x)
+	](/tools/other/sony-mirrorless)
+
+## Woodworking
+**Due to our current space, these tools are only able to be used by staff for small/once off jobs.**
+- [Makita Mitre Saw
+		![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =60x)
+	](/tools/woodworking/makita-mitre-saw)
+  
+
+## Other Tools
 - [Hand Tools
 		![hammer.png](/other/hand-tools/hammer.png =x60)
   ](/tools/other/hand-tools)
@@ -130,7 +154,3 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Ryobi Shop Vac
 		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =x60)
   ](/tools/other/shopvac)
-  
-- [A4 Colour Printing (AirPrint and WiFi Enabled)
-		![a4-printer.png](/other/a4-printer.png =60x)
-	](/tools/other/printing)
