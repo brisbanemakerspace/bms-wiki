@@ -2,7 +2,7 @@
 title: Thermal Camera (Flir One Pro - iOS)
 description: Our thermal camera lets you inspect electronics and batteries for faults, and has countless other awesome uses.
 published: true
-date: 2022-08-11T01:45:53.065Z
+date: 2022-08-11T01:52:48.848Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T01:45:53.065Z
@@ -16,6 +16,8 @@ dateCreated: 2022-08-11T01:45:53.065Z
 ![a4-printer.png](/tools/flir-one-pro.png =x300)
 
 # How to use
+Please book in a time with a staff member to use.
+
 Attach the FLIR ONE Pro to the bottom of your iOS device (with lightning port). Press the power button to turn the FLIR ONE Pro on and wait for it to boot up (green LED).
 
 Download the "FLIR ONE" app, and open it. After a few seconds the app should start showing the thermal camera feed. Please consult the app's user manual for more information on how to use the app and features like spot metering etc.
