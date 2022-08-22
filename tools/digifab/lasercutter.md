@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-06-22T23:14:07.123Z
+date: 2022-08-22T22:15:36.344Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -10,6 +10,11 @@ dateCreated: 2021-09-07T13:27:31.653Z
 
 # Introduction
 Our laser cutter is one of our most popular tools. It can be used to cut or engrave lots of common materials including timber, plastic, and paper, to name a few. Unfortunately it cannot cut metal or glass (though it can engrave them in the right circumstance).
+
+> **23rd August:** The current tool status is **degraded**. The X axis motor failed and was replaced. However the shaft is smaller and there's a 3D printed spacer in place. This slips while engraving resulting in *wonky* engraves. If you urgently need to do small engrave jobs, you can get away with tightening the grub screw between engraves - chat to staff for more info.
+> New parts will arrive and be installed by approx. Friday 26th August.
+{.is-warning}
+
 
 ![laser.png](/digitalfabrication/laser.png =x300)
 *A picture of our laser cutter*
