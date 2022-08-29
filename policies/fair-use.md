@@ -2,7 +2,7 @@
 title: Fair Use
 description: Our fair use policy.
 published: true
-date: 2022-08-29T23:18:45.043Z
+date: 2022-08-29T23:24:12.682Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:15:09.920Z
@@ -27,7 +27,7 @@ There are also some tool specific guidelines below. Whilst these aren't absolute
 ### Laser Cutting
 If someone is using the machine, and another member wants to run a small (<20 minute) job, that member should be given a turn at the next possible moment (ie when the current job is finished).
 
-For extended jobs, each member is limited to 1hr of use if there is another person waiting, and everyone waiting should take turns.
+For extended jobs, if more than 1 person is waiting to use the laser cutter, members are expected to take turns in 1 hour blocks.
 
 ## Consumables
 As a member, you are allowed to use any consumables we have on-site (for example, glue, popsicle sticks, pens, etc.). All consumables, unless otherwise noted, are free to use. However, our Consumable Fair Use Policy below applies. If you breach this policy, we reserve the right to charge you for the cost of the excessive consumables used.
