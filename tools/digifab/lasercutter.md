@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-08-25T01:40:56.794Z
+date: 2022-08-31T05:14:37.247Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -72,11 +72,12 @@ Some materials are dangerous to cut or engrave and can damage the machine or eve
 We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleanest cuts and least amount of hassle.
 
 ## List of Approved Materials
-* "Laser Safe" plywood such as [LaserPly from Plyco](https://plyco.com.au/collections/laserply)
-* Bunnings Plywood (BC Grade) * **not recommended for high quality finish due to material inconsistencies**
+* "Laser Safe" plywood such as from [Plyoneline](http://plyonline.com.au) or [LaserPly from Plyco](https://plyco.com.au/collections/laserply)
+* Balsawood
+* Bunnings Plywood (BC Grade) * **not recommended if you need a high quality finish**
 * Bunnings MDF * **not recommended to use due to excessive charring and smoke**
 * Acrylic
-	* Some materials are similar in appearance to acrylic but are quite different. Some can release poisonous fumes or result in poor cuts. Any acrylic that is not sourced from our material shelf must have a receipt or manufacturer affixed label showing that it is acrylic.
+	* Some materials are similar in appearance to acrylic but are quite different. Some can release poisonous fumes or result in poor cuts. Any acrylic that is not from our material shelf must have a receipt or manufacturer affixed label showing that it is acrylic.
 * Cardboard and Card
 * Veg Tan Leather (other colours / types please **ask first**)
 * Very thin polycarbonate (<1mm)
@@ -86,12 +87,12 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 We try to keep the following materials / consumables in stock for members to purchase. However, please check with us first if you really need something as we sometimes run out of stock. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machine and have calibrated profiles to choose from.
 
 ## 600 x 400mm sheets
-* 3mm or 6mm Acrylic - A Grade ($20 or $30) * **order in advanced**
+These sheets are approximately sized - please check each sheet if the exact size is critical for your intended use.
 * 3mm Acrylic - C Grade, approx size, has scratches and marks (White, Black) ($3)
-* 3mm MDF ($3) * **not recommended to use normally**
+* 3mm MDF ($3)
 * 3mm Radiata Plywood ($7)
 * 3mm Poplar Plywood ($14)
-* 6mm Poplar Plywood ($20)
+* 6mm Poplar Plywood ($20) * limited availability
 
 # Tips / Suppliers
 The following is a list of tips/recommended suppliers for commonly used consumables:
