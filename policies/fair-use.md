@@ -2,7 +2,7 @@
 title: Fair Use
 description: Our fair use policy.
 published: true
-date: 2022-09-05T03:55:39.212Z
+date: 2022-09-05T03:55:47.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:15:09.920Z
@@ -24,7 +24,7 @@ Tool inductions and workshops should take priority over general member use. Thes
 
 There are also some tool specific guidelines below. This is how we expect members to operate out of respect for each other.
 
-### Laser Cutting
+### Lasercutting
 #### Bookings
 You can book the laser cutter **once per day for up to 2 hours**, and requires at least 2 hours of notice. To book, access the link in the member portal. You can use it longer than this or without making a booking if there are no other bookings at the time. See casual use below.
 
