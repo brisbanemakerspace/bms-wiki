@@ -2,7 +2,7 @@
 title: Fair Use
 description: Our fair use policy.
 published: true
-date: 2022-08-29T23:24:12.682Z
+date: 2022-09-05T03:00:03.086Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:15:09.920Z
@@ -22,12 +22,18 @@ Occasionally more than one person may want to use a tool at the same time. This 
 
 Tool inductions and workshops should always take priority over general member use. These generally won't take more than 30-60 minutes and are an important part of welcoming members into our community.
 
-There are also some tool specific guidelines below. Whilst these aren't absolute rules, this is how we expect members to operate out of respect for each other.
+There are also some tool specific guidelines below. This is how we expect members to operate out of respect for each other.
 
 ### Laser Cutting
-If someone is using the machine, and another member wants to run a small (<20 minute) job, that member should be given a turn at the next possible moment (ie when the current job is finished).
+#### Bookings
+You can book the laser cutter **once per day for up to 2 hours**, and requires at least 2 hours of notice. You can use it longer than this or without making a booking if there are no other bookings at the time. See casual use below.
 
-For extended jobs, if more than 1 person is waiting to use the laser cutter, members are expected to take turns in 1 hour blocks.
+**During a booking, use by other members is not permitted.**
+
+#### Casual Use
+Use without a booking is considered casual use. If someone is using the machine, and another member wants to run a small (<15 minute) job, that member should be given priority.
+
+Otherwise, if more than 1 person is waiting to use the laser cutter, members are expected to take turns in 1 hour blocks.
 
 ## Consumables
 As a member, you are allowed to use any consumables we have on-site (for example, glue, popsicle sticks, pens, etc.). All consumables, unless otherwise noted, are free to use. However, our Consumable Fair Use Policy below applies. If you breach this policy, we reserve the right to charge you for the cost of the excessive consumables used.
