@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2022-08-31T06:32:56.359Z
+date: 2022-09-05T03:17:24.260Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -13,6 +13,11 @@ Our laser cutter is one of our most popular tools. It can be used to cut or engr
 
 ![laser.png](/digitalfabrication/laser.png =x300)
 *A picture of our laser cutter*
+
+# Bookings
+[See upcoming bookings](https://s.bms.wiki/laser-booking-calendar)
+or
+[Make a new booking](https://s.bms.wiki/laser-book-time)
 
 # Recommended Uses
 You can cut out unique shapes from sheets of materials up to 8-10mm thick (material dependent). Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
