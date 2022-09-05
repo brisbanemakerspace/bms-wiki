@@ -2,7 +2,7 @@
 title: Fair Use
 description: Our fair use policy.
 published: true
-date: 2022-09-05T03:00:03.086Z
+date: 2022-09-05T03:55:39.212Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:15:09.920Z
@@ -18,17 +18,17 @@ Maker Lite and Maker Plus plans are limited to an average of 2 visits per week (
 If you're unsure, just [let us know](https://brisbanemaker.space/contact) and we're happy to clarify what is or is not reasonable use. If you're using our facilities more than what's reasonable, you may be asked to pay more or reduce your usage.
 
 ## Tool Sharing
-Occasionally more than one person may want to use a tool at the same time. This is a part of using a shared workshop. Members are expected to fairly share tools between people who want to use them.
+Occasionally more than one person may want to use a tool at the same time. This is part of using a shared workshop. Members are expected to fairly share tools between people who want to use them.
 
-Tool inductions and workshops should always take priority over general member use. These generally won't take more than 30-60 minutes and are an important part of welcoming members into our community.
+Tool inductions and workshops should take priority over general member use. These normally won't take more than 30-60 minutes and are an important part of welcoming members into our community.
 
 There are also some tool specific guidelines below. This is how we expect members to operate out of respect for each other.
 
 ### Laser Cutting
 #### Bookings
-You can book the laser cutter **once per day for up to 2 hours**, and requires at least 2 hours of notice. You can use it longer than this or without making a booking if there are no other bookings at the time. See casual use below.
+You can book the laser cutter **once per day for up to 2 hours**, and requires at least 2 hours of notice. To book, access the link in the member portal. You can use it longer than this or without making a booking if there are no other bookings at the time. See casual use below.
 
-**During a booking, use by other members is not permitted.**
+**During a booking, use by other members is not permitted.** If a member is using the machine when a booking starts, they should cease use as soon as possible and at most within 15 minutes after the start of the booking.
 
 #### Casual Use
 Use without a booking is considered casual use. If someone is using the machine, and another member wants to run a small (<15 minute) job, that member should be given priority.
