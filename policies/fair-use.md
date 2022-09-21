@@ -2,7 +2,7 @@
 title: Fair Use
 description: Our fair use policy.
 published: true
-date: 2022-09-05T03:55:47.403Z
+date: 2022-09-21T03:07:42.076Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:15:09.920Z
@@ -16,6 +16,13 @@ You must stay within reasonable limits and not unfairly impact other members wit
 Maker Lite and Maker Plus plans are limited to an average of 2 visits per week (averaged over the last month). For the purpose of this policy, several visits on the same day count as 1 visit.
 
 If you're unsure, just [let us know](https://brisbanemaker.space/contact) and we're happy to clarify what is or is not reasonable use. If you're using our facilities more than what's reasonable, you may be asked to pay more or reduce your usage.
+
+## Mentoring and Assistance
+Mentoring and assistance is provided on a best-effort basis. It is meant to help you get started and is not a replacement for seeking professional advice or putting in the effort to learn a new skill.
+
+One 30min mentoring session is included each month as part of your membership and can be booked from the member portal ("Book an Appointment"). Each tool that requires a safety induction also includes complimentary mentoring for up to 30mins following your safety induction. Additional sessions are available on request and are charged at $50/hr (or as otherwise agreed).
+
+Brisbane Makerspace makes no guarantees as to the availability or quality of mentoring and assistance that is provided. By accepting any mentoring or advice, you acknowledge this and agree to release Brisbane Makerspace from all liability associated with any loss or inury that occurs as a result of mentoring/advice provided.
 
 ## Tool Sharing
 Occasionally more than one person may want to use a tool at the same time. This is part of using a shared workshop. Members are expected to fairly share tools between people who want to use them.
