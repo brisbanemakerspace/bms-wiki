@@ -2,7 +2,7 @@
 title: Parking
 description: 
 published: true
-date: 2022-09-22T04:09:28.060Z
+date: 2022-09-22T04:11:00.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-22T04:08:40.547Z
@@ -15,6 +15,7 @@ Brisbane Makerspace has two assigned parking spaces. To ensure fair access to th
 * A booking is required to use any of our parking spaces (book via member portal).
 * Members are entitled to park on site for up to 2 hours total per day, across all parking spaces.
 * Whilst your car is parked in one of our parking spaces, you must remain physically on site at Brisbane Makerspace.
+* Brisbane Makerspace has the right to ask you to remove your vehicle offsite for any reason.
 
 ## Breach of these conditions
 If you breach any of these conditions, your vehicle will be towed away and removed from site. You will be required to pay the towing fee (up to $271.25) directly to the tow company to release your vehicle. If your vehicle is towed you can call us on 07 2111 8684 for details on how to collect it.
