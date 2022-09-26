@@ -2,7 +2,7 @@
 title: Membership Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-08-09T01:25:01.106Z
+date: 2022-09-26T01:39:42.516Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -15,6 +15,8 @@ Here is a list of all the fees that may be payable as a member or user of our fa
 To maintain membership, you are required to pay your membership fees by the due date of your billing period. Failure to do so may result in the cancellation of your membership. If you have any problems paying for your membership please let us know!
 
 We also offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student or concession cardholder. If you stop meeting these requirements, please notify us as soon as possible.
+
+Note: unless required by law, we do not refund payment processing fees. All payments made online incur a 2% fee (that we include in the price).
 
 ### Maker Lite
 Fee: $39/mth
