@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2022-08-11T02:27:46.484Z
+date: 2022-10-06T05:07:39.585Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -16,21 +16,29 @@ Due to safety concerns, some tools require training or supervision to use. This 
 All tools are available on a first come, first serve basis. Most of the time the tool you want to use will be available, but if someone else is already using it, you are expected to share. All tools must remain on site and cannot be borrowed for any reason.
 
 ## Digital Fabrication
-- [Laser Cutter
+- [Laser Cutter (700x500 area)
 		![laser.png](/digitalfabrication/laser.png =60x)
 	](/tools/digifab/lasercutter)
+
+- [CNC Router (1200x750 area)
+		![laser.png](/digitalfabrication/cnc-xs.png =70x)
+	](/tools/digifab/cncrouter)
   
-- [Resin 3D Printer (Mars 2 Pro)
+- [Resin 3D Printer
   	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
   ](/tools/digifab/elegoomars2pro)
 
-- [Adventurer 3 3D Printer (Printer 1)
+- [3D Printer (Printer 1)
 		![adventurer_3.png](/digitalfabrication/adventurer_3.png =x60)
   ](/tools/digifab/adventurer3)
 
-- [Adventurer 4 3D Printer (Printer 2)
-		![adventurer_3.png](/digitalfabrication/adventurer_4.png =x60)
+- [3D Printer (Printer 2)
+		![adventurer_4.png](/digitalfabrication/adventurer_4.png =x60)
   ](/tools/digifab/adventurer4)
+  
+- [3D Scanner
+		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
+  ](/tools/digifab/revopointpop2)
 
 - [Cricut
 		![cricut.png](/digitalfabrication/cricut.png =x60)
