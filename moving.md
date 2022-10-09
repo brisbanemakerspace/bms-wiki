@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-09T16:52:40.173Z
+date: 2022-10-09T23:17:54.139Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -23,7 +23,7 @@ Brisbane Makerspace has grown so quickly in the last 11 months, and we're super 
 * Details on how to access the new space will be emailed out to everyone shortly.
 
 ## Working Bees
-This move is going to be a massive effort so we've set up some working bees. Items in bold require several people to complete! To say thanks for helping us:
+This move is going to be a massive effort so we've set up some working bees. Items in bold require several people to complete! **Send us an email or post on Discord if you're interested in helping at a working bee.** To say thanks for helping us:
 * Help out for > 1 hour and we'll shout you lunch & snacks.
 * Help out for > 4 hours and we'll credit you a free month of membership.
 
