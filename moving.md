@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-09T15:39:29.426Z
+date: 2022-10-09T15:43:49.468Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -66,3 +66,4 @@ Due to all of the above, and the expiry of our 12 month lease at the end of Octo
 
 ## Negatives of the new space
 * Parking is more tricky being closer to the city
+* Not wheelchair accessible (just like the current place). We looked everywhere, but couldn't find an affordable place with an accessible entrance. We're going to investiate ways of funding a wheelchair lift for the stairs (such as a grant or gofundme), but it may not be possible.
