@@ -2,14 +2,14 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-09T15:43:49.468Z
+date: 2022-10-09T15:56:53.973Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
 ---
 
-# BMS is moving in late October
-Brisbane Makerspace has grown so quickly in the last 11 months, and we're super proud to announce that we're moving & expanding into a bigger location. See the real estate listing [here](https://www.rhcommercial.com.au/brisbanenorth/properties/152-wickham-street-fortitude-valley-4006-queensland-153bf51a-589e-4ff5-b126-f4a6943505ff).
+# BMS is moving 22-23 October
+Brisbane Makerspace has grown so quickly in the last 11 months, and we're super excited to announce that we're moving & expanding into a bigger location. See the real estate listing [here](https://www.rhcommercial.com.au/brisbanenorth/properties/152-wickham-street-fortitude-valley-4006-queensland-153bf51a-589e-4ff5-b126-f4a6943505ff).
 
 ## Summary
 * BMS is **CLOSED** on **Saturday 22nd** and **Sunday 23rd October.**
