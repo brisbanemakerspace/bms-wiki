@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-09T15:57:46.798Z
+date: 2022-10-09T16:27:23.040Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -25,7 +25,7 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Help out for > 1 hour and we'll shout you lunch & snacks.
 * Help out for > 4 hours and we'll credit you a free month of membership.
 
-### Working Bee #1 - Sunday 16th October
+### Working Bee #1 - Sunday 16th October 10am
 * **Clean downstairs including outside**
 * **Clean and Paint downstairs safe**
 * **Clean and Paint downstairs ceiling**
@@ -35,7 +35,7 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Replace lights upstairs
 * Replace upstairs fluro tubes with LED tubes
 
-### Working Bee #2 - Saturday 22nd October
+### Working Bee #2 - Saturday 22nd October 10am
 * Pack and move refreshments table
 * Pack and move electronics shelves and tables
 * Pack and move 2D printers and tables
@@ -43,7 +43,7 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Pack and move digifab desks, including 3D printers
 * Pack and move centre tables and TV
 
-### Working Beed #3 - Sunday 23rd October
+### Working Beed #3 - Sunday 23rd October 10am
 * **Pack and move laser and laser sheet shelves**
 * **Pack and move CNC and table**
 * **Pack and move party button**
