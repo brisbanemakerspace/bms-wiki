@@ -2,7 +2,7 @@
 title: Membership Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-10-11T04:26:25.970Z
+date: 2022-10-11T04:28:25.505Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -21,9 +21,8 @@ Note: unless required by law, we do not refund payment processing fees. All paym
 ### Maker Lite
 Fee: $39/mth
 
-* No commercial use allowed
-* No commissioned projects where a fee is paid allowed
-* Commissioned projects where a fee is NOT paid is allowed
+* No commercial use allowed ([Fair Use Policy](/policies/fair-use) applies)
+* Commissioned projects where a fee is paid are NOT permitted
 
 ### Maker Plus
 Fee: $59/mth
