@@ -2,7 +2,7 @@
 title: Membership Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-09-26T01:39:42.516Z
+date: 2022-10-11T04:26:25.970Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -43,3 +43,4 @@ Here is a list of tools with usage fees:
 * [Lasercutter](/tools/digifab/lasercutter)
 * [3D Printers (Filament)](/tools/digifab/adventurer4)
 * [3D Printers (Resin)](/tools/digifab/elegoomars2pro)
+* [CNC Router](/tools/digifab/cncrouter)
