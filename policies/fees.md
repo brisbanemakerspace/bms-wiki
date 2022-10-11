@@ -2,7 +2,7 @@
 title: Membership Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-10-11T04:28:45.444Z
+date: 2022-10-11T04:36:11.749Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -39,7 +39,7 @@ Fee: $39/mth
 Some tools may incur usage fees to cover maintenance costs and consumables usage. Most tools are included in your membership, but please check its wiki page to avoid any surprises.
 
 Here is a list of tools with usage fees:
-* [Lasercutter](/tools/digifab/lasercutter)
-* [3D Printers (Filament)](/tools/digifab/adventurer4)
-* [3D Printers (Resin)](/tools/digifab/elegoomars2pro)
-* [CNC Router](/tools/digifab/cncrouter)
+* [Lasercutter](/tools/digifab/lasercutter) $10/hr BYO material
+* [3D Printers (Filament)](/tools/digifab/adventurer4) $2/hr - filament included
+* [3D Printers (Resin)](/tools/digifab/elegoomars2pro) $3/hr - resin included
+* [CNC Router](/tools/digifab/cncrouter) - new tool, currently free until we work it out :)
