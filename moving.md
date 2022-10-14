@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-14T23:10:06.345Z
+date: 2022-10-14T23:12:03.163Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -31,13 +31,15 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * **Clean downstairs including outside**
 * **Clean and Paint downstairs inside safe**
 * **Clean and Paint downstairs ceiling**
-* Setup swipe card for internal door
-* Run airline upstairs
-* Replace lights downstairs
-* Replace lights upstairs
-* Replace upstairs fluro tubes with LED tubes
+* Setup WiFi router / downstairs access point
+* Move two cameras from New Farm to FV (1 downstairs, 1 upstairs)
+* Run air line upstairs
+* ~~Replace lights downstairs~~
+* ~~Replace lights upstairs~~
+* ~~Replace upstairs fluro tubes with LED tubes~~
 
 ### Working Bee #2 - Saturday 22nd October 10am
+* Setup swipe card for internal door
 * Pack and move refreshments table
 * Pack and move electronics shelves and tables
 * Pack and move 2D printers and tables
