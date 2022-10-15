@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-14T23:12:09.506Z
+date: 2022-10-15T20:37:56.810Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -31,8 +31,8 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * **Clean downstairs including outside**
 * **Clean and Paint downstairs inside safe**
 * **Clean and Paint downstairs ceiling**
-* Setup WiFi router / downstairs access point
-* Move two cameras from New Farm to FV (1 downstairs, 1 upstairs)
+* ~~Setup WiFi router / downstairs access point~~
+* ~~Move two cameras from New Farm to FV (1 downstairs, 1 upstairs)~~
 * Run air line upstairs
 * ~~Replace lights downstairs~~
 * ~~Replace lights upstairs~~
