@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-15T22:09:08.827Z
+date: 2022-10-15T22:23:47.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
