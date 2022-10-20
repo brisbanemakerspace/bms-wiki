@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-20T22:23:41.712Z
+date: 2022-10-20T22:51:47.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -40,6 +40,8 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * ~~Replace upstairs fluro tubes with LED tubes~~
 
 ### Working Bee #2 - Saturday 22nd October 10am
+**This list is in order of priority, please work from top to bottom!**
+
 **Moving tasks:**
 * Pack and move refreshments table
 * Pack and move electronics shelves and tables
