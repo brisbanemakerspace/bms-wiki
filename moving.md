@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-20T21:51:44.719Z
+date: 2022-10-20T22:23:41.712Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -40,22 +40,23 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * ~~Replace upstairs fluro tubes with LED tubes~~
 
 ### Working Bee #2 - Saturday 22nd October 10am
+**Moving tasks:**
 * Pack and move refreshments table
 * Pack and move electronics shelves and tables
 * Pack and move 2D printers and tables
 * Pack and move back wall shelves
 * Pack and move digifab desks, including 3D printers
 * Pack and move centre tables and TV
-__
+___
+**Assembling/Cleaning tasks:**
 * Assemble meeting room table
 * Assemble two desks
 * Clean all light switches and GPOs
 * Clean all windows
 * Put up a hook for downstairs padlock key
---
-* Install google doorbell at glass door
-* Setup google home mini with google door bell
-* Put tv mount on wall in meeting room
+___
+**Construction tasks:**
+* Put tv mount on wall in meeting room and mount small TV
 * Take construction materials / sheets downstairs to tip
 * Mount UniFi AP on wall
 * Put lock on front right window
@@ -67,7 +68,12 @@ __
 * Run air line upstairs
 * Paint downstairs roof
 * Fix yellow chair rear legs 
+___
+**Jaimyn todo:**
+* Install google doorbell at glass door
+* Setup google home mini with google door bell
 * Setup swipe card for glass door or lockbox if can't get working in time
+* Mount big TV on portable stand
 
 ### Working Beed #3 - Sunday 23rd October 10am
 * **Pack and move laser and laser sheet shelves**
