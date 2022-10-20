@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-20T08:11:08.609Z
+date: 2022-10-20T21:51:44.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -28,7 +28,8 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Help out for > 4 hours and we'll credit you a free month of membership.
 
 ### Working Bee #1 - Sunday 16th October 10am
-* ~~Clean downstairs including outside~~
+* ~~Clean downstairs outside~~
+* ~~Clean downstairs inside~~
 * ~~Paint downstairs inside safe~~
 * ~~Take whiteboard upstairs~~
 * ~~Take bottom steel door off downstairs~~
@@ -45,15 +46,18 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Pack and move back wall shelves
 * Pack and move digifab desks, including 3D printers
 * Pack and move centre tables and TV
+__
 * Assemble meeting room table
+* Assemble two desks
+* Clean all light switches and GPOs
+* Clean all windows
+* Put up a hook for downstairs padlock key
+--
 * Install google doorbell at glass door
 * Setup google home mini with google door bell
 * Put tv mount on wall in meeting room
-* Clean all light switches and GPOs
-* Clean all windows
 * Take construction materials / sheets downstairs to tip
 * Mount UniFi AP on wall
-* Assemble two desks
 * Put lock on front right window
 * Put handles on front left windows
 * Block gap near window/stairs
@@ -61,7 +65,7 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Paint downstairs ceiling
 * Mount whiteboard on wall in meeting room
 * Run air line upstairs
-* Put up a hook for downstairs padlock key
+* Paint downstairs roof
 * Fix yellow chair rear legs 
 * Setup swipe card for glass door or lockbox if can't get working in time
 
