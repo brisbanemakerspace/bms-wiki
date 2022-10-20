@@ -2,14 +2,14 @@
 title: Parking
 description: 
 published: true
-date: 2022-10-04T02:21:19.343Z
+date: 2022-10-20T23:01:01.899Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-22T04:08:40.547Z
 ---
 
 # Parking Policy
-Brisbane Makerspace has two assigned parking spaces. To ensure fair access to these parking spaces, members may only access them in accordance with this policy. By parking in any of our designated parking spaces, you agree to follow this policy.
+Brisbane Makerspace has **two** assigned parking spaces and **one** loading bay (requires blocking in the other two spaces). To ensure fair access to these parking spaces, members may only access them in accordance with this policy. By parking in any of our designated parking spaces, you agree to follow this policy.
 
 For tips on nearby parking locations, please see our [getting there](/getting-there) page.
 
