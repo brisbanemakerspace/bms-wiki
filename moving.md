@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-20T07:59:20.596Z
+date: 2022-10-20T08:03:38.337Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -45,9 +45,21 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * Pack and move back wall shelves
 * Pack and move digifab desks, including 3D printers
 * Pack and move centre tables and TV
+* Assemble meeting room table
+* Put tv mount on wall in meeting room
+* Clean all light switches and GPOs
+* Clean all windows
+* Take construction materials / sheets downstairs to tip
+* Mount UniFi AP on wall
+* Assemble two desks
+* Put lock on front right window
+* Put handles on front left windows
+* Block gap near window/stairs
+* Fill toilet down pipe gaps with expanding foam
 * Paint downstairs ceiling
 * Mount whiteboard on wall in meeting room
 * Run air line upstairs
+* Fix yellow chair rear legs 
 * Setup swipe card for glass door
 
 ### Working Beed #3 - Sunday 23rd October 10am
@@ -55,7 +67,8 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * **Pack and move CNC and table**
 * **Pack and move party button**
 * Pack and move balcony stored items
-* Assemble compressor shed
+* Buy and assemble compressor shed
+* Buy and fit extraction fan to compressor shed
 
 ## Why did we choose to move?
 After extensive consultation with almost every member, and after the completion of the member satisfaction survey, it's clear there were a few common frustrations. The main ones were the lack of space for storage, not enough space to work on projects, and difficulties using the space while workshops are going on. In addition, some of our newer or most requested tools like a CNC router and basic woodworking tools are not suitable at all for the current space.
