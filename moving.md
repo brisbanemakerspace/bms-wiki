@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-16T04:13:42.126Z
+date: 2022-10-20T07:59:20.596Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -29,13 +29,9 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 
 ### Working Bee #1 - Sunday 16th October 10am
 * ~~Clean downstairs including outside~~
-* **Paint downstairs inside safe**
-* **Paint downstairs ceiling**
-* Seal downstairs floor / corner join
-* ~~Take whiteboard upstairs ~~
-* and mount in meeting room
+* ~~Paint downstairs inside safe~~
+* ~~Take whiteboard upstairs~~
 * ~~Take bottom steel door off downstairs~~
-* Run air line upstairs
 * ~~Setup WiFi router / downstairs access point~~
 * ~~Move two cameras from New Farm to FV (1 downstairs, 1 upstairs)~~
 * ~~Replace lights downstairs~~
@@ -43,13 +39,16 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * ~~Replace upstairs fluro tubes with LED tubes~~
 
 ### Working Bee #2 - Saturday 22nd October 10am
-* Setup swipe card for internal door
 * Pack and move refreshments table
 * Pack and move electronics shelves and tables
 * Pack and move 2D printers and tables
 * Pack and move back wall shelves
 * Pack and move digifab desks, including 3D printers
 * Pack and move centre tables and TV
+* Paint downstairs ceiling
+* Mount whiteboard on wall in meeting room
+* Run air line upstairs
+* Setup swipe card for glass door
 
 ### Working Beed #3 - Sunday 23rd October 10am
 * **Pack and move laser and laser sheet shelves**
@@ -57,7 +56,6 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 * **Pack and move party button**
 * Pack and move balcony stored items
 * Assemble compressor shed
-* Assemble new furniture upstairs
 
 ## Why did we choose to move?
 After extensive consultation with almost every member, and after the completion of the member satisfaction survey, it's clear there were a few common frustrations. The main ones were the lack of space for storage, not enough space to work on projects, and difficulties using the space while workshops are going on. In addition, some of our newer or most requested tools like a CNC router and basic woodworking tools are not suitable at all for the current space.
