@@ -2,7 +2,7 @@
 title: BMS is moving & expanding!
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-20T22:51:47.771Z
+date: 2022-10-25T15:08:12.144Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -43,28 +43,28 @@ This move is going to be a massive effort so we've set up some working bees. Ite
 **This list is in order of priority, please work from top to bottom!**
 
 **Moving tasks:**
-* Pack and move refreshments table
-* Pack and move electronics shelves and tables
-* Pack and move 2D printers and tables
-* Pack and move back wall shelves
-* Pack and move digifab desks, including 3D printers
-* Pack and move centre tables and TV
+* ~~Pack and move refreshments table~~
+* ~~Pack and move electronics shelves and tables~~
+* ~~Pack and move 2D printers and tables~~
+* ~~Pack and move back wall shelves~~
+* ~~Pack and move digifab desks, including 3D printers~~
+* ~~Pack and move centre tables and TV~~
 ___
 **Assembling/Cleaning tasks:**
-* Assemble meeting room table
-* Assemble two desks
+* ~~Assemble meeting room table~~
+* ~~Assemble two desks~~
 * Clean all light switches and GPOs
 * Clean all windows
-* Put up a hook for downstairs padlock key
+* ~~Put up a hook for downstairs padlock key~~
 ___
 **Construction tasks:**
-* Put tv mount on wall in meeting room and mount small TV
-* Take construction materials / sheets downstairs to tip
-* Mount UniFi AP on wall
+* ~~Put tv mount on wall in meeting room and mount small TV~~
+* ~~Take construction materials / sheets downstairs to tip~~
+* ~~Mount UniFi AP on wall~~
 * Put lock on front right window
 * Put handles on front left windows
 * Block gap near window/stairs
-* Fill toilet down pipe gaps with expanding foam
+* ~~Fill toilet down pipe gaps with expanding foam~~
 * Paint downstairs ceiling
 * Mount whiteboard on wall in meeting room
 * Run air line upstairs
@@ -72,16 +72,16 @@ ___
 * Fix yellow chair rear legs 
 ___
 **Jaimyn todo:**
-* Install google doorbell at glass door
-* Setup google home mini with google door bell
-* Setup swipe card for glass door or lockbox if can't get working in time
-* Mount big TV on portable stand
+* ~~Install google doorbell at glass door~~
+* ~~Setup google home mini with google door bell~~
+* Setup swipe card for glass door
+* ~~Mount big TV on portable stand~~
 
 ### Working Beed #3 - Sunday 23rd October 10am
-* **Pack and move laser and laser sheet shelves**
-* **Pack and move CNC and table**
-* **Pack and move party button**
-* Pack and move balcony stored items
+* **~~Pack and move laser and laser sheet shelves~~**
+* **~~Pack and move CNC and table~~**
+* **~~Pack and move party button~~**
+* ~~Pack and move balcony stored items~~
 * Buy and assemble compressor shed
 * Buy and fit extraction fan to compressor shed
 
