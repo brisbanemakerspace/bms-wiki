@@ -2,18 +2,14 @@
 title: Getting There
 description: Tips on how to get to the makerspace!
 published: true
-date: 2022-10-20T22:57:12.106Z
+date: 2022-10-27T15:54:03.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T01:42:56.155Z
 ---
 
-> This pages applies to the NEW location for BMS. Members can access the new location from **Monday 24th October**.
-{.is-warning}
-
-
 # Getting There
-There are several ways to get to the makerspace. We generally recommend the use of public transport or personal mobility devices like escooters, bicycles, etc. due to our inner city location. Our address is **146 Wickham St, Fortitude Valley, 4006**.
+There are several ways to get to the makerspace. We recommend the use of public transport or personal mobility devices like escooters, bicycles, etc. due to our inner city location. Our address is **146 Wickham St, Fortitude Valley, 4006**. Our front door is next to Vietnam House - look for our blue signage.
 
 ![parking_and_train_map.jpg](/parking_and_train_map.jpg =500x)
 
