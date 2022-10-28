@@ -2,7 +2,7 @@
 title: Safety Policy
 description: Being safe is important, and this policy outlines our expectations around safety.
 published: true
-date: 2022-08-09T01:04:12.238Z
+date: 2022-10-28T08:50:12.793Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:09.917Z
@@ -39,6 +39,11 @@ All workspaces must be left clean and tidy both during and after, you are using 
 
 ## Electrical Work
 All electrical work that requires an electrical license must be completed by a licensed electrician. Most of the time, this means any project where voltages above 120v DC or 50v RMS AC are present.
+
+## Explosive & Flammables Goods Storage
+Our lease disallows storing explosive or flammable goods on site due to the fire risk presented in a heritage listed building. As such, members are prohibited from storing any chemical or substance on site that carries a dangerous goods warning label relating to fire or explosion. "Pre-Approved Chemicals & Substances" in the section below are exempt from this policy.
+
+There is also a limit on the amount of batteries a member may store on site. Members must not store more than a total of 100Wh of batteries at any one time. This should allow work on small power banks and battery projects while balancing the fire safety risk.
 
 ## Chemicals & Dangerous Substances
 Due to the nature of the tools and resources available at Brisbane Makerspace, we sometimes have to deal with chemicals and dangerous substances. We have requirements in place to ensure we maintain a safe workshop and that we have the necessary documentation in the event of an incident.
