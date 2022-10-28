@@ -1,8 +1,8 @@
 ---
-title: BMS is moving & expanding!
+title: BMS has moved
 description: Read more about the days/times we're moving, how it may impact you, and how you can help!
 published: true
-date: 2022-10-25T15:08:12.144Z
+date: 2022-10-28T10:16:51.965Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T15:39:29.426Z
@@ -14,13 +14,10 @@ Brisbane Makerspace has grown so quickly in the last 11 months, and we're super 
 ![expanding_preview_image.png](/expanding_preview_image.png =0x)
 
 ## Summary
-* BMS is **CLOSED** on **Saturday 22nd** and **Sunday 23rd October.**
 * Expect a little disruption a few days either side of that weekend.
-* Our new location is at **146 Wickham St, Fortitude Valley**.
-* Members can access the **NEW LOCATION** from **Monday 24th October**.
-* Members can access the **OLD LOCATION** until **Friday 21st October**.
+* Our new location is at **146 Wickham St, Fortitude Valley** and is **OPEN NOW**.
 * Parking at the new location is limited (booking required), see [getting there](/getting-there).
-* Details on how to access the new space will be emailed out to everyone shortly.
+* Your existing access card will work, but the reader looks a little different!
 
 ## Working Bees
 This move is going to be a massive effort so we've set up some working bees. Items in bold require several people to complete! **Send us an email or post on Discord if you're interested in helping at a working bee.** To say thanks for helping us:
@@ -67,14 +64,14 @@ ___
 * ~~Fill toilet down pipe gaps with expanding foam~~
 * Paint downstairs ceiling
 * Mount whiteboard on wall in meeting room
-* Run air line upstairs
+* ~~Run air line upstairs~~
 * Paint downstairs roof
 * Fix yellow chair rear legs 
 ___
 **Jaimyn todo:**
 * ~~Install google doorbell at glass door~~
 * ~~Setup google home mini with google door bell~~
-* Setup swipe card for glass door
+* ~~Setup swipe card for glass door~~
 * ~~Mount big TV on portable stand~~
 
 ### Working Beed #3 - Sunday 23rd October 10am
@@ -82,8 +79,6 @@ ___
 * **~~Pack and move CNC and table~~**
 * **~~Pack and move party button~~**
 * ~~Pack and move balcony stored items~~
-* Buy and assemble compressor shed
-* Buy and fit extraction fan to compressor shed
 
 ## Why did we choose to move?
 After extensive consultation with almost every member, and after the completion of the member satisfaction survey, it's clear there were a few common frustrations. The main ones were the lack of space for storage, not enough space to work on projects, and difficulties using the space while workshops are going on. In addition, some of our newer or most requested tools like a CNC router and basic woodworking tools are not suitable at all for the current space.
