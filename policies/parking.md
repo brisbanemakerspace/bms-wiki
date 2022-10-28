@@ -2,7 +2,7 @@
 title: Parking
 description: 
 published: true
-date: 2022-10-20T23:01:01.899Z
+date: 2022-10-28T09:07:45.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-22T04:08:40.547Z
@@ -18,7 +18,7 @@ These parking spaces are provided on a best effort basis for member convenience 
 ## Restrictions
 * A booking is required to use our parking spaces (book via member portal).
 * Parking may not be used by guests or workshop students (although please ask if there are special circumstances).
-* Members are entitled to park on site for up to 4 hours total per day, across all parking spaces.
+* Members are entitled to park on site for up to 6 hours total per day, across all parking spaces.
 * Whilst your car is parked in one of our parking spaces, you must remain physically on site at Brisbane Makerspace.
 * Brisbane Makerspace has the right to ask you to move your vehicle offsite for any reason (including if you have a booking).
 
