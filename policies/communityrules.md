@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2022-08-09T00:57:02.835Z
+date: 2022-11-21T05:18:38.940Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -14,9 +14,9 @@ If a rule or policy isn't big enough to get a page on our [list of policies](/po
 ## Refund/Cancellation Policy
 This refund policy does not override or exclude your rights under Australian Consumer Law (ACL). If goods and services you purchase from Brisbane Makerspace are faulty or not fit for purpose, you may be entitled to a refund under ACL.
 
-If you wish to cancel your membership, you can do so from our member portal [here](https://portal.brisbanemaker.space). We do not have any mandatory notice periods for cancellation. Your membership will be automatically terminated at the end of your current billing cycle after you request cancellation. We do not give refunds for unused membership part way through a billing cycle.
+If you wish to cancel your membership, you can do so from our member portal [here](https://portal.brisbanemaker.space). You can cancel at any time after your minimum membership period has lapsed (this may differ depending on your plan). Your membership will be automatically terminated at the end of your current billing cycle after you request cancellation. We do not give refunds for unused membership part way through a billing cycle.
 
-All materials and tool usage charges are not refundable outside of exceptional circumstances or where required under ACL.
+Materials and tool usage charges are not refundable outside of exceptional circumstances or where required under ACL. Memberbucks top-ups or complimentary credits are final and cannot be refunded or converted to cash.
 
 ## Moderation
 Sometimes certain discussions or posts may need to be removed or hidden, or other moderation actions taken in order to keep a discussion civil. All official communication platforms such as Discord, the Forum, the Wiki, Social Media accounts, etc. may be moderated.
