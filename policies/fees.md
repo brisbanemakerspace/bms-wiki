@@ -2,7 +2,7 @@
 title: Membership Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-10-11T04:36:11.749Z
+date: 2022-11-21T05:19:51.546Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -10,6 +10,9 @@ dateCreated: 2022-05-06T17:17:13.763Z
 
 # Fee Schedule
 Here is a list of all the fees that may be payable as a member or user of our facilities.
+
+## Refunds & Cancellations
+Our refund and cancellation policy can be found [here](https://wiki.brisbanemaker.space/en/policies/communityrules#refundcancellation-policy).
 
 ## Membership Fees
 To maintain membership, you are required to pay your membership fees by the due date of your billing period. Failure to do so may result in the cancellation of your membership. If you have any problems paying for your membership please let us know!
