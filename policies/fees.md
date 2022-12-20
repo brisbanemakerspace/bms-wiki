@@ -2,7 +2,7 @@
 title: Membership Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-12-20T23:18:43.439Z
+date: 2022-12-20T23:42:19.137Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -39,14 +39,14 @@ Fee: $39/mth
 * Must be currently studying full time or hold a concession card
 
 ## Late / No Show Fee
-Unfortunately due to repeated no shows and members being significantly late to booked appointments, we've had to implement a late fee. This late fee applies to all members, or people who've applied for membership.
+Unfortunately due to repeated no shows and members being significantly late to booked appointments, we've had to implement a late fee. This late fee applies to all members, or people who've applied for membership. This policy applies to all bookings made for time with a BMS staff member and does not include tool bookings (like for using the laser cutter).
 
-If you:
+**If you:**
 * do not show up for a booked appointment
 * are more than 10 minutes late to a booked appointment
 * give less than 12 hours notice to cancel a booked appointment
 
-We reserve the right to charge your payment method on file a no show fee. This fee differs depending on your membership plan:
+We will charge your payment method on file a no show fee. This fee depends on your membership plan:
 
 Maker Lite: **$20**
 Maker Plus: **$25**
