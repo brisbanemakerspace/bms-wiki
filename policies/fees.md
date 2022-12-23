@@ -1,8 +1,8 @@
 ---
-title: Membership Fee Schedule
+title: Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-12-20T23:42:19.137Z
+date: 2022-12-23T04:53:58.518Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -55,6 +55,8 @@ Coworker Lite/Plus: **$35**
 
 ## Tool Usage Fees
 Some tools may incur usage fees to cover maintenance costs and consumables usage. Most tools are included in your membership, but please check its wiki page to avoid any surprises.
+
+If you fail to pay for tool usage within a reasonable amount of time (generally considered 7 days) we will terminate your membership. This 
 
 Here is a list of tools with usage fees:
 * [Lasercutter](/tools/digifab/lasercutter) $10/hr BYO material
