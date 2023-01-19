@@ -2,7 +2,7 @@
 title: Community Rules
 description: All members are governed by our membership rules.
 published: true
-date: 2022-11-21T05:18:38.940Z
+date: 2023-01-19T03:40:19.865Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:04.174Z
@@ -21,12 +21,31 @@ Materials and tool usage charges are not refundable outside of exceptional circu
 ## Moderation
 Sometimes certain discussions or posts may need to be removed or hidden, or other moderation actions taken in order to keep a discussion civil. All official communication platforms such as Discord, the Forum, the Wiki, Social Media accounts, etc. may be moderated.
 
-## Storage at Brisbane Makerspace
-Due to the limited space available on-site, there is no general storage of personal belongings or member projects permitted. However, we recognise that sometimes you may need to leave a project on-site while the paint is drying or glue is setting, etc. Each member is entitled to leave one project on the designated temporary storage shelf for up to 7 days at a time. If there is not enough room on the temporary storage shelf, you will have to make arrangements to transport your project home and you may not leave it on site.
+## Tickets
+### Green Storage Ticket
+Green tickets are required to be attached to all items left on-site outside of your storage cube. They allow you to store something on site for up to 30 days at a time and must be renewed prior to expiry. Any item found with an expired green ticket, or no ticket, will be issued with a red ticket.
 
-Anything that is left on site unattended, is done so at your own risk. If you choose to leave anything on-site under this policy, you must label it with your name and mobile number. Brisbane Makerspace takes no responsibility for anything that may happen to your belongings or personal projects.
+### Red Storage Ticket
+Red tickets offer a formal warning that this item is not allowed to be here. Once a red ticket has been attached to an item, you have 7 days to rectify the problem. You must either attach a green ticket to it (if appropriate) or remove it off-site. A good faith effort must be made to find out and contact the owner of the item when a red ticket is attached to it.
 
-Any personal belongings or member projects found to be in breach of this policy may be disposed of after 7 days of being in breach. However, a good faith effort to contact the owner must be made before belongings can be disposed of.
+Once a red ticket ticket has expired, Brisbane Makerspace may choose to dispose of the item or move it to long term storage.
+
+### Orange Ticket
+Typically we repair tools pretty quickly, but sometimes we need to wait on parts etc. If a tool can't be safely used, it will have an orange ticket attached to it. This will explain what's wrong with the tool and when it's expected to be fixed. Orange ticketed tools are **not to be used** until the orange ticket has been removed.
+
+## Storage
+Storage of personal items is not permitted anywhere on-site, except where permitted below.
+### Member Storage Shelves
+You are entitled to one cube in the member storage shelves for as long as you are a member. Feel free to claim any unlabeled spot and let the head maker know so a label can be added. You may not store any dangerous material or chemicals and everything must fit entirely within the cube without sticking out.
+
+### Temporary Project Storage
+We recognise that sometimes you may need to leave a project on-site while the paint is drying or glue is setting, etc. You are permitted to leave one project on top of the member storage shelves if it's too big to fit in your storage cube. **You must use a green storage ticket for temporary project storage.**
+
+### Large Object Storage
+You are entitled to store one large object, for up to 30 days at a time in the storage vault downstairs. If it doesn't fit in the storage vault because it is too big, or because of other projects, you must not store it on-site. Storage of additional large objects may be approved by a written request to the head maker. Examples of "large objects" include a group of laser cutter materials, a project you're working on, etc. **You must use a green storage ticket for large objects.**
+
+### Dislaimer
+Anything that is left on site unattended, is done so at your own risk. Brisbane Makerspace takes no responsibility for anything that may happen to items you leave on-site. Any items found to be in breach of this policy may be disposed of after 7 days of being in breach as per the red storage ticket policy.
 
 ## Guests
 Outside of our publically advertised events, access is only available to paid up members and their guests.
