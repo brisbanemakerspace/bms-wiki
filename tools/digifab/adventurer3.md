@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2023-01-16T11:10:18.634Z
+date: 2023-03-16T02:58:19.498Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -36,6 +36,13 @@ This induction has one part:
 ***OR***
 
 Attend our introductory 3D printing class for a complete introduction. https://brisbanemaker.space/classes/
+
+# Slicing Software
+These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
+
+Flashprint is installed on our iMac ready to go (bring your model on a USB flash drive, send it via AirDrop, or login to google drive etc.). However, you can also install it on your own computer in order to get an estimate on printing time, or to send print jobs directly from your own laptop. Flashprint supports macOS, Windows and Linux.
+
+### [Download Flashprint Here](https://www.flashforge.com/download-center/63)
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
