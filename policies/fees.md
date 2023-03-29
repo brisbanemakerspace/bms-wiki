@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2022-12-23T04:53:58.518Z
+date: 2023-03-29T03:03:31.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -25,7 +25,7 @@ Note: unless required by law, we do not refund payment processing fees. All paym
 Fee: $39/mth
 
 * Commercial use is not permitted ([Fair Use Policy](/policies/fair-use) applies)
-* Commissioned projects where a fee is paid are NOT permitted
+* Commissioned projects where a fee is paid or commercial value is generated are NOT permitted
 
 ### Maker Plus
 Fee: $59/mth
