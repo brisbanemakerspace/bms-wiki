@@ -2,7 +2,7 @@
 title: Safety Policy
 description: Being safe is important, and this policy outlines our expectations around safety.
 published: true
-date: 2022-10-28T08:50:12.793Z
+date: 2023-05-30T13:22:05.077Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:09.917Z
@@ -21,6 +21,11 @@ If you see someone about to do something that poses an unacceptable safety risk,
 
 ## Drugs and Alcohol
 You must not be under the influence of any illegal drugs or substances while on site. You must not use any tools whilst under the influence of alcohol or prescription medication that may cause a safety hazard.
+
+## Aerosols and Smelly Chemicals
+You must not use any aerosols (like spray paint etc.) or any substance that produces an unpleasant smell in the upstairs workspace area. You are only permitted to use these aerosols/substances in the basement or carpark area.
+
+Exceptions to this policy include household cleaning products (and similar) that are provided by BMS like air freshener, bug spray, etc. or if you receive permission from staff.
 
 ## Tools
 The use of any tool poses certain risks. Some are low risk like a pair of scissors, and others are high risk such as our laser cutter. We try to reduce the chances of any safety incidents happening through extensive training, documentation, and procedures.
