@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2023-06-21T10:22:25.368Z
+date: 2023-06-21T10:25:09.818Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -22,16 +22,14 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 **Usage Cost:** $2/hr (50% discount for BYO filament, see staff)
 **Induction Class:** Orange Tool (Induction Required)
 **Print Area:** 220mm(L) x 200mm(W) x 250mm(H)
-**Nozzle Sizes:** 0.4mm / 0.6mm
-**Max Nozzle Temp:** 240°C / 265°C
-**Layer Heights:** 0.1mm - 0.3mm / 0.1mm - 0.45mm
+**Nozzle Size:** 0.6mm
+**Max Nozzle Temp:** 265°C
+**Layer Heights:** 0.1mm - 0.45mm
 **Max Bed Temp:** 110°C
 **Supported Filaments:** ABS, PLA, PC, PETG, PLA-CF & PETG-CF
 
 # Induction Process
-This induction has one part:
-
-1. Email us to book an appointment to be inducted.
+Please book an induction via the member portal.
 
 ***OR***
 
@@ -76,5 +74,6 @@ We try to keep the following filaments in stock for members to use but check wit
 ## 1.75mm eSUN PLA+ Filament
 * Black
 * White
-* Red
-* Marble
+
+## Other
+The above is what we try to keep always stocked. However, there's also tonnes of other random colours, textures and sometimes materials like flexible TPU. Be sure to check the filament storage area for an up to date list.
