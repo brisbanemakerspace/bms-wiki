@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2023-08-10T03:54:39.463Z
+date: 2023-08-10T04:01:43.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -31,14 +31,18 @@ The CNC router is great for all sorts of things like making detailed 3D models, 
 ## Endmills / Router Bits
 We do not provide any router bits because they are expensive and break easily. It is your responsibility to source compatible router bits and bring them with you. Our induction fee includes 2x router bits so you can get started right away, but they aren't suitable for every material/project.
 
+If you have a single project that uses a specialty router bit, you may borrow one of the makerspace bits on the condition that if you damage it in anyway, you must buy it for the full retail price. You can email the head maker to organise this.
+
 We highly recommend that you source your router bits from [CNC 3D](https://www.cnc3d.com.au). They are based on the Gold Coast, and all of their bits are already included in our endmill library. You can find their bits available online below. They ship with express shipping or have local pick up.
+
+**Endmills / Router Bits with a diameter of up to 6mm are supported.**
 
 [Order your CNC 3D endmills / router bits here](https://www.cnc3d.com.au/endmills)
 
 ## Software
 We use CarveCo and have a license for CarveCo Maker installed on the CNC Computer. This computer is setup just for running this CNC machine, and generally shouldn't be used for other purposes.
 
-This software is called "CAM" software and is not capable of designing models - you need to use CAD software like Tinkercad or Fusion 360. CAM software is very difficult and complex to use. Prior to organising an induction your should at minimum, watch ALL of these videos.
+This software is called "CAM" software and is not capable of designing models. To design models, you need to use CAD software like Tinkercad or Fusion 360. CAM software is very difficult and complex to use. Prior to organising an induction your should at minimum, watch ALL of these videos.
 
 * coming soon.
 
