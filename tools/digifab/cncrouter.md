@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2022-10-06T05:44:10.317Z
+date: 2023-08-10T01:41:59.672Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -18,7 +18,7 @@ Our new CNC router is just about ready to use!
 *A picture of our huge CNC router (1200x750mm work area!)*
 
 # Recommended Uses
-The CNC router is great for all sorts of things like making detailed 3D models, large project enclosures and general cutting/engraving. It can cut and engrave things large or small, and most types of materials including plastic, timber and soft metals like aluminium.
+The CNC router is great for all sorts of things like making detailed 3D models, large project enclosures and general cutting/engraving. It can cut and engrave things large or small, and most types of materials including plastic, timber and soft metals like aluminium. Please note that it cannot be used with very hard materials like steel.
 
 # Specifications
 **Manufacturer:** [CNC3D](https://www.cnc3d.com.au)
@@ -28,6 +28,13 @@ The CNC router is great for all sorts of things like making detailed 3D models, 
 **Z Travel:** Approx. 110mm (See max cut depth!)
 **Max Cut Depth:** 110mm – Material Thickness (read more at the bottom of [this page](https://www.cnc3d.com.au/product-page/queenbee-cnc-1000x1500mm))
 
+## Endmills / Router Bits
+We do not provide any router bits because they are expensive and break easily. It is your responsibility to source compatible router bits and bring them with you. Our induction fee includes 2x router bits so you can get started right away, but they aren't suitable for every material/project.
+
+We highly recommend that you source your router bits from [CNC 3D](https://www.cnc3d.com.au). They are based on the Gold Coast, and all of their bits are already included in our endmill library. You can find their bits available online below. They ship with express shipping or have local pick up.
+
+[Order your CNC 3D endmills / router bits here](https://www.cnc3d.com.au/endmills)
+
 ## Software
 We use CarveCo and have a license for CarveCo Maker installed on the CNC Computer. This computer is setup just for running this CNC machine, and generally shouldn't be used for other purposes.
 
@@ -36,7 +43,11 @@ This software is called "CAM" software and is not capable of designing models - 
 * coming soon.
 
 # Induction Process
-This tool requires an induction! It's loud and and can cause serious injury or damage if used incorrectly.
+This tool requires an induction! It's loud and messy, and can cause serious injury or damage if used incorrectly.
+
+Our induction process requires a payment of $30, but includes 2 endmill bits. You must read this entire wiki page, and watch every video listed above ***before*** booking in.
+
+[Book the induction here](#https://calendly.com/brisbane-makerspace/cnc-router-induction)
 
 # How To Operate
 ## Before Use
