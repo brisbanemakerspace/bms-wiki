@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2023-08-10T01:41:59.672Z
+date: 2023-08-10T01:42:22.548Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -47,7 +47,7 @@ This tool requires an induction! It's loud and messy, and can cause serious inju
 
 Our induction process requires a payment of $30, but includes 2 endmill bits. You must read this entire wiki page, and watch every video listed above ***before*** booking in.
 
-[Book the induction here](#https://calendly.com/brisbane-makerspace/cnc-router-induction)
+[Book the induction here](#https://calendly.com/brisbane-makerspace/cnc-router-induction) (NOTE: not live yet)
 
 # How To Operate
 ## Before Use
