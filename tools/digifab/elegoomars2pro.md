@@ -2,7 +2,7 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2022-06-21T05:30:28.163Z
+date: 2023-08-22T01:39:59.605Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
@@ -15,18 +15,21 @@ Our Elegoo Mars 2 Pro 3D Printer allows you to print with incredible resolution 
 *A picture of our Elegoo Mars 2 Pro 3D Printer*
 
 # Recommended Uses
-Resin printers have a fairly small build area when compared to traditional FDM printers. This means they are best suited for small parts, where detail and quality is the most important thing. Our resin printer is suitable for printing prototype parts, miniature figurines, etc.
+Resin printers have a fairly small build area when compared to traditional FDM printers and the process is messy and inconvenient. This means they are best suited for small parts, where detail and quality is the most important thing. Our resin printer is suitable for printing prototype parts, miniature figurines, etc.
 
 # Specifications
 **Usage Cost:** $3/hr
-**Induction Class:** Red Tool (Supervised Use Required)
+
+**Induction Class:** ⛔️ Red Tool (Supervised Use Required)
 **Print Area:** 129mm(L) x 80mm(W) x 160mm(H)
 **Print Speed:** 30mm to 50mm per hour
 
 # Induction Process
-This tool is a "Red Tool" which means it can only be used under the supervision of our staff. The resins involved in the printing process are extremely toxic and require special procedures, chemicals, and PPE to operate safely.
+This tool is a "Red Tool" which means it can only be used under supervision. Once you have enough experience operating this machine, you may be offered unsupervised access.
 
-If you would like to learn how to use this tool, visit during our open night and we'll give you an induction. Please note however, that use must be supervised by staff. We recommend you use our [job completion service](/services/job-completion) for resin prints if you're not available during staffed hours.
+**⛔️ This tool requires an induction before use.**
+
+To book an induction / time to use this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
@@ -50,6 +53,6 @@ You should be familiar with how to operate this tool after completing an inducti
 7. Check to make sure there is no uncured resin, then remove the UV cover on the curing station, remove your job, then replace the UV cover.
 
 # Approved Materials
-3D printer resins are highly toxic and require specialised chemicals and procedures to safely use them. As a result, we do not allow members to bring in their own 3D printer resins to use.
+3D printer resins are highly toxic and require specialised chemicals and procedures to safely use them. As a result, we do not allow members to bring in their own 3D printer resins to use except with special prior approval.
 
-We stock Nova3D "standard" resin in various colours (black, grey, and transparent blue). If you'd like to use a different resin, please let us know and we can order it in to keep on hand.
+We stock Nova3D "standard" and eSun ABS-like resin in various colours (usually black, grey, and transparent blue). If you'd like to use a different resin, please let us know and we can order it in to keep on hand.
