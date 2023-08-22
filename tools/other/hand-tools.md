@@ -2,7 +2,7 @@
 title: Hand Tools
 description: Learn more about our hand tools.
 published: true
-date: 2021-09-07T14:08:44.204Z
+date: 2023-08-22T04:08:02.776Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:51.296Z
@@ -15,7 +15,7 @@ We have a range of common hand tools like hammers, screw drivers, etc.
 *A picture of one of our hammers.*
 
 # Specifications
-**Induction Class:** Green Tool (No Induction Required)
+**Induction Class:** 🟢 Green Tool (No Induction Required)
 
 # How to use
 Use any relevant PPE such as eye glasses or gloves, depending on the tool and risks of how you're using it. If in doubt, please ask staff.
@@ -58,3 +58,4 @@ Here is a list of hand tools we keep on site:
 	![stanley-knife.png](/other/hand-tools/stanley-knife.png =x60)
 * Tape Measures
 	![tape-measure.png](/other/hand-tools/tape-measure.png =x60)
+* And more! We can't list everything here. :)
