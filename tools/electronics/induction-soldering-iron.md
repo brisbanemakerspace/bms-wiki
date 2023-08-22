@@ -2,7 +2,7 @@
 title: Induction Soldering Iron
 description: Learn about our induction soldering iron.
 published: true
-date: 2022-06-21T05:41:36.681Z
+date: 2023-08-22T03:13:51.604Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:36:25.662Z
@@ -24,9 +24,9 @@ This is a great general purpose soldering iron for experienced solderers. If you
 **Power Rating:** 55W 470kHz
 
 # Induction Process
-This induction has one part:
+**⚠️ This tool requires an induction before use.**
 
-1. Email us to book an appointment to be inducted.
+To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 
 # How To Operate
