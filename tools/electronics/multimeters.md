@@ -2,7 +2,7 @@
 title: Digital Multimeters
 description: Learn about our digital multimeters.
 published: true
-date: 2021-09-07T14:08:36.372Z
+date: 2023-08-22T03:55:51.836Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:40.179Z
@@ -18,7 +18,7 @@ Our digital multimeters are great for general testing and troubleshooting of you
 These are great for general purpose testing and troubleshooting of your electronic circuits as they can measure voltage, resistance, continuity, etc.
 
 # Specifications
-**Induction Class:** Green Tool (No Induction Required)
+**Induction Class:** 🟢 Green Tool (No Induction Required)
 **Model:** UNI-T UT136A
 **Max Voltage:** 500v
 **Max Current:** 10A
@@ -27,10 +27,9 @@ These are great for general purpose testing and troubleshooting of your electron
 **Measures:** Voltage, Current, Resistance, Diodes, Frequency, Continuity
 
 # Induction Process
-No induction required.
+🟢 This tool does not require an induction to use. If you'd like some help operating this for the first time, feel free to book an appointment for an induction.
 
-However, we do offer an electronics workshop for a complete introduction to electronics, including digital multimeters.
-https://brisbanemaker.space/workshops/
+To book an **optional** induction for this tool, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
