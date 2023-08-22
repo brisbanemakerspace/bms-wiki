@@ -2,7 +2,7 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2023-08-22T01:39:59.605Z
+date: 2023-08-22T04:34:02.650Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
@@ -20,14 +20,14 @@ Resin printers have a fairly small build area when compared to traditional FDM p
 # Specifications
 **Usage Cost:** $3/hr
 
-**Induction Class:** ⛔️ Red Tool (Supervised Use Required)
+**Induction Class:** 🔴 Red Tool (Supervised Use Required)
 **Print Area:** 129mm(L) x 80mm(W) x 160mm(H)
 **Print Speed:** 30mm to 50mm per hour
 
 # Induction Process
 This tool is a "Red Tool" which means it can only be used under supervision. Once you have enough experience operating this machine, you may be offered unsupervised access.
 
-**⛔️ This tool requires an induction before use.**
+**🔴 This tool requires an induction before use.**
 
 To book an induction / time to use this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
