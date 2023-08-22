@@ -2,7 +2,7 @@
 title: kWeld Battery Spot Welder
 description: Learn about our kWeld "next level" battery spot welder.
 published: true
-date: 2022-03-03T06:18:16.813Z
+date: 2023-08-22T03:55:24.711Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:59:01.759Z
@@ -18,16 +18,15 @@ The kWeld battery spot welder is an amazing tool for constructing and/or fixing 
 This is specifically designed for spot welding metal tabs onto battery cells. Any other use is not permitted and will result in a warning for breaching our [safety policy](/policies/safety).
 
 # Specifications
-**Induction Class:** Yellow Tool (Induction Required)
+**Induction Class:** 🟡 Yellow Tool (Induction Required)
 **Welding Input Voltage:**	4v - 30v
 **Maximum Switch Current:**	2,000A
 **Maximum Weld Energy:**	500 Joules
 
 # Induction Process
-This induction has two parts:
+**⚠️ This tool requires an induction before use.**
 
-1. Watch our online video induction (coming soon, for now skip to #2).
-2. Visit us during staffed hours to get signed off.
+To book an induction for this tool, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
