@@ -2,7 +2,7 @@
 title: Lab Power Supply
 description: Learn about our laboratory power supply.
 published: true
-date: 2023-08-22T03:53:13.582Z
+date: 2023-08-22T03:53:29.002Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:37.457Z
@@ -31,7 +31,7 @@ To book an induction for this machine, please use the "book appointment" link fr
 # How To Operate
 A quick reference guide is included below to assist you.
 
-> Note: never play with electricity unless you know what you are doing. Even at low voltages you can still receive a shock! Please ask staff for assistance if you've never used this tool before.
+> Note: never play with electricity unless you know what you are doing. Even at low voltages you can still receive a shock! Please ask for assistance if you've never used this tool before.
 {.is-warning}
 
 
