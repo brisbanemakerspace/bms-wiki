@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2023-03-16T02:58:19.498Z
+date: 2023-08-22T01:26:43.183Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -19,14 +19,15 @@ Our Adventurer 3 can be used for printing many different objects. It's setup to 
 
 # Specifications
 **IP Address:** 192.168.1.32
-**Usage Cost:** $2/hr (50% discount for BYO filament, see staff)
+**Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
+
 **Induction Class:** Orange Tool (Induction Required)
 **Print Area:** 150mm(L) x 150mm(W) x 150mm(H)
 **Nozzle Size:** 0.4mm
 **Max Nozzle Temp:** 240°C
 **Layer Heights:** 0.1mm - 0.3mm
 **Max Bed Temp:** 100°C
-**Supported Filaments:** ABS & PLA
+**Supported Filaments:** PLA, ABS & PETG
 
 # Induction Process
 This induction has one part:
