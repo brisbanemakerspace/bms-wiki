@@ -2,7 +2,7 @@
 title: Oscilloscope
 description: Learn about our oscilloscope.
 published: true
-date: 2021-09-21T06:09:41.110Z
+date: 2023-08-22T03:54:53.686Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-21T06:06:18.902Z
@@ -18,7 +18,7 @@ Our digital multimeters are great for general testing and troubleshooting of you
 These are great for general purpose testing and troubleshooting of your electronic circuits as they can measure voltage, resistance, continuity, etc.
 
 # Specifications
-**Induction Class:** Green Tool (No Induction Required)
+**Induction Class:** 🟢 Green Tool (No Induction Required)
 **Model:** Siglent SDS 1102DL+
 **Channels:** 2
 **Bandwidth:** 100MHz
@@ -26,10 +26,9 @@ These are great for general purpose testing and troubleshooting of your electron
 **USB Recording:** Yes
 
 # Induction Process
-No induction required.
+🟢 This tool does not require an induction to use. If you'd like some help operating this for the first time, feel free to book an appointment for an induction.
 
-However, we do offer an electronics workshop for a complete introduction to electronics, including oscilloscopes.
-https://brisbanemaker.space/classes/
+To book an **optional** induction for this tool, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 > Note: never play with electricity unless you know what you are doing. Even at low voltages you can still receive a shock! Never measure mains voltages unless you are a qualified electrician.
