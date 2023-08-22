@@ -2,7 +2,7 @@
 title: Fume Extractor
 description: Learn about our fume extractor for soldering.
 published: true
-date: 2021-09-11T12:02:29.081Z
+date: 2023-08-22T03:56:14.847Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T12:02:29.081Z
@@ -21,7 +21,9 @@ This unit is great at extractor small amount of soldering fumes and filtering so
 **Induction Class:** Green Tool (No Induction Required)
 
 # Induction Process
-No induction required.
+🟢 This tool does not require an induction to use. If you'd like some help operating this for the first time, feel free to book an appointment for an induction.
+
+To book an **optional** induction for this tool, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 Just switch on the power and position near your soldering project.
