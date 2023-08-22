@@ -2,7 +2,7 @@
 title: Photo Lightbox
 description: Our photography Lightbox allows you to take perfect photos of your projects (as long as they fit inside)!
 published: true
-date: 2022-08-11T02:00:11.176Z
+date: 2023-08-22T03:58:37.380Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T02:00:11.176Z
@@ -22,7 +22,7 @@ To setup, carefully slide the backdrops and lightbox out of the bag. Expand the 
 If you're having trouble setting this up, book an appointment with staff or feel free to ask in Discord.
 
 # Specifications
-**Induction Class:** Green Tool (**No Induction Required**)
+**Induction Class:** 🟢 Green Tool (**No Induction Required**)
 **Size:** Approx. 40cm
 **LED Power:** 10w
 **LED Temperature:** Warm White, Natural, Cool White
