@@ -2,7 +2,7 @@
 title: A4 Colour Printer
 description: Print (in 2D) using our AirPrint and WiFi enabled A4 laser printer.
 published: true
-date: 2022-08-11T01:23:43.683Z
+date: 2023-08-22T03:56:53.373Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:56.747Z
@@ -22,7 +22,7 @@ On Android and Windows computers, you may have to manually add our printer if it
 If you are having trouble printing, first check that you're connected to our WiFi or try restarting your device. If you're still having trouble, book an appointment with staff and we can get you setup.
 
 # Specifications
-**Induction Class:** Green Tool (**No Induction Required**)
+**Induction Class:** 🟢 Green Tool (No Induction Required)
 **Colour:** Full Colour
 **Size:** A4
 **Double Sided Printing:** Yes
