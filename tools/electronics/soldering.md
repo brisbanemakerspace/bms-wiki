@@ -2,14 +2,14 @@
 title: Soldering and Hot Air
 description: Learn about our soldering and hot air stations.
 published: true
-date: 2021-10-31T17:48:25.964Z
+date: 2023-08-22T03:14:24.504Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:42.974Z
 ---
 
 # Introduction
-We have two combined soldering and hot air stations with digital temperature control.
+We have three combined soldering and hot air stations with digital temperature control.
 
 ![solder_station.png](/electronics/solder_station.png =x300)
 *A picture of one of our combined soldering and hot air stations*
@@ -20,18 +20,14 @@ This is a great general purpose soldering iron as it has an adjustable soldering
 The hot air stations also have different sized tips/nozzles and are great for using on heat shrink and SMT parts. The air flow rate and temperature are also adjustable.
 
 # Specifications
-**Induction Class:** Yellow Tool (Induction Required)
+**Induction Class:** 🟡 Yellow Tool (Induction Required)
 **Temp Range:** 100 - 480°C
 **Max Air Flow:** 24L/min
 
 # Induction Process
-This induction has one part:
+**⚠️ This tool requires an induction before use.**
 
-1. Visit us during staffed hours to be inducted.
-
-***OR***
-
-Attend our introductory electronics workshop for a complete introduction. https://brisbanemaker.space/workshops/
+To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
