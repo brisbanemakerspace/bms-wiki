@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2023-08-22T03:08:18.861Z
+date: 2023-08-22T04:33:27.565Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -23,7 +23,7 @@ The CNC router is great for all sorts of things like making detailed 3D models, 
 # Specifications
 **Manufacturer:** [CNC3D](https://www.cnc3d.com.au)
 **Model:** [QueenBee CNC 1000x1500mm](https://www.cnc3d.com.au/product-page/queenbee-cnc-1000x1500mm/)
-**Induction Class:** Yellow Tool (**Induction Required**)
+**Induction Class:** 🟡 Yellow Tool (**Induction Required**)
 **Usable Work Area:** Approx. 1200x750mm
 **Z Travel:** Approx. 110mm (this is **not** the max cut depth!)
 **Max Cut Depth:** 94mm – Material Thickness (read more at the bottom of [this page](https://www.cnc3d.com.au/product-page/queenbee-cnc-1000x1500mm)).
