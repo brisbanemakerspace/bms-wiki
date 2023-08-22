@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-08-22T02:53:34.686Z
+date: 2023-08-22T04:33:09.955Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -29,7 +29,7 @@ You can also engrave text, images and other shapes directly onto your projects. 
 # Specifications
 **Usage Cost:** $10/hr of machine on time
 
-**Induction Class:** ⚠️ Orange Tool (Induction Required)
+**Induction Class:** 🟡 Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** ~100w power from a 130w rated Reci tube
 **Focal Length:** 50.8mm
