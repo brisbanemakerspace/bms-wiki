@@ -2,7 +2,7 @@
 title: Hand Tools
 description: Learn more about our hand tools.
 published: true
-date: 2023-08-22T04:08:02.776Z
+date: 2023-08-22T04:08:36.408Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:51.296Z
@@ -16,6 +16,11 @@ We have a range of common hand tools like hammers, screw drivers, etc.
 
 # Specifications
 **Induction Class:** 🟢 Green Tool (No Induction Required)
+
+# Induction Process
+🟢 These tools do not require an induction to use. If you'd like some help operating something for the first time, feel free to book an appointment for an induction.
+
+To book an **optional** induction, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How to use
 Use any relevant PPE such as eye glasses or gloves, depending on the tool and risks of how you're using it. If in doubt, please ask staff.
