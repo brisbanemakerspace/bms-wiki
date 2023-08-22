@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2023-08-22T01:27:22.765Z
+date: 2023-08-22T03:09:06.320Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -30,11 +30,9 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 **Supported Filaments:** PLA, ABS, PETG
 
 # Induction Process
-Please book an induction via the member portal.
+**⚠️ This tool requires an induction before use.**
 
-***OR***
-
-Attend our introductory 3D printing class for a complete introduction. https://brisbanemaker.space/classes/
+To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # Slicing Software
 These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
