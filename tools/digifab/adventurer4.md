@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2023-08-22T03:09:06.320Z
+date: 2023-08-22T04:34:49.525Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -21,7 +21,7 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 **IP Address:** 192.168.1.58
 **Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
 
-**Induction Class:** ⚠️ Orange Tool (Induction Required)
+**Induction Class:** 🟡 Orange Tool (Induction Required)
 **Print Area:** 220mm(L) x 200mm(W) x 250mm(H)
 **Nozzle Size:** 0.6mm
 **Max Nozzle Temp:** 265°C
@@ -30,7 +30,7 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 **Supported Filaments:** PLA, ABS, PETG
 
 # Induction Process
-**⚠️ This tool requires an induction before use.**
+**🟡 This tool requires an induction before use.**
 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
