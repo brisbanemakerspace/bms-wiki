@@ -2,7 +2,7 @@
 title: Air Nailer and Stapler
 description: Learn about our Air Nailer and Stapler.
 published: true
-date: 2022-08-11T01:24:50.821Z
+date: 2023-08-22T04:10:11.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:54.025Z
@@ -17,23 +17,11 @@ We have a 2 in 1 Ryobi Air Nailer and Stapler.
 Our Ryobi Air Nailer and Stapler is great for working on furniture re-upholstery, and holding laser cut wood projects in place until the glue dries.
 
 # Specifications
-**Induction Class:** Yellow Tool (Induction Required)
+**Induction Class:** 🟡 Yellow Tool (Induction Required)
 **Brad Nail Range:** 15-32mm
 **Staple Range:** 16-32mm
 
 # Induction Process
-This induction has one part:
+**⚠️ This tool requires an induction before use.**
 
-1. Complete the online component by visiting this link: https://comingsoon.example.com
-
-# How To Operate
-You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
-
-## Before Use
-1. 
-
-## During Use
-1. 
-
-## After Use
-1. 
+To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
