@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-08-22T01:34:07.602Z
+date: 2023-08-22T02:53:34.686Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -14,10 +14,12 @@ Our laser cutter is one of our most popular tools. It can be used to cut or engr
 ![laser.png](/digitalfabrication/laser.png =x300)
 *A picture of our laser cutter*
 
-# Bookings
-[BMS Events and Bookings](https://s.bms.wiki/bms-calendar)
-or
-[Make a New Booking](https://s.bms.wiki/laser-book-time)
+# Opt-in Booking System
+Please use the link in the [member portal](https://portal.brisbanemaker.space) to see existing bookings or to make a new one. We operate an opt-in booking system for this machine.
+
+It's called an opt-in booking system because you can still use it before/after your booked time or without a booking, but you may have to share with other members.
+
+Please read our full tool sharing and booking policy [here](/policies/fair-use#tool-sharing) for details.
 
 # Recommended Uses
 You can cut out unique shapes from sheets of materials up to 8-10mm thick (material dependent). Laser cutting is ideal for making mounting plates, custom enclosures and boxes, personalising projects, etc.
@@ -34,6 +36,11 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Max Cut Depth:** Up to 8mm - 10mm (depending on material, acrylic and ply work best at up to 6mm)
 **Notable Features:** camera assisted job positioning; automatic focus; automated extraction, air assist and cooling system.
 
+# Induction Process
+**⚠️ This tool requires an induction before use.**
+
+To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
+
 ## Camera Positioning System
 We have a super cool camera positioning system setup on the laser cutter. It allows you to put offcuts or irregular sized sheets inside and visually move your cut/engrave job around with a preview of where it's going to cut.
 
@@ -46,11 +53,6 @@ You can bring your files:
 * on a USB flash drive/SD card
 * use AirDrop to copy it to our iMac
 * login to google drive etc. directly on our iMac
-
-# Induction Process
-**⚠️ This tool requires an induction before use.**
-
-To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
