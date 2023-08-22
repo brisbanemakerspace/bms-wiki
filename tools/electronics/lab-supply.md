@@ -2,7 +2,7 @@
 title: Lab Power Supply
 description: Learn about our laboratory power supply.
 published: true
-date: 2021-09-11T12:58:48.239Z
+date: 2023-08-22T03:53:13.582Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:37.457Z
@@ -18,12 +18,15 @@ Our lab power supply is rated to deliver up to 60V at 5A.
 This is a great general purpose power supply for use when building and prototyping electronic circuits.
 
 # Specifications
-**Induction Class:** Green Tool (No Induction Required)
+**Induction Class:** 🟡 Yellow Tool (No Induction Required)
 **Max Power:** Up to 300w
 **Max Output:** 60v at 5A
 
+
 # Induction Process
-No induction required.
+**⚠️ This tool requires an induction before use.**
+
+To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 A quick reference guide is included below to assist you.
