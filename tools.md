@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-08-10T03:52:29.354Z
+date: 2023-08-22T04:35:01.586Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -140,7 +140,7 @@ All tools are available on a first come, first serve basis. Most of the time the
  
 
 ## Woodworking
-**Due to the current lack of an induction process for members, these tools can only be used by staff for small/once off jobs.**
+Due to the current lack of an induction process for members, these tools can only be used by staff for small/once off jobs. We are in the process of setting up a proper induction process so stay tuned!
 - [Mitre Saw
 		![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =60x)
 	](/tools/woodworking/makita-mitre-saw)
