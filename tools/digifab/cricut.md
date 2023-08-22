@@ -2,7 +2,7 @@
 title: Cricut
 description: Learn about our cricut machine.
 published: true
-date: 2022-06-21T05:33:01.357Z
+date: 2023-08-22T03:13:09.304Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:25.709Z
@@ -19,13 +19,15 @@ Our Cricut Explore 3 is a cutting machine that can cut out lots of different sha
 
 # Specifications
 **Model:** Cricut Explore 3
-**Induction Class:** Green Tool (NO Induction Required)
-**Cut Area:** 330 wide x 3.6m Max Length
+**Induction Class:** 🟢 Green Tool (No Induction Required)
+**Cut Area:** 330mm wide x 3.6m Max Length
 **Max Material Thickness:** Up to 2.4mm
 **Software:** Cricut Design Space
 
 # Induction Process
-No induction necessary, but drop by during our open night or book an appointment if you need assistance.
+🟢 This tool does not require an induction to use. However, please be careful as it's delicate and expensive! If you'd like some help operating this for the first time, feel free to book an appointment for an induction.
+
+To book an **optional** induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
