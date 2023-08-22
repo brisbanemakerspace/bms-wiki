@@ -2,7 +2,7 @@
 title: Revopoint POP 2 3D Scanner
 description: Recreate broken parts, scan yourself, or create 3D models to reference - the possibilities are endless!
 published: true
-date: 2022-10-06T05:31:02.148Z
+date: 2023-08-22T03:11:22.587Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T04:54:24.339Z
@@ -20,8 +20,8 @@ The 3D Scanner is ideal for scanning objects about as small as a USB flash drive
 # Specifications
 **Manufacturer:** [Revopoint](https://www.revopoint3d.com)
 **Model:** [POP 2](https://www.revopoint3d.com/spec-pop2/)
-**Induction Class:** Green Tool (Induction NOT Required)
-**Biggest Object Size:** No Limite (although we recommend nothing bigger than a person typically)
+**Induction Class:** 🟢 Green Tool (Induction NOT Required)
+**Biggest Object Size:** 2x2x2 m
 **Smallest Object Size:** 10x10x10 mm
 **Scanner Type:** Dual camera infrared structured light
 **Output Formats:** PLY, OBJ, STL
@@ -34,7 +34,9 @@ You should download the latest version of **Revo Scan** for your Mac or PC at th
 This software is also installed on the 3D printing iMac, but it may be easier to install it on your own laptop so it's more portable.
 
 # Induction Process
-This tool does not require an induction to use. However, please be careful as it's delicate and expensive!
+🟢 **This tool does not require an induction to use.** However, please be careful as it's delicate and expensive! If you'd like some help operating this for the first time, feel free to book an appointment for an induction.
+
+To book an **optional** induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 # How To Operate
 ## Before Use
