@@ -2,14 +2,14 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2023-08-22T04:33:27.565Z
+date: 2023-09-01T03:36:41.197Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
 ---
 
 # Introduction
-> This wiki page is **INCOMPLETE** and will be finished prior to this machine being put into general service. Please check back before you use it for the first time.
+> This wiki page is **INCOMPLETE** as **this machine is still being setup**. It will be finished prior to this machine being put into general service. Please check back before you use it for the first time.
 > 
 > Current ETA for general availability: **Mid September**
 {.is-danger}
