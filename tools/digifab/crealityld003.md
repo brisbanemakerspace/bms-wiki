@@ -2,7 +2,7 @@
 title: Creality LD-003 3D Printer
 description: Learn about our Creality LD-003 3D Printer.
 published: true
-date: 2023-09-07T08:05:07.160Z
+date: 2023-09-07T08:05:19.498Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T08:05:07.160Z
@@ -18,7 +18,7 @@ Our Creality LD-003 3D Printer allows you to print with incredible resolution fo
 Resin printers have a fairly small build area when compared to traditional FDM printers and the process is messy and inconvenient. This one however is pretty huge! This printer is suitable when detail and quality is the most important thing. Our resin printer is suitable for printing prototype parts, miniature figurines, etc.
 
 # Specifications
-**Usage Cost:** $3/hr
+**Usage Cost:** $2/hr
 
 **Induction Class:** 🔴 Red Tool (Supervised Use Required)
 **Print Area:** 192mm(L) x 120mm(W) x 230mm(H)
