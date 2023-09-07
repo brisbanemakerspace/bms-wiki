@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-09-07T08:05:31.614Z
+date: 2023-09-07T08:05:59.393Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -28,7 +28,7 @@ All tools are available on a first come, first serve basis. Most of the time the
   	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
   ](/tools/digifab/elegoomars2pro)
     
-- [Resin 3D Printer (Resin Printer 2)
+- [Resin 3D Printer (Resin Printer 2) (NOT FUNCTIONAL - being setup currently)
   	![creality_ld-003.png](/digitalfabrication/creality_ld-003.png =60x)
   ](/tools/digifab/crealityld003)
 
