@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-09-07T08:05:59.393Z
+date: 2023-09-14T00:46:31.984Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -16,6 +16,10 @@ Due to safety concerns, most tools require training or supervision to use. This 
 All tools are available on a first come, first serve basis. Most of the time the tool you want to use will be available, but if someone else is already using it, you are expected to share as per our [fair use policy](https://wiki.brisbanemaker.space/policies/fair-use#tool-sharing). All tools must remain on site and cannot be borrowed for any reason.
 
 ## Digital Fabrication
+- [iMac Computers
+		![imac.png](/digitalfabrication/imac.png =x80)
+	](/tools/digifab/imac)
+  
 - [Laser Cutter (700x500 area)
 		![laser.png](/digitalfabrication/laser.png =60x)
 	](/tools/digifab/lasercutter)
