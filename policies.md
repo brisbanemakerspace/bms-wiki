@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2022-09-22T04:30:30.544Z
+date: 2023-09-14T05:57:35.935Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -13,10 +13,11 @@ We try to foster a fun, safe and collaborative environment at Brisbane Makerspac
 
 Our policies may change at any time. Significant changes will be anounced to members via email.
 
-The overarching theme to our policies can be summarised as:
-* be respectful
-* be reasonable
-* be honest
+The overarching themes of our policies can be summarised as:
+* be respectful to other people and the space
+* be reasonable and don't take advantage of people or the space
+* be honest and don't try to hide things or mislead people
+* **make good choices**
 
 # Policies
 - [Parking](/policies/parking)
@@ -27,3 +28,5 @@ The overarching theme to our policies can be summarised as:
 - [Fair Use](/policies/fair-use)
 - [Fee Schedule](/policies/fees)
 - [Bad Behaviour](/policies/bad-behaviour)
+
+# How Tos
