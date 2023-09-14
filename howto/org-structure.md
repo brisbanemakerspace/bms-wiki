@@ -2,7 +2,7 @@
 title: Organisational Structure
 description: How does BMS operate and what does the organisational structure look like?
 published: true
-date: 2023-09-14T07:00:11.770Z
+date: 2023-09-14T07:44:35.957Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T07:00:11.770Z
@@ -15,6 +15,8 @@ The [Constitution](/policies/constitution) requires a special resolution to make
 
 # Governance Groups
 Like most organisations, we have different groups of people who are responsible for different things. The sections below explain all the groups of people we have.
+
+![bms_org_structure.drawio.png](/admin/bms_org_structure.drawio.png)
 
 ## Management Committee
 The management committee is responsible for the *administration* and *governance* of the association and is accountable to *all Voting Members*. These are defined in section 17 of our constitution.
