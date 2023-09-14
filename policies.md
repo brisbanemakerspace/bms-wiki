@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-09-14T05:57:35.935Z
+date: 2023-09-14T06:15:13.905Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -30,3 +30,14 @@ The overarching themes of our policies can be summarised as:
 - [Bad Behaviour](/policies/bad-behaviour)
 
 # How Tos
+## General
+- [Close up as the last person to leave](/howto/closeup)
+- [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
+- [Make changes to this wiki](/howto/make-wiki-changes)
+- [Manage your membership](/howto/manage-membership)
+
+## Governance
+- [Navigate the BMS organisational structure](/howto/org-structure)
+- [Participate in general meetings](/howto/general-meetings)
+- [Buy a new tool or asset](/howto/buy-something)
+- [Run a Working Group](/howto/run-working-groups)
