@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-09-14T01:08:58.780Z
+date: 2023-09-14T04:41:06.858Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -113,13 +113,15 @@ All tools are available on a first come, first serve basis. Most of the time the
 ## Craft
 - [Craft Supplies / Consumables](https://wiki.brisbanemakerspace.co/en/craft-supply-boxes)
 
-- Knitting, Crocheting, and Sewing
+- Knitting & Crocheting
+
+- Sewing
 
 - Sewing Machine
 
-- Overlocker
+- Overlocker Machine
 
-- Dremel Rotary Tool
+- Dremel Rotary Tools
 
 ## Ryobi Cordless Tools
 - [Ryobi ONE+ Batteries
