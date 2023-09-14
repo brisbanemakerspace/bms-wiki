@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-09-14T04:41:06.858Z
+date: 2023-09-14T05:04:28.925Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -204,6 +204,6 @@ We are in the process of setting up a proper induction process so stay tuned!
 		![ryobi-cutoff.png](/other/ryobi-cutoff.png =x60)
   ](/tools/other/cutoff)
 
-- [Ryobi Shop Vac
+- [Shop Vacs
 		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =x60)
   ](/tools/other/shopvac)
