@@ -2,7 +2,7 @@
 title: iMac Computers
 description: Our iMac computers are setup to run all of our digifab machines and can be used for CAD, graphic design, etc.
 published: true
-date: 2023-09-14T01:08:15.792Z
+date: 2023-09-14T01:10:12.822Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T01:08:15.792Z
@@ -21,6 +21,8 @@ Each iMac should have a "Brisbane Makerspace" user account at minimum. This is t
 Our iMacs run macOS, which may look unfamiliar if you're used to using Windows on a PC or other laptop. They are very user friendly, and simple to use. The main difference is use "command + shortcut_key" instead of "control + shortcut_key" for all of your keyboard short cuts like copy/pasting. The other main difference is the program to access all of your files is called "Finder" (the blue/white smiley face) rather than "File Explorer".
 
 The USB ports (ie for connecting a flash drive) are located on the rear right hand side. The power button is located on the rear left hand side.
+
+Do not shut down or power off the iMac when you are finished. They will automaticlaly go to sleep after a few minutes.
 
 # Specifications
 **Induction class:** Green Tool (No induction required)
