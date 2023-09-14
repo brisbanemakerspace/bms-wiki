@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-09-14T06:15:13.905Z
+date: 2023-09-14T06:33:58.941Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -20,6 +20,7 @@ The overarching themes of our policies can be summarised as:
 * **make good choices**
 
 # Policies
+- [Constitution](/policies/constitution)
 - [Parking](/policies/parking)
 - [Community Rules](/policies/communityrules)
 - [Code of Conduct](/policies/codeofconduct)
