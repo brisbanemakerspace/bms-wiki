@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2023-09-20T11:33:44.130Z
+date: 2023-09-20T12:38:22.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -64,6 +64,16 @@ You should be familiar with how to operate this tool after completing an inducti
 1. Wait for the print bed to cool down before removing it.
 2. Gently flex the print bed to release your object. You may need to use a spatula to help it off.
 3. Clean up all bits of loose filament / plastic from around the print area, and gently use side cutters to remove excess plastic from the print bed.
+
+# How to level / calibrate Z offset
+Found from a very helpful [reddit post](https://www.reddit.com/r/FlashForge/comments/12rsbt5/guide_tramming_levelling_on_a_creator_3/) that seems to work well.
+
+1. First clean your nozzles so they are pristine, that tiny bit of filament might trigger the sensor early and ruin everything.
+2. Run the level option on the main menu, select left extruder, complete it.
+3. Run the level option on the main menu, select right extruder, if there are ANY changes, as in did it ask you to turn one of the knobs, complete it and run level on the left extruder again, then right again until it completes without knob/nut changes.
+4. Run Z-calibration, use your feeler gauge* and use the height you normally print at (** see note), if you print at 0.20, use that gauge, put it flat on the bed and let the nozzle hit it.
+5. Turn on 9 point mesh level and run it, don’t use your gauge just let it do its thing.
+6. Optional: turn on 9 point before each print, I do this and I find it helps when you accidentally put your plate at a slightly weird angle clipping the guide bits.
 
 # Brisbane Makerspace Stocked Materials
 We try to keep the following filaments in stock for members to use but check with staff ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
