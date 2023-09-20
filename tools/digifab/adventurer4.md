@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2023-08-22T04:34:49.525Z
+date: 2023-09-20T11:29:43.088Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -18,7 +18,7 @@ Our Adventurer 4 is a mid size, highly capable machine. It's enclosed print area
 Our Adventurer 4 can be used for printing many different objects. It's setup to print with ABS or PLA which gives a great surface finish, and strong, structurally sound parts. Use it for printing brackets, enclosures and other small parts. For faster and cheaper prints, swap out the standard 0.4mm nozzle for a 0.6mm nozzle. You can also print high temperature filaments like ABS, PLA, PC, PETG, PLA-CF or PETG-CF. Note that we only keep ABS and PLA in stock, BYO for other filament types.
 
 # Specifications
-**IP Address:** 192.168.1.58
+**IP Address:** 192.168.1.202
 **Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
 
 **Induction Class:** 🟡 Orange Tool (Induction Required)
