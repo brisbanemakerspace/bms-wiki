@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2023-09-07T07:54:40.980Z
+date: 2023-09-20T11:31:41.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -20,8 +20,8 @@ Our Creator 3 is a large, highly capable machine. It's enclosed print area and i
 Our Creator 3 can be used for printing many different objects. It's setup to print with ABS or PLA which gives a great surface finish, and strong, structurally sound parts. Use it for printing brackets, enclosures and other small parts. You can also print high temperature filaments! Note that we only keep ABS and PLA in stock, BYO for other filament types.
 
 # Specifications
-**IP Address:** tbc
-**Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
+**IP Address:** 192.168.1.203
+**Usage Cost:** $2/hr or $40/kg (free for BYO filament)
 
 **Induction Class:** 🟡 Orange Tool (Induction Required)
 **Print Area:** 300mm(L) x 250mm(W) x 200mm(H)
