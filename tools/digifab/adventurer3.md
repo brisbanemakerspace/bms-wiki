@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2023-08-22T04:34:25.553Z
+date: 2023-09-20T11:29:36.027Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -18,7 +18,7 @@ Our Adventurer 3 is small in size but mighty in capability. It's enclosed print 
 Our Adventurer 3 can be used for printing many different objects. It's setup to print with ABS or PLA which gives a great surface finish, and strong, structurally sound parts. Use it for printing brackets, enclosures and other small parts.
 
 # Specifications
-**IP Address:** 192.168.1.32
+**IP Address:** 192.168.1.201
 **Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
 
 **Induction Class:** 🟡 Yellow Tool (Induction Required)
