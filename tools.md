@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-09-14T05:04:28.925Z
+date: 2023-09-20T11:29:10.407Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -27,26 +27,26 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [CNC Router (1200x750 area)
 		![laser.png](/digitalfabrication/cnc-xs.png =70x)
 	](/tools/digifab/cncrouter)
-  
-- [Resin 3D Printer (Resin Printer 1)
-  	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
-  ](/tools/digifab/elegoomars2pro)
-    
-- [Resin 3D Printer (Resin Printer 2) (NOT FUNCTIONAL - being setup currently)
-  	![creality_ld-003.png](/digitalfabrication/creality_ld-003.png =60x)
-  ](/tools/digifab/crealityld003)
 
-- [3D Printer (Printer 1)
+- [3D Printer 1 (Flashforge Adventurer 3)
 		![adventurer_3.png](/digitalfabrication/adventurer_3.png =x60)
   ](/tools/digifab/adventurer3)
 
-- [3D Printer (Printer 2)
+- [3D Printer 2 (Flashforge Adventurer 4)
 		![adventurer_4.png](/digitalfabrication/adventurer_4.png =x60)
   ](/tools/digifab/adventurer4)
 
-- [3D Printer (Printer 3) (NOT FUNCTIONAL - being setup currently)
+- [3D Printer 3 (Flashforge Creator 3)
 		![creator3.png](/digitalfabrication/creator3.png =x60)
   ](/tools/digifab/creator3)
+  
+- [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
+  	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
+  ](/tools/digifab/elegoomars2pro)
+    
+- [Resin 3D Printer 2 (Creality LD-003) (NOT FUNCTIONAL - being setup currently)
+  	![creality_ld-003.png](/digitalfabrication/creality_ld-003.png =60x)
+  ](/tools/digifab/crealityld003)
   
 - [3D Scanner
 		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
