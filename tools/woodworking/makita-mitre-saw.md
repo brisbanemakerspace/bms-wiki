@@ -2,14 +2,14 @@
 title: Makita Mitre Saw
 description: Our Makita mitre saw is great for cutting up larger lengths of timber and some other materials.
 published: true
-date: 2023-08-10T03:55:12.627Z
+date: 2023-09-21T13:34:12.601Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T02:27:24.299Z
 ---
 
 # Introduction
-> Our Makita mitre saw is loud, messy, and dangerous. It can only be used by a staff member on site.
+> This tool requires an induction.
 {.is-warning}
 
 ![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =x300)
@@ -20,8 +20,20 @@ dateCreated: 2022-08-11T02:27:24.299Z
 
 Please book in a time with a staff member to use. This tool **CANNOT BE USED BY MEMBERS**. Eventually our aim is to create an induction so members can use it, but there is no ETA for this.
 
+# Induction process
+## 1. Watch ALL of these videos
+1. https://youtu.be/jY2Ru6GeRcU
+2. https://youtu.be/dRvhMmEq0UY
+3. https://youtu.be/-hN2jWPAyzs
+
+## 2. Complete the online induction
+(COMING SOON)
+
+## 3. Book in a time for a competency check
+To book in a competency check and get signed off, please use the "book appointment" link from the member portal.
+
 # Specifications
-**Induction class:** Red Tool (**Supervised Use Required**)
+**Induction class:** 🟡 Yellow Tool
 **Max Cutting Depth:** 300mm
 **Mitre Angles**: 45° left and right bevel with mitre cuts at 60° right, 47° left
 **Blade Size:** 260mm
