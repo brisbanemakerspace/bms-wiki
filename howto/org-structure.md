@@ -2,7 +2,7 @@
 title: Organisational Structure
 description: How does BMS operate and what does the organisational structure look like?
 published: true
-date: 2023-09-14T07:44:35.957Z
+date: 2023-09-26T20:50:11.805Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T07:00:11.770Z
@@ -81,13 +81,13 @@ Everyone who's officially part of the organisation must be a member. We have 3 d
 - is entitled to attend a general meeting as an observer but is **not entitled to a vote** at a general meeting
 - may be part of a Working Group
 
-## Voting Member
+## Volunteer Member
 - is entitled to access the association’s resources and facilities in line with any relevant by-laws
 - is entitled to one vote at a general meeting
 - may be part of a Working Group
 - must meet the following requirements:
   - held membership of the association for at least 3 months
-  - requires a motion to be passed at an executive or general meeting supporting the application to become a Volunteer Member
+  - requires a motion to be passed at a committee or general meeting supporting the application to become a Volunteer Member
   - have in place a signed volunteer agreement committing to perform certain volunteer task(s)
 
 
