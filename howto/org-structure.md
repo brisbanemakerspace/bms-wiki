@@ -2,16 +2,16 @@
 title: Organisational Structure
 description: How does BMS operate and what does the organisational structure look like?
 published: true
-date: 2023-09-26T20:50:11.805Z
+date: 2023-09-26T22:40:18.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T07:00:11.770Z
 ---
 
-# What type of group is BMS Inc?
-BMS Inc. is an incorporated association. We are incorporated under the State of QLD's Incorporated Associations Act. BMS Inc. is it's own separate legal entity just like a person or a business. The BMS Inc. [Constitution](/policies/constitution) is the legally binding document that controls how we operate.
+# What type of group is Brisbane Makerspace?
+Brisbane Makerspace is a trading name of Meanjin Makerspace Inc. However we often use BMS or "the space" to refer to the group. We are an incorporated association, incorporated under the State of Queensland's Incorporated Associations Act. Meanjin Makerspace Inc. is it's own separate legal entity just like a person or a business. The Meanjin Makerspace Inc. [Constitution](/policies/constitution) is the legally binding document that controls how we operate.
 
-The [Constitution](/policies/constitution) requires a special resolution to make changes to, and approval by the Office of Fair trading to enact. In addition to the constitution, we have various by-laws that the association creates from time to time to manage the operations of the association. These by-laws are called our "policies" and can be changed out a general meeting.
+The [Constitution](/policies/constitution) requires a special resolution to make changes to, and approval by the Office of Fair trading to enact. In addition to the constitution, we have various by-laws that the association creates from time to time to manage the operations of the association. These by-laws are called our "policies" and can be changed at a general meeting.
 
 # Governance Groups
 Like most organisations, we have different groups of people who are responsible for different things. The sections below explain all the groups of people we have.
@@ -19,7 +19,7 @@ Like most organisations, we have different groups of people who are responsible 
 ![bms_org_structure.drawio.png](/admin/bms_org_structure.drawio.png)
 
 ## Management Committee
-The management committee is responsible for the *administration* and *governance* of the association and is accountable to *all Voting Members*. These are defined in section 17 of our constitution.
+The management committee (or just committee for short) is responsible for the *administration* and *governance* of the association and is accountable to *all Volunteer Members*. These are defined in section 17 of our constitution.
 
 ### President
 The president’s primary responsibility is to ensure that the management committee governs effectively and to help the association pursue its objects.
@@ -67,11 +67,11 @@ The head maker is responsible for the association *operations*, not *management*
 ## Working Groups
 The Working Groups are responsible for both the *administration* and *operations* of certain parts of the association and are accountable to the *head maker*. These are things like safety, digital fabrication, electronics, infrastructure, etc. You can see the list of Working Groups [here](/working-groups).
 
-## Voting Members
-All members who are entitled to vote are responsible for keeping everyone above accountable and approving changes to rules, roles, etc..
+## Volunteer Members
+All members who are entitled to vote are called Volunteer Members and are responsible for keeping everyone above accountable and approving changes to rules, roles, etc.
 
 ## Standard Members (non-voting)
-These are all the other people who are members of the association, but do not have voting rights and don't have any direct input into it's governance. (included here for completeness)
+These are all the other people who are members of the association, but do not have voting rights and don't have any direct input into it's governance. However, non-voting members are entitled to access our facilities and observe any general meetings.
 
 # Membership Classes
 Everyone who's officially part of the organisation must be a member. We have 3 different membership classes. These are written into our [Constitution](/policies/constitution) under section 5.
