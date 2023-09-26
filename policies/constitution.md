@@ -2,7 +2,7 @@
 title: BMS Inc. Constitution
 description: The official BMS Inc. constitution.
 published: false
-date: 2022-05-17T06:11:51.236Z
+date: 2023-09-26T20:50:43.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T15:24:03.792Z
@@ -32,7 +32,7 @@ dateCreated: 2022-05-04T15:24:03.792Z
 2. A word or expression that is not defined in these model rules, but is defined in the Act has, if the context permits, the meaning given by the Act.
 
 ## 2. Name
-The name of the incorporated association is BMS Inc. **(the association)**.
+The name of the incorporated association is Meanjin Makerspace Inc. **(the association)**.
 
 ## 3. Objects
 The objects of the association are—
