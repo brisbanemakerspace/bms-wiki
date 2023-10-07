@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-09-26T20:56:19.232Z
+date: 2023-10-07T12:27:46.738Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -19,8 +19,11 @@ The overarching themes of our policies can be summarised as:
 * be honest and don't try to hide things or mislead people
 * **make good choices**
 
-# Policies
+# New NFP Policies (Meanjin Makerspace Inc.)
 - [Constitution](/policies/constitution)
+- More coming shortly
+
+# Old Pre NFP Policies
 - [Parking](/policies/parking)
 - [Community Rules](/policies/communityrules)
 - [Code of Conduct](/policies/codeofconduct)
