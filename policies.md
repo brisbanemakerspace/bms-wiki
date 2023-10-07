@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-07T12:27:46.738Z
+date: 2023-10-07T12:33:45.165Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -20,7 +20,7 @@ The overarching themes of our policies can be summarised as:
 * **make good choices**
 
 # New NFP Policies (Meanjin Makerspace Inc.)
-- [Constitution](/policies/constitution)
+- [Constitution](/constitution)
 - More coming shortly
 
 # Old Pre NFP Policies
