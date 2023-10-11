@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-10-11T05:56:42.738Z
+date: 2023-10-11T05:57:25.909Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -41,6 +41,10 @@ You can also engrave text, images and other shapes directly onto your projects. 
 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
+
+# How To Operate
+You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
+
 ## Camera Positioning System
 We have a super cool camera positioning system setup on the laser cutter. It allows you to put offcuts or irregular sized sheets inside and visually move your cut/engrave job around with a preview of where it's going to cut.
 
@@ -55,9 +59,6 @@ You can bring your files:
 * login to google drive etc. directly on our iMac
 
 You don't need to set your cut files with specific colours / thicknesses etc for cutting vs engraving. All of that is configured inside lightburn before being sent to the machine. However, we do recommend that you group your jobs by cuts and engraves. On import, lightburn assigns layers by colour so having all your cuts as one colour, and all your engraves as a different colour is helpful. Once in lightburn, you apply certain profiles (like say one for cutting and a different one for engraving) to each layer.
-
-# How To Operate
-You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
 
 ## Before Use
 1. Check that your material is on the approved materials list.
