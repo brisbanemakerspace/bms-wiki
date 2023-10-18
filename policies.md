@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-18T22:29:54.841Z
+date: 2023-10-18T22:30:17.764Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -23,7 +23,7 @@ The overarching themes of our policies can be summarised as:
 - [Constitution](/constitution)
 - More coming shortly
 
-# Old Pre NFP Policies
+# Old Pre NFP Policies (STILL IN FORCE!)
 - [Parking](/policies/parking)
 - [Community Rules](/policies/communityrules)
 - [Code of Conduct](/policies/codeofconduct)
