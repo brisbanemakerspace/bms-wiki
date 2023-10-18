@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-07T12:33:45.165Z
+date: 2023-10-18T22:29:54.841Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -33,7 +33,7 @@ The overarching themes of our policies can be summarised as:
 - [Fee Schedule](/policies/fees)
 - [Bad Behaviour](/policies/bad-behaviour)
 
-# How Tos
+# How To Guides
 ## General
 - [Close up as the last person to leave](/howto/closeup)
 - [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
