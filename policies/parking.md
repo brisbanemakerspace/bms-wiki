@@ -21,7 +21,7 @@ These parking spaces are provided on a best effort basis for member convenience 
   * If you leave and come back, move to another park, etc. this does not reset the time limit.
 * Whilst your car is parked in one of our parking spaces, you must remain physically on site at Brisbane Makerspace.
   * These ARE NOT car parks you can use anytime you are in the area.
-  * Short trips (<30 minutes) to get lunch etc. is fine, but if you are gone longer than this your car may be towed.
+  * Short trips off site (<30 minutes) to get lunch etc. is fine, but if you are gone longer than this your car may be towed.
 * Brisbane Makerspace has the right to ask you to move your vehicle offsite for any reason and at any time without notice. If you are unable to do so within a reasonable time, your car may be towed.
 
 ## Breach of these conditions
