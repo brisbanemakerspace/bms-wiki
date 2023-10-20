@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T06:42:04.083Z
+date: 2023-10-20T06:42:41.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -24,6 +24,7 @@ The different sewing feet and tools are stored in the flatbed attachment in the 
 - **Induction Class:** 🟡 Yellow Tool (Induction Required)
 - **Available Needle Sizes:** TBD
 - **Available Feet**: Buttonhole, Overcasting, Monogramming, Zipper, Zigzag, Blind Stitch, Button Fitting
+- **Foot Size**: 5mm
 - **[Instruction Manual](/tools/brother-ns50-operating-manual.pdf)**
 {.grid-list}
 
