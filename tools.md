@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-09-20T11:29:10.407Z
+date: 2023-10-20T05:58:43.622Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -111,13 +111,13 @@ All tools are available on a first come, first serve basis. Most of the time the
   ](/tools/other/lightbox)
 
 ## Craft
-- [Craft Supplies / Consumables](https://wiki.brisbanemakerspace.co/en/craft-supply-boxes)
+- [Craft Supplies / Consumables](/craft-supply-boxes)
 
 - Knitting & Crocheting
 
 - Sewing
 
-- Sewing Machine
+- [Sewing Machine](/tools/other/brother-ns50)
 
 - Overlocker Machine
 
