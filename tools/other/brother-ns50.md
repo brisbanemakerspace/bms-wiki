@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T03:51:56.949Z
+date: 2023-10-20T04:40:23.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -33,7 +33,5 @@ To book an induction for this machine, please use the "book appointment" link fr
 ## Potential Hazards
 
 ![entrapment.png](/sops/warning-icons/entrapment.png)
-{.sop-symbol}
-
 ![sharp_element.png](/sops/warning-icons/sharp_element.png)
-{.sop-symbol}
+{.sop-symbols}
