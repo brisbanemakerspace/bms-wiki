@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T05:12:40.234Z
+date: 2023-10-20T05:18:16.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -32,6 +32,9 @@ To book an induction for this machine, please use the "book appointment" link fr
 
 ## Potential Hazards
 
-![entrapment.png](/sops/warning-icons/entrapment.png)
-![sharp_element.png](/sops/warning-icons/sharp_element.png)
-{.sop-symbols}
+|--|--|
+|![entrapment.png](/sops/warning-icons/entrapment.png)[Entanglement]() {.sop-symbols}|![sharp_element.png](/sops/warning-icons/sharp_element.png) {.sop-symbols}|
+
+### Entrapment
+
+The sewing machine has many moving parts that can become entangled with hair or clothing. 
