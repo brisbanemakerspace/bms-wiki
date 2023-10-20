@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T05:42:10.383Z
+date: 2023-10-20T05:43:26.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -31,14 +31,14 @@ To book an induction for this machine, please use the "book appointment" link fr
 # Tool Safety
 
 |---|---|
-|![Entanglement](/sops/warning-icons/entanglement.png)|![Sharp Element](/sops/warning-icons/sharp_element.png)|
+|![Entanglement](/sops/warning-icons/entanglement.png)|![Sharp Elements](/sops/warning-icons/sharp_element.png)|
 |Entanglement|Sharp Elements|
 {.sop-symbols}
 
-## Entanglement Hazard
+## Entanglement
 
 The sewing machine has moving parts that can become entangled with hair or clothing.
 
-## Sharp Element
+## Sharp Elements
 
 The needle of the sewing machine is a sharp element. There are also some guarded cutting edges that can cut hair.
