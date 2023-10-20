@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-10-20T06:46:41.854Z
+date: 2023-10-20T06:47:02.123Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -118,7 +118,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 - Sewing
 
 - [Sewing Machine
-		![brother-ns50.jpg](/other/brother-ns50.jpg =x60)](/tools/other/brother-ns50)
+		![brother-ns50.jpg](/other/brother-ns50.jpg =x70)](/tools/other/brother-ns50)
 
 - Overlocker Machine
 
