@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T06:42:41.614Z
+date: 2023-10-20T06:44:03.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -71,3 +71,4 @@ The needle of the sewing machine is a sharp element. There are also some guarded
 2. If you have taken any parts or tools from the flatbed storage compartment, make sure they go back.
 3. Disconnect the footpedal and power cable. Wind the footpedal cable loosely around the footpedal. Loosely fold the power cable over itself.
 4. Store the power cable and footpedal in the arch of the sewing machine and place the storage case over the machine.
+5. Remember to carry the sewing machine by the handle.
