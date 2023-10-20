@@ -1,8 +1,8 @@
 ---
-title: Brother N250 Computerised Sewing Machine
+title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T02:41:44.655Z
+date: 2023-10-20T02:42:10.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
