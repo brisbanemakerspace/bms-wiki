@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T05:43:26.224Z
+date: 2023-10-20T05:48:36.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -41,4 +41,4 @@ The sewing machine has moving parts that can become entangled with hair or cloth
 
 ## Sharp Elements
 
-The needle of the sewing machine is a sharp element. There are also some guarded cutting edges that can cut hair.
+The needle of the sewing machine is a sharp element. There are also some guarded cutting edges that can cut hair if it is caught in it.
