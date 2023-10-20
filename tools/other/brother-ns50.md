@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T07:08:34.354Z
+date: 2023-10-20T07:08:57.113Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -17,7 +17,7 @@ We have a **Brother NS50** computerised sewing machine in the space for sewing p
 
 The different sewing feet and tools are stored in the flatbed attachment in the front of the machine.
 
-![A photo of the Brother NS50 sewing machine](/other/brother-ns50.png)
+![A photo of the Brother NS50 sewing machine](/other/brother-ns50.png =400x)
 
 # Specification
 
