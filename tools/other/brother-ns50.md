@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T06:02:18.396Z
+date: 2023-10-20T06:09:35.361Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -14,6 +14,8 @@ dateCreated: 2023-10-20T01:06:12.121Z
 # Introduction
 
 We have a **Brother NS50** computerised sewing machine in the space for sewing projects. It has the full range of standard features and stitches plus an automatic embrodiery function and multiple decorative stitch settings.
+
+![A photo of the Brother NS50 sewing machine](/other/brother-ns50.jpg =400x)
 
 # Specification
 
