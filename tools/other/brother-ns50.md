@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-20T06:10:28.585Z
+date: 2023-10-20T06:11:28.255Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -22,7 +22,7 @@ We have a **Brother NS50** computerised sewing machine in the space for sewing p
 **Induction Class:** 🟡 Yellow Tool (Induction Required)
 **Available Needle Sizes:** TBD
 **Available Feet**: Buttonhole, Overcasting, Monogramming, Zipper, Zigzag, Blind Stitch, Button Fitting
-**Instruction Manual:** [brother-ns50-operating-manual.pdf](/tools/brother-ns50-operating-manual.pdf)
+**[Instruction Manual](/tools/brother-ns50-operating-manual.pdf)**
 
 # Induction Process
 
