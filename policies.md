@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-18T22:30:17.764Z
+date: 2023-10-21T04:19:50.646Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -31,7 +31,7 @@ The overarching themes of our policies can be summarised as:
 - [Tool Inductions](/policies/inductions)
 - [Fair Use](/policies/fair-use)
 - [Fee Schedule](/policies/fees)
-- [Bad Behaviour](/policies/bad-behaviour)
+- [Infractions (Bad Behaviour)](/policies/infractions)
 
 # How To Guides
 ## General
