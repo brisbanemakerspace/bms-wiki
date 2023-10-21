@@ -1,8 +1,8 @@
 ---
-title: Bad Behaviour Policy
-description: How we deal with bad behaviour.
+title: Infraction Policy
+description: How we deal with bad behaviour (whether intentional or not) and issue Infractions/penalties.
 published: true
-date: 2023-10-21T05:00:02.919Z
+date: 2023-10-21T05:00:29.475Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
