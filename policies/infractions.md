@@ -2,7 +2,7 @@
 title: Infraction Policy
 description: How we deal with bad behaviour (whether intentional or not) and issue Infractions/penalties.
 published: true
-date: 2023-10-21T05:00:29.475Z
+date: 2023-10-21T07:25:44.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z
@@ -25,6 +25,9 @@ A penalty may come in the form of an Access Suspension. This does not change you
 * Use any BMS resource or facility other than our online services like member portal, forum, or Discord.
 
 During a temporary access suspension, you are required to maintain your membership by paying your fees. If you do not wish to pay membership while you have an Access Suspension, you can cancel your membership.
+
+# Infractions must be recorded
+All infractions must be recorded on the official member forum in the private "infractions" category. It is critical that all infractions issued must be recorded here and available to any member at any time. This ensures 100% transparency between 
 
 # Infraction Schedule
 The Infraction Schedule below contains a list of behaviours that must receive an infraction. Each Infraction is accompanied by a suggested penalty, but the actual penalty issued may be slightly different depending on the situation.
