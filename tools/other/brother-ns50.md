@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-22T22:49:09.809Z
+date: 2023-10-22T22:51:52.768Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -30,7 +30,7 @@ The different sewing feet and tools are stored in the flatbed attachment in the 
 
 ## Stitch Index
 
-![brother_ns50_stitch_index.jpg](/other/brother_ns50_stitch_index.jpg =600x)
+![Stitch Index](/other/brother_ns50_stitch_index.jpg =600x)
 
 # Induction Process
 
