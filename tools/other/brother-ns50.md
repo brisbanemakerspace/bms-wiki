@@ -2,14 +2,11 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-22T22:51:52.768Z
+date: 2023-10-22T22:52:04.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
 ---
-
-> **WIP** This page is under construction
-{.is-warning}
 
 # Introduction
 
