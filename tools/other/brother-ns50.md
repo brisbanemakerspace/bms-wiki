@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2023-10-22T22:45:09.122Z
+date: 2023-10-22T22:49:09.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -54,7 +54,7 @@ The sewing machine has moving parts that can become entangled with hair or cloth
 
 The needle of the sewing machine is a sharp element. There are also some guarded cutting edges that can cut hair if it is caught in it.
 
-# How To Operate
+# Operating Checklist
 
 ## Before Use
 
