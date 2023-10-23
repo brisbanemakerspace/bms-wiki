@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-10-23T06:32:12.089Z
+date: 2023-10-23T07:23:48.990Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -49,6 +49,7 @@ To book an induction for this machine, please use the "book appointment" link fr
 |[![laser-beam.svg](/sops/warning-icons/laser-beam.svg)<div>Laser Beam</div>](#)|The CO2 laser beam can shoot out the front of the machine.|
 |[![breathing-hazard.svg](/sops/warning-icons/breathing-hazard.svg)<div>Breathing Hazard</div>](#)|Certain materials can generate fumes or fine particulate matter during cutting operation.|
 |[![flammable-material.svg](/sops/warning-icons/flammable-material.svg)<div>Flammable Material</div>](#)|Material being cut can heat up and combust during cutting operation.|
+|[![entanglement.png](/sops/warning-icons/entanglement.png)<div>Entanglement</div>](#)|Focusing apparatus can pose a entanglement and crushing hazard|
 {.sop-symbols}
 
 # How To Operate
