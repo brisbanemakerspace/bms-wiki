@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2023-09-20T11:29:36.027Z
+date: 2023-10-23T07:33:48.183Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -33,6 +33,16 @@ Our Adventurer 3 can be used for printing many different objects. It's setup to 
 **🟡 This tool requires an induction before use.**
 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
+
+# Safety
+
+## Potential Hazards
+
+|Potential Hazard|Detail|
+|--|--|
+|[![hot-surface.svg](/sops/warning-icons/hot-surface.svg)<div>Hot Surface</div>](#)|The extrusion nozzle and hot-end can reach temperatures >200℃. The heated bed can reach temperatures >60℃.|
+|[![entanglement.png](/sops/warning-icons/entanglement.png)<div>Entanglement</div>](#)|The hotend has moving and rotating parts and can move quickly within the print workspace. The bed can also move and has rotating parts.|
+{.sop-symbols}
 
 # Slicing Software
 These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
