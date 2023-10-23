@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-10-23T05:55:29.296Z
+date: 2023-10-23T05:58:36.654Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -43,7 +43,7 @@ To book an induction for this machine, please use the "book appointment" link fr
 
 # Safety
 
-| [Laser Beam]() | [Breathing Hazard]() | [Flammable Material]() |
+| [Laser Beam](#) | [Breathing Hazard](#) | [Flammable Material](#) |
 |--|--|--|
 |![laser-beam.svg](/sops/warning-icons/laser-beam.svg)|![breathing-hazard.svg](/sops/warning-icons/breathing-hazard.svg)|![flammable-material.svg](/sops/warning-icons/flammable-material.svg)|
 {.sop-symbols}
