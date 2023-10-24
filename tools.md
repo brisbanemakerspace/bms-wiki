@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-10-20T07:03:57.275Z
+date: 2023-10-24T00:02:43.428Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -208,3 +208,8 @@ We are in the process of setting up a proper induction process so stay tuned!
 - [Shop Vacs
 		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =x60)
   ](/tools/other/shopvac)
+  
+  ## Other Assets!
+  - [Dixie Narco 440 Vending Machine
+		![hammer.png](/other/dn_440.png =x60)
+  ](/tools/other/dn-440)
