@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2023-10-24T00:02:43.428Z
+date: 2023-10-24T12:44:20.419Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -209,7 +209,11 @@ We are in the process of setting up a proper induction process so stay tuned!
 		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =x60)
   ](/tools/other/shopvac)
   
-  ## Other Assets!
-  - [Dixie Narco 440 Vending Machine
-		![hammer.png](/other/dn_440.png =x60)
+## Vending Machines
+- [Dixie Narco 440 Vending Machine
+		![Dixie Narco 440 Vending Machine](/other/dn_440.png =x60)
   ](/tools/other/dn-440)
+  
+- [Poly Vend 6000 Series Vending Machine
+		![Poly Vend 6000 Series Vending Machine](/other/pv-6000.png =x60)
+  ](/tools/other/pv-6000)
