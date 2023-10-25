@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-21T04:19:50.646Z
+date: 2023-10-25T08:11:16.150Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -19,11 +19,7 @@ The overarching themes of our policies can be summarised as:
 * be honest and don't try to hide things or mislead people
 * **make good choices**
 
-# New NFP Policies (Meanjin Makerspace Inc.)
-- [Constitution](/constitution)
-- More coming shortly
-
-# Old Pre NFP Policies (STILL IN FORCE!)
+# Old Policies (THESE APPLY UNTIL *1st Dec*!)
 - [Parking](/policies/parking)
 - [Community Rules](/policies/communityrules)
 - [Code of Conduct](/policies/codeofconduct)
@@ -32,6 +28,22 @@ The overarching themes of our policies can be summarised as:
 - [Fair Use](/policies/fair-use)
 - [Fee Schedule](/policies/fees)
 - [Infractions (Bad Behaviour)](/policies/infractions)
+
+# New NFP Policies (THESE APPLY AFTER *1st DEC*!)
+- [Constitution](/constitution)
+- [[WIP] Moderation](/bylaws/moderation)
+- [[WIP] Access & Accounts](/bylaws/access)
+- [[WIP] Safety](/bylaws/safety)
+- [[WIP] Code of Conduct](/bylaws/coc)
+- [[WIP] Infractions](/bylaws/infractions)
+- [[WIP] Safe Space](/bylaws/safespace)
+- [[WIP] Fee Schedule](/bylaws/fees)
+- [[WIP] Fair Use](/bylaws/fair-use)
+- [[WIP] Storage](/bylaws/storage)
+- [[WIP] Guests](/bylaws/guests)
+- [[WIP] Membership Processes](/bylaws/membership-processes)
+- [[WIP] Working Groups](/bylaws/working-groups)
+
 
 # How To Guides
 ## General
