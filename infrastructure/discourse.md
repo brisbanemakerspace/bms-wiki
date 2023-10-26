@@ -2,7 +2,7 @@
 title: Discourse (Member Forum)
 description: Find out how our discourse (member forum) instance works, how to update it and add plugins etc.
 published: true
-date: 2023-10-26T06:45:32.959Z
+date: 2023-10-26T06:55:09.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:44:02.174Z
@@ -15,6 +15,12 @@ It runs on serv01 in a docker container provided by Bitnami and managed by capro
 
 **Setup By:** Jaimyn Mayer (@jabelone)
 **Maintained By:** Jaimyn Mayer (@jabelone)
+
+# Installed Plugins
+- https://github.com/discourse/discourse-chat-integration
+- https://github.com/discourse/discourse-yearly-review
+- https://github.com/discourse/discourse-cakeday
+- https://github.com/discourse/discourse-reactions
 
 # Updates
 You can follow the Bitnami guide here: https://docs.bitnami.com/aws/apps/discourse/administration/upgrade/
