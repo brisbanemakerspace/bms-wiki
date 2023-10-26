@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-25T08:11:16.150Z
+date: 2023-10-26T06:09:44.669Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -54,6 +54,7 @@ The overarching themes of our policies can be summarised as:
 
 ## Governance
 - [Navigate the BMS organisational structure](/howto/org-structure)
+- [Run a general meeting](/howto/run-general-meeting)
 - [Participate in general meetings](/howto/general-meetings)
 - [Buy a new tool or asset](/howto/buy-something)
 - [Run a Working Group](/howto/run-working-groups)
