@@ -2,7 +2,7 @@
 title: Infrastructure
 description: We have a lot of complicated infrastructure, it's all documented here. You must be logged in to access these pages.
 published: true
-date: 2023-10-26T06:48:16.869Z
+date: 2023-10-26T08:10:29.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:33:37.937Z
@@ -23,3 +23,6 @@ All of the documetnation for our various pieces of infrastructure can be found b
 - [Access Readers](/infrastructure/access-readers)
 - [Networking / Wifi](/infrastructure/networking)
 - [IOT Devices](/infrastructure/iot)
+
+# Other
+- [Subscriptions](/infrastructure/subscriptions)
