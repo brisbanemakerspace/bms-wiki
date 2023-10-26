@@ -2,7 +2,7 @@
 title: Infrastructure
 description: We have a lot of complicated infrastructure, it's all documented here. You must be logged in to access these pages.
 published: true
-date: 2023-10-26T06:47:09.036Z
+date: 2023-10-26T06:48:16.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:33:37.937Z
@@ -12,11 +12,14 @@ dateCreated: 2023-10-26T06:33:37.937Z
 All of the documetnation for our various pieces of infrastructure can be found below.
 
 # Digital
-[Member Portal](/infrastructure/member-portal)
-[Discourse (Member Forum)](/infrastructure/discourse)
-[Discord (Member Chatroom)](/infrastructure/discord)
-[Moodle (BMS Learn)](/infrastructure/moodle)
-[Vikunja (BMS Task Manager)](/infrastructure/vikunja)
-[Home Assistant](/infrastructure/home-assistant)
+- [Member Portal](/infrastructure/member-portal)
+- [Discourse (Member Forum)](/infrastructure/discourse)
+- [Discord (Member Chatroom)](/infrastructure/discord)
+- [Moodle (BMS Learn)](/infrastructure/moodle)
+- [Vikunja (BMS Task Manager)](/infrastructure/vikunja)
+- [Home Assistant](/infrastructure/home-assistant)
 
 # Physical
+- [Access Readers](/infrastructure/access-readers)
+- [Networking / Wifi](/infrastructure/networking)
+- [IOT Devices](/infrastructure/iot)
