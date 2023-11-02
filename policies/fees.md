@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2023-08-22T01:23:51.156Z
+date: 2023-11-02T14:17:34.785Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -39,7 +39,7 @@ Fee: $39/mth
 * Must be currently studying full time or hold a concession card
 
 ## Late / No Show Fee
-Unfortunately due to repeated no shows and members being significantly late to booked appointments, we've had to implement a late fee. This late fee applies to all members, or people who've applied for membership. This policy applies to all bookings made for time with a BMS staff member and does not include tool bookings (like for using the laser cutter).
+Unfortunately due to repeated no shows and members being significantly late to booked appointments, we've had to implement a late fee. This late fee applies to all members, or people who've applied for membership. This policy applies to all bookings made for time with a BMS volunteer and does not include tool bookings (like for using the laser cutter).
 
 **If you:**
 * do not show up for a booked appointment
@@ -49,8 +49,16 @@ Unfortunately due to repeated no shows and members being significantly late to b
 We will charge your payment method on file a no show fee. This fee depends on your membership plan:
 
 Maker Lite: **$20**
-Maker Plus: **$25**
-Coworker Lite/Plus: **$35**
+Maker Plus: **$30**
+Other Plans: **$40**
+
+## Lost Card Fee
+If you lose your swipe card / swipe fob, you'll have to pay a fee for a new one. You must let us know as soon as you've lost it so we can remove it from your profile. If someone finds and uses it, you are responsible for any damage or theft that occurs.
+
+Before we can issue a replacement card you'll have to pay a fee. This covers some of the cost of the replacement card and the time/effort required to organise it and depends on your membership plan:
+
+Maker Lite: **$10**
+Other Plans: **$20**
 
 
 ## Tool Usage Fees
