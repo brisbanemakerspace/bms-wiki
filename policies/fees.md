@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2023-11-02T14:37:24.877Z
+date: 2023-11-02T23:57:20.140Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z
@@ -62,9 +62,12 @@ Other Plans: **$20**
 ## Outside Hours Lockout Fee
 If you are locked out of the space during the day between 7am and 7pm, you can call the lockouts number or ask on Discord. If a volunteer is available, they will answer and can facilitate remote access at their discretion for free.
 
-If you are locked out of the space over night between 7pm and 7am, you can call the lockouts number. If a volunteer is available, they will answer and can facilitate remote access at their discretion for a fee. Between 7pm to midnight - $40, between midnight to 7am - $80.
+If you are locked out of the space over night between 7pm and 7am, you can call the lockouts number. If a volunteer is available, they will answer and can facilitate remote access at their discretion for a fee:
 
-**Note:** the lockout service is available on a "best effort" basis meaning it may not be available at all times, especially in the early hours of the morning. It depends on the availability/willingness of our volunteers to respond.
+* Between 7pm to midnight - **$40**
+* between midnight to 7am - **$100**
+
+**Note:** the lockout service is available on a "best effort" basis meaning it may not be available at all times, especially in the early hours of the morning. It depends on the availability/willingness of our volunteers to respond. This fee is paid directly to the volunteer who responds (if any) for the inconvenience of being interrupted/woken up.
 
 
 ## Tool Usage Fees
