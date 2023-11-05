@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-10-26T06:25:37.844Z
+date: 2023-11-05T09:35:00.457Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -44,6 +44,7 @@ The overarching themes of our policies can be summarised as:
 - [[WIP] Membership Processes](/bylaws/membership-processes)
 - [[WIP] Working Groups](/bylaws/working-groups)
 - [[WIP] Purchase Proposals](/bylaws/purchase-proposals)
+- [[WIP] Parking](/bylaws/parking)
 
 
 # How To Guides
