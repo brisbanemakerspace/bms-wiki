@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: How much, when, and how fees may need to be paid, including membership and other fees.
 published: true
-date: 2023-11-05T23:14:14.831Z
+date: 2023-11-06T01:52:33.907Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:24:10.605Z
@@ -21,21 +21,38 @@ Materials and tool usage charges are not refundable outside of exceptional circu
 ## Membership Fees
 To maintain membership, you are required to pay your membership fees by the due date of your billing period. Failure to do so may result in the cancellation of your membership. If you have any problems paying for your membership please let us know!
 
+All membership plans have a 3 month minimum initial signup period. After 3 months of membership, you can cancel at anytime from the member portal.
+
 #### Concession Discount
 
-We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student or concession cardholder. If you stop meeting these requirements, please notify us as soon as possible.
+We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student or concession cardholder. If you stop meeting these requirements, please notify us as soon as possible. The committee has the right to ask for proof at most twice per year to verify you're still entitled to receive the concession discount.
 
 ### Maker Lite
 Fee: $39/mth
 
 * Commercial use is not permitted ([Fair Use Policy](/policies/fair-use) applies)
 * Commissioned projects where a fee is paid or commercial value is generated are NOT permitted
+* Up to 10 visits per month
 
 ### Maker Plus
 Fee: $59/mth
 Fee (consession): $39/mth
 
+* Limited personal commercial use (see our [Fair Use Policy](/policies/fair-use))
+	* This includes making and selling things for markets, etsy, etc.
+* Up to 10 visits per month
+
+### Coworker Lite
+Fee: $199/mth
+
+* Commercial use is permitted ([Fair Use Policy](/policies/fair-use) applies)
+* Unlimited access to a hot desk
+
+### Coworker Plus
+Fee: $299/mth
+
 * Limited commercial use (see our [Fair Use Policy](/policies/fair-use))
+* Unlimited access to a dedicated, reserved desk
 
 ## Late / No Show Fee
 Unfortunately due to repeated no shows and members being late to appointments, we've had to implement a late fee. This fee applies to all bookings made for time with a BMS volunteer and does not include tool bookings (like for using the laser cutter).
