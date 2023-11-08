@@ -2,13 +2,17 @@
 title: Creality LD-003 3D Printer
 description: Learn about our Creality LD-003 3D Printer.
 published: true
-date: 2023-09-07T08:05:19.498Z
+date: 2023-11-08T06:13:46.426Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T08:05:07.160Z
 ---
 
 # Introduction
+
+> This printer was recently donated and should work, but is not documented and has not been setup. If you want to use it, let us know on Discord that you want to volunteer to finish the documentation/workflow! (this is required before anyone can use it)
+{.is-warning}
+
 Our Creality LD-003 3D Printer allows you to print with incredible resolution for fantastic looking miniatures and parts.
 
 ![mars_2_pro.png](/digitalfabrication/creality_ld-003.png =x300)
