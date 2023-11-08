@@ -2,7 +2,7 @@
 title: Adventurer 3
 description: Learn about our adventurer 3 printer.
 published: true
-date: 2023-10-23T07:33:48.183Z
+date: 2023-11-08T06:11:00.654Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:19.741Z
@@ -20,6 +20,7 @@ Our Adventurer 3 can be used for printing many different objects. It's setup to 
 # Specifications
 **IP Address:** 192.168.1.201
 **Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
+**Note:** the usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
 
 **Induction Class:** 🟡 Yellow Tool (Induction Required)
 **Print Area:** 150mm(L) x 150mm(W) x 150mm(H)
