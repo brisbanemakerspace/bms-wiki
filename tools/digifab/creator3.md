@@ -2,14 +2,14 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2023-09-20T12:38:22.804Z
+date: 2023-11-08T06:12:04.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
 ---
 
 # Introduction
-> This printer may have **reduced functionality**. It was recently donated and currently works, but needs a bit of a tune up. You can use it, but please let us know if anything misbehaves.
+> This printer has **reduced functionality**. It was recently donated and currently works, but occasionally locks up mid-print. A new mainboard is on order. You can use it, but please let us know if anything misbehaves.
 {.is-warning}
 
 Our Creator 3 is a large, highly capable machine. It's enclosed print area and independent high temp dual extruders make it ideal for printing many materials or adding water disolvable supports.
@@ -22,6 +22,7 @@ Our Creator 3 can be used for printing many different objects. It's setup to pri
 # Specifications
 **IP Address:** 192.168.1.203
 **Usage Cost:** $2/hr or $40/kg (free for BYO filament)
+**Note:** the usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
 
 **Induction Class:** 🟡 Orange Tool (Induction Required)
 **Print Area:** 300mm(L) x 250mm(W) x 200mm(H)
