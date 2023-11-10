@@ -2,7 +2,7 @@
 title: Access & Accounts
 description: 
 published: true
-date: 2023-11-10T11:28:04.952Z
+date: 2023-11-10T11:28:50.648Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:45:46.593Z
@@ -18,7 +18,7 @@ If a resource is restricted in this way, it is published in the Access Register,
 - What is required to maintain/gain access
 - The access manager for the resource
 
-As these resources are typically digital in nature, it is the remit of the Infrastructure Working Group to ensure the register is up to date.
+As these resources are typically digital in nature, it is the remit of the Infrastructure Working Group to ensure the register is up to date and administer access.
 
 ## Notification
 Notification of modification of access must consist of at a minimum a written notification. This may include notifications from services directly.
