@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-10T11:13:12.412Z
+date: 2023-11-10T11:14:31.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -18,8 +18,8 @@ It is important to treat everyone with respect and consideration at all times. T
 
 Examples of respect for the facilities include, but is not limited to:
  - Leaving your work area as clean, or cleaner than you found it. 
- - Returning tools where you found them.
- - Not using the makerspace to store large amounts of project materials for a long period of time.
+ - Returning tools where you found them, or identifying homeless tools.
+ - Only storing materials on site that you actively need for a current project.
  - Taking care of trash you generate when using the facilities that can't be disposed of easily.
 
 ## Discrimination and Inclusivity
