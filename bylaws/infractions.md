@@ -2,7 +2,7 @@
 title: Infractions
 description: How we deal with breaches of our policies and procedures.
 published: true
-date: 2023-11-19T12:37:57.086Z
+date: 2023-11-19T12:39:18.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:23:02.770Z
@@ -42,8 +42,9 @@ Each time an Infraction is issued in a category, the penalty should become more 
 **Once a member has been issued with the maximum number of Infractions in any category, they are required to demonstrate why their membership shouldn't be cancelled.** This is 4x offences for Category 1, 3x for Category 2, and 2x for Category 3.
 
 ## Category 1
-These Infractions are minor, and first time breaches **should not** be accompanied by a Temporary Access Suspension penalty (but another penalty like cleaning up their mess is fine). However, after the first breache, each additional breache should be accompanied by a Temporary Access Suspension going from 1 week, to 2 weeks, then up to 4 weeks.
+These Infractions are minor, and first time breaches **should not** be accompanied by a Temporary Access Suspension penalty (but another penalty like cleaning up their mess is fine). However, after the first breach, each additional breach should be accompanied by a Temporary Access Suspension going from 1 week, to 2 weeks, then up to 4 weeks.
 
+* Unintentionally breaching the Safe Space Policy or Code of Conduct.
 * Not cleaning up after yourself (e.g. leaving a mess and not tidying the area that you used).
 * Not locking up or securing the site in accordance with site lockup procedures.
 * Not reporting a safety or maintenance issue that you discovered (even if you didn't cause it).
@@ -56,6 +57,7 @@ These Infractions are minor, and first time breaches **should not** be accompani
 ## Category 2
 These Infractions are more severe than Category 1, and first time breaches **should** be accompanied by a Temporary Access Suspension penalty. Each breach should be accompanied by a Temporary Access Suspension going from 1 week, to 2 weeks, then up to 4 weeks.
 
+* Intentionally breaching the Safe Space Policy or Code of Conduct.
 * Not reporting a safety or maintenance issue that you caused or contributed to (e.g. you broke a tool and didn't report it). This includes making and leaving dangerous items like exposed extension cords, etc.
 * Causing a significant nuisance to BMS such as engaging in Unreasonable Complainant Conduct as defined by the Federal Ombudsman.
 * Using a tool contrary to its official process or without meeting all of its induction requirements (such as using it without being inducted).
