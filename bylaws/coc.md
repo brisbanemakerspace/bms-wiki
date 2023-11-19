@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T14:13:24.012Z
+date: 2023-11-19T14:14:26.992Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -40,7 +40,7 @@ Examples not not being respectful:
 * Leaving tools around and not returning them.
 
 ## Discrimination and Inclusivity
-Brisbane Makerspace is a safe space for everyone. Any sort of discrimination, marginalisation, or similar, based on a personal characteristic protected by law, is strictly prohibited. Any other behaviour not listed explicitly, but that makes someone feel uncomfortable or discriminated against is also not acceptable.
+Brisbane Makerspace is a safe space for everyone. Any sort of discrimination, marginalisation, oppressive or similar behaviour based on a personal characteristic protected by law, is strictly prohibited. Any other behaviour not listed explicitly, but that makes someone feel uncomfortable or discriminated against is also not acceptable.
 
 An important part of our Code of Conduct is respecting and using a person's correct gender pronouns and name. Mistakes happen, but repeated misgendering or misnaming someone is not acceptable.
 
