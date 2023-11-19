@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T12:11:36.913Z
+date: 2023-11-19T12:57:40.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -22,6 +22,8 @@ The code of conduct can be summarised with the following topics:
 * Be mindful of confidentiality/privacy
 * Wear appropriate clothing/shoes
 * Don't be a nuisance
+* Organisation reputation and conduct
+* Higher standard of behaviour for named positions
 
 ## Respect
 It is important to treat everyone with respect and consideration at all times. This includes being respectful to volunteers, other members, guests, and our facilities. Always be considerate in how you treat others and all of our facilities.
@@ -112,3 +114,9 @@ Examples of nuisance behaviour:
 * Unreasonably persisting with a complaint after it has been dealt with.
 * Playing loud music after being asked to stop.
 * Repeatedly interrupting/bothering people when they clearly want to be left alone.
+
+## Organisational Reputation and Conduct
+Operating ethically and morally, and "doing the right thing" is *always* more important than saving the organistion's reputation. It is never appropriate to hide or misrepresent something even if it impacts the organisation's reputation. It is important to recognise and acknowledge mistakes the organisation makes and take steps to improve things.
+
+## Higher standard of behaviour for named positions
+Anyone with a named position or who sits on an official committee or working group, is expected to be a community role model. They are expected to operate to a higher standard of behaviour than ordinary members. There is a very low tolerance for breaches of our policies, in particular this code of conduct and our safe space policy.
