@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T15:01:22.827Z
+date: 2023-11-19T15:02:05.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -83,6 +83,7 @@ Examples of information that should not be shared without explicit consent:
 * Details in an application for a grant
 * Clauses in a lease or contract we have already, or are about to sign
 * Private information about a member (like a health condition, contact details, etc.)
+* Screenshots from a closed or private discussion
 
 ## Dress Code
 Appropriate clothing, including closed-in shoes, must be worn at all times.
