@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-19T15:05:33.687Z
+date: 2023-11-19T15:05:51.277Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -29,7 +29,7 @@ The four pillars of our culture and policies can be summarised as:
 - [Fee Schedule](/policies/fees)
 - [Infractions (Bad Behaviour)](/policies/infractions)
 
-# New NFP Policies (THESE APPLY AFTER *1st DEC*!)
+# New NFP Policies (THESE APPLY FROM *1st DEC*!)
 - [Constitution](/constitution)
 - [[DRAFT] Code of Conduct](/bylaws/coc)
 - [[DRAFT] Safe Space](/bylaws/safespace)
