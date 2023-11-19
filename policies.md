@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-06T01:53:58.286Z
+date: 2023-11-19T13:00:57.512Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -34,17 +34,17 @@ The overarching themes of our policies can be summarised as:
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
 - [[WIP] Safety](/bylaws/safety)
-- [[WIP] Code of Conduct](/bylaws/coc)
-- [[WIP] Infractions](/bylaws/infractions)
+- [[DRAFT] Code of Conduct](/bylaws/coc)
+- [[DRAFT] Infractions](/bylaws/infractions)
 - [[WIP] Safe Space](/bylaws/safespace)
-- [[WIP] Fee Schedule](/bylaws/fees)
-- [[WIP] Fair Use](/bylaws/fair-use)
+- [[PENDING] Fee Schedule](/bylaws/fees)
+- [[PENDING] Fair Use](/bylaws/fair-use)
 - [[WIP] Storage](/bylaws/storage)
-- [[WIP] Guests](/bylaws/guests)
+- [[PENDING] Guests](/bylaws/guests)
 - [[WIP] Membership Processes](/bylaws/membership-processes)
 - [[WIP] Working Groups](/bylaws/working-groups)
 - [[WIP] Purchase Proposals](/bylaws/purchase-proposals)
-- [[WIP] Parking](/bylaws/parking)
+- [[PENDING] Parking](/bylaws/parking)
 
 
 # How To Guides
