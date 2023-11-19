@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T12:57:40.240Z
+date: 2023-11-19T14:13:24.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -52,15 +52,23 @@ Behaviour that is **not tolerated at any time** incude:
 * religious or political persecution
 
 
-## Abuse, Violence & Bullying
+## Abuse, Violence, Harassment & Bullying
 Abuse and violence of any kind are strictly prohibited. This includes verbal/physical assault, harassment, bullying, intimidation and similar behaviour. We have a zero-tolerance policy for abuse and violence.
 
 Behaviour that is **not tolerated at any time** include:
-* Threatening someone because they are taking too long on a tool.
 * Calling someone a name or doing practical jokes that they don't like.
-* Yelling at a member because they broke something.
 * Manipulating someone to do something (including volunteer) that they clearly don't want to do.
 * Unfairly targetting a member that you don't like.
+
+Harassment includes, but is not limited to:
+* Comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, etc.
+* Sexual images in public spaces
+* Deliberate intimidation, stalking, or following 
+* Harassing photography or recording
+* Sustained disruption of talks or other events
+* Inappropriate physical contact
+* Unwelcome sexual attention
+* Advocating for, or encouraging, any of the above behaviour
 
 ## Honesty
 Honesty is an important aspect of our community. We know that sometimes not everything goes to plan, and accidents happen. However, it's always better to be upfront about something, even if it means admitting you did something wrong.
