@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-19T14:55:28.175Z
+date: 2023-11-19T15:05:33.687Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -13,11 +13,11 @@ We try to foster a fun, safe and collaborative environment at Brisbane Makerspac
 
 Our policies may change at any time. Significant changes will be anounced to members via email.
 
-The overarching themes of our policies can be summarised as:
-* be respectful to other people and the space
-* be reasonable and don't take advantage of people or the space
-* be honest and don't try to hide things or mislead people
-* **make good choices**
+The four pillars of our culture and policies can be summarised as:
+* be respectful
+* be reasonable
+* be honest
+* make good choices
 
 # Old Policies (THESE APPLY UNTIL *1st Dec*!)
 - [Parking](/policies/parking)
@@ -31,12 +31,13 @@ The overarching themes of our policies can be summarised as:
 
 # New NFP Policies (THESE APPLY AFTER *1st DEC*!)
 - [Constitution](/constitution)
+- [[DRAFT] Code of Conduct](/bylaws/coc)
+- [[DRAFT] Safe Space](/bylaws/safespace)
+- [[DRAFT] Infractions](/bylaws/infractions)
+- [[WIP] Disputes and Complaints](/bylaws/disputes)
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
 - [[WIP] Safety](/bylaws/safety)
-- [[DRAFT] Code of Conduct](/bylaws/coc)
-- [[DRAFT] Infractions](/bylaws/infractions)
-- [[DRAFT] Safe Space](/bylaws/safespace)
 - [Fee Schedule](/bylaws/fees)
 - [Fair Use](/bylaws/fair-use)
 - [[WIP] Storage](/bylaws/storage)
