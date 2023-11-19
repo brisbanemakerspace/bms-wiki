@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T14:59:44.118Z
+date: 2023-11-19T15:01:22.827Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -77,7 +77,7 @@ Examples of unacceptable uses include:
 * Any illegal activity
 
 ## Confidentiality & Privacy
-Sometimes times you may learn about confidential or private information in the course of being a member. Any personal information, or information that may be sensitive/confidential in nature should never be shared without explicit consent. Doing so may be illegal, immoral, or even put the organisation at risk of not getting a grant.
+Sometimes times you may learn about confidential or private information in the course of being a member. Any personal information, or information that may be sensitive/confidential in nature should never be shared without explicit consent. Doing so may be illegal, immoral, or even put the organisation at risk.
 
 Examples of information that should not be shared without explicit consent:
 * Details in an application for a grant
