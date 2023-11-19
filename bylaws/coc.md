@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T14:27:18.922Z
+date: 2023-11-19T14:52:34.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -13,16 +13,10 @@ Brisbane Makerspace aims to foster an inclusive and friendly culture for all mem
 
 If you see any behaviour contrary to our Code of Conduct, you are encouraged to politely remind those involved that it is not appropriate. In addition, you should report any serious breaches to the committee.
 
-The code of conduct can be summarised with the following topics:
-* Be respectful
-* Zero-tolerance on abuse/violence/bullying
-* Always be honest
-* Don't inappropriately use our resources
-* Be mindful of confidentiality/privacy
-* Wear appropriate clothing/shoes
-* Don't be a nuisance
-* Organisation reputation and conduct
-* Higher standard of behaviour for named positions
+## Mandatory Reporting
+We have a mandatory reporting policy for all breaches of our Safe Space Policy and Code of Conduct. If you witness someone breaching either of these policies, you are obligated to report the incident to the committee.
+
+*"The standard you walk past is the standard you accept."* - If you don't take steps to stop discriminatory, oppressive or otherwise unacceptable behaviour, you are helping to perpetuate it.
 
 ## Respect
 It is important to treat everyone with respect and consideration at all times. This includes being respectful to volunteers, other members, guests, and our facilities. Always be considerate in how you treat others and all of our facilities.
