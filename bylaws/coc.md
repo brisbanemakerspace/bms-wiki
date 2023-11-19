@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T14:52:34.509Z
+date: 2023-11-19T14:59:44.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -43,7 +43,7 @@ Behaviour that is **not tolerated at any time** include:
 
 Harassment includes, but is not limited to:
 * Comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, etc.
-* Sexual images in public spaces
+* Sexual images or discussion in public spaces
 * Deliberate intimidation, stalking, or following 
 * Harassing photography or recording
 * Sustained disruption of talks or other events
