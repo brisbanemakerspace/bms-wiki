@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T14:14:26.992Z
+date: 2023-11-19T14:27:18.922Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -15,7 +15,6 @@ If you see any behaviour contrary to our Code of Conduct, you are encouraged to 
 
 The code of conduct can be summarised with the following topics:
 * Be respectful
-* Be inclusive and never discriminate
 * Zero-tolerance on abuse/violence/bullying
 * Always be honest
 * Don't inappropriately use our resources
@@ -38,18 +37,6 @@ Examples not not being respectful:
 * Not leaving enough time before you need to leave and leaving behind a mess.
 * Overfilling a bin instead of emptying it.
 * Leaving tools around and not returning them.
-
-## Discrimination and Inclusivity
-Brisbane Makerspace is a safe space for everyone. Any sort of discrimination, marginalisation, oppressive or similar behaviour based on a personal characteristic protected by law, is strictly prohibited. Any other behaviour not listed explicitly, but that makes someone feel uncomfortable or discriminated against is also not acceptable.
-
-An important part of our Code of Conduct is respecting and using a person's correct gender pronouns and name. Mistakes happen, but repeated misgendering or misnaming someone is not acceptable.
-
-Behaviour that is **not tolerated at any time** incude:
-* sexism
-* racism
-* ableism
-* homophobic or transphobic behaviour
-* religious or political persecution
 
 
 ## Abuse, Violence, Harassment & Bullying
