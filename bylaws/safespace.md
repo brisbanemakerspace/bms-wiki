@@ -2,7 +2,7 @@
 title: Safe Space Policy
 description: 
 published: true
-date: 2023-11-19T14:52:03.939Z
+date: 2023-11-20T11:08:28.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:51:35.487Z
@@ -34,7 +34,7 @@ Behaviour that is **not tolerated at any time** incudes:
 We don't tolerate oppressive and non-consensual behaviour ever. There is no excuse and you will get no warnings before being asked to leave.
 
 Members are expected to:
-* Receive explicit verbal consent before touching someone or entering their personal space (ie hugging them, etc.).
+* Receive explicit verbal consent before touching someone or entering their personal space (ie hugging them, pushing their wheelchair, etc.).
 * Respect other people's opinions, personal experiences and personal space.
 * Acknowledge the impact of your actions, regardless of your intent.
 * Be responsible and accountable for your own actions.
