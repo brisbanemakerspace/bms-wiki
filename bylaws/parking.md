@@ -2,7 +2,7 @@
 title: Parking Policy
 description: The BMS parking policy.
 published: true
-date: 2023-11-20T10:13:23.078Z
+date: 2023-11-20T10:14:50.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T09:31:04.586Z
@@ -23,7 +23,8 @@ These parking spaces are provided on a first in first served basis for member co
 * Whilst your car is parked in one of our parking spaces, you must remain physically on site at Brisbane Makerspace.
   * These are not car parks you can use when you are nearby.
   * Short trips off site (<30 minutes) to get lunch etc. is fine, but you cannot be gone longer than this.
-* Carpark spaces cannot be used by motorcycles or vehicles that do not fit entirely within the marked carpark spaces.
+* Carpark spaces cannot be used by vehicles that do not fit entirely within the marked carpark spaces.
+* Motorcycles and scooters may utilise the car parking spaces if the nearby motorcycle parking is full, but they should be parked in a way to minimise space occupied.
 * Any member of the committee can ask you to move your vehicle offsite for any reasonable reason and at any time without notice.
 * Any car that you park on site (including a rental or a friend's) must have the number plate entered into your member profile on the member portal. If the number plate is not registered, it may be towed as we have no way of checking if it's a member's vehicle.
 
