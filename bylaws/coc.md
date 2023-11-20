@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-19T15:02:12.272Z
+date: 2023-11-20T10:54:31.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -95,7 +95,7 @@ Examples of appropriate clothing include:
 Examples of inappropriate clothing include:
 * Not wearing a shirt because it's too hot
 * Walking around bare foot
-* Wearing something with an inapropriate slogan
+* Wearing something with an inapropriate slogan/image
 
 ## Nuisance Behaviour
 Any other behaviour not described in this Code of Conduct, but would be considered by a reasonable person to cause a nuisance is prohibited. Behaviour that is considered "unreasonable complainant conduct" by the Queensland/Federal ombudsman also falls into this category.
