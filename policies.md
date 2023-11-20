@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-19T15:05:51.277Z
+date: 2023-11-20T07:22:54.777Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -44,7 +44,7 @@ The four pillars of our culture and policies can be summarised as:
 - [Guests](/bylaws/guests)
 - [[WIP] Membership Processes](/bylaws/membership-processes)
 - [[WIP] Working Groups](/bylaws/working-groups)
-- [[WIP] Purchase Proposals](/bylaws/purchase-proposals)
+- [[WIP] Meetings](/bylaws/meetings)
 - [[PENDING] Parking](/bylaws/parking)
 
 
