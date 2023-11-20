@@ -2,7 +2,7 @@
 title: Parking Policy
 description: The BMS parking policy.
 published: true
-date: 2023-11-19T13:14:00.125Z
+date: 2023-11-20T10:13:23.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T09:31:04.586Z
@@ -17,7 +17,7 @@ These parking spaces are provided on a first in first served basis for member co
 
 ## Restrictions
 * 1 membership card = 1 carpark space. Carpark spaces cannot be used by guests you invite to BMS unless you are driving in the car with them.
-* Members are entitled to park on site for a maximum of 6 hours total per day.
+* This parking is intended for members to help move things in and out of the space, and not for people commuting every day. Typically we expect carspaces to be used for up to 6 hours.
   * If you leave and come back, move to another park, etc. this does not reset the time limit.
   * This time limit is intended to stop people commuting by car every day. Please use public or active transport and reserve the car spaces for people who need them.
 * Whilst your car is parked in one of our parking spaces, you must remain physically on site at Brisbane Makerspace.
