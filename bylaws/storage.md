@@ -2,7 +2,7 @@
 title: Storage
 description: 
 published: true
-date: 2023-11-27T05:46:31.413Z
+date: 2023-11-27T05:49:27.244Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -49,6 +49,7 @@ Examples of not following this policy:
     2. cannot be returned until the project has been removed off site; and
     3. may be partially returned if a cost was incurred by the makerspace to remove it off site.
 
+# Tickets
 ## 5. Green Ticket
 1. Green tickets are required to be attached to all items left on-site outside of your permanent and labelled storage cube.
 
