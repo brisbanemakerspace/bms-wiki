@@ -2,7 +2,7 @@
 title: Meetings
 description: The policy that governs how meetings are run.
 published: true
-date: 2023-11-27T10:40:53.986Z
+date: 2023-11-27T10:41:29.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:26:27.075Z
@@ -30,7 +30,7 @@ Motions that incur a cost:
 
 1. Automatically lapse after 3 months from the date the motion was carried if the cost has not been inccured yet, or action has not been taken to incur that cost at a later date by way of a contract or formal agreement (ie pre-order placed, etc.).
 2. Must receive written approval from the Treasurer, Head Maker, or Committee before the cost may be incurred, which may be delayed or witheld if operational cashflow does not allow the organisation to incur that cost.
-3. If the cost is to acquire or otherwise put in service a tool or machine, a detailed plan of action including responsible person(s), tool documentation, and a timeline must form part of the motion.
+3. If the cost is to acquire or otherwise put in service a tool or machine, a detailed plan of action including responsible person(s), appropriate electrical/extra costs have been accounted for, tool documentation, and a timeline must form part of the motion.
 
 ## Motions that change policy
 Motions that change or create policy must present the exact wording that is proposed in writing and with enough notice as defined above. Minor alterations to the proposed exact wording is permitted on the floor of a meeting, as long as the substance of those changes is captured in the minutes.
