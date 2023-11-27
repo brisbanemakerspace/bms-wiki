@@ -2,7 +2,7 @@
 title: Tool Inductions
 description: The tool inductions policy.
 published: true
-date: 2023-11-27T04:45:44.588Z
+date: 2023-11-27T11:13:06.685Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T04:44:00.560Z
@@ -22,6 +22,8 @@ To maintain a safe operating environment, Brisbane Makerspace requires that memb
 		1. The Head Maker; or
     2. Someone authorised by the Head Maker; or
   	3. Someone authorised by the relevant Working Group in charge of that tool.
+    
+5. At least annually (typically after the AGM), the list of members authorised should be reviewed by each Working Group and the Head Maker.
 
 # 2. Green Tool
 1. These tools require no special induction as they have been deemed low risk. 
