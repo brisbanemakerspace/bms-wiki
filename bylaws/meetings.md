@@ -2,7 +2,7 @@
 title: Meetings
 description: The policy that governs how meetings are run.
 published: true
-date: 2023-11-20T10:01:17.630Z
+date: 2023-11-27T03:28:41.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:26:27.075Z
@@ -20,5 +20,11 @@ Items requiring notice:
 * All items that require a vote (including a vote by consensus)
 
 ## Regular meeting time
-The organisation should host the regular general meeting on the first and third Monday of each month at 8pm but may hold additional meetings as deemed necessary.
+The organisation should host a regular general meeting on the first and third Monday of each month at 8pm. However, additional meetings may be held, or regular meetings may be skipped/moved as deemed necessary due to operational requirements like holidays etc.
 
+## Motions that change policy
+Motions that change or create policy must present the exact wording that is proposed in writing and with enough noticed as defined above.
+
+Minor alterations that are suggested during a meeting to form consensus may be 
+
+## Motions that incur costs
