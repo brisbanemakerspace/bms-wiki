@@ -2,7 +2,7 @@
 title: Safety
 description: 
 published: true
-date: 2023-11-27T04:33:45.602Z
+date: 2023-11-27T11:06:16.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:46:45.299Z
@@ -12,7 +12,7 @@ dateCreated: 2023-10-25T07:46:45.299Z
 You can't work on projects when you're injured! But also, it's no fun for anyone. At Brisbane Makerspace, safety is extremely important. In an environment like ours, there are certain risks that a lot of people aren't normally exposed to.
 
 ## 1. Safety Incidents
-1. If a safety incident occurs, no matter how small, it must be reported via the member portal or email. Try to capture as many details as possible. We'll keep a record of incidents so we can improve our documentation and procedures.
+1. If a safety incident or near-miss occurs, no matter how small, it must be reported via the member portal or email so that it can be acted upon. Try to capture as many details as possible. We'll keep a record of incidents so we can improve our documentation and procedures.
 
 ## 2. Safety Risks
 1. You must never do anything that poses an unreasonable safety risk.
@@ -20,13 +20,13 @@ You can't work on projects when you're injured! But also, it's no fun for anyone
 2. If you see someone about to do something that poses an unreasonable safety risk, you should politely but firmly advise them to stop and explain why. You should report the matter to the committee if they continue.
 
 ## 3. Drugs and Alcohol
-1. You must never be under the influence of any illegal drugs or substances while on site. You will be asked to leave if you are caught using or being under the influence of an illegal drug or subtance.
+1. You must never be under the influence of any illegal drugs or substances while on site. You will be asked to leave if you are caught using or being under the influence of an illegal drug or substance.
 
 2. You must never use a tool whilst under the influence of alcohol or any medication/drug (prescription or otherwise) that may impact your ability to safely operate that tool.
-  	1. It is a breach of this section to operate a tool if you are over the blood alcohol limit for an open license holder to operate a vehicle.
+  	1. It is a breach of this section to operate a tool if you have a detectable blood alcohol concentration.
 
-## 4. Aerosols and Smelly Chemicals
-1. You must not use any aerosols (like spray paint etc.) or any substance that produces an unpleasant smell in the upstairs workspace, or any enclosed area. You are only permitted to use these aerosols/substances in the basement or carpark area and with enough ventilation.
+## 4. Aerosols and Odorous Chemicals
+1. You must not use any aerosols (like spray paint etc.) or any substance that produces an unpleasant smell in the upstairs workspace, or any enclosed area. You are only permitted to use these aerosols/substances in the outside area and with enough ventilation.
 	1. Exceptions to this policy include household cleaning products (and similar) that are provided by BMS like air freshener, bug spray, surface cleaner, etc.
 
 ## 5. Tools
