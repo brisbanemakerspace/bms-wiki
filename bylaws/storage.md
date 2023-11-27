@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2023-11-27T10:33:26.954Z
+date: 2023-11-27T10:33:55.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -74,4 +74,4 @@ Typically we repair tools pretty quickly, but sometimes we need to wait on parts
 3. If you break a tool, or come across a tool, you are required to fill in and attach a Yellow Ticket.
 
 ## 8. Disclaimer
-Anything that is left on site unattended, is done so at your own risk. The makerspace takes no responsibility for anything that may happen to items you leave on-site. Any items found to be in breach of this policy may be disposed of after 7 days of being in breach as per the Red Ticket policy.
+Anything that is left on site unattended, is done so at your own risk. The makerspace takes no responsibility for anything that may happen to items you leave on-site. Any items found to be in breach of this policy may be disposed of after 14 days of being in breach as per the Red Ticket policy.
