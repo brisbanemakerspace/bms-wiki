@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2023-10-26T07:40:12.702Z
+date: 2023-11-27T23:25:11.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -15,8 +15,8 @@ We usually run a general meeting on the first and third Monday of every month, a
 
 # 2023
 ## November
-[General Meeting - 20th November](/meetings/general/20231120)
-[Generam Meeting - 6th November (Our first ever meeting!)](/meetings/general/20231106)
+[2nd General Meeting - 20th November](/meetings/general/20231120)
+[1st General Meeting - 6th November](/meetings/general/20231106)
 
 ## September
 [Pre Incorporation Meeting - 16 September](/meetings/general/20230916)
