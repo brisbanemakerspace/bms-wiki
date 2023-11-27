@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2023-11-27T10:31:06.249Z
+date: 2023-11-27T10:33:26.954Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -69,7 +69,7 @@ Typically we repair tools pretty quickly, but sometimes we need to wait on parts
 
 1. If a tool can't be safely used, it must have a Yellow Ticket attached to it. This will explain what's wrong with the tool and when it's expected to be fixed.
 
-2. Yellow Ticket tools are **not to be used** (unless it says otherwise on the ticket) until the ticket has been removed.
+2. Yellow Ticket tools are **not to be used** (unless it says otherwise on the ticket) until the ticket has been removed, or you are authorised by the relevant Working Group or Head Maker.
 
 3. If you break a tool, or come across a tool, you are required to fill in and attach a Yellow Ticket.
 
