@@ -1,8 +1,8 @@
 ---
 title: Storage
-description: 
+description: Our storage policy.
 published: true
-date: 2023-11-27T05:49:27.244Z
+date: 2023-11-27T05:49:43.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
