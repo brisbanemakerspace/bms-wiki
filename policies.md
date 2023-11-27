@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-27T05:51:51.310Z
+date: 2023-11-27T05:52:56.471Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -34,19 +34,19 @@ The four pillars of our culture and policies can be summarised as:
 - [[DRAFT] Code of Conduct](/bylaws/coc)
 - [[DRAFT] Safe Space](/bylaws/safespace)
 - [[DRAFT] Infractions](/bylaws/infractions)
-- [[WIP] Disputes and Complaints](/bylaws/disputes)
-- [[WIP] Moderation](/bylaws/moderation)
-- [[WIP] Access & Accounts](/bylaws/access)
 - [[DRAFT] Tool Inductions](/bylaws/inductions)
 - [[DRAFT] Safety](/bylaws/safety)
+- [[DRAFT] Storage](/bylaws/storage)
+- [[DRAFT] Meetings](/bylaws/meetings)
+- [[PENDING] Parking](/bylaws/parking)
 - [Fee Schedule](/bylaws/fees)
 - [Fair Use](/bylaws/fair-use)
-- [[DRAFT] Storage](/bylaws/storage)
 - [Guests](/bylaws/guests)
 - [[WIP] Membership Processes](/bylaws/membership-processes)
 - [[WIP] Working Groups](/bylaws/working-groups)
-- [[DRAFT] Meetings](/bylaws/meetings)
-- [[PENDING] Parking](/bylaws/parking)
+- [[WIP] Disputes and Complaints](/bylaws/disputes)
+- [[WIP] Moderation](/bylaws/moderation)
+- [[WIP] Access & Accounts](/bylaws/access)
 
 
 # How To Guides
