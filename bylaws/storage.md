@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2023-11-27T10:33:55.704Z
+date: 2023-11-27T10:34:59.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -57,12 +57,14 @@ Examples of not following this policy:
 
 3. Any item found with an expired green ticket, or no ticket, will be issued with a red ticket.
 
-## 6. Red Storage Ticket
+## 6. Red Ticket
 1. Red tickets offer a formal warning that this item is not allowed to be here. Once a red ticket has been attached to an item, you have 14 days to rectify the problem identified. You must either attach a green ticket to it (if appropriate) or remove it off-site, etc.
 
 2. A good faith effort must be made to find out and contact the owner of the item when a red ticket is attached to it, and throughout the 14 day period it is attached. This may be satisfied by posting an image on Discord if the owner is unknown.
 
 3. Once a red ticket ticket has expired, the makerspace may choose to dispose of the item or handle it as they see fit.
+
+4. The 14 day time period does not apply to items improperly stored that present an immediate health risk or hazard.
 
 ## 7. Yellow Ticket
 Typically we repair tools pretty quickly, but sometimes we need to wait on parts etc.
