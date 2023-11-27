@@ -2,7 +2,7 @@
 title: Tool Inductions
 description: The tool inductions policy.
 published: true
-date: 2023-11-27T04:44:00.560Z
+date: 2023-11-27T04:45:44.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-27T04:44:00.560Z
@@ -27,10 +27,14 @@ To maintain a safe operating environment, Brisbane Makerspace requires that memb
 1. These tools require no special induction as they have been deemed low risk. 
 2. Members are allowed to use these tools without any special training requirements. It is still a requirement to read and understand its wiki page if it exists.
 
+Examples include: scissors, the A4 printer, the computers, etc.
+
 # 3. Yellow Tool
 1. These tools have been deemed a medium risk, and a formal induction is required. To pass an induction, you must meet all induction requirements and be deemed competent by someone authorised to induct you.
 
 2. Each Yellow Tool is different, so you should carefully read its wiki page to understand its induction requirements.
+
+Examples include: the laser cutter, 3D printers, etc.
 
 # 4. Red Tool
 1. This is a high-risk tool. These tools have been deemed high risk, and a formal induction is required. To pass an induction, you must meet all induction requirements and be deemed competent by someone authorised to induct you.
@@ -38,3 +42,5 @@ To maintain a safe operating environment, Brisbane Makerspace requires that memb
 2. Each Red Tool is different, so you should carefully read its wiki page to understand its induction requirements.
 
 3. Red Tools have a higher competency level required to become inducted on, and require several supervised uses before you can be deemed competent.
+
+Examples include: the resin 3D printers, most of the woodworking tools, etc.
