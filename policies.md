@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-27T05:53:24.409Z
+date: 2023-11-28T00:59:14.956Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -13,10 +13,29 @@ We try to foster a fun, safe and collaborative environment at Brisbane Makerspac
 
 Our policies may change at any time. Significant changes will be anounced to members via email.
 
-The three pillars of our culture and policies can be summarised as:
+The three pillars of our culture can be summarised as:
 * be respectful
 * be honest
 * make good choices
+
+# New NFP Policies (THESE APPLY FROM *1st DEC*!)
+- [Constitution](/constitution)
+- [Code of Conduct](/bylaws/coc)
+- [Safe Space](/bylaws/safespace)
+- [Infractions](/bylaws/infractions)
+- [Tool Inductions](/bylaws/inductions)
+- [Safety](/bylaws/safety)
+- [Storage](/bylaws/storage)
+- [Meetings](/bylaws/meetings)
+- [Parking](/bylaws/parking)
+- [Fee Schedule](/bylaws/fees)
+- [Fair Use](/bylaws/fair-use)
+- [Guests](/bylaws/guests)
+- [[WIP] Membership Processes](/bylaws/membership-processes)
+- [[WIP] Working Groups](/bylaws/working-groups)
+- [[WIP] Disputes and Complaints](/bylaws/disputes)
+- [[WIP] Moderation](/bylaws/moderation)
+- [[WIP] Access & Accounts](/bylaws/access)
 
 # Old Policies (THESE APPLY UNTIL *1st Dec*!)
 - [Parking](/policies/parking)
@@ -27,25 +46,6 @@ The three pillars of our culture and policies can be summarised as:
 - [Fair Use](/policies/fair-use)
 - [Fee Schedule](/policies/fees)
 - [Infractions (Bad Behaviour)](/policies/infractions)
-
-# New NFP Policies (THESE APPLY FROM *1st DEC*!)
-- [Constitution](/constitution)
-- [[DRAFT] Code of Conduct](/bylaws/coc)
-- [[DRAFT] Safe Space](/bylaws/safespace)
-- [[DRAFT] Infractions](/bylaws/infractions)
-- [[DRAFT] Tool Inductions](/bylaws/inductions)
-- [[DRAFT] Safety](/bylaws/safety)
-- [[DRAFT] Storage](/bylaws/storage)
-- [[DRAFT] Meetings](/bylaws/meetings)
-- [[PENDING] Parking](/bylaws/parking)
-- [Fee Schedule](/bylaws/fees)
-- [Fair Use](/bylaws/fair-use)
-- [Guests](/bylaws/guests)
-- [[WIP] Membership Processes](/bylaws/membership-processes)
-- [[WIP] Working Groups](/bylaws/working-groups)
-- [[WIP] Disputes and Complaints](/bylaws/disputes)
-- [[WIP] Moderation](/bylaws/moderation)
-- [[WIP] Access & Accounts](/bylaws/access)
 
 
 # How To Guides
