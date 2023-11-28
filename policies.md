@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-28T00:59:14.956Z
+date: 2023-11-28T00:59:21.435Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -18,7 +18,7 @@ The three pillars of our culture can be summarised as:
 * be honest
 * make good choices
 
-# New NFP Policies (THESE APPLY FROM *1st DEC*!)
+# New Policies (THESE APPLY FROM *1st DEC*!)
 - [Constitution](/constitution)
 - [Code of Conduct](/bylaws/coc)
 - [Safe Space](/bylaws/safespace)
