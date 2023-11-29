@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-10-23T07:23:48.990Z
+date: 2023-11-29T05:04:55.967Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -107,7 +107,7 @@ We recommend that most people use Acrylic or "Laser Safe" Plywood for the cleane
 * EVA Foam
 
 # Brisbane Makerspace Stocked Materials
-We try to keep the following materials / consumables in stock for members to purchase. However, please check with us first if you really need something as we sometimes run out of stock. We recommend using these materials unless you have a special need, as they've been chosen to work well with our machine and have calibrated profiles to choose from.
+We try to keep the following materials / consumables in stock for members to purchase. However, we sometimes run out of stock due to the volunteer nature of how we operate. It is generally recommended to source your own materials.
 
 ## 600 x 400mm sheets
 These sheets are approximately sized - please check each sheet if the exact size is critical for your intended use.
