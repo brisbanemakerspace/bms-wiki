@@ -2,18 +2,18 @@
 title: Organisational Structure
 description: How does BMS operate and what does the organisational structure look like?
 published: true
-date: 2023-09-26T22:45:38.351Z
+date: 2023-12-04T21:45:50.759Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T07:00:11.770Z
 ---
 
 # What is Brisbane Makerspace (Meanjin Makerspace Inc.)?
-Brisbane Makerspace is a trading name of Meanjin Makerspace Inc. However we often use BMS or "the space" to refer to the group. Meanjin is commonly accepted as the name used by First Nations (Indigenous) peoples to refer to the land that Brisbane occupies.
+Brisbane Makerspace is a trading name of Meanjin Makerspace Inc. However we often use BMS or "the space" to refer to the group. Meanjin is commonly accepted as the name used by First Nations (Indigenous) peoples to refer to the land that Brisbane occupies. We aim to be Brisbane's friendliest community workshop space for people from all backgrounds.
 
-We are an incorporated association, incorporated under the State of Queensland's Incorporated Associations Act. Meanjin Makerspace Inc. is it's own separate legal entity just like a person or a business. The Meanjin Makerspace Inc. [Constitution](/policies/constitution) is the legally binding document that controls how we operate.
+We are an incorporated association, incorporated under the State of Queensland's Incorporated Associations Act. By law, and our constitution, we are required to operate as a not for profit. We currently have a pending application for registration as a charity with the ACNC and DGR status with the ATO. Meanjin Makerspace Inc. is it's own separate legal entity just like a person or a business. The Meanjin Makerspace Inc. [Constitution](/policies/constitution) is the legally binding document that controls how we operate.
 
-The [Constitution](/policies/constitution) requires a special resolution to make changes to, and approval by the Office of Fair trading to enact. In addition to the constitution, we have various by-laws that the association creates from time to time to manage the operations of the association. These by-laws are called our "policies" and can be changed at a general meeting.
+The [Constitution](/policies/constitution) requires a special resolution to make changes to, and approval by the Office of Fair trading to enact. In addition to the constitution, we have various by-laws that the association creates from time to time to manage the operations of the association. These [by-laws](/policies) are called our "policies" and can be changed at a general meeting.
 
 # Governance Groups
 Like most organisations, we have different groups of people who are responsible for different things. The sections below explain all the groups of people we have.
