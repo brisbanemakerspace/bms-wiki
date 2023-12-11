@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2023-11-28T01:23:17.339Z
+date: 2023-12-11T09:46:25.767Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -14,6 +14,11 @@ Here is a list of all our meeting minutes for compliance and historical purposes
 We usually run a general meeting on the first and third Monday of every month, and working groups run their own meetings when necessary.
 
 # 2023
+
+## December
+
+[General Meeting - 11th December](/meetings/general/20231211)
+
 ## November
 [General Meeting - 27th November](/meetings/general/20231127)
 [General Meeting - 20th November](/meetings/general/20231120)
