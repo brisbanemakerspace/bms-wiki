@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-11-28T01:00:50.364Z
+date: 2023-12-12T09:39:40.201Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -18,7 +18,7 @@ The three pillars of our culture can be summarised as:
 * be honest
 * make good choices
 
-# New Policies (THESE APPLY FROM *1st DEC*!)
+# Policies
 Under the Associations Act and our constitution, the association can make by-laws that are enforcable and apply to all members. We refer to these as "policies" and they can be found below.
 - [Constitution](/constitution)
 - [Code of Conduct](/bylaws/coc)
@@ -38,7 +38,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
 
-# Old Policies (THESE APPLY UNTIL *1st Dec*!)
+# Old Policies (THESE APPLIED UNTIL *1st Dec*!)
 - [Parking](/policies/parking)
 - [Community Rules](/policies/communityrules)
 - [Code of Conduct](/policies/codeofconduct)
