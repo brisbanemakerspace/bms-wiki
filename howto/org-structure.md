@@ -2,7 +2,7 @@
 title: Organisational Structure
 description: How does BMS operate and what does the organisational structure look like?
 published: true
-date: 2023-12-04T21:46:12.090Z
+date: 2023-12-12T09:49:50.722Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T07:00:11.770Z
@@ -76,7 +76,7 @@ All members who are entitled to vote are called Volunteer Members and are respon
 These are all the other people who are members of the association, but do not have voting rights and don't have any direct input into it's governance. However, non-voting members are entitled to access our facilities and observe any general meetings.
 
 # Membership Classes
-Everyone who's officially part of the organisation must be a member. We have 3 different membership classes. These are written into our [Constitution](/policies/constitution) under section 5.
+Everyone who's officially part of the organisation must be a member. We have 3 different membership classes. These are written into our [Constitution](/constitution) under section 5.
 
 ## Standard Member (non-voting)
 - is entitled to access the association’s resources and facilities in line with any relevant by-laws
