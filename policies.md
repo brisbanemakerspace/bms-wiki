@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2023-12-12T09:39:40.201Z
+date: 2023-12-12T10:34:58.543Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -51,6 +51,7 @@ Under the Associations Act and our constitution, the association can make by-law
 
 # How To Guides
 ## General
+- [Find the right person to contact](/howto/find-someone)
 - [Close up as the last person to leave](/howto/closeup)
 - [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
 - [Make changes to this wiki](/howto/make-wiki-changes)
