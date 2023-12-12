@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2023-12-12T10:34:53.366Z
+date: 2023-12-12T10:47:30.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -18,18 +18,36 @@ There are lots of people that make BMS run, and finding the right one to contact
 These volunteers are responsible for specific areas of governance and operations as explained below. If your concern doesn't fall into one of these areas, keep reading.
 
 ### President
-The president is responsible for governance of the organisation and can help with questions about community engagement, culture and general direction of the association.
+The president is responsible for governance of the organisation and can help with questions about community engagement, culture, connecting with other groups and overall organisation strategy.
 
 #### Current President
 Jaimyn Mayer ([president@brisbanemaker.space](mailto:president@brisbanemaker.space))
 
 ### Treasurer
+The treasurer is responsible for managing our finances and can help with questions about fees, refunds, payments, reimbursements, and other financial related concerns.
+
+#### Current Treasurer
+Brendan Halliday ([treasurer@brisbanemaker.space](mailto:treasurer@brisbanemaker.space))
 
 ### Secretary
+The secretary is responsible for helping with general association admin and can help with questions about your membership, our governance obligations, meetings and meeting minutes, etc. 
+
+#### Current Secretary
+Adam Jacobus ([secretary@brisbanemaker.space](mailto:secretary@brisbanemaker.space))
 
 ### Head Maker
+The Head Maker is responsible for the associations day to day operations and can help with questions about tool inductions, ordering supplies, fixing things, booking appointments, etc.
+
+#### Current Head Maker
+Jaimyn Mayer ([headmaker@brisbanemaker.space](mailto:headmaker@brisbanemaker.space))
 
 ### General Positions
+The general committee members assist the committee when necessary and provide balanced views during discussions and meetings.
+
+#### Current General Committee
+Steph Piper ([committee@brisbanemaker.space](mailto:committee@brisbanemaker.space))
+
+Zak Crow ([committee@brisbanemaker.space](mailto:committee@brisbanemaker.space))
 
 ## Other Contacts
 ### Less important questions/concerns
