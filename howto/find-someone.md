@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2023-12-12T10:47:30.851Z
+date: 2023-12-12T10:49:31.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -13,6 +13,8 @@ There are lots of people that make BMS run, and finding the right one to contact
 
 > If you have a complaint about an individual person or another member, do not post publicly on Discord or the member forum. Please send an email directly to [committee@brisbanemaker.space](mailto:committee@brisbanemaker.space) for help.
 {.is-info}
+
+**Note: unsolicited commercial contact using these contact details is prohibited.**
 
 ## The Committee
 These volunteers are responsible for specific areas of governance and operations as explained below. If your concern doesn't fall into one of these areas, keep reading.
