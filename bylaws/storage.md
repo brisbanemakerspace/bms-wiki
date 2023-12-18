@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2023-11-27T10:34:59.336Z
+date: 2023-12-18T00:17:18.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-25T07:54:25.407Z
 # Storage at BMS
 We have very limited space on site, so this storage policy explains what our expectations and requirements are.
 
-# 1. Storage Locations
+## 1. Storage Locations
 1. Storage of personal items is not permitted anywhere on-site, except where permitted below.
 
 2. You may not store any dangerous substances or chemicals anywhere on site without written permission from the Head Maker or unless another policy explicitly permits you to.
