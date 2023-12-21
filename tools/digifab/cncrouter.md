@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2023-12-21T09:05:24.564Z
+date: 2023-12-21T09:12:43.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -70,6 +70,13 @@ Book an induction session here: *Booking link coming soon.*
 |--|--|
 [![flammable-material.svg](/sops/warning-icons/flammable-material.svg)<div>Flammable Material</div>](#)|Material being cut can heat up and combust during operation.|
 |[![entanglement.png](/sops/warning-icons/entanglement.png)<div>Entanglement</div>](#)|Bridge and router bit can pose a entanglement and crushing hazard|
+{.sop-symbols}
+
+## Protection Equipment
+
+|Protective Equipment|Details|
+|--|--|
+|[![ear-protection.svg](/sops/protection-icons/ear-protection.svg)<div>Wear Ear Protection</div>](#)|Router bit can be loud while operating|
 {.sop-symbols}
 
 # How To Use
