@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: How much, when, and how fees may need to be paid, including membership and other fees.
 published: true
-date: 2023-11-06T01:52:33.907Z
+date: 2023-12-21T15:54:06.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:24:10.605Z
@@ -22,6 +22,10 @@ Materials and tool usage charges are not refundable outside of exceptional circu
 To maintain membership, you are required to pay your membership fees by the due date of your billing period. Failure to do so may result in the cancellation of your membership. If you have any problems paying for your membership please let us know!
 
 All membership plans have a 3 month minimum initial signup period. After 3 months of membership, you can cancel at anytime from the member portal.
+
+> To change between plans, just cancel your current plan, wait for the current billing period to run out, then subscribe to the new plan. If you want to change halfway through a billing cycle, please contact the treasurer.
+{.is-info}
+
 
 #### Concession Discount
 
