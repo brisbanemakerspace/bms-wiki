@@ -2,7 +2,7 @@
 title: Getting There
 description: Tips on how to get to the makerspace!
 published: true
-date: 2022-10-27T15:54:03.260Z
+date: 2024-01-02T06:28:58.342Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T01:42:56.155Z
@@ -23,7 +23,7 @@ The closest train station is *Fortitude Valley*, which is a very short 5 minute 
 There are lots of free and unlimited motorbike parking spaces right at our backdoor! If you have a bike or moped, this is a great option.
 
 ### On-Site Car Parking
-There is limited on-site parking available to **members only**, as per our [parking policy](/policies/parking) (booking required).
+There is limited on-site parking available to **members only**, as per our [parking policy](/policies/parking) (very limited and often not available).
 
 ### Public Car Parking
 For members of the public, or members' guests, we recommend trying Little St (can often be full) or parking at [Cathedral Place](https://goo.gl/maps/LE3iVDVs6yrzeh1e7). This is just across the road and parking is only $5 after 5pm on weekdays, and capped at $10 on weekends.
