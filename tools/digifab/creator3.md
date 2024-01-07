@@ -2,16 +2,13 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2023-11-08T06:12:04.703Z
+date: 2024-01-07T05:18:42.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
 ---
 
 # Introduction
-> This printer has **reduced functionality**. It was recently donated and currently works, but occasionally locks up mid-print. A new mainboard is on order. You can use it, but please let us know if anything misbehaves.
-{.is-warning}
-
 Our Creator 3 is a large, highly capable machine. It's enclosed print area and independent high temp dual extruders make it ideal for printing many materials or adding water disolvable supports.
 ![creator3.png](/digitalfabrication/creator3.png =x300)
 *A picture of our Creator 3*
