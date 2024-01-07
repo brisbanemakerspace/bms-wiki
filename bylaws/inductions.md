@@ -25,6 +25,13 @@ To maintain a safe operating environment, Brisbane Makerspace requires that memb
     
 5. At least annually (typically after the AGM), the list of members authorised should be reviewed by each Working Group and the Head Maker.
 
+6. Bringing your own tool to use is permitted but done so at your own risk. However, if it carries similar risks to tools that require an induction, you must be inducted to use it on site. Bringing your own tool is not a way to bypass our induction requirements.
+	1. The following low risk tools are excluded, and members may use them without induction if they bring their own:
+ 		1. 3D printers;
+   		2. Unpowered hand tools;
+   		3. Anything else approved by the relevant working group or Head Maker.
+
+
 # 2. Green Tool
 1. These tools require no special induction as they have been deemed low risk. 
 2. Members are allowed to use these tools without any special training requirements. It is still a requirement to read and understand its wiki page if it exists.
