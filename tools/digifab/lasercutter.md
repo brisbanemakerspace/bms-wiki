@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2023-12-21T08:56:20.350Z
+date: 2024-01-08T06:22:30.059Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -40,6 +40,8 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **⚠️ This tool requires an induction before use.**
 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
+
+[INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLScVzylQZOLUkiaqrupoYlcB5JeBWFef23AOR8p6ANu0f3PWCg/viewform) (completed by the person running the induction as a record of completion)
 
 # Safety
 
