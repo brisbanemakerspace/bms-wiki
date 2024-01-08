@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2024-01-07T05:18:42.650Z
+date: 2024-01-08T06:21:38.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -33,6 +33,8 @@ Our Creator 3 can be used for printing many different objects. It's setup to pri
 **🟡 This tool requires an induction before use.**
 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
+
+[INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLSfjnpgT0hsYy-9boYE1flblScK3G-8vLR-xeZpHAWG_-4epNw/viewform) (completed by the person running the induction as a record of completion)
 
 # Slicing Software
 These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
