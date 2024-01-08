@@ -2,7 +2,7 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2023-08-22T04:34:02.650Z
+date: 2024-01-08T06:19:56.753Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
@@ -30,6 +30,8 @@ This tool is a "Red Tool" which means it can only be used under supervision. Onc
 **🔴 This tool requires an induction before use.**
 
 To book an induction / time to use this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
+
+[INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLSc3q2toTa2nsiCZsjWvpuDCooVJP5Jut01VuYaPV1Oinv5y7A/viewform) (completed by the person running the induction as a record of completion)
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
