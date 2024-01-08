@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2023-11-08T06:11:21.554Z
+date: 2024-01-08T06:21:18.756Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -34,6 +34,8 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 **🟡 This tool requires an induction before use.**
 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
+
+[INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLSfjnpgT0hsYy-9boYE1flblScK3G-8vLR-xeZpHAWG_-4epNw/viewform) (completed by the person running the induction as a record of completion)
 
 # Slicing Software
 These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
