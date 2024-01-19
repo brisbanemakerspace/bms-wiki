@@ -2,14 +2,14 @@
 title: Woodshop Working Group
 description: Woodshop Working Group
 published: true
-date: 2024-01-19T14:15:47.975Z
+date: 2024-01-19T14:48:01.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-19T14:02:08.228Z
 ---
 
 # Woodshop Working Group
-Working Groups are how we get stuff done in a decentralised, but accountable way. Welcome to the Woodshop Working Group's wiki page.
+Working Groups are how we get stuff done in a decentralised, but accountable way. Welcome to the *Woodshop* Working Group's wiki page.
 
 # Purpose
 The Woodshop Working Group is dedicated to managing and enhancing the woodshop facilities at BMS. Our goal is to ensure a safe and well-organized environment for all members interested in woodworking. This includes maintaining and upgrading tools and equipment, fostering a culture of safety and skill-building, and facilitating workshops and projects that engage and benefit the community.
