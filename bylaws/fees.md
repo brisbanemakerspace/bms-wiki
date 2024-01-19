@@ -29,7 +29,7 @@ All membership plans have a 3 month minimum initial signup period. After 3 month
 
 #### Concession Discount
 
-We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student or concession card holder. If you stop meeting these requirements, please notify us as soon as possible. The committee has the right to ask for proof at most twice per year to verify you're still entitled to receive the concession discount.
+We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student, concession card holder, or receive a regular income support payment from the government. If you stop meeting these requirements, please notify us as soon as possible. The committee has the right to ask for proof at most twice per year to verify you're still entitled to receive the concession discount.
 
 ### Maker Lite
 Fee (concession): n/a
@@ -40,12 +40,24 @@ Fee: $39/mth
 * Up to 10 visits per month
 
 ### Maker Plus
+Fee (working member): $0/mth
 Fee (concession): $39/mth
 Fee: $59/mth
 
 * Limited commercial use (see our [Fair Use Policy](/policies/fair-use))
   * This includes making and selling small volumes of things for markets, etsy, etc.
 * Up to 10 visits per month
+
+#### Working Members
+Working Members are entitled to free membership of the Maker Plus plan. To be eligible a member must:
+* be eligible for our concession discount above; and
+* be unable to afford any of our paid membership plans without going into financial stress; and
+* sign a volunteer agreement and meet the requirements of it every month.
+  * we expect you to volunteer around 4 hours of your time each month but there is no fixed requirement.
+
+If a member stops meeting the requirements of their volunteer agreement for two consecutive months without a reasonable excuse (such as holiday or illness), their membership will be terminated or they can choose to move to a paid plan. The total number of Working Members is capped at 5% of the total number of active members (rounded up).
+
+If a member wants to become a Working Member, they can apply by [emailing the committee](mailto:committee@brisbanemaker.space) directly. The commitee has absolute discretion on whether to approve an application or not, but members have a right of appeal at a General Meeting.
 
 ### Coworker Lite
 Fee: $149/mth
