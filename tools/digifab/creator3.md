@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2024-01-08T06:21:38.650Z
+date: 2024-01-19T12:55:12.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -18,8 +18,7 @@ Our Creator 3 can be used for printing many different objects. It's setup to pri
 
 # Specifications
 **IP Address:** 192.168.1.203
-**Usage Cost:** $2/hr or $40/kg (free for BYO filament)
-**Note:** the usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
+**Usage Cost:** $1.50/hr or $40/kg (50% off for BYO filament)
 
 **Induction Class:** 🟡 Orange Tool (Induction Required)
 **Print Area:** 300mm(L) x 250mm(W) x 200mm(H)
