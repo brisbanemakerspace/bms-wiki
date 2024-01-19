@@ -2,7 +2,7 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2024-01-19T12:56:15.886Z
+date: 2024-01-19T12:57:32.390Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
