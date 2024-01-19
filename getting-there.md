@@ -2,7 +2,7 @@
 title: Getting There
 description: Tips on how to get to the makerspace!
 published: true
-date: 2024-01-02T06:28:58.342Z
+date: 2024-01-19T15:06:26.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T01:42:56.155Z
@@ -39,4 +39,4 @@ If you want a more price friendly option, there is street parking nearby, but it
 ### Central Parking Area
 We fall within the council's "Central Parking Area". This means that between 7am to 6pm Mon-Fri, and 7am to middday Sat, a 2 hour limit applies to all street parking that doesn't have a sign saying otherwise. Learn more on the council website [here](https://www.brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-permits/brisbane-central-traffic-area).
 
-This means if you park somewhere without a sign specifying a time limit between those times, you may get fined for staying longer than 2 hours! Please contact the council or our staff if you need assistance with understanding this.
+This means if you park somewhere without a sign specifying a time limit between those times, you may get fined for staying longer than 2 hours! Please contact the council or our volunteers if you need assistance with understanding this.
