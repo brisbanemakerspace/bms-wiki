@@ -2,7 +2,7 @@
 title: kWeld Battery Spot Welder
 description: Learn about our kWeld "next level" battery spot welder.
 published: true
-date: 2023-08-22T03:55:24.711Z
+date: 2024-01-19T15:13:21.252Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:59:01.759Z
@@ -15,7 +15,7 @@ The kWeld battery spot welder is an amazing tool for constructing and/or fixing 
 *A picture of a kWeld battery welding system*
 
 # Recommended Uses
-This is specifically designed for spot welding metal tabs onto battery cells. Any other use is not permitted and will result in a warning for breaching our [safety policy](/policies/safety).
+This is specifically designed for spot welding metal tabs onto battery cells. Any other use is not permitted without approval and will result in an infraction for breaching our [safety policy](/policies/safety).
 
 # Specifications
 **Induction Class:** 🟡 Yellow Tool (Induction Required)
@@ -37,7 +37,7 @@ You should be familiar with how to operate this tool after completing an inducti
 
 ## Before Use
 1. Wipe down the electrode tips with dry paper towel.
-2. Configure the kWeld energy as per the following (seek advice with staff for other materials):
+2. Configure the kWeld energy as per the following (seek advice for other materials):
 	1. 0.1mm pure nickel strip	20J
 	2. 0.2mm pure nickel strip	50J
 	3. 0.3mm pure nickel strip	100J
@@ -45,7 +45,7 @@ You should be familiar with how to operate this tool after completing an inducti
 ## During Use
 1. Continually check the battery, battery connectors, and electrodes for excessive heat.
 2. If any of the above components get too hot to touch, stop use for 5 minutes and check again before continuing.
-3. If you receive any errors or low battery warnings please stop use and contact a staff member for assistance. *Note: only authorised members are permitted to recharge the kWeld battery.*
+3. If you receive any errors or low battery warnings please stop use and post a message in Discord for assistance. *Note: only authorised members are permitted to recharge the kWeld battery.*
 
 ## After Use
 1. Wipe down the electrode tip with dry paper towel.
