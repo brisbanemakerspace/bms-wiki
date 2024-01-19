@@ -2,7 +2,7 @@
 title: Working Groups
 description: 
 published: true
-date: 2023-11-27T06:33:44.801Z
+date: 2024-01-19T13:36:10.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:59:44.769Z
@@ -37,7 +37,7 @@ The following is a list of assumed responsibilities that a Working Group is typi
 To create or remove a new Working Group, a motion needs to be carried either at a General Meeting or Committee Meeting. In order for a new Working Group to be approved, the meeting needs to be satisfied that all requirements above are met.
 
 # Membership
-Membership to a Working Group is open to all members of the association (including non-voting members). However, only members entitled to vote at a General Meeting may vote on motions.
+Membership to a Working Group is open to all members of the association (including non-voting members). However, non-voting members cannot block consensus.
 
 # Working Group Policies
 A Working Group can define and enforce policies (considered by-laws under our constitution) in line with the following requirements.
@@ -45,7 +45,7 @@ A Working Group can define and enforce policies (considered by-laws under our co
 Any Working Group policy:
 1. can be set aside or ammended at a General Meeting or Committee Meeting; and
 2. is only valid if it is directly related to the Working Group's purpose, and is to help manage it's tools and resources; and
-3. must be passed by carrying a motion using the consensus procedure at a Working Group meeting; and
+3. must be passed at a Working Group meeting; and
 4. does not unreasonably limit or restrict how a member can utilise a resource; and
 5. does not conflict with an existing policy approved at a General Meeting or Committee Meeting.
 
@@ -56,4 +56,5 @@ Working Group meetings:
 3. can pass motions solely relating to Working Group policies as defined above, or that determine how an existing approved budget can be spent; and
 4. have no quorum other than the minimum two members required to exist; and
 5. must follow all meeting procedures and requirements from our constitution and the Meetings policy, including votes to be conducted by way of consensus; and
-6. must publish detailed and accurate minutes on the wiki within a reasonable time after any meeting.
+6. must publish detailed and accurate minutes on the wiki within a reasonable time after any meeting; and
+7. quorum for Working Group meetings is the greater of two members or 50% of the Working Group (partial numbers rounded up).
