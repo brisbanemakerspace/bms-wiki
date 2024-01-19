@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2024-01-19T12:54:08.580Z
+date: 2024-01-19T15:10:47.714Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -58,7 +58,7 @@ You should be familiar with how to operate this tool after completing an inducti
 5. Watch the printer until the first layer is finished, then you can go work on something else!
 
 ## During Use
-1. Check on the printer once every 30 minutes at a minimum. If you wish to leave a print unattended, please send staff a message via Discord and confirm they are aware of your print before leaving.
+1. Check on the printer once every 30 minutes if you're on site. If you wish to leave a print unattended, please post a message in Discord as a courtesy.
 2. Regularly check the object has not come off the build plate and it's still printing correctly.
 
 ## After Use
@@ -67,7 +67,7 @@ You should be familiar with how to operate this tool after completing an inducti
 3. Clean up all bits of loose filament / plastic from around the print area, and gently use side cutters to remove excess plastic from the print bed.
 
 # Brisbane Makerspace Stocked Materials
-We try to keep the following filaments in stock for members to use but check with staff ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
+We try to keep the following filaments in stock for members to use but check ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
 
 ## 1.75mm eSUN ABS+ Filament
 * Black
