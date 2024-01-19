@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2024-01-08T06:21:18.756Z
+date: 2024-01-19T12:54:08.580Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z
@@ -19,7 +19,7 @@ Our Adventurer 4 can be used for printing many different objects. It's setup to 
 
 # Specifications
 **IP Address:** 192.168.1.202
-**Usage Cost:** $2/hr or $40/kg (free for BYO filament - PLA, ABS and PETG **only**)
+**Usage Cost:** $1.50/hr or $40/kg (50% off for BYO filament)
 **Note:** the usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
 
 **Induction Class:** 🟡 Orange Tool (Induction Required)
