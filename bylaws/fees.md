@@ -29,9 +29,10 @@ All membership plans have a 3 month minimum initial signup period. After 3 month
 
 #### Concession Discount
 
-We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student or concession cardholder. If you stop meeting these requirements, please notify us as soon as possible. The committee has the right to ask for proof at most twice per year to verify you're still entitled to receive the concession discount.
+We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student or concession card holder. If you stop meeting these requirements, please notify us as soon as possible. The committee has the right to ask for proof at most twice per year to verify you're still entitled to receive the concession discount.
 
 ### Maker Lite
+Fee (concession): n/a
 Fee: $39/mth
 
 * Commercial use is not permitted ([Fair Use Policy](/policies/fair-use) applies)
@@ -39,24 +40,29 @@ Fee: $39/mth
 * Up to 10 visits per month
 
 ### Maker Plus
+Fee (concession): $39/mth
 Fee: $59/mth
-Fee (consession): $39/mth
 
-* Limited personal commercial use (see our [Fair Use Policy](/policies/fair-use))
-	* This includes making and selling things for markets, etsy, etc.
+* Limited commercial use (see our [Fair Use Policy](/policies/fair-use))
+  * This includes making and selling small volumes of things for markets, etsy, etc.
 * Up to 10 visits per month
 
 ### Coworker Lite
-Fee: $199/mth
+Fee: $149/mth
 
 * Commercial use is permitted ([Fair Use Policy](/policies/fair-use) applies)
 * Unlimited access to a hot desk
 
 ### Coworker Plus
-Fee: $299/mth
+Fee: $249/mth
 
-* Limited commercial use (see our [Fair Use Policy](/policies/fair-use))
+* Commercial use is permitted ([Fair Use Policy](/policies/fair-use))
 * Unlimited access to a dedicated, reserved desk
+* Extra storage from $100/mth per ~1m wide shelving unit (or cabinet equivalent)
+* Shelves only available within our limits:
+  * A max between all members of 3x rented shelves upstairs
+  * A max between all members of 4x rented shelves downstairs
+  * Per Coworker Plus plan - a max of 1x shelf upstairs and 1x shelf downstairs
 
 ## Late / No Show Fee
 Unfortunately due to repeated no shows and members being late to appointments, we've had to implement a late fee. This fee applies to all bookings made for time with a BMS volunteer and does not include tool bookings (like for using the laser cutter).
