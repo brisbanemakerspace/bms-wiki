@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-01-07T23:33:02.800Z
+date: 2024-01-19T14:02:13.571Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -39,15 +39,9 @@ Under the Associations Act and our constitution, the association can make by-law
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
 
-# Old Policies (THESE APPLIED UNTIL *1st Dec*!)
-- [Parking](/policies/parking)
-- [Community Rules](/policies/communityrules)
-- [Code of Conduct](/policies/codeofconduct)
-- [Safety](/policies/safety)
-- [Tool Inductions](/policies/inductions)
-- [Fair Use](/policies/fair-use)
-- [Fee Schedule](/policies/fees)
-- [Infractions (Bad Behaviour)](/policies/infractions)
+# Working Groups
+- [Infrastructure Working Group](/policies/wg-infrastructure)
+- [Woodshop Working Group](/policies/wg-woodshop)
 
 
 # How To Guides
