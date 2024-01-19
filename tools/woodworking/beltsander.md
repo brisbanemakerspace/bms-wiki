@@ -2,14 +2,14 @@
 title: Belt & Disc Sander
 description: Our belt & disc sander is great for sanding and finishing small timber projects.
 published: true
-date: 2023-08-10T03:54:38.353Z
+date: 2024-01-19T15:15:23.781Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T03:48:37.652Z
 ---
 
 # Introduction
-> Our belt & disc sander is loud, messy, and dangerous. It can only be used by a staff member on site.
+> Our belt & disc sander is loud, messy, and dangerous. It can only be used by an authorised volunteer.
 {.is-warning}
 
 ![beltsander.png](/woodworking/beltsander.png =x300)
@@ -18,7 +18,7 @@ dateCreated: 2023-08-10T03:48:37.652Z
 > Hearing and eye protection **MUST** be worn at all times while operating this tool.
 {.is-warning}
 
-Please book in a time with a staff member to use. This tool **CANNOT BE USED BY MEMBERS CURRENTLY**. Eventually our aim is to create an induction so members can use it, but there is no ETA for this.
+Please book an appointment to use. This tool **CANNOT BE USED BY MEMBERS CURRENTLY**. Eventually our aim is to create an induction so members can use it, but there is no ETA for this.
 
 # Specifications
 **Induction class:** Red Tool (**Supervised Use Required**)
