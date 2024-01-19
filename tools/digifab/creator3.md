@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2024-01-19T12:55:12.499Z
+date: 2024-01-19T15:11:50.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -56,8 +56,8 @@ You should be familiar with how to operate this tool after completing an inducti
 5. Watch the printer until the first layer is finished, then you can go work on something else!
 
 ## During Use
-1. Check on the printer regularly.
-2. Check the object has not come off the build plate and it's still printing correctly.
+1. Check on the printer once every 30 minutes if you're on site. If you wish to leave a print unattended, please post a message in Discord as a courtesy.
+2. Regularly check the object has not come off the build plate and it's still printing correctly.
 
 ## After Use
 1. Wait for the print bed to cool down before removing it.
@@ -75,7 +75,7 @@ Found from a very helpful [reddit post](https://www.reddit.com/r/FlashForge/comm
 6. Optional: turn on 9 point before each print, I do this and I find it helps when you accidentally put your plate at a slightly weird angle clipping the guide bits.
 
 # Brisbane Makerspace Stocked Materials
-We try to keep the following filaments in stock for members to use but check with staff ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
+We try to keep the following filaments in stock for members to use but check ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
 
 ## 1.75mm eSUN ABS+ Filament
 * Black
