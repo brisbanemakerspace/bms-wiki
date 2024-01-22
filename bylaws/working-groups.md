@@ -2,7 +2,7 @@
 title: Working Groups
 description: Working Groups are how we get stuff done in a decentralised, but accountable way. Each Working Group looks after a certain area of the space, and is accountable to the Head Maker and Committee.
 published: true
-date: 2024-01-22T08:33:11.031Z
+date: 2024-01-22T08:36:50.811Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:59:44.769Z
@@ -12,7 +12,7 @@ dateCreated: 2023-10-25T07:59:44.769Z
 Working Groups are how we get stuff done in a decentralised, but accountable way. Each Working Group looks after a certain area of the space, and is accountable to the Head Maker and Committee.
 
 ## Current Working Groups
-* none - policy is still draft!
+* 
 
 # Requirements
 These are the minimum requirements to exist and operate as a Working Group:
