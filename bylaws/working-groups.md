@@ -2,7 +2,7 @@
 title: Working Groups
 description: Working Groups are how we get stuff done in a decentralised, but accountable way. Each Working Group looks after a certain area of the space, and is accountable to the Head Maker and Committee.
 published: true
-date: 2024-01-22T08:32:24.418Z
+date: 2024-01-22T08:33:11.031Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:59:44.769Z
@@ -37,7 +37,7 @@ The following is a list of assumed responsibilities that a Working Group is typi
 To create or remove a new Working Group, a motion needs to be carried either at a General Meeting or Committee Meeting. In order for a new Working Group to be approved, the meeting needs to be satisfied that all requirements above are met.
 
 # Membership
-Membership to a Working Group is open to all members of the association (including non-voting members). However, non-voting members cannot block consensus.
+Membership to a Working Group is open to all members of the association (including non-voting members). However, only voting members can block consensus.
 
 # Working Group Policies
 A Working Group can define and enforce policies (considered by-laws under our constitution) in line with the following requirements.
