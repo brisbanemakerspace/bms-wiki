@@ -2,7 +2,7 @@
 title: Working Groups
 description: Working Groups are how we get stuff done in a decentralised, but accountable way. Each Working Group looks after a certain area of the space, and is accountable to the Head Maker and Committee.
 published: true
-date: 2024-01-22T08:38:48.318Z
+date: 2024-01-22T10:59:47.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:59:44.769Z
@@ -57,4 +57,4 @@ Working Group meetings:
 3. can pass motions solely relating to Working Group policies as defined above, or that determine how an existing approved budget can be spent; and
 4. must follow all meeting procedures and requirements from our constitution and the Meetings policy, including votes to be conducted by way of consensus; and
 5. must publish detailed and accurate minutes on the wiki within a reasonable time after any meeting; and
-6. quorum for Working Group meetings is the greater of two members or 50% of the Working Group (partial numbers rounded up).
+6. quorum for Working Group meetings is two members or 50% of the Working Group (rounded up), whichever is greater.
