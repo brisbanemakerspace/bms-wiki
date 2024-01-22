@@ -2,7 +2,7 @@
 title: Infrastructure Working Group
 description: Infrastructure Working Group
 published: true
-date: 2024-01-22T08:36:30.061Z
+date: 2024-01-22T08:39:07.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-19T14:02:04.503Z
@@ -15,7 +15,7 @@ Working Groups are how we get stuff done in a decentralised, but accountable way
 The Infrastructure Working Group is responsible for maintaining and improving the physical and digital infrastructure of our space. This includes overseeing and upgrading essential facilities such as Wi-Fi networks, door locks, servers, and other technological systems that are crucial for the smooth operation of the space. Our goal is to ensure reliable and easy to use infrastructure, enabling a seamless experience for all members.
 
 # Members
-* Jaimyn Mauer (Facilitator)
+* Jaimyn Mayer (Facilitator)
 * Brendan Halliday (Authorised Maintainer)
 
 # Budgets
