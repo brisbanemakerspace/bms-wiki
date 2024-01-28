@@ -2,7 +2,7 @@
 title: Soldering and Hot Air
 description: Learn about our soldering and hot air stations.
 published: true
-date: 2023-08-22T03:52:27.473Z
+date: 2024-01-28T08:03:56.808Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:42.974Z
@@ -23,6 +23,7 @@ The hot air stations also have different sized tips/nozzles and are great for us
 **Induction Class:** 🟡 Yellow Tool (Induction Required)
 **Temp Range:** 100 - 480°C
 **Max Air Flow:** 24L/min
+**Models:** 2x Yihua 952D+ and 2x Yihua 950.
 
 # Induction Process
 **⚠️ This tool requires an induction before use.**
