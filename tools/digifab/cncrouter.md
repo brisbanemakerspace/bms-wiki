@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2023-12-21T09:12:43.168Z
+date: 2024-02-12T09:07:34.983Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -21,6 +21,7 @@ dateCreated: 2022-10-06T05:07:35.154Z
 The CNC router is great for all sorts of things like making detailed 3D models, large project enclosures and general cutting/engraving. It can cut and engrave things large or small, and most types of materials including plastic, timber and soft metals like aluminium. Please note that it cannot be used with very hard materials like steel.
 
 # Specifications
+**IP Address**: 192.168.2.6:23
 **Manufacturer:** [CNC3D](https://www.cnc3d.com.au)
 **Model:** [QueenBee CNC 1000x1500mm](https://www.cnc3d.com.au/product-page/queenbee-cnc-1000x1500mm/)
 **Induction Class:** 🟡 Yellow Tool (**Induction Required**)
