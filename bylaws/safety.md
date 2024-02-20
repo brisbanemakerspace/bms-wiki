@@ -23,7 +23,9 @@ You can't work on projects when you're injured! But also, it's no fun for anyone
 1. You must never be under the influence of any illegal drugs or substances while on site. You will be asked to leave if you are caught using or being under the influence of an illegal drug or substance.
 
 2. You must never use a tool whilst under the influence of alcohol or any medication/drug (prescription or otherwise) that may impact your ability to safely operate that tool.
-  	1. It is a breach of this section to operate a tool if you have a detectable blood alcohol concentration.
+  	1. It is a breach of this section to operate a tool if you have any level of detectable blood alcohol concentration.
+
+3. Storing or consuming alcohol on site is prohibited outside of a specific social event where consuming alcohol has been permitted by the committee. The committee may put reasonable conditions on the consumption of alcohol. Any member of the committee has the power to ask any person unduly intoxicated to leave at any time.
 
 ## 4. Aerosols and Odorous Chemicals
 1. You must not use any aerosols (like spray paint etc.) or any substance that produces an unpleasant smell in the upstairs workspace, or any enclosed area. You are only permitted to use these aerosols/substances in the outside area and with enough ventilation.
@@ -48,14 +50,16 @@ The use of any tool poses certain risks. Some are low risk like a pair of scisso
 ## 7. Tidy Workspaces
 1. All workspaces must be left clean and tidy both during and after, you are using them. An untidy workspace is a common cause of safety incidents and should be avoided.
 
+2. Members must never block or obstruct a doorway or exit path for any length of time. 
+
 ## 8. Electrical Work
 1. All electrical work that requires an electrical license must be completed by someone who holds that license (e.g. an electrician). Most of the time, this means any project where voltages above 120v DC or 50v RMS AC are present.
 
 ## 9. Explosive & Flammables Goods Storage
-1. Our lease disallows storing explosive or flammable goods on site due to the fire risk. As such, members are prohibited from storing any chemical or substance on site that carries a dangerous goods warning label relating to fire or explosion.
+1. Our lease disallows storing explosive or flammable goods on site due to the fire risk. As such, members are prohibited from storing any chemical, substance, or item on site that carries a dangerous goods warning label relating to fire or explosion.
 	1. "Pre-Approved Chemicals & Substances" in the section below are exempt from this policy.
 
-2. There is also a limit on the amount of batteries a member may store on site. Members must not store more than a total of 100Wh of batteries at any one time unless you have permission in writing from the Head Maker. This balances the fire safety risk batteries pose.
+2. There is also a limit on the amount of batteries a member may store on site. Members must not store more than a total of 100Wh of batteries at any one time unless you have permission in writing from the committee. This balances the fire safety risk batteries pose.
 	1. sealed battery packs (such as from power tools, power banks, etc.) in good condition that are unmodified from the original manufacturer are exempt from this rule.
 
 ## 10. Chemicals & Dangerous Substances
