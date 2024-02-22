@@ -12,7 +12,7 @@ dateCreated: 2023-10-25T07:54:25.407Z
 We have very limited space on site, so this storage policy explains what our expectations and requirements are.
 
 ## 1. Storage Locations
-1. Storage of personal items is not permitted anywhere on-site, except where permitted in this policy below.
+1. Storage of personal items is not permitted anywhere on-site, except where permitted in the policy below, or as permitted by a working group policy.
 
 2. You may not store any dangerous substances or chemicals anywhere on site without written permission from the Head Maker or unless another policy explicitly permits you to.
 
