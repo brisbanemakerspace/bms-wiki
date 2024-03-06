@@ -2,7 +2,7 @@
 title: Woodshop Working Group
 description: Woodshop Working Group
 published: true
-date: 2024-01-22T08:36:08.388Z
+date: 2024-03-06T11:51:44.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-19T14:02:08.228Z
@@ -17,7 +17,8 @@ The Woodshop Working Group is dedicated to managing and enhancing the woodshop f
 # Members
 * Zak Forrester (Facilitator)
 * Jedd Dawson
-* Jaimyn Mayer
+* 
+* 
 
 # Budgets
 ## Discretionary Budget
