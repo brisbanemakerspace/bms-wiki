@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-01-29T07:01:38.079Z
+date: 2024-03-13T01:37:33.878Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -46,6 +46,7 @@ Under the Associations Act and our constitution, the association can make by-law
 
 # How To Guides
 ## General
+- [[DRAFT] Make a tax deductible donation](/howto/dgr-donation)
 - [Find the right person to contact](/howto/find-someone)
 - [Close up as the last person to leave](/howto/closeup)
 - [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
