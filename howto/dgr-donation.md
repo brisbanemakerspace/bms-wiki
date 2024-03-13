@@ -2,7 +2,7 @@
 title: How to make a tax deductible* donation to Brisbane Makerspace
 description: How to make a tax deductible* donation to Brisbane Makerspace.
 published: true
-date: 2024-03-13T01:34:45.794Z
+date: 2024-03-13T01:38:47.523Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-13T01:34:45.794Z
@@ -41,7 +41,7 @@ The ATO has very strict requirements. Your donation must meet ALL of the require
     It's important that you keep a copy of your original receipt of purchase and the receipt BMS gives you. If you're donating something you paid cash for, ask the seller for a handwritten receipt. The ATO may ask you to supply them a copy if you get audited. If you can't, you may have to pay that tax back!
     
 ## How to make the donation
-Once you're sure your donation is a deductible gift, you should confirm the donation with the committee and/or the relevant working group before making it. In the case of a cash donation, please email the treasurer for details on making the payment - it must go to a special account.
+Once you're sure your donation is a deductible gift, read and follow the [Donations and Loans policy](/bylaws/donations). In the case of a cash donation, please email the treasurer for details on making the payment - it must go to a special account.
 
 The treasurer can supply a receipt for any donation if you ask for one *at the time you make the donation*. We encourage you to ask for a receipt if you intend on claiming the donation as a tax deduction. We will generally not issue receipts for past donations, or donations with a value under $10 due to the time involved in preparing one. The receipt you receive must contain the following information (so check it closely):
 
