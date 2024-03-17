@@ -2,7 +2,7 @@
 title: Woodshop Working Group
 description: Woodshop Working Group
 published: true
-date: 2024-03-06T11:51:44.207Z
+date: 2024-03-17T03:18:34.958Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-19T14:02:08.228Z
@@ -15,10 +15,10 @@ Working Groups are how we get stuff done in a decentralised, but accountable way
 The Woodshop Working Group is dedicated to managing and enhancing the woodshop facilities at BMS. Our goal is to ensure a safe and well-organized environment for all members interested in woodworking. This includes maintaining and upgrading tools and equipment, fostering a culture of safety and skill-building, and facilitating workshops and projects that engage and benefit the community.
 
 # Members
-* Zak Forrester (Facilitator)
-* Jedd Dawson
-* 
-* 
+* Zak Forrester (woodshop Facilitator)
+* Jedd Dawson (cnc facilitator)
+* Danhanson (maintenance)
+* pandan14 (safety/maintenancce)
 
 # Budgets
 ## Discretionary Budget
