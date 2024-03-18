@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2024-02-12T09:07:34.983Z
+date: 2024-03-18T10:36:55.803Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -16,6 +16,28 @@ dateCreated: 2022-10-06T05:07:35.154Z
 
 ![cnc.png](/digitalfabrication/cnc.png =x300)
 *A picture of our CNC router (1200x750mm work area!)*
+
+# Opt-in Booking System
+Please use the link in the [member portal](https://portal.brisbanemaker.space) to see existing bookings or to make a new one. We operate an opt-in booking system for this machine.
+
+It's called an opt-in booking system because you can still use it before/after your booked time or without a booking, but you may have to share with other members.
+
+Please read our full tool sharing and booking policy [here](/policies/fair-use#tool-sharing) for details.
+
+# Booking Policy
+
+> You must book to use the CNC machine. Bookings have priority.
+{.is-warning}
+
+## Booking Durations and Notice Period
+
+**Business Hours (7am to 7 pm)** 
+- No notice period
+- 2 hours max booking timeslot (you may continue use unless someone else has booked or shown up to use)
+
+**Outside Business Hours (7pm to 7am)**
+- 48 hours notice period
+- May book up to 8 hours
 
 # Recommended Uses
 The CNC router is great for all sorts of things like making detailed 3D models, large project enclosures and general cutting/engraving. It can cut and engrave things large or small, and most types of materials including plastic, timber and soft metals like aluminium. Please note that it cannot be used with very hard materials like steel.
