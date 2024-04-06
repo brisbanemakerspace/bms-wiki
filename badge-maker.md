@@ -2,7 +2,7 @@
 title: Badge Maker
 description: Learn how to use our badge maker!
 published: true
-date: 2024-04-06T13:44:58.679Z
+date: 2024-04-06T15:03:06.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-06T03:40:57.056Z
@@ -62,6 +62,8 @@ Please make sure you read this entire page in full, to avoid injury.
 > Never put your hands or fingers in between the molds for any reason. Very serious crush injuries can occur.
 {.is-warning}
 
+There is a video at the end, but please read through all of the instructions first.
+
 1. Push the mold slider all the way to the left.
 ![badge-materials.jpeg](/craft/badge-maker-mold-left.jpeg =x150)
 2. In the left mold place the top metal piece, then your paper, and finally the clear plastic piece.
@@ -71,6 +73,9 @@ Please make sure you read this entire page in full, to avoid injury.
 5. Push the mold slider all the way to the left, and gently pull the lever all the way down. The spring under the bottom mold should compress all the way down when viewed from the left of the mold.
 ![badge-materials.jpeg](/craft/badge-maker-mold-left.jpeg =x150)
 6. Push the mold slider all the way to the right again, and carefully remove the finished badge.
+
+End to end process is shown in the video below (may take a while to load):
+![badge-maker-tutorial.mp4](/craft/badge-maker-tutorial.mp4 =500x)
 
 ## After Use
 
