@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-01-08T06:23:19.800Z
+date: 2024-04-06T03:38:56.830Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -57,8 +57,6 @@ All tools are available on a first come, first serve basis. Most of the time the
 	](/tools/digifab/cricut)
 
 ## Electronics
-[INDUCTION FORM FOR ELECTRONICS BENCH](https://docs.google.com/forms/d/e/1FAIpQLScdEiynBQ_N1WFyvte7oLjP0JcQd4YJ7whOCn7k4Kubajzelw/viewform) (completed by the person running the induction as a record of completion)
-
 - [Induction Soldering Iron
 		![solder_station.png](/electronics/induction.png =x70)
 	](/tools/electronics/induction-soldering-iron)
@@ -91,7 +89,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![wire.png](/electronics/wire.png =x60)
 	](/tools/electronics/consumables)
   
-## Technical Equipment
+## Other Electronic Equipment
 - [A4 Colour Printing (Laser and Inkjet)
 		![a4-printer.png](/other/a4-printer.png =60x)
 	](/tools/other/printing)
@@ -113,6 +111,7 @@ All tools are available on a first come, first serve basis. Most of the time the
   ](/tools/other/lightbox)
 
 ## Craft
+- [Badge Maker](/badge-maker)
 - [Craft Supplies / Consumables](/craft-supply-boxes)
 
 - Knitting & Crocheting
