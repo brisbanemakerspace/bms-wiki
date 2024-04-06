@@ -2,7 +2,7 @@
 title: Badge Maker
 description: Learn how to use our badge maker!
 published: true
-date: 2024-04-06T12:44:26.090Z
+date: 2024-04-06T12:49:09.228Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-06T03:40:57.056Z
@@ -19,6 +19,7 @@ The different consumables and molds are stored in plastic boxes inside the badge
 # Specification
 
 - **Induction Class:** 🟢 Green Tool (No Induction Required - read this entire page)
+- **Badge Cost:** $1 per badge/magnet OR $0 each if you bring your own consumables
 - **Available Badge Sizes:** 25mm and 58mm (more if we buy the right consumables/molds)
 - **Available Fridge Magnet Sizes:** 58mm (more if we buy the right consumables/molds)
 - **[Instruction Manual (pretty useless see instructions below)](/craft/badge-maker-manual.pdf)**
