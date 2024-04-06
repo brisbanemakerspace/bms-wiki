@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-04-06T03:38:56.830Z
+date: 2024-04-06T04:32:53.266Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -105,6 +105,8 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Sony Mirrorless Camera
 		![sony-a5100.png](/tools/sony-a5100.png =60x)
 	](/tools/other/sony-mirrorless)
+
+- [Audio Recording Equipment](/tools/audio-recording)
 
 - [Photo Lightbox
 		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
