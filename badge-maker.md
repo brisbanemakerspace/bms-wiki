@@ -2,7 +2,7 @@
 title: Badge Maker
 description: Learn how to use our badge maker!
 published: true
-date: 2024-04-06T15:03:06.349Z
+date: 2024-04-06T15:10:11.980Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-06T03:40:57.056Z
@@ -14,7 +14,7 @@ We have a Vevor Button/Badge Maker for creating buttons, badges, fridge magnets 
 
 The different consumables and molds are stored in plastic boxes inside the badge maker storage container. Once the snack and consumables vending machine is operational, badge consumables will be moved there.
 
-![A photo of the Vevor Badge / Button Maker](/tools/badge-maker.png =400x)
+![A photo of the Vevor Badge / Button Maker](/tools/badge-maker.png =x400) ![badge-maker-example.jpeg](/craft/badge-maker-example.jpeg =x400)
 
 # Specification
 
