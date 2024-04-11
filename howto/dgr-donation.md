@@ -2,7 +2,7 @@
 title: How to make a tax deductible* donation to Brisbane Makerspace
 description: How to make a tax deductible* donation to Brisbane Makerspace.
 published: true
-date: 2024-03-13T01:38:47.523Z
+date: 2024-04-11T23:11:11.827Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-13T01:34:45.794Z
@@ -24,7 +24,7 @@ The first thing we have to do is clarify a few terms!
 - **DGR / DGR Endorsed** = Deductible Gift Recipient / The ATO has confirmed the organisation is a **DGR** and you can make tax deductible donations.
 
 ## Is BMS a deductible gift recipient?
-Brisbane Makerspace (Meanjin Makerspace) is a charity registered with the ACNC and is DGR endorsed by the ATO. This means that certain gifts (ie donations) can be deducted from your taxable income which may reduce the tax you pay or result in a tax refund when you submit your tax return.
+Brisbane Makerspace (Meanjin Makerspace Inc.) is a charity registered with the ACNC and is DGR endorsed by the ATO. This means that certain gifts (ie donations) can be deducted from your taxable income which may reduce the tax you pay or result in a tax refund when you submit your tax return.
 
 ## What is a tax deductible donation?
 The ATO has very strict requirements. Your donation must meet ALL of the requirements below to be eligible. The treasurer can provide general guidance, but **cannot provide legal or financial advice for you specifically**.
