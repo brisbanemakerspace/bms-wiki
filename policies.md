@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-04-05T01:52:36.186Z
+date: 2024-04-15T07:56:19.150Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -53,6 +53,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Make changes to this wiki](/howto/make-wiki-changes)
 - [Manage your membership](/howto/manage-membership)
 - [Manage our shared Google calendars](/howto/manage-shared-google-calendars)
+- [Manage our appointment booking system](/howto/manage-appointment-booking-system)
 
 ## Governance
 - [Navigate the BMS organisational structure](/howto/org-structure)
