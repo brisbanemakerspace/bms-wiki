@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-04-28T07:18:17.845Z
+date: 2024-04-28T07:20:36.721Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -14,7 +14,7 @@ dateCreated: 2024-04-28T07:18:17.845Z
 
 
 Our "Saeco Phendra Espresso" is a hot beverage vending machine. It can make many types of hot beverages including coffee and chocolate. This wiki page documents how we have it setup, all of it's resources, and the procedures for maintenance, and restocking it.
-![saeco-hendra.png](/other/vending/saeco-phendra.png =x300)
+![saeco-hendra.png](/other/vending/saeco-phedra.png =x300)
 
 # How to use
 > Do not perform maintenance or try to open the machine unless you have permission from the infrastructure working group or committee.
