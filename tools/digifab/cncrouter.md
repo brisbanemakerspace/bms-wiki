@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2024-04-29T10:02:00.147Z
+date: 2024-04-29T10:04:09.099Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -114,7 +114,7 @@ Book an induction session here: *Booking link coming soon.*
 3.	Check bed for obstructions
 4.	E-stop
 5.	Check Router Mounts (Shake Router mounts)
-6.	Attach correct bit
+6.	Attach correct bit (see Figure 1 and Figure 2)
 7.	Physical Emergency Stop
 
 
