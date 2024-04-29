@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2024-03-18T11:25:25.545Z
+date: 2024-04-29T10:01:31.959Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -113,8 +113,8 @@ Book an induction session here: *Booking link coming soon.*
 2.	Move Router to Bottom Left
 3.	Check bed for obstructions
 4.	E-stop
-5.	Attach correct bit
-6.	Check Router Mounts
+5.	Check Router Mounts (Shake Router mounts)
+6.	Attach correct bit
 7.	Physical Emergency Stop
 
 
@@ -122,11 +122,12 @@ Book an induction session here: *Booking link coming soon.*
 1.	Open CNC3D Commander
 2.	Home Machine
 3.	Electronic Emergency Stop
-4.	Test spindle 
+4.	Test spindle speed (10, 100 and 1000)
 5.	Move cnc to bottom left.
 6.	Attach work piece
 7.	Attached Probe to Router
 8.	Digital Probe the Piece
+9.  Remove the Probe
 9.	Load Job into CNC3D Commander
 10.	Trace Job
 11.	Start Job
