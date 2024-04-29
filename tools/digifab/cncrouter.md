@@ -2,7 +2,7 @@
 title: CNC Router
 description: Carve everything from timber to soft metals like Aluminium. Our CNC sheet router is big and capable!
 published: true
-date: 2024-04-29T10:01:31.959Z
+date: 2024-04-29T10:02:00.147Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T05:07:35.154Z
@@ -125,7 +125,7 @@ Book an induction session here: *Booking link coming soon.*
 4.	Test spindle speed (10, 100 and 1000)
 5.	Move cnc to bottom left.
 6.	Attach work piece
-7.	Attached Probe to Router
+7.	Attached Probe to Router (Z Probing only is now allowed)
 8.	Digital Probe the Piece
 9.  Remove the Probe
 9.	Load Job into CNC3D Commander
