@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-04-28T07:20:36.721Z
+date: 2024-04-29T05:46:10.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -13,7 +13,7 @@ dateCreated: 2024-04-28T07:18:17.845Z
 {.is-danger}
 
 
-Our "Saeco Phendra Espresso" is a hot beverage vending machine. It can make many types of hot beverages including coffee and chocolate. This wiki page documents how we have it setup, all of it's resources, and the procedures for maintenance, and restocking it.
+Our "Saeco Phendra Cappuccino" is a hot beverage vending machine. It can make many types of hot beverages including coffee and chocolate. This wiki page documents how we have it setup, all of it's resources, and the procedures for maintenance, and restocking it.
 ![saeco-hendra.png](/other/vending/saeco-phedra.png =x300)
 
 # How to use
@@ -30,7 +30,11 @@ The usage instructions attached to the machine are fairly simple.
 
 # Specifications
 **Induction class:** Green (No induction required)
+**Model:** Saeco Phedra Cappuccino
 **Controller:** Proprietary (original, supports MDB)
+**Serial Number:** 9010N5P0005980 (maybe)
+**Manufacture Date:** 07/2010
+**Beverages dispensed counter when we got it:** 15,974
 
 **Documentation:**
 
