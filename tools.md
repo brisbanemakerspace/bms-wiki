@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-04-29T03:32:47.500Z
+date: 2024-05-06T05:03:39.952Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -114,7 +114,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 
 ## Craft
 - [Badge Maker
-		![photo-lightbox.png](/tools/badge-maker.png =80x)](/badge-maker)
+		![photo-lightbox.png](/tools/badge-maker.png =80x)](/tools/other/badge-maker)
 
 - [Craft Supplies / Consumables](/craft-supply-boxes)
 
