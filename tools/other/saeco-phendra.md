@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-04-29T05:46:10.026Z
+date: 2024-05-06T03:13:14.509Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -41,11 +41,22 @@ The usage instructions attached to the machine are fairly simple.
 * [Original User & Service Manual](/other/vending/saeco-phedra-user-manual-and-maintenance.pdf)
 
 # Stock procedures
-## Buying new stock
-Todo.
+## Suppliers
+A local supplier in Enogerra called [Crema Coffee Garage](http://cremacoffeegarage.com.au) is recommended for all vending powders. They have local stock of chai, choc and milk powder, and have a reasonable price.
 
 ## Restocking the machine
 Todo.
 
 # Maintenance
 Todo.
+
+# Handy Notes
+## Calibrating Dosage Amounts
+Trying to work out the dosage amounts that correspond to the numbers on the screen can be frustrating! The best way to work it out is to use the test menu to vend "powder only" of a set amount, say 100 units. It's recommended to configure a dummy recipe (on say recipe slots 9-16 which aren't used) containing only the product you want. There should be a recipe configured on 9,10 & 11 for this purpose already.
+
+Place a small bowl or cup under the dispening outlet to catch it, then use the test menu and "powder only" button to dispense the product. Weigh the amount that came out and work out the dosage / grams. You can then use this value to work out what dosage value you need to get a certain amount dispensed. The value is dependant on the product type, supplier, and which hopper it's dispensed from.
+
+### Calibrated Dosage Amounts
+The following should be good enough to use when programming new recipes. If you change the supplier or type of product, you should re-calculate it using the instructions above and update this section.
+
+
