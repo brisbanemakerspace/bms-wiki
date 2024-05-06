@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:16:24.114Z
+date: 2024-05-06T03:19:37.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -66,4 +66,7 @@ Place a small bowl or cup under the dispening outlet to catch it, then use the t
 ### Calibrated Dosage Amounts
 The following should be good enough to use when programming new recipes. If you change the supplier or type of product, you should re-calculate it using the instructions above and update this section.
 
-
+* Water: 1.3 doses/ml (100 dose dispensed just above 75ml)
+* Arkadia Chocolate Powder in *hopper 2*: 2.6 doses/gram (80 doses dispensed 30g)
+* Crema Dairy Creamer Powder in *hopper 3*: 4.2 doses/gram (80 doses dispensed 19g)
+* Arkadia Chai Spiced Powder in *hopper 1*: 
