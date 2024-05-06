@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:44:52.842Z
+date: 2024-05-06T03:45:48.581Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -89,7 +89,7 @@ H2O InstProd 2: 130 (100ml)
 **Milk**
 % InstProd 3: 80%
 InstProd Dose 3: 84 (20g)
-H2O InstProd 3: 312 (220ml)
+H2O InstProd 3: 286 (220ml)
 % Pump 3: 80%
 
 ## Calibrating Dosage Amounts
