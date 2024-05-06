@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:13:40.155Z
+date: 2024-05-06T03:15:24.322Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -44,7 +44,9 @@ The usage instructions attached to the machine are fairly simple.
 ## Suppliers
 A local supplier in Enogerra called [Crema Coffee Garage](http://cremacoffeegarage.com.au) is recommended for all vending powders. They have local stock of chai, choc and milk powder, and have a reasonable price.
 
-Specific Product Recommendations
+### Specific product that we use
+If you need to use a different product for some reason, ***make sure you by one that specifically says it's good for vending machines.***
+[Chocoloate Powder](https://cremacoffeegarage.com.au/arkadia-vending-chocolate-750g.html)
 
 ## Restocking the machine
 Todo.
