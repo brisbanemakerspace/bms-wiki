@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:39:18.407Z
+date: 2024-05-06T03:44:52.842Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -58,7 +58,7 @@ Todo.
 Todo.
 
 # Recipes & Product Dosages
-Our paper cups are 340ml capacity.
+Our paper cups are 340ml capacity but aim to vend 320ml at most.
 
 ## Recipes
 ### Espresso
@@ -89,7 +89,7 @@ H2O InstProd 2: 130 (100ml)
 **Milk**
 % InstProd 3: 80%
 InstProd Dose 3: 84 (20g)
-H2O InstProd 3: 312 (240ml)
+H2O InstProd 3: 312 (220ml)
 % Pump 3: 80%
 
 ## Calibrating Dosage Amounts
