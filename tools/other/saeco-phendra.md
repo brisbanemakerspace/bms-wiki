@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:29:46.057Z
+date: 2024-05-06T03:35:19.565Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -58,6 +58,8 @@ Todo.
 Todo.
 
 # Recipes & Product Dosages
+Our paper cups are 340ml capacity.
+
 ## Recipes
 ### Espresso
 Sequence: C000
@@ -76,8 +78,19 @@ Sequence: C000
 ### Mocha
 
 ### Hot Chocolate
-Sequence: 2300
+Sequence: 2300 (Choc, Milk)
 
+Choc
+% InstProd 2: 80%
+InstProd Dose 2: 120 (46g)
+H2O InstProd 2: 130 (100ml)
+% Pump 2: 80%
+
+Milk
+% InstProd 3: 80%
+InstProd Dose 3: 80
+H2O InstProd 3: 90
+% Pump 3: 80%
 
 ## Calibrating Dosage Amounts
 Trying to work out the dosage amounts that correspond to the numbers on the screen can be frustrating! The best way to work it out is to use the test menu to vend "powder only" of a set amount, say 100 units. It's recommended to configure a dummy recipe (on say recipe slots 9-16 which aren't used) containing only the product you want. There should be a recipe configured on 9,10 & 11 for this purpose already.
