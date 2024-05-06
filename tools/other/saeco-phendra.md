@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:24:00.875Z
+date: 2024-05-06T03:28:20.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -90,5 +90,5 @@ The following should be good enough to use when programming new recipes. If you 
 	* Arkadia recommends 11.5g/100ml of beverage
 * Crema Dairy Creamer Powder in *hopper 3*: 4.2 doses/gram (80 doses dispensed 19g)
 	* Crema recommends 8.5g/100ml of beverage
-* Arkadia Chai Spiced Powder in *hopper 1*: 
+* Arkadia Chai Spiced Powder in *hopper 1*: 4.2 doses/gram (80 doses dispensed 19g)
 	* Arkadia recommends 11g/100ml of beverage
