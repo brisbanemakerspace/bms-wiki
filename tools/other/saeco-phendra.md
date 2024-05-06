@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T04:12:40.236Z
+date: 2024-05-06T07:00:02.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -57,8 +57,8 @@ Todo.
 # Maintenance
 Todo.
 
-# Recipes & Product Dosages
-Our paper cups are 340ml capacity but aim to vend 300ml at most.
+# Recipes
+Our paper cups are 340ml capacity but aim to vend 310ml at most. Any recipe with a reasonable amount of the dairy creamer will foam *a lot* so make sure you reduce the water quite a bit.
 
 ## Recipes
 ### Espresso
@@ -92,12 +92,12 @@ InstProd Dose 3: 58 (14g)
 H2O InstProd 3: 180 (150ml)
 % Pump 3: 80%
 
-## Calibrating Dosage Amounts
+# Dosage Amounts
 Trying to work out the dosage amounts that correspond to the numbers on the screen can be frustrating! The best way to work it out is to use the test menu to vend "powder only" of a set amount, say 100 units. It's recommended to configure a dummy recipe (on say recipe slots 9-16 which aren't used) containing only the product you want. There should be a recipe configured on 9,10 & 11 for this purpose already.
 
 Place a small bowl or cup under the dispening outlet to catch it, then use the test menu and "powder only" button to dispense the product. Weigh the amount that came out and work out the dosage / grams. You can then use this value to work out what dosage value you need to get a certain amount dispensed. The value is dependant on the product type, supplier, and which hopper it's dispensed from.
 
-### Calibrated Dosage Amounts
+## Calibrated Dosage Amounts
 The following should be good enough to use when programming new recipes. If you change the supplier or type of product, you should re-calculate it using the instructions above and update this section.
 
 * "Just Water": 1.3 doses/ml (100 dose dispensed just above 75ml)
