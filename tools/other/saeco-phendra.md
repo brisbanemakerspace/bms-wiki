@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-06T03:45:48.581Z
+date: 2024-05-06T04:02:35.491Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z
@@ -58,7 +58,7 @@ Todo.
 Todo.
 
 # Recipes & Product Dosages
-Our paper cups are 340ml capacity but aim to vend 320ml at most.
+Our paper cups are 340ml capacity but aim to vend 300ml at most.
 
 ## Recipes
 ### Espresso
@@ -83,13 +83,13 @@ Sequence: C000
 **Choc**
 % InstProd 2: 80%
 InstProd Dose 2: 101 (39g)
-H2O InstProd 2: 130 (100ml)
+H2O InstProd 2: 120 (80ml)
 % Pump 2: 80%
 
 **Milk**
 % InstProd 3: 80%
 InstProd Dose 3: 84 (20g)
-H2O InstProd 3: 286 (220ml)
+H2O InstProd 3: 264 (220ml)
 % Pump 3: 80%
 
 ## Calibrating Dosage Amounts
@@ -100,7 +100,8 @@ Place a small bowl or cup under the dispening outlet to catch it, then use the t
 ### Calibrated Dosage Amounts
 The following should be good enough to use when programming new recipes. If you change the supplier or type of product, you should re-calculate it using the instructions above and update this section.
 
-* Water: 1.3 doses/ml (100 dose dispensed just above 75ml)
+* "Just Water": 1.3 doses/ml (100 dose dispensed just above 75ml)
+* "Hopper 1/2 Water": 1.2 doses/ml (150 dose dispensed 123ml)
 * Arkadia Chocolate Powder in *hopper 2*: 2.6 doses/gram (80 doses dispensed 30g)
 	* Arkadia recommends 11.5g/100ml of beverage
 * Crema Dairy Creamer Powder in *hopper 3*: 4.2 doses/gram (80 doses dispensed 19g)
