@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2023-12-18T00:17:18.432Z
+date: 2024-02-22T00:17:18.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -12,16 +12,42 @@ dateCreated: 2023-10-25T07:54:25.407Z
 We have very limited space on site, so this storage policy explains what our expectations and requirements are.
 
 ## 1. Storage Locations
-1. Storage of personal items is not permitted anywhere on-site, except where permitted below.
+1. Storage of personal items is not permitted anywhere on-site, except where permitted in the policy below, or as permitted by a working group policy.
 
 2. You may not store any dangerous substances or chemicals anywhere on site without written permission from the Head Maker or unless another policy explicitly permits you to.
 
-## 2. Member Storage Shelves
+## 2. Storage in Member Storage Shelves
 1. You can claim up to one cube in the member storage shelves as long as you are a member and require one. You can do so on a permanent or temporary basis.
 
 2. To claim a permanent spot, let the head maker know so a label can be printed. To claim a temporary spot, store your items and affix a Green Ticket as explained below.
 
-3. All items stored must fit entirely within the cube without sticking out.
+3. All items stored must fit entirely within the cube without sticking out and must not cause a hazard or nuisance to another member.
+
+ _Examples of following this policy:_
+ * You have one member storage box filled with some tools / materials and a permanent label
+ * You have some materials temporarily stored in one storage box with a green ticket
+
+ _Examples of not following this policy:_
+ * You have more than one member storage box filled with items
+ * You have a long piece of wood that sticks out of your member storage box
+
+## 2A. Storage in Member Private Desks / Private Shelves
+1. If your membership plan allows for one, you can exclusively claim a desk or shelve(s) in consultation with the head maker.
+
+2. You may store personal items on top of or underneath your exclusively claimed desk or shelves, as long as those items:
+	1. do not protude from the boundary of the desk, and
+	2. are not stored directly on the floor (all items must be in a _plastic or metal_ container or on a shelf), and
+	3. do not cause a safety hazard or nusiance to any other members, and
+	4. in the case of a desk, do not cause the chair to stick out more than it normally would.
+ 
+ _Examples of following this policy:_
+ * You have two small stackable plastic containers that fit entirely underneath your desk
+ * Any extra items that don't fit under your desk, you take home with you after your visit
+
+ _Examples of not following this policy:_
+ * Storing cardboard boxes on the ground under your desk
+ * Leaving a pile of items on your desk stacked so high a draught may knock it over
+ * Items sticking out from underneath or on top of your desk or shelves
 
 ## 3. Temporary Project Storage
 We recognise that sometimes you may need to leave a project on-site while the paint is drying or glue is setting, etc.
