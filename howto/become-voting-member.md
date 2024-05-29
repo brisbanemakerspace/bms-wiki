@@ -2,7 +2,7 @@
 title: How to become a voting member at BMS
 description: By default members don't get voting rights, but it's a simple process to get them.
 published: true
-date: 2024-05-29T13:34:51.339Z
+date: 2024-05-29T13:36:38.954Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T13:34:51.339Z
@@ -22,6 +22,7 @@ You must meet **all** of the requirements below to apply for voting rights.
 
 1. Held membership of the association for at least 6 months.
 	a. This ensures that you understand how our organisation works and how to use our [*consensus decision making*](https://wiki.brisbanemaker.space/constitution#h-37-consensus-decision-making) process.
+  b. You can check how long your subscription has been active in the member portal [here](https://portal.brisbanemaker.space/account/membership-plan).
 2. Have in place a signed volunteer agreement committing to perform certain volunteer task(s). Read more [here](/howto/volunteer-agreement).
 	a. This ensures that you have an up to date understanding of our organisation and are actively contributing to it.
 
