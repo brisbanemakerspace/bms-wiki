@@ -2,7 +2,7 @@
 title: How to become a voting member at BMS
 description: By default members don't get voting rights, but it's a simple process to get them.
 published: true
-date: 2024-05-29T13:38:11.445Z
+date: 2024-05-29T13:39:01.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T13:34:51.339Z
@@ -16,7 +16,7 @@ You are automatically accepted as a *standard member*. This means you get full a
 We use a voting system called [*consensus decision making*](https://wiki.brisbanemaker.space/constitution#h-37-consensus-decision-making). This means a single member can block a motion from passing. This has the potential to be misused and also takes a while to get used to. This means you need to meet a few requirements before you can become a voting member.
 
 ## Requirements
-The requirements to become a voting member are set out in our constitution [here](https://wiki.brisbanemaker.space/constitution#h-5-classes-of-members) and summarised below. Members with voting rights are called a *Volunteer Member* in the constitution.
+The requirements to become a voting member are set out in our [constitution](https://wiki.brisbanemaker.space/constitution#h-5-classes-of-members) and summarised below. Members with voting rights are called a *Volunteer Member* in the constitution.
 
 You must meet **all** of the requirements below to apply for voting rights.
 
