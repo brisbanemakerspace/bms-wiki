@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2024-05-31T02:07:37.797Z
+date: 2024-05-31T02:13:02.443Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -42,6 +42,25 @@ You can also engrave text, images and other shapes directly onto your projects. 
 To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
 
 [INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLScVzylQZOLUkiaqrupoYlcB5JeBWFef23AOR8p6ANu0f3PWCg/viewform) (completed by the person running the induction as a record of completion)
+
+# Machine Consumables
+## Focus Lens
+Cloudray from Aliexpress is the best place to buy these. The most recently purchased one was [this listing](https://www.aliexpress.com/item/32234326702.html?spm=a2g0o.order_list.order_list_main.40.428b18029YGYMx).
+
+It's important that you choose the following specs:
+* USA CVD ZnSe (other types aren't suitable for our environment)
+* 76.2mm Focal Length (aka 3")
+* 18mm Diameter
+
+## Mirrors
+Cloudray from Aliexpress is the best place to buy these. The most recently purchased one was [this listing](https://www.aliexpress.com/item/32234558080.html?spm=a2g0o.order_list.order_list_main.61.428b18029YGYMx).
+
+It's important that you choose the following specs:
+* "Mo" Material
+* 19.05 Diameter
+* 10.6nm/ 10600nm Wavelength
+* Power rating should be at least 130W
+
 
 # Safety
 
