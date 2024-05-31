@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2024-01-08T06:22:30.059Z
+date: 2024-05-31T02:07:37.797Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -32,7 +32,7 @@ You can also engrave text, images and other shapes directly onto your projects. 
 **Induction Class:** 🟡 Orange Tool (Induction Required)
 **Cut/Engrave Area:** 700 x 500mm Max
 **Laser Power:** ~100w power from a 130w rated Reci tube
-**Focal Length:** 50.8mm
+**Focal Length:** 76.2mm (previously 50.8mm)
 **Max Cut Depth:** Up to 8mm - 10mm (depending on material, acrylic and ply work best at up to 6mm)
 **Notable Features:** camera assisted job positioning; automatic focus; automated extraction, air assist and cooling system.
 
