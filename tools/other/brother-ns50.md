@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2024-01-26T11:25:11.993Z
+date: 2024-06-04T10:34:37.167Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -16,7 +16,7 @@ The different sewing feet and tools are stored in the flatbed attachment in the 
 
 ![A photo of the Brother NS50 sewing machine](/other/brother-ns50.png =400x)
 
-# Specification
+# Specifications
 
 - **Induction Class:** 🟡 Yellow Tool (Induction Required)
 - **Available Needle Sizes:** 80/14, 90/12
