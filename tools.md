@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-05-06T05:08:26.110Z
+date: 2024-06-04T10:14:33.246Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -213,6 +213,10 @@ We are in the process of setting up a proper induction process so stay tuned!
 - [Shop Vacs
 		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =x60)
   ](/tools/other/shopvac)
+  
+- [Multipurpose Sharpener
+		![ferrex-sharpener.png](other/ferrex-sharpener.png =x60)
+  ](/tools/other/sharpener)
   
 ## Vending Machines
 - [Dixie Narco 440 Vending Machine
