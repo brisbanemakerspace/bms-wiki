@@ -2,7 +2,7 @@
 title: Multipurpose Sharpener
 description: Learn about our Multipurpose Sharpener.
 published: true
-date: 2024-06-04T10:43:17.837Z
+date: 2024-06-04T10:43:52.401Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-04T10:27:52.376Z
@@ -28,6 +28,10 @@ Can be used to sharpen kitchen knives and scissors, or to maintain some tools in
 # Tool Safety
 
 ## Potential Hazards
+
+|Potential Hazard|Details|
+|--|--|
+{.sop-symbols}
 
 ## Protective Equipment
 
