@@ -2,7 +2,7 @@
 title: Safe Space Policy
 description: 
 published: true
-date: 2023-11-20T11:08:28.593Z
+date: 2024-06-21T14:21:17.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:51:35.487Z
@@ -19,7 +19,7 @@ We have a mandatory reporting policy for all breaches of our Safe Space Policy a
 *"The standard you walk past is the standard you accept."* - If you don't take steps to stop discriminatory, oppressive or otherwise unacceptable behaviour, you are helping to perpetuate it.
 
 ## Expect to be challenged
-If you breach any of our policies and procedures, in particular our [code of conduct](/bylaws/coc) or this safe space policy, expect to be challeneged. If you see someone else breaching our policies and procedures, (respectfully) challenge them. Serious or repeated breaches will result in you being asked to leave.
+If you breach any of our policies and procedures, in particular our [code of conduct](/bylaws/coc) or this safe space policy, expect to be challenged. If you see someone else breaching our policies and procedures, (respectfully) challenge them. Serious or repeated breaches will result in you being asked to leave.
 
 ## Discrimination and Inclusivity
 We don't tolerate discriminatory behaviour ever. An important part of our safe space policy is respecting and using a person's correct gender pronouns and name at all times (even if they are not present).
