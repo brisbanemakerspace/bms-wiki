@@ -2,14 +2,14 @@
 title: Code of Conduct
 description: Our Code of Conduct outlines our expectations for community behaviour.
 published: true
-date: 2022-08-09T00:59:14.935Z
+date: 2024-06-21T14:20:42.774Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:01.228Z
 ---
 
 # Introduction
-Brisbane Makerspace aims to foster an inclusive and friendly culture for all members. Our Code of Conduct outlines our expectations for community behaviour which are important to keep in mind.
+Brisbane Makerspace aims to foster an inclusive and friendly culture for all members. Our Code of Conduct outlines our expectations for community behaviour which are important to keep in mind. This code of conduct is paired with our safe space policy which you should read [here](/bylaws/safespace).
 
 If you see any behaviour contrary to our Code of Conduct, you are encouraged to politely remind those involved that it is not appropriate. In addition, you should report any incidents.
 
