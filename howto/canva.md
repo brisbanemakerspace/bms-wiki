@@ -2,7 +2,7 @@
 title: How to access our Canva account
 description: How to access our Canva account
 published: true
-date: 2024-06-21T10:54:08.174Z
+date: 2024-06-21T11:28:18.325Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T10:54:08.174Z
@@ -24,10 +24,15 @@ If you've got an *@brisbanemaker.space* google account, or once you get one sort
 4. Once you've accepted the prompt, you'll have access to two teams. Your "Personal" team can be used however you like, but does not have access to canva premium features. To access the BMS brand templates, shared designs, and premium Canva features, you need to switch to "BMS Team".
 ![canva3.png](/howto/canva3.png =600x)
 
-## Using the Canva account
-> Important: every design in the Canva team can be seen by any BMS member with access to Canva. Non BMS/personal use is discouraged and you must follow the rules below.
+
+## How to share you designs with BMS Team
+> You must share access to all designs (except those for personal use) using the instructions below.
 {.is-warning}
 
-1. Even though you have your own login, BMS Team is basically like a giant shared folder that everyone in our Canva account can access. Always keep this in mind and make good choices.
-2. When you upload a new asset or create a new project, **always move it to a relevant folder**. Ask for help in Discord if you're not sure how. This should be a folder with your own name, or the relevant BMS folder if one exists.
-3. Do not, under any circumstances, modify an existing template or brand colour pallete/logo. The only people authorised to do this are the committee, and people the committee have authorised. If you're not sure if that's you, please ask.
+By default, when you create a new design only you have access to it so you need to share with everyone. In extreme cases, the committee may decide to transfer all of your account's designs to the committee account. For example, if you can't be contacted and someone needs urgent access to a design, or if you leave BMS.
+
+1. After you've saved a design, tap the share button, then tap "Edit".
+![canva4.png](/howto/canva4.png =600x)
+
+2. Under the BMS Team item, change the permission to "Can edit".
+![canva5.png](/howto/canva5.png =600x)
