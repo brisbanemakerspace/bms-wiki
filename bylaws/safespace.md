@@ -2,7 +2,7 @@
 title: Safe Space Policy
 description: 
 published: true
-date: 2024-06-21T14:21:17.539Z
+date: 2024-06-21T14:22:05.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:51:35.487Z
@@ -39,5 +39,5 @@ Members are expected to:
 * Acknowledge the impact of your actions, regardless of your intent.
 * Be responsible and accountable for your own actions.
 * Actively challenge discriminatory or oppressive behaviour.
-* Take steps to educate yourself about unfamiliar concepts and "isms" in order to prevent direct or indirect oppression.
+* Take steps to educate yourself about unfamiliar concepts in order to prevent direct or indirect oppression.
   * Ignorance is not a reasonable excuse for perpetuating oppression or discriminatory behaviour.
