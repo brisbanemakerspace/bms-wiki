@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-05-29T13:37:54.237Z
+date: 2024-06-21T14:34:23.438Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -46,19 +46,20 @@ Under the Associations Act and our constitution, the association can make by-law
 
 # How To Guides
 ## General
-- [Get a volunteer agreement](/howto/volunteer-agreement)
-- [Become a voting member](/howto/become-voting-member)
 - [[DRAFT] Make a tax deductible donation](/howto/dgr-donation)
-- [Find the right person to contact](/howto/find-someone)
 - [Close up as the last person to leave](/howto/closeup)
 - [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
 - [Make changes to this wiki](/howto/make-wiki-changes)
 - [Manage your membership](/howto/manage-membership)
 - [Manage our shared Google calendars](/howto/manage-shared-google-calendars)
 - [Manage our appointment booking system](/howto/manage-appointment-booking-system)
+- [Access our Canva account](/howto/canva)
 
 ## Governance
+- [Find the right person to contact](/howto/find-someone)
 - [Navigate the BMS organisational structure](/howto/org-structure)
+- [Get a volunteer agreement](/howto/volunteer-agreement)
+- [Become a voting member](/howto/become-voting-member)
 - [Run a general meeting](/howto/run-general-meeting)
 - [Participate in general meetings](/howto/general-meetings)
 - [Buy a new tool or asset](/howto/buy-something)
