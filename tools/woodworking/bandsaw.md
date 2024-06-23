@@ -2,7 +2,7 @@
 title: Bandsaw
 description: Our bandsaw is perfect for cutting small detailed wooden things.
 published: true
-date: 2024-06-23T01:22:27.735Z
+date: 2024-06-23T01:34:27.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:29:08.443Z
@@ -11,6 +11,9 @@ dateCreated: 2023-09-07T06:29:08.443Z
 # Introduction
 > Our bandsaw is loud, messy, and dangerous. It can only be used by a staff member on site.
 {.is-warning}
+
+A bandsaw is a toothed steel blade passed over two band wheels. It cuts material held between the wheels. The material may be wood, plastic, metal or meat. Bandsaws are set up in different ways for different materials
+
 
 ![beltsander.png](/woodworking/ferrex_hbs20_bandsaw.png =x300)
 
