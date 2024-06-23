@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-06-23T02:05:06.683Z
+date: 2024-06-23T02:19:58.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -38,7 +38,9 @@ By default, Moodle shows an announcements category in the course. We don't use t
 ![moodle6.png](/howto/moodle/moodle6.png =x600)
 
 ## 3. Start adding the course content
-Coming soon.
+Now that we've create the course, we need to add the content! The content needs to be signed off by the head maker to check for consistency and suitability for the induction. Before that can happen, it needs to be loaded into Moodle.
+
+1. Open up the course you just created. You can find a list of all courses [here](https://learn.brisbanemaker.space/course/management.php).
 
 Notes:
 * 3 Topics - required prior watching of videos, course content, then quiz.
