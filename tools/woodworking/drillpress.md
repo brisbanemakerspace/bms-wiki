@@ -2,7 +2,7 @@
 title: Drill Press
 description: Drill straight and true with our digital drill press.
 published: true
-date: 2023-09-07T06:59:05.791Z
+date: 2024-06-23T01:30:40.611Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:59:05.791Z
@@ -28,3 +28,6 @@ Please book in a time with a staff member to use. This tool **CANNOT BE USED BY 
 **Distance drill chuck to base:** 280mm
 **Power:** 710w
 **Model:** [Ferrex DP55](/woodworking/ferrex_dp55_drill_press.pdf)
+
+# Induction
+https://docs.google.com/document/d/1YOWzAfYITcILk1i65GKKEq-caCdgbeDo4dM1dbXfvQg/edit?usp=sharing
