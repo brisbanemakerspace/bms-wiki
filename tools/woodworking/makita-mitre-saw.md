@@ -2,7 +2,7 @@
 title: Dropsaw/ Makita Mitre Saw
 description: Our Makita mitre saw is great for cutting up larger lengths of timber and some other materials.
 published: true
-date: 2024-06-23T02:18:21.733Z
+date: 2024-06-23T02:23:22.248Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T02:27:24.299Z
@@ -14,6 +14,8 @@ dateCreated: 2022-08-11T02:27:24.299Z
 
 ![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =x300)
 
+
+A miter saw or mitre saw is a saw used to make accurate crosscuts and miters in a workpiece by positioning a mounted blade onto a board.
 
 # How to use
 > Hearing and eye protection **MUST** be worn at all times while operating this tool.
