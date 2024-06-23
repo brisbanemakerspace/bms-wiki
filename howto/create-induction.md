@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-06-23T01:33:24.293Z
+date: 2024-06-23T02:05:06.683Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -39,3 +39,6 @@ By default, Moodle shows an announcements category in the course. We don't use t
 
 ## 3. Start adding the course content
 Coming soon.
+
+Notes:
+* 3 Topics - required prior watching of videos, course content, then quiz.
