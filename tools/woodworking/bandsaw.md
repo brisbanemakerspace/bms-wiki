@@ -2,7 +2,7 @@
 title: Bandsaw
 description: Our bandsaw is perfect for cutting small detailed wooden things.
 published: true
-date: 2023-09-07T06:41:12.735Z
+date: 2024-06-23T01:17:31.175Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:29:08.443Z
@@ -34,3 +34,9 @@ Please book in a time with a staff member to use. This tool **CANNOT BE USED BY 
 **Max workpiece size:** 400 x 400 x 80mm
 **Power:** 350w
 **Model:** [Ferrex HBS20](/woodworking/ferrex_hbs20_bandsaw.pdf)
+
+
+# Induction
+
+Google Document Induction Link:
+https://docs.google.com/document/d/1J1_2RWC4TXKgYv0dYvbyWDRMhfUGtINdJVJZeoIJwn4/edit?usp=sharing
