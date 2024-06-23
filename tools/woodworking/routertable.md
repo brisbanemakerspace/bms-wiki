@@ -2,7 +2,7 @@
 title: Router Table
 description: Our router table is suitable for light routing projects.
 published: true
-date: 2024-06-23T01:46:28.483Z
+date: 2024-06-23T01:51:38.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:42:01.887Z
@@ -30,6 +30,10 @@ Please book in a time with a staff member to use. This tool **CANNOT BE USED BY 
 
 # Induction
 https://docs.google.com/document/d/1tXvMTIRw8W52N-9Hz7wk_8JuhYrAaSvNI6w7mIbiMsw/edit?usp=sharing
+
+# Youtube Links
+https://www.youtube.com/watch?v=lV_r5s9_28k&t=444s&pp=ygUSb3ppdG8gdGFibGUgcm91dGVy
+
 
 ## Router
 **Power:** ?w
