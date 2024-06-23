@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-06-21T14:34:23.438Z
+date: 2024-06-23T00:30:59.452Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -54,6 +54,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Manage our shared Google calendars](/howto/manage-shared-google-calendars)
 - [Manage our appointment booking system](/howto/manage-appointment-booking-system)
 - [Access our Canva account](/howto/canva)
+- [Create an induction](/howto/create-induction)
 
 ## Governance
 - [Find the right person to contact](/howto/find-someone)
