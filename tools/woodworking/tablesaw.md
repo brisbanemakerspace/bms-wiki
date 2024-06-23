@@ -2,7 +2,7 @@
 title: Tablesaw
 description: Our tablesaw is great for cutting up larger sheets of timber and some other materials.
 published: true
-date: 2024-01-19T15:14:29.250Z
+date: 2024-06-23T01:30:56.521Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T01:59:12.131Z
@@ -12,6 +12,7 @@ dateCreated: 2023-08-10T01:59:12.131Z
 > Our tablesaw is loud, messy, and dangerous. It can only be used by an authorised volunteer.
 {.is-warning}
 
+Google Doc Link: https://docs.google.com/document/d/1mmObrEgtZmJX-18tiOGfz_-ZEUkt6IqMu4v-8oNS4sU/edit?usp=sharing
 ![tablesaw.jpeg](/woodworking/tablesaw.png =x200)
 
 
