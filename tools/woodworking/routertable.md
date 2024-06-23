@@ -2,7 +2,7 @@
 title: Router Table
 description: Our router table is suitable for light routing projects.
 published: true
-date: 2023-09-07T07:42:01.887Z
+date: 2024-06-23T01:28:22.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:42:01.887Z
@@ -27,6 +27,9 @@ Please book in a time with a staff member to use. This tool **CANNOT BE USED BY 
 **With extensions:** 855 x 335mm
 **Max diameter router bit:** 22mm
 **Model:** [Ozito RTB-003](/woodworking/ozito_router_table.pdf)
+
+# Induction
+https://docs.google.com/document/d/1tXvMTIRw8W52N-9Hz7wk_8JuhYrAaSvNI6w7mIbiMsw/edit?usp=sharing
 
 ## Router
 **Power:** ?w
