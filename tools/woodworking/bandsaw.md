@@ -2,7 +2,7 @@
 title: Bandsaw
 description: Our bandsaw is perfect for cutting small detailed wooden things.
 published: true
-date: 2024-06-23T01:43:34.542Z
+date: 2024-06-23T01:43:47.670Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:29:08.443Z
@@ -54,3 +54,4 @@ https://www.youtube.com/watch?v=T0jkXV3-dXI
 https://www.youtube.com/watch?v=_i3IV4LdWBA&t=13s
 
 Basics of Woodworking
+https://www.youtube.com/watch?v=B7T71I-YQZk
