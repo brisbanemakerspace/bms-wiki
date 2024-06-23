@@ -2,7 +2,7 @@
 title: Bandsaw
 description: Our bandsaw is perfect for cutting small detailed wooden things.
 published: true
-date: 2024-06-23T01:43:57.224Z
+date: 2024-06-23T02:11:09.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:29:08.443Z
@@ -50,6 +50,20 @@ https://docs.google.com/document/d/1J1_2RWC4TXKgYv0dYvbyWDRMhfUGtINdJVJZeoIJwn4/
 # Youtube Links
 Saw Safety
 https://www.youtube.com/watch?v=T0jkXV3-dXI
+
+asic of a Bandsaw
+
+https://www.youtube.com/watch?v=t-JVXheGz7c
+
+
+
+Information on using a Bandsaw
+
+https://www.youtube.com/watch?v=KsCsacGy2VI
+
+
+
+https://www.youtube.com/watch?v=B7T71I-YQZk
 
 https://www.youtube.com/watch?v=_i3IV4LdWBA&t=13s
 
