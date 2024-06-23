@@ -2,7 +2,7 @@
 title: Bandsaw
 description: Our bandsaw is perfect for cutting small detailed wooden things.
 published: true
-date: 2024-06-23T01:17:31.175Z
+date: 2024-06-23T01:22:27.735Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:29:08.443Z
@@ -13,6 +13,8 @@ dateCreated: 2023-09-07T06:29:08.443Z
 {.is-warning}
 
 ![beltsander.png](/woodworking/ferrex_hbs20_bandsaw.png =x300)
+
+## NOTE: Bandsaw is currently being repaired. DO NOT USE without express permission. 
 
 # How to use
 > Hearing and eye protection **MUST** be worn at all times while operating this tool.
