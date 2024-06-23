@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-06-23T02:22:20.044Z
+date: 2024-06-23T02:26:50.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-22T23:23:49.017Z
 # How to create an induction in BMS Learn (Moodle)
 BMS Learn is our inductions platform - which is just the name of our Moodle instance. All of our tools that carry reasonable levels of risk require induction. When setting up a new tool that's been acquired, an induction is required before members can use it. Follow the guide below to create a new tool in moodle so that members can learn how to use it.
 
-> You can find a list of all Moodle courses [here](https://learn.brisbanemaker.space/course/management.php).
+> You can find a list of all Moodle courses [here](https://learn.brisbanemaker.space/course/).
 {.is-info}
 
 
@@ -45,6 +45,7 @@ By default, Moodle shows an announcements category in the course. We don't use t
 Now that we've create the course, we need to add the content! The content needs to be signed off by the head maker to check for consistency and suitability for the induction. Before that can happen, it needs to be loaded into Moodle.
 
 1. Open up the course you just created. You can find a list of all courses [here](https://learn.brisbanemaker.space/course/management.php).
+2. 
 
 Notes:
 * 3 Topics - required prior watching of videos, course content, then quiz.
