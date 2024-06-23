@@ -2,7 +2,7 @@
 title: Revopoint POP 2 3D Scanner
 description: Recreate broken parts, scan yourself, or create 3D models to reference - the possibilities are endless!
 published: true
-date: 2023-08-22T03:11:22.587Z
+date: 2024-06-23T01:17:17.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T04:54:24.339Z
@@ -57,4 +57,4 @@ To book an **optional** induction for this machine, please use the "book appoint
 3. Put the case back into it's spot.
 
 # Post Processing
-Sometimes a scan may have artefacts, blotches or missing details. This is typical of 3D scanning equipment, and especially so with consumer grade equipment. Commercial 3D scanenrs typically cost more than $10,000 for comparison! As a result, you may have to post process your scan using Revo Studio or the free Autodesk MeshMixer. You can use these software tools to remove artefacts and tidy up your scans.
+Sometimes a scan may have artefacts, blotches or missing details. This is typical of 3D scanning equipment, and especially so with consumer grade equipment. Commercial 3D scanners typically cost more than $10,000 for comparison! As a result, you may have to post process your scan using Revo Studio or the free Autodesk MeshMixer. You can use these software tools to remove artefacts and tidy up your scans.
