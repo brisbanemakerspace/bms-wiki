@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-06-23T01:33:16.220Z
+date: 2024-06-23T01:33:24.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -20,7 +20,7 @@ Before you can do anything in this guide, you need the right permissions. We use
 Each induction is called a course in Moodle. To do create a new one, follow the steps below.
 
 1. [Tap here](https://learn.brisbanemaker.space/course/edit.php) to open the new course form.
-2. Update the "General" course settings like in the screenshot below. Fill in the two course name fields, select the correct category and **make sure the course end date is NOT ENABLED**. Please use the format "TOOL_NAME Inductoin" for the name and description.
+2. Update the "General" course settings like in the screenshot below. Fill in the two course name fields, select the correct category and **make sure the course end date is NOT ENABLED**. Please use the format "TOOL_NAME Induction" for the name and description.
 ![moodle1.png](/howto/moodle/moodle1.png =x600)
 3. Scroll down and add a short description and image of the tool (you can just copy these from the wiki page).
 ![moodle2.png](/howto/moodle/moodle2.png =x600)
