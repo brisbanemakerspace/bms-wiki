@@ -1,8 +1,8 @@
 ---
-title: Makita Mitre Saw
+title: Dropsaw/ Makita Mitre Saw
 description: Our Makita mitre saw is great for cutting up larger lengths of timber and some other materials.
 published: true
-date: 2024-06-23T01:42:40.140Z
+date: 2024-06-23T02:17:38.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T02:27:24.299Z
@@ -12,8 +12,7 @@ dateCreated: 2022-08-11T02:27:24.299Z
 > This tool requires an induction.
 {.is-warning}
 
-Google Doc Link: https://docs.google.com/document/d/1EqHiriTDT7GMd1ukz6aY5jSpqae64GmL5LFmnuHRrhM/edit?usp=sharing
-![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =x300)
+
 
 # How to use
 > Hearing and eye protection **MUST** be worn at all times while operating this tool.
@@ -26,6 +25,9 @@ Please book in a time with a staff member to use. This tool **CANNOT BE USED BY 
 1. https://youtu.be/jY2Ru6GeRcU
 2. https://youtu.be/dRvhMmEq0UY
 3. https://youtu.be/-hN2jWPAyzs
+
+Google Doc Link: https://docs.google.com/document/d/1EqHiriTDT7GMd1ukz6aY5jSpqae64GmL5LFmnuHRrhM/edit?usp=sharing
+![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =x300)
 
 ## 2. Complete the online induction
 (COMING SOON)
