@@ -2,7 +2,7 @@
 title: How to make a tax deductible* donation to Brisbane Makerspace
 description: How to make a tax deductible* donation to Brisbane Makerspace.
 published: true
-date: 2024-06-26T03:20:11.835Z
+date: 2024-06-26T04:30:42.249Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-13T01:34:45.794Z
