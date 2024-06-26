@@ -2,17 +2,13 @@
 title: How to make a tax deductible* donation to Brisbane Makerspace
 description: How to make a tax deductible* donation to Brisbane Makerspace.
 published: true
-date: 2024-04-11T23:11:11.827Z
+date: 2024-06-26T03:20:11.835Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-13T01:34:45.794Z
 ---
 
 # How to make a tax deductible^*^ donation to Brisbane Makerspace
-> THIS DOCUMENT IS A DRAFT. WE ARE NOT A DGR YET AND YOU CANNOT MAKE TAX DEDUCTIBLE DONATIONS UNTIL OUR DGR ENDORSEMENT IS FINALISED.
-{.is-danger}
-
-
 > ^*^ This guide is intended to make it easier to understand what things BMS can accept as a tax deductible donation. **This guide is not legal or financial advice.** Always use a registered accountant or someone qualified to provide you with tax advice if you're unsure about something.
 {.is-warning}
 
@@ -43,7 +39,7 @@ The ATO has very strict requirements. Your donation must meet ALL of the require
 ## How to make the donation
 Once you're sure your donation is a deductible gift, read and follow the [Donations and Loans policy](/bylaws/donations). In the case of a cash donation, please email the treasurer for details on making the payment - it must go to a special account.
 
-The treasurer can supply a receipt for any donation if you ask for one *at the time you make the donation*. We encourage you to ask for a receipt if you intend on claiming the donation as a tax deduction. We will generally not issue receipts for past donations, or donations with a value under $10 due to the time involved in preparing one. The receipt you receive must contain the following information (so check it closely):
+The treasurer can supply a receipt for any donation if you ask for one *at the time you make the donation*. We encourage you to ask for a receipt if you intend on claiming the donation as a tax deduction. We will generally not issue receipts for past donations, or donations with a value under $20 due to the time involved in preparing one. The receipt you receive must contain the following information (so check it closely):
 
 - the name of our organisation (Meanjin Makerspace - trading as Brisbane Makerspace).
 - our Australian business number (ABN).
