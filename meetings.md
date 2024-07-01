@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2024-07-01T08:10:49.344Z
+date: 2024-07-01T08:11:43.999Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -14,6 +14,10 @@ Here is a list of all our meeting minutes for compliance and historical purposes
 We usually run a general meeting on the first and third Monday of every month, and working groups run their own meetings when necessary.
 
 # 2024
+
+## July
+
+[14th General Meeting - 1st Jul](/meetings/general/20240701)
 
 ## June
 
