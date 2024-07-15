@@ -2,7 +2,7 @@
 title: [DRAFT] Donations and Loans Policy
 description: Learn about the process to donate or loan something to BMS.
 published: true
-date: 2024-07-15T10:31:53.384Z
+date: 2024-07-15T10:32:26.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T04:30:23.321Z
@@ -44,15 +44,15 @@ The loans policy is:
 		1. any member of the Committee; or
   	2. any Working Group facilitator; or
   	3. a motion at a general meeting or Working Group meeting.
-4. A donation cannot be accepted if it's any of the following:
+4. A loan cannot be accepted if it's any of the following:
 		1. it poses an unacceptable safety risk - like containing hazardous materials or components; or
     2. equipment and appliances that don't work unless they will be stripped for parts or repaired; or
     3. obsolete equipment and appliances unless they have educational or cultural value; or
     4. something that is unlikely to be used and unable to be sold easily; or
     5. something that is clearly not appropriate to receive such as items that breach our safe space policy or code of conduct; or
     6. something from an organisation or individual that doesn't align with our cultural values.
-5. If there is any doubt over whether or not a donation should be accepted, the decision should be made by a motion at a general meeting or relevant Working Group meeting.
-6. For any donation that is a tool or equipment to be used by members, before it can be accepted, there must be someone responsible for processing the donation and bringing it up to the standards we require for documentation and inductions etc.
+5. If there is any doubt over whether or not a loan should be accepted, the decision should be made by a motion at a general meeting or relevant Working Group meeting.
+6. For any loan that is a tool or equipment to be used by members, before it can be accepted, there must be someone responsible for processing the loan and bringing it up to the standards we require for documentation and inductions etc.
 7. A loan can only be accepted after a loan agreement has been made. The default loan agreement may be used, but any changes to it must be approved at a Working Group or general meeting.
 8. The loan agreement and owner must be included on the wiki page for the loaned item.
 
