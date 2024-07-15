@@ -2,7 +2,7 @@
 title: [DRAFT] Donations and Loans Policy
 description: Learn about the process to donate or loan something to BMS.
 published: true
-date: 2024-07-15T10:32:26.866Z
+date: 2024-07-15T10:38:49.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T04:30:23.321Z
@@ -63,5 +63,6 @@ The loans policy is:
 4. BMS will do it's best to keep the loaned item running well and maintained.
 5. BMS will be responsible for the cost of any modifications, repairs or upgrades it decides to do and for consumables it supplies for use.
 6. The loan is assumed to be indefinite, and requires 14 days notice before it can be returned to the owner. However, reasonable exceptions to this may be approved by the Head Maker or a Working Group faciliator.
-7. If the owner cannot be contacted in a reasonable period of time (at least 30 days minimum), the loaned item automatically becomes a donation.
+7. All loan agreements should be reviewed annually.
+8. If the owner cannot be contacted in a reasonable period of time (at least 30 days minimum), the loaned item automatically becomes a donation.
     
