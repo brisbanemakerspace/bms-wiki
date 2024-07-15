@@ -2,7 +2,7 @@
 title: [DRAFT] Donations and Loans Policy
 description: Learn about the process to donate or loan something to BMS.
 published: true
-date: 2024-07-15T10:38:49.723Z
+date: 2024-07-15T10:46:04.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T04:30:23.321Z
@@ -59,7 +59,7 @@ The loans policy is:
 ## Default Loan Agreement
 1. The loaned item will be stored in a shared environment, and can be used by any member in line with induction and other reasonable requirements.
 2. The owner agrees that BMS is not liable for any damage or loss to the loaned item. However, we'll do our best to be reasonable in the unlikely event that something like this occurs.
-3. The item may be modified, repaired, or upgraded without notice by BMS if it's unlikely to impact it's functionality. Any major modifications, repairs, or upgrades, require the owner's permission.
+3. The item may be modified or repaired without notice to retain functionality as it was originally loaned, and/or agreed upon. Any other modifications, repairs, or upgrades, require the owner's permission.
 4. BMS will do it's best to keep the loaned item running well and maintained.
 5. BMS will be responsible for the cost of any modifications, repairs or upgrades it decides to do and for consumables it supplies for use.
 6. The loan is assumed to be indefinite, and requires 14 days notice before it can be returned to the owner. However, reasonable exceptions to this may be approved by the Head Maker or a Working Group faciliator.
