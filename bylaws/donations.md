@@ -2,7 +2,7 @@
 title: [DRAFT] Donations and Loans Policy
 description: Learn about the process to donate or loan something to BMS.
 published: true
-date: 2024-06-26T04:30:23.321Z
+date: 2024-07-15T10:28:20.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T04:30:23.321Z
@@ -33,7 +33,7 @@ The donations policy is:
     6. something from an organisation or individual that doesn't align with our cultural values.
 5. If there is any doubt over whether or not a donation should be accepted, the decision should be made by a motion at a general meeting or relevant Working Group meeting.
 6. For any donation that is a tool or equipment to be used by members, before it can be accepted, there must be someone responsible for processing the donation and bringing it up to the standards we require for documentation and inductions etc.
-7. A donation may be given to a member or other person if it's of no use and cannot be easily sold.
+7. A donation may be given to a member or other person if it's of no use and has no commercial value (ie cannot be easily sold).
 8. A donation may not have any strings attached to it, including expectations of favours or work done in return. This does not prevent a token of appreciation/grattitude like a small sign or similar being agreed to. Exceptions to this rule may be made by a motion at a general meeting.
 
 # Loans
