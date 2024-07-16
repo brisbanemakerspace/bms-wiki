@@ -1,8 +1,8 @@
 ---
-title: [DRAFT] Donations and Loans Policy
+title: Donations and Loans Policy
 description: Learn about the process to donate or loan something to BMS.
 published: true
-date: 2024-07-16T08:07:37.579Z
+date: 2024-07-16T08:07:52.601Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T04:30:23.321Z
