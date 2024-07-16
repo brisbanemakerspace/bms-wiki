@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-06-23T00:30:59.452Z
+date: 2024-07-16T08:08:18.094Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -33,7 +33,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Fair Use](/bylaws/fair-use)
 - [Guests](/bylaws/guests)
 - [Working Groups](/bylaws/working-groups)
-- [[WIP] Donations and Loans](/bylaws/donations)
+- [Donations and Loans](/bylaws/donations)
 - [[WIP] Membership Processes](/bylaws/membership-processes)
 - [[WIP] Disputes and Complaints](/bylaws/disputes)
 - [[WIP] Moderation](/bylaws/moderation)
