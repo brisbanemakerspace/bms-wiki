@@ -2,13 +2,13 @@
 title: [DRAFT] Donations and Loans Policy
 description: Learn about the process to donate or loan something to BMS.
 published: true
-date: 2024-07-15T10:46:04.930Z
+date: 2024-07-16T08:07:37.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T04:30:23.321Z
 ---
 
-# [DRAFT] Donations and Loans Policy
+# Donations and Loans Policy
 We rely significantly on the generosity of our members and supporters to operate BMS. Most of our tools and equipment have been donated by someone. This policy aims to provide a consistent process and set expectations appropriately.
 
 BMS is a registered charity and has DGR status. This means if you donate something and meet certain requirements, it may be tax deductible. We cannot provide financial or legal advice, but check out [this guide](/howto/dgr-donation) for general guidance on this process. Not all donations are considered deductible, so please carefully read the guide above if that is important.
