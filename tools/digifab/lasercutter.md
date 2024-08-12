@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2024-05-31T02:13:02.443Z
+date: 2024-08-12T12:13:17.472Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z
@@ -93,7 +93,7 @@ You don't need to set your cut files with specific colours / thicknesses etc for
 
 ## Before Use
 1. Check that your material is on the approved materials list.
-2. Turn on the machine and "focus" it by using the on board control panel. Place your material onto the bed and click on "Update Overlay" to update the camera preview.
+2. Turn on the machine and "focus" it by using the on board control panel (The Z/U Button). Place your material onto the bed and click on "Update Overlay" to update the camera preview.
 3. Import your job into lightburn and place it on your material. Use our pre calibrated profiles to start with and adjust settings as needed.
 4. Check the material thickness, then start the job and watch the machine until it is finished.
 
