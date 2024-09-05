@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2024-09-05T01:49:46.597Z
+date: 2024-09-05T02:02:36.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -25,6 +25,11 @@ The different sewing feet and tools are stored in the flatbed attachment in the 
 - **[Instruction Manual](/tools/brother-ns50-operating-manual.pdf)**
 - **Last Service**: Jan 2024
 {.grid-list}
+
+## Needle Types
+
+**90/14 Top-stitch (Blue rings)**: Suitable for most *medium-weight* fabrics
+**90/14 Heavy-duty (Purple end)**: Suitable for most *heavy-weight* fabrics
 
 ## Stitch Index
 
