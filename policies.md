@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-07-16T08:10:00.839Z
+date: 2024-09-06T09:27:19.988Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -42,6 +42,7 @@ Under the Associations Act and our constitution, the association can make by-law
 # Working Groups
 - [Infrastructure Working Group](/bylaws/wg-infrastructure)
 - [Woodshop Working Group](/bylaws/wg-woodshop)
+- Crafting Working Group
 
 
 # How To Guides
