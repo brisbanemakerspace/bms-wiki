@@ -2,7 +2,7 @@
 title: Shachihata Origami Factory
 description: For cutting paper into squares to be used for origami
 published: true
-date: 2024-09-16T22:40:26.640Z
+date: 2024-09-16T22:42:22.544Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-16T22:40:26.640Z
@@ -21,6 +21,8 @@ https://www.amazon.com.au/Shachihata-Origami-Factory-ZPC-AS1-Packaging/dp/B00LEE
 # Specification
 
 - **Induction Class:** 🟢 Green Tool (No Induction Required - read this entire page)
+- **Base colour**: Pink
+- **Model number**:  ZPC-AF2/H Multilingual Version
 - **Costs:** N/A
 
 # Induction Process
