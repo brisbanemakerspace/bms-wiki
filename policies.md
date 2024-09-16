@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-09-06T09:29:56.972Z
+date: 2024-09-16T09:46:08.501Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -56,6 +56,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Manage our appointment booking system](/howto/manage-appointment-booking-system)
 - [Access our Canva account](/howto/canva)
 - [Create an induction](/howto/create-induction)
+- [Host an event (meetup/workshop etc)](/howto/host-event)
 
 ## Governance
 - [Find the right person to contact](/howto/find-someone)
