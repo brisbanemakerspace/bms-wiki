@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-06-04T10:26:38.639Z
+date: 2024-09-16T22:03:14.136Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -128,6 +128,9 @@ All tools are available on a first come, first serve basis. Most of the time the
 - Overlocker Machine
 
 - Dremel Rotary Tools
+
+- Shachihata Origami Factory ZPC-AF2/H
+
 
 ## Ryobi Cordless Tools
 - [Ryobi ONE+ Batteries
