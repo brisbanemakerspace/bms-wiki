@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-09-16T22:43:41.064Z
+date: 2024-09-23T11:36:19.826Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -128,6 +128,9 @@ All tools are available on a first come, first serve basis. Most of the time the
 - Overlocker Machine
 
 - Dremel Rotary Tools
+
+- [Small Heat Press
+		![saba-heatpress.png](/craft/saba-heatpress.png =x70)](/tools/other/smallheatpress)
 
 - [Shachihata Origami Factory ZPC-AF2/H](/tools/other/shachihata-origami-factory)
 
