@@ -2,13 +2,12 @@
 title: Small Heat Press
 description: BMS's Small Heat Press
 published: true
-date: 2024-09-23T10:29:10.893Z
+date: 2024-09-23T10:29:43.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-23T10:26:44.060Z
 ---
 
-![saba-heatpress.png](/craft/saba-heatpress.png)
 # Introduction
 
 We have a **SABA SA-SLY-HP264** mini heat press machine in the space for heat transfer projects. 
