@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-24T08:19:45.869Z
+date: 2024-09-24T08:19:58.882Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -19,7 +19,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 
 # Recommended Uses
 > The two A1 mini printers are **ONLY** to be used with **PLA and PETG** filaments. Use the [Flashforge Creator 3](/tools/digifab/creator3) for other filament types.
-{.is-info}
+{.is-warning}
 
 
 # Specifications
