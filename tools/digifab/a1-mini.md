@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-24T08:07:19.001Z
+date: 2024-09-24T08:19:45.869Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -47,7 +47,7 @@ These printers require the use of the Bambu Studio slicing software. This softwa
 
 Bambu Studio is installed on our iMac ready to go (bring your model on a USB flash drive, send it via AirDrop, or login to google drive etc.). However, you can also install it on your own computer in order to get an estimate on printing time, or to send print jobs directly from your own laptop. Bambu Studio supports macOS, Windows and Linux.
 
-> It is possible to use the open-source fork of Bambu Studio called OrcaSlicer with the A1 mini. However, we cannot support you if you run into issues while using OrcaSlicer.
+> It is possible to use OrcaSlicer, an open-source fork of Bambu Studio, with the A1 mini. However, we cannot support you if you run into issues while using OrcaSlicer.
 {.is-info}
 
 
