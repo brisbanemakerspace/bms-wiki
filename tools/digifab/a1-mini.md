@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-24T08:04:39.480Z
+date: 2024-09-24T08:07:19.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -43,11 +43,15 @@ To book an induction for this machine, please use the "book appointment" link fr
 [INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLSfjnpgT0hsYy-9boYE1flblScK3G-8vLR-xeZpHAWG_-4epNw/viewform) (completed by the person running the induction as a record of completion)
 
 # Slicing Software
-These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
+These printers require the use of the Bambu Studio slicing software. This software is very easy to use and allows connection to our printers via WiFi.
 
-Flashprint is installed on our iMac ready to go (bring your model on a USB flash drive, send it via AirDrop, or login to google drive etc.). However, you can also install it on your own computer in order to get an estimate on printing time, or to send print jobs directly from your own laptop. Flashprint supports macOS, Windows and Linux.
+Bambu Studio is installed on our iMac ready to go (bring your model on a USB flash drive, send it via AirDrop, or login to google drive etc.). However, you can also install it on your own computer in order to get an estimate on printing time, or to send print jobs directly from your own laptop. Bambu Studio supports macOS, Windows and Linux.
 
-### [Download Flashprint Here](https://www.flashforge.com/download-center/63)
+> It is possible to use the open-source fork of Bambu Studio called OrcaSlicer with the A1 mini. However, we cannot support you if you run into issues while using OrcaSlicer.
+{.is-info}
+
+
+### [Download Bambu Studio Here](https://bambulab.com/en/download/studio)
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
