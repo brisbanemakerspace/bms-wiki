@@ -1,8 +1,8 @@
 ---
-title: Bambulab A1 mini
+title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-24T06:49:56.326Z
+date: 2024-09-24T08:04:39.480Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -12,16 +12,18 @@ dateCreated: 2024-09-24T06:49:56.326Z
 {.is-warning}
 
 # Introduction
-We have two Bambulab A1 minis  is a mid size, highly capable machine. It's enclosed print area and two nozzle choices make it ideal for printing high quality ABS prints without warping.
+We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one without) that are great for printing PLA and PETG filaments. They feature auto bed leveling, vibration and flow-rate compensation, auto-runout detection, and motor noise cancellation.
 
-![adventurer_4.png](/digitalfabrication/adventurer_4.png =x300)
-*A picture of our adventurer 4*
+![bambu-lab-a1-mini.png](/digitalfabrication/bambu-lab-a1-mini.png =x300)
+*A picture of the A1 mini*
 
 # Recommended Uses
-Our Adventurer 4 can be used for printing many different objects. It's setup to print with ABS or PLA which gives a great surface finish, and strong, structurally sound parts. Use it for printing brackets, enclosures and other small parts. For faster and cheaper prints, swap out the standard 0.4mm nozzle for a 0.6mm nozzle. You can also print high temperature filaments like ABS, PLA, PC, PETG, PLA-CF or PETG-CF. Note that we only keep ABS and PLA in stock, BYO for other filament types.
+> The two A1 mini printers are **ONLY** to be used with **PLA and PETG** filaments. Use the [Flashforge Creator 3](/tools/digifab/creator3) for other filament types.
+{.is-info}
+
 
 # Specifications
-**IP Address:** 192.168.1.202
+**Names:** Printer 1 (AMS) and Printer 2
 **Usage Cost:** $1.50/hr or $40/kg (50% off for BYO filament)
 **Note:** the usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
 
