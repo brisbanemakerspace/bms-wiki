@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-29T00:45:13.104Z
+date: 2024-09-29T01:09:57.702Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -35,6 +35,24 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 **Max Bed Temp:** 80°C
 **Supported Filaments:** PLA, PETG
 
+# Safety Information
+
+## Potential Hazards
+
+|Potential Hazard|Details|
+|---|---|
+|[![Entanglement Warning Symbol](/sops/warning-icons/entanglement.png =100x)<div>Entanglement</div>](#)|The 3D printers have a moving print bed and print head that can entangle hair or loose clothing.|
+|[![Hot Surface Warning Symbol](/sops/warning-icons/hot-surface.svg =100x)<div>Hot Surface</div>](#)|The nozzle and print bed can reach temperatures above 50°C, which can cause 1st and 2nd degree burns.|
+|[![Crushing of Hands Warning Symbol](/sops/warning-icons/hand-injury-press.png =100x)<div>Danger of Crush Injuries</div>](#)|The axes of the printer move quickly and can result in your appendages being crushed.|
+|[![Sharp Element Warning Symbol](/sops/warning-icons/sharp_element.png =100x)<div>Sharp Element</div>](#)|The purge wiper (left-hand side of printer) has a blunt serated edge that could cause injury if enough pressure is applied to the skin.|
+{.sop-symbols}
+
+## Prohibitions
+
+|Prohibition|Details|
+|---|---|
+|[![No Reaching In Prhibition Symbol](/sops/prohibition-icons/no-reaching-in.svg =100x)<div>No Reaching In</div>](#)|Do not reach into the printer work envelope while the printer is active. Pause or stop the current job before reaching into the working envelope.|
+
 # Induction Process
 **🟡 This tool requires an induction before use.**
 
@@ -49,6 +67,15 @@ Bambu Studio is installed on our iMac ready to go (bring your model on a USB fla
 
 > It is possible to use OrcaSlicer, an open-source fork of Bambu Studio, with the A1 mini. However, we cannot support you if you run into issues while using OrcaSlicer.
 {.is-info}
+
+## Connecting via Bambu Slicer
+
+You may be required to enter a access code for the printers when you try to connect to them from Bambu Slicer. Enter the appropriate access code as written below.
+
+|Printer Name|Access Code|
+|---|---|
+|Printer 1 (AMS)|`36172985`|
+|Printer 2|`39174192`|
 
 
 ### [Download Bambu Studio Here](https://bambulab.com/en/download/studio)
