@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-29T01:24:48.191Z
+date: 2024-09-29T08:03:18.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -43,7 +43,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 |---|---|
 |[![Entanglement Warning Symbol](/sops/warning-icons/entanglement.png =100x)<div>Entanglement</div>](#)|The 3D printers have a moving print bed and print head that can entangle hair or loose clothing.|
 |[![Hot Surface Warning Symbol](/sops/warning-icons/hot-surface.svg =100x)<div>Hot Surface</div>](#)|The nozzle and print bed can reach temperatures above 50°C, which can cause 1st and 2nd degree burns.|
-|[![Crushing of Hands Warning Symbol](/sops/warning-icons/hand-injury-press.png =100x)<div>Danger of Crush Injuries</div>](#)|The axes of the printer move quickly and can result in your appendages being crushed.|
+|[![Crushing of Hands Warning Symbol](/sops/warning-icons/hand-injury-press.png =100x)<div>Danger of Crush Injuries</div>](#)|The print bed, X-axis and print head move quickly and can result in appendages being crushed.|
 |[![Sharp Element Warning Symbol](/sops/warning-icons/sharp_element.png =100x)<div>Sharp Element</div>](#)|The purge wiper (left-hand side of printer) has a blunt serated edge that could cause injury if enough pressure is applied to the skin.|
 {.sop-symbols}
 
