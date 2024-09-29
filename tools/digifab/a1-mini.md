@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-29T08:09:04.911Z
+date: 2024-09-29T08:10:43.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -23,17 +23,20 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 
 
 # Specifications
-**Names:** Printer 1 (AMS) and Printer 2
-**Usage Cost:** $1.50/hr or $40/kg (50% off for BYO filament)
-**Note:** the usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
+- **Names:** Printer 1 (AMS) and Printer 2
+- **Usage Cost:** $1.50/hr or $40/kg (50% off for BYO filament)
+- **Induction Class:** 🟡 Orange Tool (Induction Required)
+- **Print Area:** 180mm(L) x 180mm(W) x 180mm(H)
+- **Nozzle Size:** 0.4mm
+- **Max Nozzle Temp:** 300°C
+- **Layer Heights:** 0.1mm - 0.45mm
+- **Max Bed Temp:** 80°C
+- **Supported Filaments:** PLA, PETG
+{.grid-list}
 
-**Induction Class:** 🟡 Orange Tool (Induction Required)
-**Print Area:** 180mm(L) x 180mm(W) x 180mm(H)
-**Nozzle Size:** 0.4mm
-**Max Nozzle Temp:** 300°C
-**Layer Heights:** 0.1mm - 0.45mm
-**Max Bed Temp:** 80°C
-**Supported Filaments:** PLA, PETG
+> The usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
+{.is-info}
+
 
 # Safety Information
 
