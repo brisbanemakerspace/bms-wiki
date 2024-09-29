@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-24T08:19:58.882Z
+date: 2024-09-29T00:45:13.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -85,6 +85,12 @@ We try to keep the following filaments in stock for members to use but check ahe
 ## 1.75mm eSUN PLA+ Filament
 * Black
 * White
+
+## 1.75mm eSUN PLA Silk
+
+[Filament Preset for Bambu Slicer](/digitalfabrication/filament-presets/esun_pla_silk.bbsflmt)
+
+* Jacinth <div style="display:inline-block;background-color:#ee422a;width:20px;height:20px;border:solid 1px #000"></div>
 
 ## Other
 The above is what we try to keep always stocked. However, there's also tonnes of other random colours, textures and sometimes materials like flexible TPU. Be sure to check the filament storage area for an up to date list.
