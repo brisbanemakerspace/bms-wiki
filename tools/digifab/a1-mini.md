@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-29T01:11:13.427Z
+date: 2024-09-29T01:13:35.651Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
