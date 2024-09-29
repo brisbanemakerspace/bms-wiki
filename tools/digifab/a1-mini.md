@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-29T01:09:57.702Z
+date: 2024-09-29T01:11:13.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -83,15 +83,11 @@ You may be required to enter a access code for the printers when you try to conn
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
 
-> Warning: the heated bed and hot end can become extremely hot and result in severe burns if touched.
-{.is-warning}
-
 ## Before Use
-1. Prepare your model by downloading or exporting it in `.stl` format.
-2. Open the "FlashPrint" software on our iMac and import your model by clicking on "Load" and selecting your file.
-3. Click on "Print" then select `ABS` or `PLA`, then select the "standard" print profile.
-4. Click on "OK", then select "Send GCode" if you're happy with the print time.
-5. Watch the printer until the first layer is finished, then you can go work on something else!
+
+> New before use checklist coming soon
+{.is-info}
+
 
 ## During Use
 1. Check on the printer once every 30 minutes if you're on site. If you wish to leave a print unattended, please post a message in Discord as a courtesy.
@@ -115,7 +111,7 @@ We try to keep the following filaments in stock for members to use but check ahe
 
 ## 1.75mm eSUN PLA Silk
 
-[Filament Preset for Bambu Slicer](/digitalfabrication/filament-presets/esun_pla_silk.bbsflmt)
+[eSUN PLA Silk Preset for Bambu Slicer](/digitalfabrication/filament-presets/esun_pla_silk.bbsflmt)
 
 * Jacinth <div style="display:inline-block;background-color:#ee422a;width:20px;height:20px;border:solid 1px #000"></div>
 
