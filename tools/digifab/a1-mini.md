@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-09-29T08:10:43.059Z
+date: 2024-10-05T04:51:57.071Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -71,6 +71,8 @@ Bambu Studio is installed on our iMac ready to go (bring your model on a USB fla
 > It is possible to use OrcaSlicer, an open-source fork of Bambu Studio, with the A1 mini. However, we cannot support you if you run into issues while using OrcaSlicer.
 {.is-info}
 
+**[Download Bambu Studio Here](https://bambulab.com/en/download/studio)**
+
 ## Connecting via Bambu Slicer
 
 You may be required to enter a access code for the printers when you try to connect to them from Bambu Slicer. Enter the appropriate access code as written below.
@@ -79,9 +81,6 @@ You may be required to enter a access code for the printers when you try to conn
 |---|---|
 |Printer 1 (AMS)|`36172985`|
 |Printer 2|`39174192`|
-
-
-### [Download Bambu Studio Here](https://bambulab.com/en/download/studio)
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
@@ -94,9 +93,6 @@ You should be familiar with how to operate this tool after completing an inducti
 ### Changing Filament in AMS
 
 
-### 
-
-
 ## During Use
 1. Check on the printer once every 30 minutes if you're on site. If you wish to leave a print unattended, please post a message in Discord as a courtesy.
 2. Regularly check the object has not come off the build plate and it's still printing correctly.
@@ -105,6 +101,12 @@ You should be familiar with how to operate this tool after completing an inducti
 1. Wait for the print bed to cool down before removing it.
 2. Gently flex the print bed to release your object. You may need to use a spatula to help it off.
 3. Clean up all bits of loose filament / plastic from around the print area, and gently use side cutters to remove excess plastic from the print bed.
+
+## Troubleshooting
+
+|Issue|Cause|Resolution|
+|---|---|---|
+|Object has wisp/strands of plastic coming off the surface|Hotend temperature is too high for the filament material|Check the maximum and optimal temperature of the filament and match those settings in your slicer|
 
 # Brisbane Makerspace Stocked Materials
 We try to keep the following filaments in stock for members to use but check ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
