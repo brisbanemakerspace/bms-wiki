@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-10-05T04:51:57.071Z
+date: 2024-10-09T08:12:54.459Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -18,7 +18,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 *A picture of the A1 mini*
 
 # Recommended Uses
-> The two A1 mini printers are **ONLY** to be used with **PLA and PETG** filaments. Use the [Flashforge Creator 3](/tools/digifab/creator3) for other filament types.
+> The two A1 mini printers are **ONLY** to be used with **esun PLA** filaments. Use the [Flashforge Creator 3](/tools/digifab/creator3) for other filament types.
 {.is-warning}
 
 
@@ -31,7 +31,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 - **Max Nozzle Temp:** 300°C
 - **Layer Heights:** 0.1mm - 0.45mm
 - **Max Bed Temp:** 80°C
-- **Supported Filaments:** PLA, PETG
+- **Supported Filaments:** PLA
 {.grid-list}
 
 > The usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
