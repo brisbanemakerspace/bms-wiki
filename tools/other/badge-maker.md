@@ -2,7 +2,7 @@
 title: Badge Maker
 description: Learn how to use our badge maker!
 published: true
-date: 2024-05-06T05:04:16.341Z
+date: 2024-10-23T01:18:06.581Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-06T03:40:57.056Z
@@ -86,7 +86,7 @@ End to end process is shown in the video below (may take a while to load):
 ## Changing the mold
 The 58mm mold is the most commonly used one and should always be left in the machine when you're done. **Do not leave the 25mm mold in the machine.** If you want to make tiny badges/buttons, you can swap it over to the 25mm and then back again by following these steps.
 
-1. Push the mold slider all the way to the left.
+1. Push the mold slider all the way to the right.
 ![badge-materials.jpeg](/craft/badge-maker-mold-left.jpeg =200x)
 2. Gently pinch the top mold on both sides to bring the black part up to the silver part.
 3. Use one hand to prevent the lever from moving down, and the other hand to pull the mold down off the lever mechanism. It is magnetic, and requires quite a bit of force to remove.
