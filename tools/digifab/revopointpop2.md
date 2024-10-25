@@ -2,7 +2,7 @@
 title: Revopoint POP 2 3D Scanner
 description: Recreate broken parts, scan yourself, or create 3D models to reference - the possibilities are endless!
 published: true
-date: 2024-06-23T01:17:17.350Z
+date: 2024-10-25T04:07:40.269Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T04:54:24.339Z
@@ -14,6 +14,8 @@ Our 3D scanner allows you to create amazingly detailed 3D scans of small and med
 ![laser.png](/digitalfabrication/revopoint-pop-2.png =x300)
 *A picture of our 3D scanner*
 
+
+password - Revopoint3d
 # Recommended Uses
 The 3D Scanner is ideal for scanning objects about as small as a USB flash drive, all the way up to a human (we've verified this)! Depending on the size and shape of the object, you can get medium quality, to extremely high quality scanning results - often good enough to 3D print with little or no post processing.
 
