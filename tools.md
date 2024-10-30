@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-10-30T05:11:12.755Z
+date: 2024-10-30T05:11:55.098Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -194,8 +194,6 @@ We are in the process of setting up a proper induction process so stay tuned!
 - [Bench Grinder
 		![ryobi_bench_grinder.png](/woodworking/ryobi_bench_grinder.png =60x)
 	](/tools/woodworking/benchgrinder)
-  
-- [Wood work tool testing WIP](https://docs.google.com/document/d/1rmvy6zMJDAtLUmaP9jTrXWMp16pIPieP0KqPATeZ928/edit?usp=sharing)
   
 ## Other Tools
 - [Hand Tools
