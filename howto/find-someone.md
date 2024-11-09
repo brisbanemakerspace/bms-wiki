@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2024-11-09T04:10:25.099Z
+date: 2024-11-09T04:10:47.327Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -19,7 +19,7 @@ There are lots of people that make BMS run, and finding the right one to contact
 
 
 ## Time Sensitive / Emergencies
-You can contact the head maker and commitee via phone for **emergencies** and **time sensitive** concerns that require an immediate response. Our phone number can be found on our website and on signs next to each external door on site. This number rings a few different people, so be patient as it may take a couple minutes for a volunteer to answer.
+You can contact the head maker via phone for **emergencies** and **time sensitive** concerns that require an immediate response. Our phone number can be found on our website and on signs next to each external door on site. This number rings a few different people, so be patient as it may take a couple minutes for a volunteer to answer.
 
 The following are **good** reasons to call us:
 * There is a medical, fire, or safety incident happening on site.
