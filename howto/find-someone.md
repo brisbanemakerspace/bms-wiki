@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2023-12-12T11:13:38.326Z
+date: 2024-11-09T04:10:25.099Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -11,10 +11,12 @@ dateCreated: 2023-12-12T10:34:53.366Z
 # How to find the right person to contact
 There are lots of people that make BMS run, and finding the right one to contact can sometimes be tricky! Here's an attempt to keep an up to date list, and give some guidance on how to find the right person for your question, query or concern.
 
+> **Warning: unsolicited commercial contact using any contact details on this website is prohibited.**
+{.is-warning}
+
 > If you have a complaint about an individual person or another member, do not post publicly on Discord or the member forum. Please send an email directly to [committee@brisbanemaker.space](mailto:committee@brisbanemaker.space) for help.
 {.is-info}
 
-**Note: unsolicited commercial contact using these contact details is prohibited.**
 
 ## Time Sensitive / Emergencies
 You can contact the head maker and commitee via phone for **emergencies** and **time sensitive** concerns that require an immediate response. Our phone number can be found on our website and on signs next to each external door on site. This number rings a few different people, so be patient as it may take a couple minutes for a volunteer to answer.
