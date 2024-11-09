@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-11-09T01:52:52.137Z
+date: 2024-11-09T03:28:12.577Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -38,6 +38,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [[WIP] Disputes and Complaints](/bylaws/disputes)
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
+- [[WIP] Paid Events and Workshops](/bylaws/paid-events)
 
 # Working Groups
 - [Infrastructure Working Group](/bylaws/wg-infrastructure)
