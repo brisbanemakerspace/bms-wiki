@@ -2,7 +2,7 @@
 title: How to host an event (meetup/workshop etc.)
 description: How to host an event at BMS.
 published: true
-date: 2024-09-17T22:53:39.180Z
+date: 2024-11-09T03:05:33.397Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-16T09:46:50.990Z
@@ -46,35 +46,64 @@ This is because the success of the event doesn't really depend on the turn out t
 ## Why is HOW here?
 Because it is worth taking the time to consider all of the above first so that the rest of the steps will make more sense and be easier to complete.
 
-1. If you haven't already, complete a [volunteer agreement](/howto/volunteer-agreement) by going to the relevant wiki page.
-2. To start the process of setting up an event, make sure that you have the access permission (as required) for:
-- Discord Volunteers channel
-- Facebook Group / Event Page (https://www.facebook.com/brisbanemakerspace)
-- Brisbane Makerspace Meetup Group (https://www.meetup.com/en-AU/brisbane-makerspace/)
-- Google Calendar (more about [managing shared google calendars](/howto/manage-shared-google-calendars) on the relevant wiki page)
-- [Canva Account](/howto/canva)
-3. Add the event and all the associated details to the revelant channels, pages and calendars. To create assets for the events, you can use the Canva account as required.
-4. If catering is required, make sure you factor in the cost and also organize the details as part of the planning process.
-5. If you are running an event or workshop for the first time, it is always a good idea to do a 'dry run' to iron out any potential issues. Best time to do it is on the same day but a week ahead so you will likely come across the issues that might come up on the actual day.
+1. Check the shared calendar from the member portal for conflicts before deciding when to host an event. Avoid Sunday mornings and Thursday evenings as we often run paid public workshops then.
+2. If you haven't already, [complete a volunteer agreement](/howto/volunteer-agreement) so you can get the right permissions below.
+3. Before you can create an event, request permission in the Discord **#volunteers** channel to manage events on our:
+    - [Discord](https://discord.brisbanemaker.space)
+    - [Facebook Page](https://www.facebook.com/brisbanemakerspace)
+    - [Meetup Group](https://www.meetup.com/en-AU/brisbane-makerspace/)
+    - Google Calendar ([get access to our shared google calendars](/howto/manage-shared-google-calendars))
+    - Canva ([get access to our canva](/howto/canva))
+4. Use the event template on Canva to create graphics for all the different platforms. Direct links to each template are below:
+    - Event Cover for Facebook, Discord & Meetup
+    - Instagram "Square"
+    - Instagram & Facebook Story
+
+5. Add the event and all the associated details as a:
+    - BMS Google calendar event
+    - Discord event
+    - Facebook event
+    - Meetup event (optional)
+
+6. BMS is a non-profit and usually can't afford to cater events. For major events or working bees, please raise a motion at a general meeting to approve a budget for catering. Generally we will approve a budget for Domino's value range pizzas up to 3 pizzas per expected attendee and allow free soft drinks from the vending machine.
+7. If you are running an event or workshop for the first time, it is always a good idea to do a 'dry run' to iron out any potential issues. Best time to do it is on the same day but a week ahead so you will likely come across the issues that might come up on the actual day.
 
 ## On the day of the event
-Make sure you give yourself plenty of time to get to the event. Remember that the best way to be on time is to be early. In fact, most of the time there will be at least one or two people who will turn up early. If you have things to prepare or to check on before the start of the event, then you'll need to give yourself a little bit more extra time ahead of the event.
+### Setting up
+Make sure you give yourself plenty of time to get to the event as often there are people who turn up early (sometimes 15+ minutes early). If you have things to prepare before the start of the event, then you'll need to give yourself more time.
 
-Some of the things you want to run through as part of the event or workshop, for first-time participants or non-members:
-- Relevant materials from the Policies page
-- Emergency procedures
-- Toilets, vending machines and other facilities
-- Outline of the workshop
-- Checking attendance numbers
-- Check in on the participants and get any feedback during the course of the event
+We recommend that you create a runsheet in the shared Google Drive folder to make the day easier to run in the future, and so someone can step in if you become unavailable.
+### House keeping
+These are mandatory things that **must be covered** at the beginning of **every event**:
+- Acknowledgement of Country
+    > We acknowledge the Yuggera and Turrbal peoples, the Traditional Custodians of the Country on which we meet, and pay our respect to Elders past, present and emerging. Sovereignty has never been ceded.
+    {.is-info}
 
-If any incidents occur during the event or workshop, usual rules apply regarding the reporting of incidents. 
+- Safe space affirmation
+    > Brisbane Makerspace is a safe space. We do not tolerate discrimination or other behaviour that makes any person feel unsafe. Our [code of conduct](/bylaws/coc) and [safe space policy](/bylaws/safespace) applies to this and all our events.
+    {.is-info}
 
-And the end of the event, follow any cleanup or closing procedures as required. Don't forget to thank all the participants.
+- Location of
+		  - emergency exit (main door)
+      - emergency evacuation point (rear carpark)
+		  - shared bathroom
+      - WiFi details and encourage to join discord (signs above bin) 
+      - vending machines (if catered)
+
+### Safety & other incidents
+If any incidents occur during the event or workshop, usual processes apply regarding the reporting of incidents. In an emergency always call 000 and when safe to do so, call the emergency/lockouts number and post an update in Discord.
+
+### Packing up
+And the end of the event, follow any cleanup or closing procedures as required. Don't forget to thank all the participants and invite them to join Discord and like our social media pages.
 
 ## After the event
 There are some useful activities to do after the event, which will help with creating a positive social and learning environment at BMS.
-- Follow up on anything that the participants might have asked about (if you weren't able to do so during the event)
-- Do a retrospective (make it short and sweet) while the details are still fresh in your head
-- Make any updates or changes to the event as required (don't leave it until the day before the next one)
+- Follow up on anything that the participants might have asked about (if you weren't able to do so during the event).
+- Do a [retro](https://www.atlassian.com/blog/teamwork/run-retrospective-distributed-team-fun) while the details are still fresh in your head. Ask everyone the following questions, and decide on any "action items" that should be followed up on.
+      - Liked (let's keep doing these things)
+      - Loathed (let's stop doing these things)
+      - Longed for (I wish we did these things)
+      - Learned (key things I learned about)
+      - Actions (things we need to do as a result of the retro discussion)
+- Make any updates or changes to the event as required (don't leave it until the day before the next one).
 
