@@ -2,24 +2,21 @@
 title: How to host an event (meetup/workshop etc.)
 description: How to host an event at BMS.
 published: true
-date: 2024-11-09T03:05:33.397Z
+date: 2024-11-10T03:01:59.872Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-16T09:46:50.990Z
 ---
 
-# How to host an event at BMS
-Based on what I can remember from my chat with Jaimyn, the main steps goes something like this:
-
-## Before you start
+# Host an event at BMS
 It's wonderful that you are thinking about or have decided to contribute to the community by hosting an event at BMS. It is another way to help keep the makerspace buzzing with creativity and energy, and a very good way to shape the culture and conversation around the place.
 
-To ensure that events are well supported and can create maximum benefit to the organization, here are some things to consider if you haven't already.
+To ensure that events are well supported and can create maximum benefit to the organization, you should follow these guideliness wherever possible.
 
 ### Who
-The participants of your event, and whether there are any restrictions or limitations that need to be considered (e.g. the space is not wheelchair accessible). And while it is good to create events that everyone can come along, you'll often find that for workshops it is best to limit the number of people so that you can provide the best experience for all the participants.
+Consider the participants of your event, and whether there are any restrictions or limitations that need to be considered (e.g. the space is not wheelchair accessible). While it is good to create events that everyone can attend, you'll often find that for workshops it is best to limit the number of people so you can provide the best experience.
 
-We encourage both events for members only (to add more value to the membership) and for the general public (because we like sharing what we do to a wider audience), and events can be either free or paid (separate processes apply).
+We encourage you to make your event public if it's appropriate to do so - we love sharing our space and community with a wider audience. Things like meetups, social events, and workshops should be public where possible. Events can be either free or paid - paid events must follow the [paid events policy](/bylaws/paid-events).
 
 ### Where
 The upstairs area where the main work area with the tables have been used to host meetup events (e.g. Home Automation Meetup), but be aware of how much space you'll need to take up and whether this is going to be available (e.g. if you want the workshop to be in a quiet space, the meeting/recording room has limited capacity).
@@ -43,7 +40,7 @@ Whether you want to connect with like-minded people and talk about things of com
 
 This is because the success of the event doesn't really depend on the turn out the first time (or the last time) you run it, but whether it is something that you are happy to do because you believe it is worthwhile. Of course, an event without anyone is a solo project, so you should also be prepared to make adjustments and pivot as required (and hopefully still make it align with your goals and motivation).
 
-## Why is HOW here?
+## How
 Because it is worth taking the time to consider all of the above first so that the rest of the steps will make more sense and be easier to complete.
 
 1. Check the shared calendar from the member portal for conflicts before deciding when to host an event. Avoid Sunday mornings and Thursday evenings as we often run paid public workshops then.
@@ -54,10 +51,7 @@ Because it is worth taking the time to consider all of the above first so that t
     - [Meetup Group](https://www.meetup.com/en-AU/brisbane-makerspace/)
     - Google Calendar ([get access to our shared google calendars](/howto/manage-shared-google-calendars))
     - Canva ([get access to our canva](/howto/canva))
-4. Use the event template on Canva to create graphics for all the different platforms. Direct links to each template are below:
-    - Event Cover for Facebook, Discord & Meetup
-    - Instagram "Square"
-    - Instagram & Facebook Story
+4. Use the event template on Canva to create graphics for all the different platforms. You can find our brand templates in the canva guide on [this page](/howto/canva).
 
 5. Add the event and all the associated details as a:
     - BMS Google calendar event
