@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-06-23T02:26:50.058Z
+date: 2024-11-10T06:12:38.873Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -18,7 +18,7 @@ BMS Learn is our inductions platform - which is just the name of our Moodle inst
 ## 0. Get the right permissions
 Before you can do anything in this guide, you need the right permissions. We use single sign on which means you already have an account, just [tap here](https://learn.brisbanemaker.space) to login using the member portal.
 
-***After*** you've logged in at least once, please reach out to someone on the infrastructure team or committee to adjust your permissions. We'll need to assign a role that allows you to create and edit Moodle courses.
+***After you've logged in at least once***, please reach out to someone on the infrastructure team or committee to adjust your permissions. We'll need to assign a role that allows you to create and edit Moodle courses. *Note for admins: that page is [right here](https://learn.brisbanemaker.space/admin/roles/assign.php?contextid=1&roleid=2).*
 
 ## 1. Create a new course
 Each induction is called a course in Moodle. To do create a new one, follow the steps below.
