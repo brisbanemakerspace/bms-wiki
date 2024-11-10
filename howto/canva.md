@@ -2,7 +2,7 @@
 title: How to access our Canva account
 description: How to access our Canva account
 published: true
-date: 2024-06-21T11:28:18.325Z
+date: 2024-11-10T03:01:05.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T10:54:08.174Z
@@ -36,3 +36,21 @@ By default, when you create a new design only you have access to it so you need 
 
 2. Under the BMS Team item, change the permission to "Can edit".
 ![canva5.png](/howto/canva5.png =600x)
+
+
+## How to use brand templates
+If you want to use one of the BMS templates to create a new event cover photo, social media post, etc. Follow these steps.
+
+1. Find the right template. You can find a list of most of them below these instructions.
+2. Open the Canva template using your BMS Canva account and tap on the button "Use this Brand Template". This will create a copy of the template that you can use.
+![canva10.png](/howto/canva/canva10.png =600x)
+3. Once the copy has been opened, make sure to update the name. You can do this by tapping the "File" button, tapping the existing name (or the "edit" icon) and typing in a new one. It will auto-save.
+![canva11.png](/howto/canva/canva11.png =600x)
+
+### BMS Canva Templates
+* [Facebook / Meetup / Discord event cover photo](https://www.canva.com/brand/brand-templates/DAFqP0q0woE)
+		![canva6.png](/howto/canva/canva6.png =x150)
+* [Instagram event post](https://www.canva.com/brand/brand-templates/DAFqP0q0woE)
+		![canva6.png](/howto/canva/canva7.png =150x)
+* [Instagram / Facebook event story post](https://www.canva.com/brand/brand-templates/DAFqP0q0woE)
+		![canva6.png](/howto/canva/canva8.png =x150)
