@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-11-11T00:48:12.031Z
+date: 2024-11-11T00:49:18.363Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -31,7 +31,7 @@ Each induction is called a course in Moodle. To do create a new one, follow the 
     - If the correct category doesn't exist yet (such as for a recently formed working group) please ask in the **#safety-and-inductions** discord channel. *Note to admins: create a new category [here](https://learn.brisbanemaker.space/course/editcategory.php?parent=0).*
 2. Update the "General" course settings like in the screenshot below. Fill in the two course name fields, select the correct category and **make sure the course end date is NOT ENABLED**. Please use the format "TOOL_NAME Induction" for the name and description.
 
-	*Note to admins: the "Course ID number" field is how Member Matters synchronises course completion data. Copy the value from the manage interlock / door page.*
+	*Note to admins: the "Course ID number" field is how Member Matters synchronises course completion data. Copy the value from the manage interlock / door page.* (coming soon - ignore for now)
 ![moodle1.png](/howto/moodle/moodle1.png =600x)
 
 3. Scroll down and add a short description and a cover image using this [canva template](https://www.canva.com/brand/brand-templates/DAGWHw5Hhgw). Include an indicated time to complete. A good example is below.
