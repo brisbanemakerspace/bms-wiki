@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-11-11T00:41:06.716Z
+date: 2024-11-11T00:48:12.031Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
