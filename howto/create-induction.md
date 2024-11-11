@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-11-10T23:58:02.386Z
+date: 2024-11-11T00:15:37.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -29,10 +29,11 @@ Each induction is called a course in Moodle. To do create a new one, follow the 
   	- [Woodshop Induction](https://learn.brisbanemaker.space/course/edit.php?category=3)
     - Otherwise [tap here](https://learn.brisbanemaker.space/course/index.php), select the correct category, then under "More" select "Add a new course".
     - If the correct category doesn't exist yet (such as for a recently formed working group) please ask in the **#safety-and-inductions** discord channel. *Note to admins: create a new category [here](https://learn.brisbanemaker.space/course/editcategory.php?parent=0).*
-2. Update the "General" course settings like in the screenshot below. Fill in the two course name fields, select the correct category and **make sure the course end date is NOT ENABLED**. Please use the format "TOOL_NAME ![moodle7.png](/howto/moodle/moodle7.png)Induction" for the name and description.
+2. Update the "General" course settings like in the screenshot below. Fill in the two course name fields, select the correct category and **make sure the course end date is NOT ENABLED**. Please use the format "TOOL_NAME Induction" for the name and description.
 
 	*Note to admins: the "Course ID number" field is how Member Matters synchronises course completion data. Copy the value from the manage interlock / door page.*
 ![moodle1.png](/howto/moodle/moodle1.png =600x)
+
 3. Scroll down and add a short description and a cover image using this [canva template](https://www.canva.com/brand/brand-templates/DAGWHw5Hhgw). Include an indicated time to complete. A good example is below.
 
 > This laser cutter induction will teach you the basics of safely using our laser cutter. This induction will take around 40-60 minutes.
@@ -56,7 +57,15 @@ Now that we've created the course, we need to add the content! All courses need 
 ![moodle7.png](/howto/moodle/moodle8.png =600x)
 > If you're a moodle expert and see something missing that you want to use, drop a message in the **#safety-and-inductions** channel on Discord. We've disabled most of them by default to make it less confusing.
 {.is-info}
-6. 
+6. If a member has to watch a video or read the content in the "**Text and media**" area, you should explicitly write this. A good example is below.
+> Please watch the video below and then continue to the quiz.
 
-Notes:
-* Any "attestations" (ie agreements they agree to) should also be included in a final quiz section at the end. This might be something like "I agree to never leave the laser cutter running while stepping outside the inclusion zone or I will have my laser cutter access removed.". It should only include *tool specific* attestations, not general things like "I will operate this tool safely".
+7. To embed a YouTube video (note: all BMS produced videos should be uploaded to our YouTube account) tap the multimedia icon (triangle inside a square) pictued below. Then select the "**Video**" tab, enter the URL into "Video source URL" and tap "Insert media" to save it.
+![moodle9.png](/howto/moodle/moodle9.png =600x)
+![moodle9.png](/howto/moodle/moodle10.png =600x)
+
+8. Once you've finished adding content to all of your topics, don't forget to save your course. In fact, you should do this everytime you make a major change so you don't lose any work.
+![moodle9.png](/howto/moodle/moodle11.png =600x)
+
+#### Notes
+Any "attestations" (ie agreements that must be agreed to) should also be included in a final topic at the end in a quiz. This might be something like "I agree to never leave the laser cutter running while stepping outside the inclusion zone or I will have my laser cutter access removed". It should only include *tool specific* agreements, not general things like "I will operate this tool safely". To create one of these, just use a multiple choice quiz question, mark it as mandatory, and only add a single answer "yes I agree" or similar.
