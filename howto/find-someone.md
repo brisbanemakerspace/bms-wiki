@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2024-11-09T04:10:47.327Z
+date: 2024-11-18T09:01:33.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -61,7 +61,6 @@ The general committee members assist the committee when necessary and provide ba
 
 **Currently:**
 Steph Piper ([committee@brisbanemaker.space](mailto:committee@brisbanemaker.space))
-Zak Crow ([committee@brisbanemaker.space](mailto:committee@brisbanemaker.space))
 
 ## Other Contacts
 ### Less important questions/concerns
