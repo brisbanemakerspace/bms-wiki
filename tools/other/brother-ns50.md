@@ -2,7 +2,7 @@
 title: Brother NS50 Computerised Sewing Machine
 description: Learn about our sewing machine
 published: true
-date: 2024-09-05T02:02:36.688Z
+date: 2024-11-27T11:14:03.437Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-20T01:06:12.121Z
@@ -76,3 +76,9 @@ To book an induction for this machine, please use the "book appointment" link fr
 3. Disconnect the footpedal and power cable. Wind the footpedal cable loosely around the footpedal. Loosely fold the power cable over itself.
 4. Store the power cable and footpedal in the arch of the sewing machine and place the storage case over the machine.
 5. Remember to carry the sewing machine by the handle.
+
+# Troubleshooting
+
+If the machine jams and keeps jamming, the needle stutters and stops, or the handwheel is hard to turn, the bobbin enclosure may have rotated out of alignment. To fix, follow the instructions in [Handwheel does not turn or is tight](https://help.brother-usa.com/app/answers/detail/a_id/65109/~/handwheel-does-not-turn-or-is-tight), referring to the maintenance procedures in the manual where indicated for removing the needle plate and cleaning the race.
+
+- If the bobbin case was out of alignment, check that the needle has not been bent (which can happen when the needle tip hits the bobbin case) and replace it if it is, before beginning to sew again.
