@@ -2,7 +2,7 @@
 title: Subscriptions
 description: A mostly complete list of all our recurring subscriptions / expenses.
 published: true
-date: 2024-12-09T11:17:48.487Z
+date: 2024-12-09T11:18:13.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:10:24.726Z
@@ -14,7 +14,7 @@ All items on this list have been approved at a meeting.
 ## Major / Utility Expenses
 * Rent $3,300 / mth
 * Internet up to $100/mth
-* PLI + partial contents Insurance $150/mth
+* PLI + partial contents Insurance $300/mth (up to)
 
 ## List of subscriptions
 * Cricut $15/mth
