@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2024-02-22T00:17:18.432Z
+date: 2024-12-17T22:30:51.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -59,11 +59,32 @@ We recognise that sometimes you may need to leave a project on-site while the pa
 
 Examples of following this policy:
 * You leave a painting that you've been working on above the member storage shelves with a Green Ticket on it, and you come back to collect it in a few days.
-* You store a large piece of wood on the basement shelves with a Green Ticket on it as it's too big to take home on the bus. You come back in 2 weeks to finish it off and take it off site.
+* You store a large sheet of wood behind the vending machine with a Green Ticket on it as it's too big to take home on the bus. You come back 6 weeks later to use it throw out the rest of the offcuts.
 
 Examples of not following this policy:
 * You leave a 3D print with glue waiting to dry above the member storage shelves but forget to put a Green Ticket on it.
 * You leave your project on a workspace and put a Green Ticket on it.
+* You forgot about a sheet you had stored behind the electronics shelves and after 3 months it got red ticketed (so someone else claimed it to save it being thrown out).
+
+## 3A Temporary Material Sheet Storage
+This policy aims to provide some guidance on where and how to store sheet materials that are too large for member storage.
+
+1. You may store sheets of material (used or unused) upright:
+* behind or in between the vending machines; or
+* behind the electronics shelves; or
+* next to the member storage shelves on the left; or
+* next to the laser cutter on the left; or
+* any other place a working group decides that is out of the way and doesn’t cause a safety hazard.
+2. Every individual sheet (or if they are securely grouped together, the whole group) must have a green ticket attached to it.
+3. Unlike regular green tickets, sheet materials have a 3 month expiry on them. However, you will have to renew the green ticket every 3 months or you risk it being red ticketed.
+4. A soft limit of 5 sheets per member is considered reasonable and may be enforced if storage space becomes limited.
+5. As explained elsewhere in this policy, storing any item at BMS is done at your own risk and there is no guarantee someone doesn’t come along and take your materials or that they don’t get damaged. Make sure they’re clearly labeled or they’re fair game!
+
+Examples of following this policy:
+* You store a large sheet of wood behind the vending machine with a Green Ticket on it as it's too big to take home on the bus. You come back 6 weeks later to use it throw out the rest of the offcuts.
+
+Examples of not following this policy:
+* You forgot about a sheet you had stored behind the electronics shelves and after 3 months it got red ticketed (so someone else claimed it to save it being thrown out).
 
 ## 4. Large Project Storage
 1. You may store one large project on site, at the discretion of the Head Maker, or by carrying a motion at a general meeting.
