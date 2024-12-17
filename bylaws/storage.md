@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2024-12-17T22:30:51.578Z
+date: 2024-12-17T22:34:22.318Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -97,6 +97,9 @@ Examples of not following this policy:
     3. may be partially returned if a cost was incurred by the makerspace to remove it off site.
 
 # Tickets
+
+If you want to print more tickets (or use the template for a different makerspace) the most up to date templates can be found in [this folder](https://drive.google.com/drive/folders/109a1smq30gtY9oBmITfDE1UxCnNJi5Ly?usp=sharing).
+
 ## 5. Green Ticket
 1. Green tickets are required to be attached to all items left on-site outside of your permanent and labelled storage cube.
 
