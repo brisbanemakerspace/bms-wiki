@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2024-11-04T09:44:53.521Z
+date: 2024-12-18T10:17:19.291Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -15,9 +15,13 @@ We usually run a general meeting on the first and third Monday of every month, a
 
 # 2024
 
+## December
+
+[17th General Meeting - 16th Dec](/meetings/general/20241216)
+
 ## November
 
-[17th General Meeting - 18th Nov](/meetings/general/20241118)
+No meetings held.
 
 ## October
 
