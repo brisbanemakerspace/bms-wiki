@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2025-01-25T04:29:34.115Z
+date: 2025-01-25T04:32:45.399Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -38,7 +38,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 > This tool uses our self-service online induction system. After you've completed the online induction, you are free to use this tool. However, if you want some support the first time you use it, you can drop by a Monday open night or ask in #digifab on Discord.
 {.is-success}
 
-To access this self-service online induction, tap the link below or find it on BMS Learn.
+To access this self-service online induction, tap the link below or find it on BMS Learn then tap the enroll button to get started.
 https://learn.brisbanemaker.space/course/view.php?id=3
 
 # Safety Information
