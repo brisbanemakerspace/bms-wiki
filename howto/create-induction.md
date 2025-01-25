@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2025-01-25T02:19:15.396Z
+date: 2025-01-25T02:48:59.120Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -74,13 +74,21 @@ All BMS inductions should have quizzes in order to check someone has actually co
 
 This guide is incomplete, so we recommend watching this tutorial until there's more information here: https://www.youtube.com/watch?v=7lm-_8-UOFg
 
-### Quiz Marking/Completion Settings
+### Quiz Marking/Activity Completion Settings
 As above, the aim of a quiz is to check if they (a) absorbed most of the content and (b) understand most of the content. No-one is perfect and you shouldn't expect anyone to always get 100%. You should generally leave all the default settings alone unless someone or an instruction on this wiki page has instructed you to change it.
 
-Configure the completion setting as follows:
-- set the passing mark to 80-90%
-- allow unlimited attempts/retries
-- don't set a time limit
+Change the "Grade" settings as follows:
+- Set "Grade to pass" to 8 (by default moodle sets the maximum grade to out of 10 - change this if you have less than 10 questions)
+- Set 'Attempts allowed" to "Unlimited"
+
+Change the "Activity completion" settings as follows:
+- Completion tracking -> "Show activity as complete when conditions are met"
+- Require view -> Select "Student must view this activity to complete it"
+- Require grade -> Select "Student must receive a grade to complete this activity"
+- Require grade -> Select "Student must receive a passing grade to complete this activity"
+
+### Add the quiz questions
+Once you've changed the settings as above, tap on "Save and display" then tap on the "Questions" tab at the top. This is where you can add questions to the question bank for this quiz. It's fairly self explanatory, but please ask in 
 
 ### Attestation / Agreements
 An "attestation" is an agreement that must be agreed to, to pass an induction.
