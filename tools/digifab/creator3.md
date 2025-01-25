@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2024-01-19T15:11:50.575Z
+date: 2025-01-25T02:52:02.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -26,7 +26,7 @@ Our Creator 3 can be used for printing many different objects. It's setup to pri
 **Max Nozzle Temp:** 300°C
 **Layer Heights:** 0.05mm - 0.4mm
 **Max Bed Temp:** 120°C
-**Supported Filaments:** PLA / ABS / PETG / PVA / HIPS / PA PC / WOOD / ASA / PA-CF / PA-GF
+**Supported Filaments:** PLA / ABS / PETG / PVA / HIPS / ASA / more - get approval from head maker
 
 # Induction Process
 **🟡 This tool requires an induction before use.**
