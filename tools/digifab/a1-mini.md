@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2024-10-09T08:12:54.459Z
+date: 2025-01-25T04:29:34.115Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -34,9 +34,12 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 - **Supported Filaments:** PLA
 {.grid-list}
 
-> The usage cost will change once our interlocks are installed as they will be automatically billed. The rate will likely reduce to around $1-$1.50 but is yet to be confirmed.
-{.is-info}
+# Induction Process
+> This tool uses our self-service online induction system. After you've completed the online induction, you are free to use this tool. However, if you want some support the first time you use it, you can drop by a Monday open night or ask in #digifab on Discord.
+{.is-success}
 
+To access this self-service online induction, tap the link below or find it on BMS Learn.
+https://learn.brisbanemaker.space/course/view.php?id=3
 
 # Safety Information
 
@@ -55,13 +58,6 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 |Prohibition|Details|
 |---|---|
 |[![No Reaching In Prhibition Symbol](/sops/prohibition-icons/no-reaching-in.svg =100x)<div>No Reaching In</div>](#)|Do not reach into the printer work envelope while the printer is active. Pause or stop the current job before reaching into the working envelope.|
-
-# Induction Process
-**🟡 This tool requires an induction before use.**
-
-To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
-
-[INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLSfjnpgT0hsYy-9boYE1flblScK3G-8vLR-xeZpHAWG_-4epNw/viewform) (completed by the person running the induction as a record of completion)
 
 # Slicing Software
 These printers require the use of the Bambu Studio slicing software. This software is very easy to use and allows connection to our printers via WiFi.
@@ -111,19 +107,18 @@ You should be familiar with how to operate this tool after completing an inducti
 # Brisbane Makerspace Stocked Materials
 We try to keep the following filaments in stock for members to use but check ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
 
-## 1.75mm eSUN ABS+ Filament
-* Black
-* White
-
 ## 1.75mm eSUN PLA+ Filament
 * Black
 * White
+* Red
+* Blue
+* Various other colours on request
 
-## 1.75mm eSUN PLA Silk
+## 1.75mm eSUN ABS+ Filament
+*Note: for use in the Flashforge Creator 3 ONLY.*
 
-[eSUN PLA Silk Preset for Bambu Slicer](/digitalfabrication/filament-presets/esun_pla_silk.bbsflmt)
-
-* Jacinth <div style="display:inline-block;background-color:#ee422a;width:20px;height:20px;border:solid 1px #000"></div>
+* Black
+* White
 
 ## Other
 The above is what we try to keep always stocked. However, there's also tonnes of other random colours, textures and sometimes materials like flexible TPU. Be sure to check the filament storage area for an up to date list.
