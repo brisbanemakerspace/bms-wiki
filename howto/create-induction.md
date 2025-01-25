@@ -2,7 +2,7 @@
 title: How to create an induction
 description: How to create an induction in moodle
 published: true
-date: 2024-11-11T00:49:18.363Z
+date: 2025-01-25T02:19:15.396Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-22T23:23:49.017Z
@@ -54,23 +54,22 @@ Now that we've created the course, we need to add the content! All courses need 
 4. You may have a few empty topics by default, feel free to edit these, or delete them all and start fresh. Once you've got the list of topics you want to include in your course, tap "Add an activity or resource" to start adding content. It's a good idea to put a short introduction about what this course will cover inside a "**Text and media area**" resource under the very first topic.
 ![moodle7.png](/howto/moodle/moodle7.png =600x)
 5. Once you've tapped "Add an activity or resource" under a topic, you're presented with a few options. We recommend using a "**Text and media area**" followed by a "**Quiz**" for each topic in your induction course. You can embed a video (either external or one you filmed and uploaded to the BMS YouTube account) or put text and images directly into it. For topics with lots of content, you should use a "**Page**" resource instead of a "**Text and media area**",
-![moodle7.png](/howto/moodle/moodle8.png =600x)
+![moodle8.png](/howto/moodle/moodle8.png =600x)
 > If you're a moodle expert and see something missing that you want to use, drop a message in the **#safety-and-inductions** channel on Discord. We've disabled most of them by default to make it less confusing.
 {.is-info}
 6. If a member has to watch a video or read the content in the "**Text and media area**", you should explicitly write this. A good example is below.
 > Please watch the video below and then continue to the quiz.
 
 7. To embed a YouTube video (note: all BMS produced videos should be uploaded to our YouTube account) tap the URL icon pictued below. Then enter the URL into "Enter a URL" and tap "Create link" to save it. Once you save this topic and go back to the course view (next step), you'll see the link turn into the proper embeded YouTube video. Feel free to add multiple videos to a topic, but put them in separate "**Text and media area**" resources.
-![moodle9.png](/howto/moodle/moodle12.png =600x)
+![moodle12.png](/howto/moodle/moodle12.png =600x)
 
 8. Once you've finished adding content to all of your topics, don't forget to save your course. In fact, you should do this everytime you make a major change so you don't lose any work.
-![moodle9.png](/howto/moodle/moodle11.png =600x)
 
 ## 4. Start adding the course quizzes
 All BMS inductions should have quizzes in order to check someone has actually completed the content. Question phrasing is a whole topic by itself, but try to follow these guidelines:
 - Don't use "gotcha" questions based on phrasing or exact numbers - unless that phrasing/precision is critical to safety or understanding. e.g. both "lense focal point" and "lens focus point" or "pi is 3.142" and "pi is 3.14" are correct answers - don't mark one as incorrect.
 - Use a mixture of multiple choice, true/false and other types of questions to break things up.
-- Stick to 10 quiz questions - if you need to use more, break up the module into smaller topics.
+- Stick to a max of 10 quiz questions per topic - if you need to use more, break up the module into smaller topics.
 - The aim of the quiz is to check if they (a) absorbed most of the content and (b) understand most of the content. No-one is perfect and you shouldn't expect anyone to always get 100%.
 
 This guide is incomplete, so we recommend watching this tutorial until there's more information here: https://www.youtube.com/watch?v=7lm-_8-UOFg
