@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2025-01-25T02:52:02.440Z
+date: 2025-01-25T04:31:45.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z
@@ -29,11 +29,11 @@ Our Creator 3 can be used for printing many different objects. It's setup to pri
 **Supported Filaments:** PLA / ABS / PETG / PVA / HIPS / ASA / more - get approval from head maker
 
 # Induction Process
-**🟡 This tool requires an induction before use.**
+> This tool uses our self-service online induction system. After you've completed the online induction, you are free to use this tool. However, if you want some support the first time you use it, you can drop by a Monday open night or ask in #digifab on Discord.
+{.is-success}
 
-To book an induction for this machine, please use the "book appointment" link from the [member portal](https://portal.brisbanemaker.space).
-
-[INDUCTION FORM](https://docs.google.com/forms/d/e/1FAIpQLSfjnpgT0hsYy-9boYE1flblScK3G-8vLR-xeZpHAWG_-4epNw/viewform) (completed by the person running the induction as a record of completion)
+To access this self-service online induction, tap the link below or find it on BMS Learn.
+https://learn.brisbanemaker.space/course/view.php?id=3
 
 # Slicing Software
 These printers require the use of the Flashprint slicing software. This software is very easy to use and allows connection to our printers via WiFi.
