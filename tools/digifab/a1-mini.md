@@ -2,14 +2,11 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2025-01-25T22:43:08.228Z
+date: 2025-01-31T01:11:14.089Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
 ---
-
-> **WIP: This page is under construction**
-{.is-warning}
 
 # Introduction
 We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one without) that are great for printing PLA and PETG filaments. They feature auto bed leveling, vibration and flow-rate compensation, auto-runout detection, and motor noise cancellation.
@@ -35,11 +32,20 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 {.grid-list}
 
 # Induction Process
-> This tool uses our self-service online induction system. After you've completed the online induction, you are free to use this tool. However, if you want some support the first time you use it, you can drop by a Monday open night or ask in #digifab on Discord.
+> 💻 This tool uses our self-service online induction system. 
 {.is-success}
 
-To access this self-service online induction, tap the link below or find it on BMS Learn then tap the enroll button to get started.
+> Please read this entire wiki page before starting the induction.
+{.is-warning}
+
+### Induction Steps
+1. Read this entire wiki page and refer back to it if needed during the online induction.
+2. Open the link below, login with your member portal account, then tap the enroll button:
 https://learn.brisbanemaker.space/course/view.php?id=3
+
+> After you've completed the online induction, you can use this tool immediately. However, if you want some support using it, please drop by a Monday open night or ask in #digifab on Discord.
+{.is-info}
+
 
 # Safety Information
 
