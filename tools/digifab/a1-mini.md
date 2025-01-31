@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2025-01-31T01:11:14.089Z
+date: 2025-01-31T01:11:59.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -21,7 +21,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 
 # Specifications
 - **Names:** Printer 1 (AMS) and Printer 2
-- **Usage Cost:** $1.50/hr or $40/kg (50% off for BYO filament)
+- **Usage Cost:** $1.50/hr (50% off for BYO filament)
 - **Induction Class:** 🟡 Orange Tool (Induction Required)
 - **Print Area:** 180mm(L) x 180mm(W) x 180mm(H)
 - **Nozzle Size:** 0.4mm
