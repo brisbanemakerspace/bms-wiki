@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: How much, when, and how fees may need to be paid, including membership and other fees.
 published: true
-date: 2023-12-21T15:54:06.747Z
+date: 2025-01-31T08:10:23.124Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:24:10.605Z
@@ -109,9 +109,11 @@ If you are locked out of the space over night between 7pm and 7am, you can call 
 
 
 ## Tool Usage Fees
-Some tools may incur usage fees to cover maintenance costs and consumables usage. Most tools are included in your membership, but please check its wiki page to avoid any surprises. This section is not part of this policy and is here for reference only.
+Some tools may incur usage fees to cover maintenance costs and consumables usage. Most tools are included in your membership, but please check its wiki page to avoid any surprises.
 
-If you fail to pay for tool usage within a reasonable amount of time (generally considered 24 hours) we may terminate your membership and attempt to recover the costs from your payment method on file. 
+If you fail to pay for tool usage within a reasonable amount of time (generally considered 24 hours) we may terminate your membership and attempt to recover the costs from your payment method on file.
+
+This section is not part of this policy and is here for reference only. Please check the tool's wiki page for up to date costs.
 
 Here is a list of tools with usage fees:
 * [Lasercutter](/tools/digifab/lasercutter) $10/hr BYO material
