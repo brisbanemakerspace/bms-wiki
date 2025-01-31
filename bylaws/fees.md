@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: How much, when, and how fees may need to be paid, including membership and other fees.
 published: true
-date: 2025-01-31T08:11:21.532Z
+date: 2025-01-31T08:12:44.975Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:24:10.605Z
@@ -117,6 +117,6 @@ This section is not part of this policy and is here for reference only. Please c
 
 Here is a list of tools with usage fees:
 * [Lasercutter](/tools/digifab/lasercutter) $10/hr BYO material
-* [3D Printers (Filament)](/tools/digifab/adventurer4) $1.50/hr - filament included
+* [3D Printers (Filament)](/tools/digifab/a1-mini) $1.50/hr - filament included
 * [3D Printers (Resin)](/tools/digifab/elegoomars2pro) $2/hr - resin included
 * [CNC Router](/tools/digifab/cncrouter) - new tool, currently free until we work it out :)
