@@ -2,14 +2,14 @@
 title: Bambu Lab P1S
 description: 
 published: true
-date: 2025-04-15T12:26:34.668Z
+date: 2025-04-15T12:31:06.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T11:48:31.980Z
 ---
 
 # Introduction
-We have a Bambu P1S that is great for printing most types of filaments due to it's high temperature hotend and enclosure. It has auto bed leveling, vibration and flow-rate compensation, auto-runout detection, motor noise cancellation and a 4 roll AMS system for multi colour printing.
+We have a Bambu P1S that is great for printing most types of filaments due to it's high temperature hotend and enclosure. It has auto bed leveling, auto-runout detection, and a 4 roll AMS system for multi colour printing.
 
 ![bambu-lab-a1-mini.png](/digitalfabrication/bambu-labs-p1s.png =x300)
 *A picture of the Bambu P1S with AMS (automatic material system)*
