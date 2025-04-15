@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2025-01-31T01:11:59.696Z
+date: 2025-04-15T12:03:44.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -35,7 +35,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 > 💻 This tool uses our self-service online induction system. 
 {.is-success}
 
-> Please read this entire wiki page before starting the induction.
+> Please read this entire wiki page before starting the induction. All of our Bambu filament printers can be used after completing this induction, including [printer 3](/tools/digifab/p1s).
 {.is-warning}
 
 ### Induction Steps
@@ -121,10 +121,15 @@ We try to keep the following filaments in stock for members to use but check ahe
 * Various other colours on request
 
 ## 1.75mm eSUN ABS+ Filament
-*Note: for use in the Flashforge Creator 3 ONLY.*
+*Note: for use in the Bambu Lab P1S (printer 3) ONLY.*
 
 * Black
 * White
+
+## 1.75mm eSUN PETG Filament
+*Note: for use in the Bambu Lab P1S (printer 3) ONLY.*
+
+* Black
 
 ## Other
 The above is what we try to keep always stocked. However, there's also tonnes of other random colours, textures and sometimes materials like flexible TPU. Be sure to check the filament storage area for an up to date list.
