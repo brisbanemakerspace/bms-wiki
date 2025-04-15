@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2024-11-11T10:19:42.986Z
+date: 2025-04-15T12:03:57.154Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -28,21 +28,17 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![laser.png](/digitalfabrication/cnc-xs.png =70x)
 	](/tools/digifab/cncrouter)
 
-- [3D Printer 1 & 2 (Bambu Lab A1 mini)
+- [3D Printer 1 & 2 (Bambu Lab A1 minis)
 		![bambu-lab-a1-mini.png](/digitalfabrication/bambu-lab-a1-mini.png =x60)
   ](/tools/digifab/a1-mini)
 
-- [3D Printer 3 (Flashforge Creator 3)
-		![creator3.png](/digitalfabrication/creator3.png =x60)
-  ](/tools/digifab/creator3)
+- [3D Printer 3 (Bambu Lab P1S)
+		![bambu-labs-p1s.png](/digitalfabrication/bambu-labs-p1s.png =x70)
+  ](/tools/digifab/p1s)
   
 - [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
   	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
   ](/tools/digifab/elegoomars2pro)
-    
-- [Resin 3D Printer 2 (Creality LD-003) (NOT FUNCTIONAL - being setup currently)
-  	![creality_ld-003.png](/digitalfabrication/creality_ld-003.png =60x)
-  ](/tools/digifab/crealityld003)
   
 - [3D Scanner
 		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
