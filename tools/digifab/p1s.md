@@ -2,7 +2,7 @@
 title: Bambu Lab P1S
 description: 
 published: true
-date: 2025-04-15T12:03:10.244Z
+date: 2025-04-15T12:26:34.668Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T11:48:31.980Z
@@ -36,7 +36,7 @@ You may be required to enter an access code for the printers when you try to con
 
 |Printer Name|Access Code|
 |---|---|
-|Printer 3|`11232834`|
+|Printer 3|`10811911`|
 
 # Induction Process
 > 💻 This tool uses our self-service online induction system. 
