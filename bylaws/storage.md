@@ -2,7 +2,7 @@
 title: Storage
 description: Our storage policy.
 published: true
-date: 2024-12-17T22:34:22.318Z
+date: 2025-05-26T09:49:42.106Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:54:25.407Z
@@ -15,6 +15,8 @@ We have very limited space on site, so this storage policy explains what our exp
 1. Storage of personal items is not permitted anywhere on-site, except where permitted in the policy below, or as permitted by a working group policy.
 
 2. You may not store any dangerous substances or chemicals anywhere on site without written permission from the Head Maker or unless another policy explicitly permits you to.
+
+3. Members are not permitted to leave food on site except for items stored in the refrigerator on a temporary basis, unless permission is granted from the committee. Members should leave all food scraps in the large main bin or take it directly out to the wheelie bins.
 
 ## 2. Storage in Member Storage Shelves
 1. You can claim up to one cube in the member storage shelves as long as you are a member and require one. You can do so on a permanent or temporary basis.
