@@ -2,7 +2,7 @@
 title: Safety
 description: 
 published: true
-date: 2023-11-27T11:06:16.929Z
+date: 2025-05-26T09:41:52.885Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:46:45.299Z
@@ -39,9 +39,9 @@ The use of any tool poses certain risks. Some are low risk like a pair of scisso
 2. Some tools have a specific procedure that must be followed every time you use the tool. A summary of the most important steps is attached to some of these tools and is called "just in time documentation" (or JIT doc for short). If you see a JIT doc, you are required to follow all relevant steps.
 
 ## 6. Clothing and PPE
-1. Due to the various hazards that exist, we require everyone on site to wear closed in shoes while in the basement or operating hand tools (sandals etc. are not permitted).
+1. Shoes are required to be worn at all times while on site.
 
-2. Closed in shoes are strongly recomended, but not required upstairs when not using hand tools.
+2. Closed in shoes are required to be worn when working in the basement area, operating red tools, handheld power tools, or using heavy hand tools.
 
 3. We recommend that you remove all jewellery and tie up long hair before working with tools, and require this on all tools that would pose a risk otherwise.
 
