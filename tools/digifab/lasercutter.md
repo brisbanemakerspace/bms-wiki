@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: Learn about our laser cutter.
 published: true
-date: 2024-08-12T12:13:17.472Z
+date: 2026-06-11T02:11:16.360Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:31.653Z

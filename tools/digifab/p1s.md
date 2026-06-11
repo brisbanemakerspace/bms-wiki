@@ -2,7 +2,7 @@
 title: Bambu Lab P1S
 description: 
 published: true
-date: 2025-04-15T12:31:06.129Z
+date: 2026-06-11T02:11:18.590Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T11:48:31.980Z
@@ -15,7 +15,7 @@ We have a Bambu P1S that is great for printing most types of filaments due to it
 *A picture of the Bambu P1S with AMS (automatic material system)*
 
 # Recommended Uses
-> This printer can print most types of filaments, unlike the A1 minis (printer 1 & 2) which are restricted to PLA only.
+> This printer can print most types of filaments, unlike the A1 minis (printer 1 & 2) which are restricted to PLA/PETG only.
 
 
 # Specifications
@@ -34,9 +34,11 @@ We have a Bambu P1S that is great for printing most types of filaments due to it
 
 You may be required to enter an access code for the printers when you try to connect to them from Bambu Slicer. Enter the appropriate access code as written below.
 
-|Printer Name|Access Code|
-|---|---|
-|Printer 3|`10811911`|
+|Printer Name|Access Code|Position|
+|---|---|---|
+|Printer 1 (AMS)|[See Here](https://wiki.brisbanemaker.space/en/tools/digifab/a1-mini#connecting-via-bambu-slicer)|Right|
+|Printer 2|[See Here](https://wiki.brisbanemaker.space/en/tools/digifab/a1-mini#connecting-via-bambu-slicer)|Middle|
+|Printer 3|`99039989`|Left|
 
 # Induction Process
 > 💻 This tool uses our self-service online induction system. 
@@ -55,5 +57,5 @@ https://learn.brisbanemaker.space/course/view.php?id=3
 
 
 ## Safety and Usage Instructions
-> Please consult the wiki page for printer 1 & 2 ([tap here](/tools/digifab/a1-mini)) as all safety information, usage instructions and information is the same.
+> Please consult the wiki page for printer 1 & 2 ([tap here](/tools/digifab/a1-mini#safety-information)). All of the safety information, usage instructions and information is the same.
 {.is-warning}

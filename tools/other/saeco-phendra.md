@@ -2,7 +2,7 @@
 title: Saeco Phedra Coffee Vending Machine
 description: Documentation about how our coffee vending machine works.
 published: true
-date: 2024-05-30T12:50:56.518Z
+date: 2026-06-11T02:12:03.471Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-28T07:18:17.845Z

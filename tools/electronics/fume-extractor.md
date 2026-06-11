@@ -2,7 +2,7 @@
 title: Fume Extractor
 description: Learn about our fume extractor for soldering.
 published: true
-date: 2023-08-22T03:56:14.847Z
+date: 2026-06-11T02:11:24.685Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T12:02:29.081Z

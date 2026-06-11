@@ -2,7 +2,7 @@
 title: How to get a volunteer agreement
 description: A volunteer agreement is a slightly formal way of tracking how our volunteers are going and help the head maker keep track of everyone's commitments.
 published: true
-date: 2024-05-29T13:12:41.818Z
+date: 2026-06-11T02:09:00.936Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T13:12:41.818Z

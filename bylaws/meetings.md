@@ -2,7 +2,7 @@
 title: Meetings
 description: The policy that governs how meetings are run.
 published: true
-date: 2023-11-27T10:41:29.115Z
+date: 2026-06-11T02:08:03.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:26:27.075Z
@@ -12,7 +12,7 @@ dateCreated: 2023-10-26T06:26:27.075Z
 Please see the [constitution](/constitution#h-38-procedure-and-voting-at-general-meeting) (Sections 35-39) for information on how meetings are required to be run and how our consensus voting process works.
 
 ## Regular meeting time
-The organisation should host a regular general meeting on the first and third Monday of each month at 8pm. However, additional meetings may be held, or regular meetings may be skipped/moved as deemed necessary due to operational requirements like holidays etc.
+The organisation should host a regular general meeting on the first Monday of each month at 8pm. However, additional meetings may be held, or regular meetings may be skipped/moved as deemed necessary due to operational requirements like holidays etc.
 
 ## Motions that require notice
 Some agenda items must be published with a certain amount of notice to be added to the agenda for a meeting. Items that fail to meet this requirement must be tabled for the next general meeting.

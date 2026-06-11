@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: 
 published: true
-date: 2025-04-15T12:03:44.912Z
+date: 2026-06-11T02:10:55.321Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-24T06:49:56.326Z
@@ -15,8 +15,11 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 *A picture of the A1 mini*
 
 # Recommended Uses
-> The two A1 mini printers are **ONLY** to be used with **esun PLA** filaments. Use the [Flashforge Creator 3](/tools/digifab/creator3) for other filament types.
+> The A1 mini printers are **ONLY** to be used with **PLA** and **PETG** filaments. Use [Printer 3 (the P1S)](/tools/digifab/p1s) for other filament types.
 {.is-warning}
+
+> There is an exception to the PLA/PETG rule, which is that printer 2 lacks an AMS. This makes it ideal for flexible filaments like eTPU etc. which may be used. Printer 1 and 3 need to have the AMS bypassed to use flexible filaments so we'd rather you just use printer 2 in these cases.
+{.is-info}
 
 
 # Specifications
@@ -28,7 +31,7 @@ We have two Bambu Lab A1 minis (one with an Automatic Material Selector and one 
 - **Max Nozzle Temp:** 300°C
 - **Layer Heights:** 0.1mm - 0.45mm
 - **Max Bed Temp:** 80°C
-- **Supported Filaments:** PLA
+- **Supported Filaments:** PLA, PETG (see note about flexible filaments above)
 {.grid-list}
 
 # Induction Process
@@ -63,74 +66,97 @@ https://learn.brisbanemaker.space/course/view.php?id=3
 
 |Prohibition|Details|
 |---|---|
-|[![No Reaching In Prhibition Symbol](/sops/prohibition-icons/no-reaching-in.svg =100x)<div>No Reaching In</div>](#)|Do not reach into the printer work envelope while the printer is active. Pause or stop the current job before reaching into the working envelope.|
+|[![No Reaching In Prohibition Symbol](/sops/prohibition-icons/no-reaching-in.svg =100x)<div>No Reaching In</div>](#)|Do not reach into the printer work envelope while the printer is active. Pause or stop the current job before reaching into the working envelope.|
+|[![No Adhesives Prohibition Symbol](/sops/prohibition-icons/no-adhesives.jpeg =100x)<div>No Adhesives</div>](#)|Do not use adhesives on the textured build plates. If print layers are lifting from the build plate, consult the [Troubleshooting](#troubleshooting) section.|
 
 # Slicing Software
 These printers require the use of the Bambu Studio slicing software. This software is very easy to use and allows connection to our printers via WiFi.
 
-Bambu Studio is installed on our iMac ready to go (bring your model on a USB flash drive, send it via AirDrop, or login to google drive etc.). However, you can also install it on your own computer in order to get an estimate on printing time, or to send print jobs directly from your own laptop. Bambu Studio supports macOS, Windows and Linux.
+Bambu Studio is installed on our Mac computers ready to go (bring your model on a USB flash drive, send it via AirDrop, or login to google drive etc.). However, you can also install it on your own computer. This allows you to get an estimate on printing time in advance, or send print jobs directly from your own laptop. Bambu Studio supports macOS, Windows and Linux.
 
-> It is possible to use OrcaSlicer, an open-source fork of Bambu Studio, with the A1 mini. However, we cannot support you if you run into issues while using OrcaSlicer.
+### [Download Bambu Studio Here](https://bambulab.com/en/download/studio)
+
+> It is possible to use OrcaSlicer, an open-source fork of Bambu Studio, with the A1 mini. However, we cannot support you if you run into issues while using it and we don't recommend using it.
 {.is-info}
 
-**[Download Bambu Studio Here](https://bambulab.com/en/download/studio)**
 
 ## Connecting via Bambu Slicer
 
-You may be required to enter a access code for the printers when you try to connect to them from Bambu Slicer. Enter the appropriate access code as written below.
+You may be required to enter an access code for the printers when you try to connect to them from Bambu Slicer. Enter the appropriate access code as written below.
 
-|Printer Name|Access Code|
-|---|---|
-|Printer 1 (AMS)|`36172985`|
-|Printer 2|`39174192`|
+|Printer Name|Access Code|Position|
+|---|---|---|
+|Printer 1 (AMS)|`82643552`|Right|
+|Printer 2|`10648999`|Middle|
+|Printer 3 (P1S)|[See Here](https://wiki.brisbanemaker.space/en/tools/digifab/p1s#connecting-via-bambu-slicer)|Left|
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
 
 ## Before Use
 
-> New before use checklist coming soon
-{.is-info}
+> **DO NOT USE GLUE OR OTHER ADHESIVES ON THE TEXTURED PEI BUILD PLATE.**
+>
+> The textured build plates, when clean, are designed to ensure the first layer adheres to the build plate.
+>
+>*If your first layers are lifting, head to the [Troubleshooting](#troubleshooting) section to learn how to solve this.*
+{.is-warning}
 
-### Changing Filament in AMS
+1. Check that the bed is clear of plastic, fingerprints, and other debris.
+2. Consider rubbing down the bed with isopropyl alcohol spray bottle (marked "IPA 100") and paper towel to clear any residual plastic. If fingerprints or other marks persist, consider washing the plate in the sink with warm soapy water to ensure good adhesion.
+	* *Please don't use cleaning or other chemicals as they can damage the bed.*
+3. Check that the right filament has been loaded into the machine, and you've selected the correct filament in Bambu Studio.
 
+
+## Changing Filament in AMS
+
+Printers with an AMS (Printer 1 & 3)
+1. Ensure the printer is not currently printing.
+2. Gently press and hold the release lever (yellow or white).
+3. While continuing to hold the release lever, slowly pull the filament out of the printer ensuring you never let go of it. If you let go, it will unravel and tangle the spool causing print jams.
+4. Once the filament has been fully removed, insert it into the two holes on the side of the roll and pull tight to secure it in place.
+![filament_secured.jpg](/digitalfabrication/filament_secured.jpg =250x)
+5. Gently push the new filament into the empty slot and wait for the AMS to start pulling it in automatically.
 
 ## During Use
-1. Check on the printer once every 30 minutes if you're on site. If you wish to leave a print unattended, please post a message in Discord as a courtesy.
-2. Regularly check the object has not come off the build plate and it's still printing correctly.
+1. Check on the printer once every 30 minutes if you're on site.
+2. If you wish to leave a print unattended, you can do so at your own risk, but please post a message in Discord as a courtesy if it's going to take a while. You should also use the [portal webcam page](https://portal.brisbanemaker.space/webcams) to check on your print periodically.
+3. Regularly check the object has not come off the build plate and it's still printing correctly.
 
 ## After Use
 1. Wait for the print bed to cool down before removing it.
-2. Gently flex the print bed to release your object. You may need to use a spatula to help it off.
-3. Clean up all bits of loose filament / plastic from around the print area, and gently use side cutters to remove excess plastic from the print bed.
+2. Flex the print bed to release your object. You may need to use a (plastic) spatula to help it off.
+3. Clean up all bits of loose filament / plastic from around the print area, and gently use side cutters to remove excess plastic from the print bed but **do not use metal tools directly on the print bed**.
+4. Once all plastic has been removed, please wipe down the plate with the isopropyl alcohol spray bottle marked "IPA 100" and paper towel. If there are fingerprints or other marks visible on the plate, please wash the plate in the sink with soapy water and dry with paper towel before returning it to the printer.
 
 ## Troubleshooting
 
-|Issue|Cause|Resolution|
+|Issue|Usual Cause|Resolution|
 |---|---|---|
-|Object has wisp/strands of plastic coming off the surface|Hotend temperature is too high for the filament material|Check the maximum and optimal temperature of the filament and match those settings in your slicer|
+|Stringing/strands of plastic around print|Hotend temperature is too high for the filament material|Check the maximum and optimal temperature of the filament and match those settings in your slicer. You may need to manually adjust it from the default profile. |
+|Print lifting from the build plate|Build plate is dirty|Clean the build plate by following the [Bambu Labs Textured PEI Plate Cleaning Guide](https://wiki.bambulab.com/en/filament-acc/acc/pei-plate-clean-guide#clean-the-printing-surface)|
 
 # Brisbane Makerspace Stocked Materials
-We try to keep the following filaments in stock for members to use but check ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to suggest other filaments to stock, please let us know.
+We try to keep the following filaments in stock for members to use but check ahead of time if you need something specific. Filament is included in the hourly machine cost. We recommend using these unless you have a special need, as they've been chosen to work well with our machines and have calibrated profiles. If you'd like to request a specific colour or material please ask in #digifab on Discord and we can add it to the next order.
 
 ## 1.75mm eSUN PLA+ Filament
 * Black
 * White
 * Red
 * Blue
+* Orange
+* Green
+* Yellow
 * Various other colours on request
 
 ## 1.75mm eSUN ABS+ Filament
-*Note: for use in the Bambu Lab P1S (printer 3) ONLY.*
-
+*Note: for use in the Bambu Lab P1S (printer 3) ONLY - it just won't print on the A1 minis.*
 * Black
 * White
 
 ## 1.75mm eSUN PETG Filament
-*Note: for use in the Bambu Lab P1S (printer 3) ONLY.*
-
 * Black
 
 ## Other
-The above is what we try to keep always stocked. However, there's also tonnes of other random colours, textures and sometimes materials like flexible TPU. Be sure to check the filament storage area for an up to date list.
+The above is what we try to keep stocked. However, there's also tonnes of other random colours, textures and sometimes materials like flexible TPU. Be sure to check the filament storage area for an up to date list.
 

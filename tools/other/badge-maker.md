@@ -2,7 +2,7 @@
 title: Badge Maker
 description: Learn how to use our badge maker!
 published: true
-date: 2025-04-28T08:13:47.459Z
+date: 2026-06-11T02:11:38.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-06T03:40:57.056Z

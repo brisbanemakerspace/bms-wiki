@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2025-05-19T10:03:30.066Z
+date: 2026-06-11T02:07:34.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -13,7 +13,50 @@ Here is a list of all our meeting minutes for compliance and historical purposes
 
 We usually run a general meeting on the first and third Monday of every month, and working groups run their own meetings when necessary.
 
+# 2026
+
+Planned Meeting dates:
+
+* General Meeting: 16th February 2026
+* General Meeting: 16th March 2026
+* General Meeting: 20th April 2026
+* General Meeting: 18th May 2026
+* General Meeting: 15th June 2026
+* Every two weeks after that from thereon.
+* Annual General Meeting: 19th October 2026
+
+## May
+[25th General Meeting - 18 May](/meetings/general/20260518)
+
+## April
+
+No meetings held.
+
+## March
+
+[24th General Meeting - 16 March](/meetings/general/20263116)
+
+## January
+
+[23rd General Meeting - 26th Jan](/meetings/general/20260126)
+
+[1st Special Meeting - TBD Jan](/meetings/special/20260118) (reuse when we have one)
+
 # 2025
+## December
+[22nd General Meeting - 22nd Dec](/meetings/general/20251222) aka. the Christmas Party
+
+## November
+
+[1st Annual General Meeting - 17th Nov](/meetings/general/20251117)
+
+## July
+
+~~[21st General Meeting - 7th July](/meetings/general/20250707)~~
+
+## June
+
+[20th General Meeting - 2nd June](/meetings/general/20250602)
 
 ## May
 

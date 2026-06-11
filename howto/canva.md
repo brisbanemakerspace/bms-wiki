@@ -2,7 +2,7 @@
 title: How to access our Canva account
 description: How to access our Canva account
 published: true
-date: 2024-11-10T03:01:05.189Z
+date: 2026-06-11T02:08:34.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T10:54:08.174Z

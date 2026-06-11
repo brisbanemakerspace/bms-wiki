@@ -2,7 +2,7 @@
 title: Getting There
 description: Tips on how to get to the makerspace!
 published: true
-date: 2024-01-19T15:06:26.716Z
+date: 2026-06-11T02:07:20.564Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T01:42:56.155Z

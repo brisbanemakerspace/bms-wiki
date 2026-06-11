@@ -2,7 +2,7 @@
 title: Oscilloscope
 description: Learn about our oscilloscope.
 published: true
-date: 2023-08-22T03:54:53.686Z
+date: 2026-06-11T02:11:34.613Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-21T06:06:18.902Z

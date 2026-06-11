@@ -2,7 +2,7 @@
 title: Teams Policy
 description: Teams are critical to managing BMS volunteer resources and are lightweight groups designed to make things easier to organise.
 published: false
-date: 2022-05-17T06:10:19.530Z
+date: 2026-06-11T02:09:34.360Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-04T01:30:35.711Z

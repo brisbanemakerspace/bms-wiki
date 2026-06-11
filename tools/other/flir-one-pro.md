@@ -2,7 +2,7 @@
 title: Thermal Camera (Flir One Pro - iOS)
 description: Our thermal camera lets you inspect electronics and batteries for faults, and has countless other awesome uses.
 published: true
-date: 2024-01-19T15:09:19.415Z
+date: 2026-06-11T02:11:48.879Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T01:45:53.065Z

@@ -2,7 +2,7 @@
 title: Belt & Disc Sander
 description: Our belt & disc sander is great for sanding and finishing small timber projects.
 published: true
-date: 2024-06-23T01:46:16.958Z
+date: 2026-06-11T02:12:17.761Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-10T03:48:37.652Z

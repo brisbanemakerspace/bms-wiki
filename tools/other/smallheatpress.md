@@ -2,7 +2,7 @@
 title: Small Heat Press
 description: BMS's Small Heat Press
 published: true
-date: 2025-02-10T09:43:57.997Z
+date: 2026-06-11T02:12:11.764Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-23T10:26:44.060Z

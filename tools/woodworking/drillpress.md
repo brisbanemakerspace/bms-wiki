@@ -2,7 +2,7 @@
 title: Drill Press
 description: Drill straight and true with our digital drill press.
 published: true
-date: 2024-06-23T01:30:40.611Z
+date: 2026-06-11T02:12:21.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:59:05.791Z

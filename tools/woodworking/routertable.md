@@ -2,7 +2,7 @@
 title: Router Table
 description: Our router table is suitable for light routing projects.
 published: true
-date: 2024-06-23T02:04:50.476Z
+date: 2026-06-11T02:12:28.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:42:01.887Z

@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2024-11-18T09:01:33.469Z
+date: 2026-06-11T02:08:44.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -49,7 +49,7 @@ The treasurer is responsible for managing our finances and can help with questio
 ### Secretary
 The secretary is responsible for helping with general association admin and can help with questions about your membership, our governance obligations, meetings and meeting minutes, etc. 
 
-**Currently:** Adam Jacobus ([secretary@brisbanemaker.space](mailto:secretary@brisbanemaker.space))
+**Currently:** Timothy Chew ([secretary@brisbanemaker.space](mailto:secretary@brisbanemaker.space))
 
 ### Head Maker
 The Head Maker is responsible for the associations day to day operations and can help with questions about tool inductions, ordering supplies, fixing things, booking appointments, etc.
@@ -60,7 +60,16 @@ The Head Maker is responsible for the associations day to day operations and can
 The general committee members assist the committee when necessary and provide balanced views during discussions and meetings.
 
 **Currently:**
-Steph Piper ([committee@brisbanemaker.space](mailto:committee@brisbanemaker.space))
+Steph Lakes (Fundraising Officer)
+Avalon Burrows (Social Media Manager)
+
+They can be reached here: [committee@brisbanemaker.space](mailto:committee@brisbanemaker.space)
+
+#### Fundraising Officer
+The fundraising officer's job is to assist finding opportunities for the organisation to raise money.
+
+#### Social Media Manager
+The social media manager's role is to assist and run the social media channels of the organisation, to raise awareness of us.
 
 ## Other Contacts
 ### Less important questions/concerns

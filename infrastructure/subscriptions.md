@@ -2,7 +2,7 @@
 title: Subscriptions
 description: A mostly complete list of all our recurring subscriptions / expenses.
 published: true
-date: 2024-12-09T11:18:13.623Z
+date: 2026-06-11T02:09:07.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:10:24.726Z

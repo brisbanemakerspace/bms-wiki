@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2025-04-15T12:03:57.154Z
+date: 2026-06-11T02:07:44.678Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -36,9 +36,6 @@ All tools are available on a first come, first serve basis. Most of the time the
 		![bambu-labs-p1s.png](/digitalfabrication/bambu-labs-p1s.png =x70)
   ](/tools/digifab/p1s)
   
-- [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
-  	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
-  ](/tools/digifab/elegoomars2pro)
   
 - [3D Scanner
 		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
@@ -47,6 +44,13 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Cricut
 		![cricut.png](/digitalfabrication/cricut.png =x60)
 	](/tools/digifab/cricut)
+  
+  
+  
+  ### The following tools are out of action until further notice.
+- [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
+  	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
+  ](/tools/digifab/elegoomars2pro)
 
 ## Electronics
 - [Induction Soldering Iron
@@ -93,10 +97,6 @@ All tools are available on a first come, first serve basis. Most of the time the
 - [Thermal Camera (Flir One Pro - iOS)
 		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
 	](/tools/other/flir-one-pro)
-
-- [Sony Mirrorless Camera
-		![sony-a5100.png](/tools/sony-a5100.png =60x)
-	](/tools/other/sony-mirrorless)
 
 - [Audio Recording Equipment](/tools/audio-recording)
 
@@ -160,6 +160,7 @@ All tools are available on a first come, first serve basis. Most of the time the
 ## Woodworking
 > ALL of our woodworking tools are currently being setup and cannnot be used.
 We are in the process of setting up a proper induction process so stay tuned!
+([TODO here](/tools/woodworking/todo))
 > {.is-danger}
 
 

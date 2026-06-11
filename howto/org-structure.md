@@ -2,7 +2,7 @@
 title: Organisational Structure
 description: How does BMS operate and what does the organisational structure look like?
 published: true
-date: 2024-07-17T21:17:15.948Z
+date: 2026-06-11T02:08:57.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T07:00:11.770Z

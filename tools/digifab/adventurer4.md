@@ -2,7 +2,7 @@
 title: Adventurer 4
 description: Learn about our adventurer 4 3d printer.
 published: true
-date: 2024-01-19T15:10:47.714Z
+date: 2026-06-11T02:10:59.356Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T07:34:19.824Z

@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: A schedule of the different fees you may need to pay as a member.
 published: true
-date: 2023-11-02T23:57:20.140Z
+date: 2026-06-11T02:09:20.177Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:17:13.763Z

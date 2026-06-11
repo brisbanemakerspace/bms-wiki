@@ -2,7 +2,7 @@
 title: A6 Thermal Printer
 description: Our A6 direct thermal printer is great for making shipping labels.
 published: true
-date: 2023-08-22T03:57:10.447Z
+date: 2026-06-11T02:11:52.899Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T01:21:11.147Z

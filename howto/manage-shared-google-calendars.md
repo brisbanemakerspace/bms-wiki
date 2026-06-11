@@ -2,7 +2,7 @@
 title: Manage Shared Google Calendars
 description: How to manage, including get access to, our shared Google calendars.
 published: true
-date: 2024-04-05T01:52:31.324Z
+date: 2026-06-11T02:08:54.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-05T01:52:31.324Z

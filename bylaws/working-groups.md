@@ -2,7 +2,7 @@
 title: Working Groups
 description: Working Groups are how we get stuff done in a decentralised, but accountable way. Each Working Group looks after a certain area of the space, and is accountable to the Head Maker and Committee.
 published: true
-date: 2024-01-22T10:59:47.569Z
+date: 2026-06-11T02:08:27.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:59:44.769Z
@@ -13,7 +13,8 @@ Working Groups are how we get stuff done in a decentralised, but accountable way
 
 ## Current Working Groups
 * [Infrastructure](/bylaws/wg-infrastructure)
-* [Woodshop](/bylaws/wg-woodshop)
+* [Crafting](/bylaws/wg-crafting)
+* [Abandoned] [Woodshop](/bylaws/wg-woodshop)
 
 # Requirements
 These are the minimum requirements to exist and operate as a Working Group:

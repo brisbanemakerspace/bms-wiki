@@ -2,7 +2,7 @@
 title: Photo Lightbox
 description: Our photography Lightbox allows you to take perfect photos of your projects (as long as they fit inside)!
 published: true
-date: 2023-09-14T04:39:30.090Z
+date: 2026-06-11T02:11:54.948Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-11T02:00:11.176Z

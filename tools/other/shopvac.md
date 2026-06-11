@@ -2,7 +2,7 @@
 title: Ryobi Shopvac
 description: Learn more about our Ryobi shopvac.
 published: true
-date: 2023-08-22T04:12:04.772Z
+date: 2026-06-11T02:12:09.720Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:59.486Z

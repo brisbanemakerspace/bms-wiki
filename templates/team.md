@@ -2,7 +2,7 @@
 title: Team Operations Page Template
 description: Template for making a new teams operation page.
 published: false
-date: 2022-07-21T02:54:21.341Z
+date: 2026-06-11T02:09:40.438Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-08T13:38:50.265Z

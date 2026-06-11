@@ -2,7 +2,7 @@
 title: Induction Soldering Iron
 description: Learn about our induction soldering iron.
 published: true
-date: 2023-08-22T03:13:51.604Z
+date: 2026-06-11T02:11:26.648Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:36:25.662Z

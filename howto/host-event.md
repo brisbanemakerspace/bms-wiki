@@ -2,7 +2,7 @@
 title: How to host an event (meetup/workshop etc.)
 description: How to host an event at BMS.
 published: true
-date: 2024-11-10T03:01:59.872Z
+date: 2026-06-11T02:08:48.708Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-16T09:46:50.990Z

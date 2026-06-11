@@ -2,7 +2,7 @@
 title: Discourse (Member Forum)
 description: Find out how our discourse (member forum) instance works, how to update it and add plugins etc.
 published: true
-date: 2023-10-26T06:55:09.286Z
+date: 2026-06-11T02:09:03.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:44:02.174Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-26T06:44:02.174Z
 # Discourse Documentation
 Discourse is the software that runs our member forum available at https://forum.brisbanemaker.space.
 
-It runs on serv01 in a docker container provided by Bitnami and managed by caprover. The bitname docker image is (here)[https://docs.bitnami.com/aws/apps/discourse/].
+It runs on serv01 in a docker container provided by Bitnami and managed by caprover. The bitnami docker image is [here](https://docs.bitnami.com/aws/apps/discourse/).
 
 **Setup By:** Jaimyn Mayer (@jabelone)
 **Maintained By:** Jaimyn Mayer (@jabelone)

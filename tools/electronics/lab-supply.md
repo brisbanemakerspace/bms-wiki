@@ -2,7 +2,7 @@
 title: Lab Power Supply
 description: Learn about our laboratory power supply.
 published: true
-date: 2023-08-22T03:53:29.002Z
+date: 2026-06-11T02:11:30.766Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:37.457Z

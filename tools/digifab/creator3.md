@@ -2,7 +2,7 @@
 title: Creator 3
 description: Learn about our creator 3 3d printer.
 published: true
-date: 2025-01-25T04:31:45.702Z
+date: 2026-06-11T02:11:08.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T07:54:40.980Z

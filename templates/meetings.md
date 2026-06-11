@@ -2,7 +2,7 @@
 title: General Meeting Template
 description: 
 published: false
-date: 2024-02-05T04:49:18.164Z
+date: 2026-06-11T02:09:38.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:52:00.791Z

@@ -2,7 +2,7 @@
 title: Revopoint POP 2 3D Scanner
 description: Recreate broken parts, scan yourself, or create 3D models to reference - the possibilities are endless!
 published: true
-date: 2024-10-25T04:07:58.774Z
+date: 2026-06-11T02:11:20.608Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T04:54:24.339Z

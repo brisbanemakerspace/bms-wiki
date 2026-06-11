@@ -2,11 +2,17 @@
 title: Elegoo Mars 2 Pro 3D Printer
 description: Learn about our Elegoo Mars 2 Pro 3D Printer.
 published: true
-date: 2024-01-19T12:57:32.390Z
+date: 2026-06-11T02:11:12.182Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:28.607Z
 ---
+
+# Please note that this tool is currently out of order with no estimated resolution time.
+
+
+---
+
 
 # Introduction
 Our Elegoo Mars 2 Pro 3D Printer allows you to print with incredible resolution for fantastic looking miniatures and parts.

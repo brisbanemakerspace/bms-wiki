@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: 
 published: true
-date: 2023-11-20T10:54:31.103Z
+date: 2026-06-11T02:07:48.852Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T07:48:41.077Z
@@ -32,7 +32,6 @@ Examples not not being respectful:
 * Overfilling a bin instead of emptying it.
 * Leaving tools around and not returning them.
 
-
 ## Abuse, Violence, Harassment & Bullying
 Abuse and violence of any kind are strictly prohibited. This includes verbal/physical assault, harassment, bullying, intimidation and similar behaviour. We have a zero-tolerance policy for abuse and violence.
 
@@ -43,6 +42,7 @@ Behaviour that is **not tolerated at any time** include:
 
 Harassment includes, but is not limited to:
 * Comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, etc.
+* Trivialising, mocking, or joking about someone's identity or personal experiences.
 * Sexual images or discussion in public spaces
 * Deliberate intimidation, stalking, or following 
 * Harassing photography or recording

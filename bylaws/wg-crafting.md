@@ -2,7 +2,7 @@
 title: Crafting Working Group
 description: 
 published: true
-date: 2024-09-06T09:32:52.491Z
+date: 2026-06-11T02:08:21.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-06T09:32:52.491Z

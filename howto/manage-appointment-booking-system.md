@@ -2,7 +2,7 @@
 title: How to manage our appointment booking system
 description: 
 published: true
-date: 2024-04-15T07:46:25.011Z
+date: 2026-06-11T02:08:50.852Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-15T07:46:25.011Z

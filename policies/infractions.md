@@ -2,7 +2,7 @@
 title: Infraction Policy
 description: How we deal with bad behaviour (whether intentional or not) and issue Infractions/penalties.
 published: true
-date: 2023-10-21T07:26:37.817Z
+date: 2026-06-11T02:09:24.190Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-06T17:25:16.409Z

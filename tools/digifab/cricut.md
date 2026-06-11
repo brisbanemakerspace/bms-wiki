@@ -2,7 +2,7 @@
 title: Cricut
 description: Learn about our cricut machine.
 published: true
-date: 2023-08-22T03:13:09.304Z
+date: 2026-06-11T02:11:10.029Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T13:27:25.709Z
@@ -33,13 +33,18 @@ To book an **optional** induction for this machine, please use the "book appoint
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
 
 ## Before Use
-1. 
+1. Locate the cutting mat that you will be putting your material on. (These are stored with the sewing things)
+2. Place your material on the cutting mat, on top of the transparent plastic film.
+3. Click the "load" (leftmost button in the set of three on the right) button to load in your cut mat and material into the cutter.
+4. Load your design on the connected Mac and follow the prompts on the screen.
 
 ## During Use
-1. 
+1. Watch as the Cricut starts cutting out your design.
+2. While the device has safety features, do not put your hands near the cutting end or apply any pressure (touch) the material while it is printing as you may dislodge it.
 
 ## After Use
-1. 
+1. When the cutting has completed, use transfer tape to take the material off the cutting mat.
+2. Don't forget to put the cutting mats back on the shelf for the next person to use.
 
 # Offcuts and Scraps
 We have an offcuts box right next to the cricut machine. You are welcome to use any offcuts or scrap pieces of material from this bin for free. You are encouraged to leave any offcuts from your projects in this bin. However, you should remove any thin pieces and you should check that it's larger than the offcut size checker.

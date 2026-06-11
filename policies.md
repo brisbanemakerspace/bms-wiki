@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2024-11-09T03:28:12.577Z
+date: 2026-06-11T02:07:40.428Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -27,6 +27,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Tool Inductions](/bylaws/inductions)
 - [Safety](/bylaws/safety)
 - [Storage](/bylaws/storage)
+- [Tickets](/bylaws/storage#tickets)
 - [Meetings](/bylaws/meetings)
 - [Parking](/bylaws/parking)
 - [Fee Schedule](/bylaws/fees)
@@ -34,7 +35,7 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Guests](/bylaws/guests)
 - [Working Groups](/bylaws/working-groups)
 - [Donations and Loans](/bylaws/donations)
-- [[WIP] Membership Processes](/bylaws/membership-processes)
+- [Membership Processes](/bylaws/membership-processes)
 - [[WIP] Disputes and Complaints](/bylaws/disputes)
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)

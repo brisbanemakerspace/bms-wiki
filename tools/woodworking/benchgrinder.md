@@ -2,7 +2,7 @@
 title: Bench Grinder & Sander
 description: Our bench grinder and sander is great for sanding and finishing small metal projects.
 published: true
-date: 2023-09-07T06:26:57.510Z
+date: 2026-06-11T02:12:19.734Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T06:26:57.510Z

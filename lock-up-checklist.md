@@ -2,7 +2,7 @@
 title: Locking up checklist
 description: Run through this checklist if you are the last to leave so you don't miss anything important.
 published: true
-date: 2021-09-26T08:16:37.582Z
+date: 2026-06-11T02:07:32.166Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-26T08:16:37.582Z

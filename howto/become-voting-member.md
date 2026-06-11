@@ -2,7 +2,7 @@
 title: How to become a voting member at BMS
 description: By default members don't get voting rights, but it's a simple process to get them.
 published: true
-date: 2024-05-29T13:39:01.595Z
+date: 2026-06-11T02:08:32.227Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T13:34:51.339Z

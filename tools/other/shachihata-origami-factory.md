@@ -2,7 +2,7 @@
 title: Shachihata Origami Factory
 description: For cutting paper into squares to be used for origami
 published: true
-date: 2024-09-16T22:42:22.544Z
+date: 2026-06-11T02:12:05.638Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-16T22:40:26.640Z

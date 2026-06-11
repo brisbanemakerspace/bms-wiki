@@ -2,7 +2,7 @@
 title: Tool Inductions Policy
 description: 
 published: true
-date: 2022-08-09T01:06:59.917Z
+date: 2026-06-11T02:09:22.019Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:27:07.140Z

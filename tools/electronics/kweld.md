@@ -2,7 +2,7 @@
 title: kWeld Battery Spot Welder
 description: Learn about our kWeld "next level" battery spot welder.
 published: true
-date: 2024-01-19T15:13:21.252Z
+date: 2026-06-11T02:11:28.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T05:59:01.759Z
