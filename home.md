@@ -2,7 +2,7 @@
 title: Home
 description: The Brisbane Makerspace wiki for documentation, policies and other resources.
 published: true
-date: 2026-06-12T15:18:17.240Z
+date: 2026-06-12T15:21:43.863Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T00:28:50.385Z
@@ -34,7 +34,6 @@ dateCreated: 2021-10-06T00:28:50.385Z
         <img style="max-width: 150px;" src="/tools-icon.png" alt="A tools icon." />
       </a>
     </td>
-    
     <td>
       <a href="/policies">
         <div>Policies &#38; How Tos</div><br/>
