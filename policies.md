@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2026-06-15T02:26:02.473Z
+date: 2026-06-15T02:46:22.864Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -42,12 +42,17 @@ Under the Associations Act and our constitution, the association can make by-law
 - [[WIP] Paid Events and Workshops](/bylaws/paid-events)
 
 # Working Groups
+This section contains links to each of our working group pages for convenience. Working group rules and policies are enabled by our Working Groups policy (above) and are considered part of our by-laws.
+
 - [Infrastructure Working Group](/bylaws/wg-infrastructure)
 - [Woodshop Working Group](/bylaws/wg-woodshop)
 - [Crafting Working Group](/bylaws/wg-crafting)
 
 
 # How To Guides
+These how to guides are not part of our by laws and are meant to document how all of our processes work in an easy to understand way. To avoid any doubt, if they conflict with a policy above, the policy will override the how to guide.
+
+Red links mean the how to guide doesn't exist yet, and we'd love someone to make one!
 ## General
 - [Make a tax deductible donation](/howto/dgr-donation)
 - [Close up as the last person to leave](/howto/closeup)
