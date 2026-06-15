@@ -1,9 +1,9 @@
 ---
-title: How to manage our appointment booking system
+title: [Archived] How to manage our appointment booking system
 description: 
-published: true
-date: 2026-06-11T02:08:50.852Z
-tags: 
+published: false
+date: 2026-06-15T02:25:38.155Z
+tags: archived
 editor: markdown
 dateCreated: 2024-04-15T07:46:25.011Z
 ---
