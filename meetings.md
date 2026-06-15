@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2026-06-11T02:07:34.241Z
+date: 2026-06-15T02:33:18.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -25,10 +25,10 @@ Planned Meeting dates:
 * Every two weeks after that from thereon.
 * Annual General Meeting: 19th October 2026
 
-## May
-[25th General Meeting - 18 May](/meetings/general/20260518)
+## June
+[1st Emergency Annual General Meeting - 8 June](/meetings/general/20260608)
 
-## April
+## April/May
 
 No meetings held.
 
