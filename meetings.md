@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2026-06-15T02:44:36.315Z
+date: 2026-06-15T10:49:07.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -24,7 +24,7 @@ Planned Meeting dates:
 * General Meeting/Christmas Party: 14 December 2026
 
 ## June
-[1st Emergency Annual General Meeting - 8 June](/meetings/general/20260608)
+[Annual General Meeting - 8 June](/meetings/general/20260608)
 
 ## April/May
 
