@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2026-06-28T08:25:31.593Z
+date: 2026-06-28T08:25:47.128Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -13,7 +13,7 @@ We try to foster a fun, safe and collaborative environment at Brisbane Makerspac
 
 Our policies may change at any time. Significant changes will be anounced to members via email.
 
-The three pillars of our culture can be summarised as:
+The four pillars of our culture can be summarised as:
 * be respectful
 * be honest
 * make good choices
