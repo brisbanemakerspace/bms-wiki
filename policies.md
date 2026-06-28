@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2026-06-15T02:46:22.864Z
+date: 2026-06-28T08:25:31.593Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -17,6 +17,7 @@ The three pillars of our culture can be summarised as:
 * be respectful
 * be honest
 * make good choices
+* just do it
 
 # Policies
 Under the Associations Act and our constitution, the association can make by-laws that are enforcable and apply to all members. We refer to these as "policies" and they can be found below.
