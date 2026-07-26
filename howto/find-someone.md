@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: 2026-06-11T02:08:44.730Z
+date: 2026-07-26T11:59:51.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-12T10:34:53.366Z
@@ -44,7 +44,7 @@ The president is responsible for governance of the organisation and can help wit
 ### Treasurer
 The treasurer is responsible for managing our finances and can help with questions about fees, refunds, payments, reimbursements, and other financial related concerns.
 
-**Currently:** Brendan Halliday ([treasurer@brisbanemaker.space](mailto:treasurer@brisbanemaker.space))
+**Currently:** Stephanie Lakes ([treasurer@brisbanemaker.space](mailto:treasurer@brisbanemaker.space))
 
 ### Secretary
 The secretary is responsible for helping with general association admin and can help with questions about your membership, our governance obligations, meetings and meeting minutes, etc. 
@@ -54,13 +54,13 @@ The secretary is responsible for helping with general association admin and can 
 ### Head Maker
 The Head Maker is responsible for the associations day to day operations and can help with questions about tool inductions, ordering supplies, fixing things, booking appointments, etc.
 
-**Currently**: Jaimyn Mayer ([headmaker@brisbanemaker.space](mailto:headmaker@brisbanemaker.space))
+**Currently**: Adam Jacobus ([headmaker@brisbanemaker.space](mailto:headmaker@brisbanemaker.space))
 
 ### General Positions
 The general committee members assist the committee when necessary and provide balanced views during discussions and meetings.
 
 **Currently:**
-Steph Lakes (Fundraising Officer)
+Dave Mac (Fundraising Officer)
 Avalon Burrows (Social Media Manager)
 
 They can be reached here: [committee@brisbanemaker.space](mailto:committee@brisbanemaker.space)
