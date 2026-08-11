@@ -2,11 +2,14 @@
 title: Home
 description: The Brisbane Makerspace wiki for documentation, policies and other resources.
 published: true
-date: 2026-06-12T15:21:43.863Z
+date: 2026-08-11T01:22:06.518Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T00:28:50.385Z
 ---
+
+> Our website is currently unavailable at this time. Please join the [Discord](https://discord.gg/ns8mtBkSv) for any questions in the timebeing.
+{.is-info}
 
 <p><img alt="bms_logo_horizontal_colour_small.png" src="/bms_logo_horizontal_colour_small.png"></p>
 
