@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2026-07-26T11:34:01.550Z
+date: 2026-08-17T02:20:32.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -17,12 +17,14 @@ We usually run a general meeting on the first and third Monday of every month, a
 
 Planned Meeting dates:
 
-* General Meeting: 10 August 2026
 * General Meeting: 24 August 2026
 * General Meeting: 14 September 2026
 * Annual General Meeting: 12 October 2026
 * General Meeting: 9 November 2026
 * General Meeting/Christmas Party: 14 December 2026
+
+# August
+[Annual General Meeting - 10 August](/meetings/general/20260810)
 
 ## June
 [Annual General Meeting - 29 June](/meetings/general/20260629)
