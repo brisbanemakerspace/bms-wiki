@@ -2,7 +2,7 @@
 title: Home
 description: The Brisbane Makerspace wiki for documentation, policies and other resources.
 published: true
-date: 2026-08-24T01:34:42.936Z
+date: 2026-08-24T01:41:32.175Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T00:28:50.385Z
@@ -10,6 +10,10 @@ dateCreated: 2021-10-06T00:28:50.385Z
 
 > Our website is currently unavailable. You can sign up [here](https://portal.brisbanemaker.space/register) from $45/mth ($39 concession) and can join the [Discord](https://discord.gg/ns8mtBkSv) for any questions (free, everyone is welcome!).
 {.is-info}
+
+> BMS is moving to a much bigger and better property at [35 Balaclava St, Woolloongabba](https://maps.app.goo.gl/6ApdTz4cDBy3nTor5). **We'll be closed on Fri 28th August** to **Sunday 30th** and re-open to members from Monday 31st. **The public open night will not run on August 31st** and access will be for members only.
+{.is-warning}
+
 
 <p><img alt="bms_logo_horizontal_colour_small.png" src="/bms_logo_horizontal_colour_small.png"></p>
 
