@@ -2,13 +2,13 @@
 title: Home
 description: The Brisbane Makerspace wiki for documentation, policies and other resources.
 published: true
-date: 2026-08-21T01:33:39.673Z
+date: 2026-08-24T01:34:42.936Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T00:28:50.385Z
 ---
 
-> Our website is currently unavailable at this time. You can sign up [here](https://portal.brisbanemaker.space/register) or please join the [Discord](https://discord.gg/ns8mtBkSv) for any questions.
+> Our website is currently unavailable. You can sign up [here](https://portal.brisbanemaker.space/register) from $45/mth ($39 concession) and can join the [Discord](https://discord.gg/ns8mtBkSv) for any questions (free, everyone is welcome!).
 {.is-info}
 
 <p><img alt="bms_logo_horizontal_colour_small.png" src="/bms_logo_horizontal_colour_small.png"></p>
