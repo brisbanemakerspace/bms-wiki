@@ -2,7 +2,7 @@
 title: Revopoint POP 2 3D Scanner
 description: Recreate broken parts, scan yourself, or create 3D models to reference - the possibilities are endless!
 published: true
-date: 2026-06-11T02:11:20.608Z
+date: 2026-09-07T10:54:33.562Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T04:54:24.339Z
@@ -34,6 +34,11 @@ The 3D Scanner is ideal for scanning objects about as small as a USB flash drive
 You should download the latest version of **Revo Scan** for your Mac or PC at the link above. It's best to use the Mac or PC software rather than the Android or iOS app as you'll get higher quality scan results. You may also want to download **Revo Studio** to help you post process your 3D scans.
 
 This software is also installed on the 3D printing iMac, but it may be easier to install it on your own laptop so it's more portable.
+
+If you're using Linux, apparently the Windows drivers can be run in Wine:
+
+https://github.com/frostworx/revopoint-pop2-linux-info 
+
 
 # Induction Process
 🟢 **This tool does not require an induction to use.** However, please be careful as it's delicate and expensive! If you'd like some help operating this for the first time, feel free to book an appointment for an induction.
