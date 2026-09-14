@@ -2,41 +2,39 @@
 title: Getting There
 description: Tips on how to get to the makerspace!
 published: true
-date: 2026-06-11T02:07:20.564Z
+date: 2026-09-14T02:01:48.835Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T01:42:56.155Z
 ---
 
 # Getting There
-There are several ways to get to the makerspace. We recommend the use of public transport or personal mobility devices like escooters, bicycles, etc. due to our inner city location. Our address is **146 Wickham St, Fortitude Valley, 4006**. Our front door is next to Vietnam House - look for our blue signage.
+There are several ways to get to the makerspace. We recommend the use of public transport or personal mobility devices like escooters, bicycles, etc. due to our inner city location. Our address is **35 Balaclava St, Woolloongabba, 4102**. Our front door is a roller garage next to a red building - look for our small blue sign. If you have a motorbike, scooter, bicycle or similar, you can park anywhere inside or on the driveway as long as you don't block the walkway.
 
-![parking_and_train_map.jpg](/parking_and_train_map.jpg =500x)
+
+![balaclava_st_map.png](/balaclava_st_map.png =400x)
+
 
 # Public Transport
 We recommend that you use Google or Apple Maps and enter "**Brisbane Makerspace**" as your destination. Select public transport and you'll see the best route from a combination of train and bus options.
 
-The closest train station is *Fortitude Valley*, which is a very short 5 minute walk. There are also lots of nearby bus stops with frequent services. If you can't use Apple or Google maps, we recommend the official [Translink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner).
+The closest train station is *Boggo Road* or *Buranda*. Buranda is slightly closer but Boggo Road has more train options - check Google/Apple Maps for the best route. There are also lots of nearby bus stops with frequent services. If you can't use Apple or Google maps, we recommend the official [Translink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner).
 
 # Car & Motorbike Parking
 ### Motorbike Parking
-There are lots of free and unlimited motorbike parking spaces right at our backdoor! If you have a bike or moped, this is a great option.
+There is lots of space around our driveway and just inside the main entrance. Please don't block the public foot path or the entrance. If you have a bike or moped, this is a great option.
 
 ### On-Site Car Parking
 There is limited on-site parking available to **members only**, as per our [parking policy](/policies/parking) (very limited and often not available).
 
-### Public Car Parking
-For members of the public, or members' guests, we recommend trying Little St (can often be full) or parking at [Cathedral Place](https://goo.gl/maps/LE3iVDVs6yrzeh1e7). This is just across the road and parking is only $5 after 5pm on weekdays, and capped at $10 on weekends.
+### Street Car Parking
+For members of the public, or members' guests, we recommend parking along Balacava St. Be careful of the clearway times and parking restrictions explained below. Park up the end near the culdesac to avoid the clearway times or 2h daily limit.
 
+> Most of Balacava St is a clearway during morning/afternoon peak hours (7-9 am and 4-6pm). Check street signage carefully before parking on the street.
+{.is-warning}
 
-![cathedral_place_prices.jpeg](/cathedral-place-prices.jpeg =400x)
-Prices accurates as of 24/08/2022.
+### Gabba Parking Area
+We fall within the council's "Gabba Parking Area". This means that between 7am to 7pm Mon-Fri, a 2 hour limit applies to all street parking that doesn't have a sign. Learn more on the council website [here](https://www.brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-permits/brisbane-central-traffic-area).
 
-### Free Public Car Parking
-
-If you want a more price friendly option, there is street parking nearby, but it may be tricky to find depending on the time of day. There are a few spots around **Little St**, **Gotha St**, **Agnes St**, and **Warren St** that are free at certain times. Please check council signage to confirm.
-
-### Central Parking Area
-We fall within the council's "Central Parking Area". This means that between 7am to 6pm Mon-Fri, and 7am to middday Sat, a 2 hour limit applies to all street parking that doesn't have a sign saying otherwise. Learn more on the council website [here](https://www.brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-permits/brisbane-central-traffic-area).
-
-This means if you park somewhere without a sign specifying a time limit between those times, you may get fined for staying longer than 2 hours! Please contact the council or our volunteers if you need assistance with understanding this.
+This is the explanation from the council website:
+> A two-hour parking limit is in place between 7am and 7pm, Monday to Friday. Unless there are signs stating otherwise (e.g. No Stopping, Bus Zone, Taxi Zone), all motorists can park in this area for up to two hours. When events are being held at The Gabba a 15-minute parking limit is in place between 7am and 10pm on the day of the event. If a parking sign applies to a particular location, the days and times displayed on the sign override the Gabba Traffic Area parking restrictions. All motorists can park in spaces signed ‘P No Limit’ for longer than these parking limits. 
