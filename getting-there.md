@@ -2,7 +2,7 @@
 title: Getting There
 description: Tips on how to get to the makerspace!
 published: true
-date: 2026-09-14T02:01:48.835Z
+date: 2026-09-14T02:02:19.349Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-04T01:42:56.155Z
@@ -19,6 +19,8 @@ There are several ways to get to the makerspace. We recommend the use of public 
 We recommend that you use Google or Apple Maps and enter "**Brisbane Makerspace**" as your destination. Select public transport and you'll see the best route from a combination of train and bus options.
 
 The closest train station is *Boggo Road* or *Buranda*. Buranda is slightly closer but Boggo Road has more train options - check Google/Apple Maps for the best route. There are also lots of nearby bus stops with frequent services. If you can't use Apple or Google maps, we recommend the official [Translink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner).
+
+Note: Woolloongabba train station is not open yet, but has been included on the map for future reference.
 
 # Car & Motorbike Parking
 ### Motorbike Parking
