@@ -1,0 +1,137 @@
+---
+title: 26th General Meeting - sigs
+description: 
+published: true
+date: 2026-09-21T09:17:59.911Z
+tags: 
+editor: markdown
+dateCreated: 2026-09-21T09:17:59.911Z
+---
+
+# 26th General Meeting - 10 August 2026
+
+## Summary
+**Date:** 29/06/2026
+**Time:** 8pm
+**Meeting Chair:** Adam Jacobus
+**Minute Taker:** Steph Kassel
+**Location:** Brisbane Makerspace (146 Wickham St)
+
+## Attendees
+### Members
+* Adam Jacobus (Head Maker)
+* Garry Giomarelli (Co-Head Maker)
+* Timothy (Secretary) - via remote
+* Steph Kassel (Treasurer)
+* Anna Kurcharski (Co-Treasurer)
+* Avalon (Avi) Burrows (Social Media Coordinator)
+* Aiden Davis
+* Anhad Ahnja
+* Claire Laurideen
+* Aly Smith
+* Greg Geering
+* Zoe Atterbury
+* Aiden Davis
+
+Quorom has been made with 13 of the required 9 members.
+
+### Guests
+
+## Agenda
+
+Opened at 8:30pm
+
+### 1. Acknowledgement of Country
+
+> We acknowledge the Yuggera and Turrbal peoples, the Traditional Custodians of the Country on which we meet, and pay our respect to Elders past, present and emerging. Sovereignty has never been ceded.
+
+### 2. Safe Space Affirmation
+> Brisbane Makerspace is a safe space. We do not tolerate discrimination or other behaviour that makes any member feel unsafe. Our code of conduct and safe space policy applies to this and all meetings.
+
+### 3. Acknowledgement of previous Meeting Minutes
+
+* Raised by Adam, seconded by Avi
+
+### 4. [Should Adam and Garry be Vice or Assistants?](https://forum.brisbanemaker.space/t/admin-poroposal-make-gary-and-anna-full-committee-members-subordinates/352)
+
+* Steph: Them being full members would have problems with quorom numbers.
+* Timothy: They should be assistants for the the reason of quorom numbers, but we don't want to impede them from doing their jobs. This is purely just for legal reasons.
+* Steph: I prefer flat hierarchy/equal powers.
+* Garry: "Garry suggested vice or assistant rather than co-exec/equal powers" -idk? get clarification what this means. -tim (Gary prefer that the assistant roles be of a subordinate? Or is this a naming thing?)
+* Steph: We should continue on our concensus basis rather than introducing hierarchy of decision making power, and a counter to our move towards a do-ocracy
+* Steph: It would not be a bad idea to still have a formal position to handle tie-breaker (in the event both co and chair disagrees).
+* Adam: In the case of a conflict the voting power should simply go to the rest of the committee.
+* Steph: I prefer that co-exec should be full committee members and be empowered to act in the roles of the executive roles they are shadowing.
+
+Adam raises the motion of making Garry and Anna full executive members, effectively changing their roles to Vice-Head Maker and Vice Treasurer/Co-Treasurer respectively.
+
+**For:** Greg, Anna, Ahmed, Aidan, Steph, Avi, Timothy, Aly, Garry, Adam, Zoe, Gremblo, Leon (all attendees, online and in-person)  
+**Against:** Nobody
+
+This mutually exclusive motion invalidates the other option:
+
+> Anna and Garry remain subordinates/shadows of their respective roles.
+
+* Steph: We should consider amending the quorom rule in the future.
+
+### 5. [Vending Machine Revival](https://forum.brisbanemaker.space/t/vending-not-drinks-machine-revival/349/1)
+
+* Adam: Timothy and Steph have stepped up with their Costco memberships to purchase snacks for the vending machine.
+
+### 6. [Update Bank Signatories of BMS Bank Account to Executive Committee](https://forum.brisbanemaker.space/t/admin-proposal-update-of-signatories-of-the-bms-bank-account-to-current-executive-committee/348/1)
+
+* Adam: We would like to add all current (and present) executive committee members to our Commonwealth Bank of Australia (CBA) bank account.
+	* This is: Avalon Burrows, Anna Kurcharski, Steph Lakes, Garry Giomarelli and Timothy Chew.
+* Adam: We would like to remove previous executive members (the former treasurer) from the account.
+  * This is: Brendan Halliday
+* Timothy: All other executives already on the account can remain in-place.
+  * This is: Adam Jacobus, Jaimyn Mayer
+* Timothy: We've chosen to willfully leave out Dave Mac as he has not been active.
+
+Adam motions to formalize the bank account signatories to include Adam Jacobus, Jaimyn Mayer, Avalon Burrows, Anna Kurcharski, Steph Lakes, Garry Giomarelli and Timothy Chew if they would like to. Greg seconds.
+
+**For:** Greg, Anna, Ahmed, Aidan, Steph, Avi, Timothy, Aly, Garry, Adam, Zoe, Gremblo, Leon (all attendees, online and in-person)  
+**Against:** Nobody
+
+### 7. [The move to 35 Balaclava Street, Woolloongabba](https://forum.brisbanemaker.space/t/were-moving-35-balaclava-street-woolloongabba/351)
+
+Adam: We are still waiting on keys, which is waiting on Plate Glass Insurance, which we are arranging with our insurance broker; NFP Brokers.
+Adam: Existing documentation about the move: [[wiki]](https://wiki.brisbanemaker.space/en/moving-2026) [[discord]](https://discord.com/channels/886246836690640937/1524708275696832662)
+Garry: We think we'll be closed for about 2-3 weeks.
+Adam: Drew and Jaimyn availabilities will focus on when we do what.
+Steph: Anyone wanting to help out?
+Avi: There is a significant willingness to help out from the membershipbase from my (her) side.
+Anna: We should extend the current lease at the current place by a month.
+Adam: NoiseNet will move their stuff themselves, and will want to stay in one spot for as long as possible to avoid interrupting their business.
+Adam: People should start packaging, and not bringing any more things into the space.
+Avi: Remember to take your stuff
+Timothy: Remember to start inventorying our bigger/expensive equipment
+Anna: I've already started taking inventory. Will put it online in a member-only page.
+Anna: We could create a junkyard/graveyard channel for people stuff wanting to donate things, such as broken devices.
+Anna: Soft deadline for junking stuff would be roughly a month after posting.
+Timothy: We **should not** be storing junk at the makerspace.
+
+### 8. Fridge Upgrade
+
+Skip.
+
+Adam: Discuss another time, once we're in the new space?
+
+### 9. New Space Layout
+
+Skipped.
+
+### 10. Thank You's
+
+* Adam: Avi, Anna, Steph and everyone else who's been helping organise the move
+
+### 11. General Business
+
+None
+
+### 12. Apologies
+
+Timothy: Sick from flu
+Jaimyn: Still on holiday
+
+Meeting closed by Adam at 10:05pm
