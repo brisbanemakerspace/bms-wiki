@@ -2,7 +2,7 @@
 title: 26th General Meeting - sigs
 description: 
 published: true
-date: 2026-09-21T09:17:59.911Z
+date: 2026-09-21T09:28:26.273Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-21T09:17:59.911Z
@@ -81,14 +81,14 @@ This mutually exclusive motion invalidates the other option:
 ### 6. [Update Bank Signatories of BMS Bank Account to Executive Committee](https://forum.brisbanemaker.space/t/admin-proposal-update-of-signatories-of-the-bms-bank-account-to-current-executive-committee/348/1)
 
 * Adam: We would like to add all current (and present) executive committee members to our Commonwealth Bank of Australia (CBA) bank account.
-	* This is: Avalon Burrows, Anna Kurcharski, Steph Lakes, Garry Giomarelli and Timothy Chew.
+	* This is: Avalon Burrows, Anna Kurcharski, Steph Kassel, Garry Giomarelli and Timothy Chew.
 * Adam: We would like to remove previous executive members (the former treasurer) from the account.
   * This is: Brendan Halliday
 * Timothy: All other executives already on the account can remain in-place.
   * This is: Adam Jacobus, Jaimyn Mayer
 * Timothy: We've chosen to willfully leave out Dave Mac as he has not been active.
 
-Adam motions to formalize the bank account signatories to include Adam Jacobus, Jaimyn Mayer, Avalon Burrows, Anna Kurcharski, Steph Lakes, Garry Giomarelli and Timothy Chew if they would like to. Greg seconds.
+Adam motions to formalize the bank account signatories to include Adam Jacobus, Jaimyn Mayer, Avalon Burrows, Anna Kurcharski, Steph Kassel, Garry Giomarelli and Timothy Chew if they would like to. Greg seconds.
 
 **For:** Greg, Anna, Ahmed, Aidan, Steph, Avi, Timothy, Aly, Garry, Adam, Zoe, Gremblo, Leon (all attendees, online and in-person)  
 **Against:** Nobody
