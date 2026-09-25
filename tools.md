@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: 2026-06-11T02:07:44.678Z
+date: 2026-09-25T02:59:30.543Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:40.136Z
@@ -228,4 +228,7 @@ We are in the process of setting up a proper induction process so stay tuned!
   
 - [Saeco Phedra Cappuccino Vending Machine
 		![Saeco Phedra Cappuccino Vending Machine](/other/vending/saeco-phedra.png =x60)
-  ](/tools/other/saeco-phendra)
+    
+    ##AQUARIUM
+    
+-     (work in progress)  
