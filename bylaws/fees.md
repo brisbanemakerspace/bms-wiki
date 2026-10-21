@@ -2,7 +2,7 @@
 title: Fee Schedule
 description: How much, when, and how fees may need to be paid, including membership and other fees.
 published: true
-date: 2026-06-11T02:07:55.184Z
+date: 2026-10-21T01:52:50.400Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T06:24:10.605Z
@@ -23,7 +23,7 @@ To maintain membership, you are required to pay your membership fees by the due 
 
 All membership plans have a 3 month minimum initial signup period. After 3 months of membership, you can cancel at anytime from the member portal.
 
-> To change between plans, just cancel your current plan, wait for the current billing period to run out, then subscribe to the new plan. If you want to change halfway through a billing cycle, please contact the treasurer.
+> To change between plans, just cancel your current plan, wait for the current billing period to run out, then subscribe to the new plan. You are unable to change halfway through a billing cycle, but please contact the treasurer for special circumstances.
 {.is-info}
 
 
@@ -32,21 +32,20 @@ All membership plans have a 3 month minimum initial signup period. After 3 month
 We offer discounted rates to enable more equitable access to our community. To be eligible for our discounted concession rates, you must prove that you're a current full-time student, concession card holder, or receive a regular income support payment from the government. If you stop meeting these requirements, please notify us as soon as possible. The committee has the right to ask for proof at most twice per year to verify you're still entitled to receive the concession discount.
 
 ### Maker Lite
-Fee (concession): n/a
-Fee: $39/mth
+Fee (concession): n/a - check the Maker Plus plan
+Fee: $49/mth
 
 * Commercial use is not permitted ([Fair Use Policy](/policies/fair-use) applies)
-* Commissioned projects where a fee is paid or commercial value is generated are NOT permitted
-* Up to 10 visits per month
+* Projects where a fee is received or commercial value is generated are NOT permitted
+* Up to 10 visits per month (soft limit)
 
 ### Maker Plus
 Fee (working member): $0/mth
-Fee (concession): $39/mth
-Fee: $59/mth
+Fee (concession): $42/mth
+Fee: $70/mth
 
 * Limited commercial use (see our [Fair Use Policy](/policies/fair-use))
-  * This includes making and selling small volumes of things for markets, etsy, etc.
-* Up to 10 visits per month
+  * This includes making and selling small volumes of things for markets, etsy, commercial prototypes etc.
 
 #### Working Members
 Working Members are entitled to free membership of the Maker Plus plan. To be eligible a member must:
