@@ -2,7 +2,7 @@
 title: Issue or Collect a Swipe Card
 description: Find out how to issue or collect a swipe card for a member.
 published: true
-date: 2026-10-25T10:44:20.338Z
+date: 2026-10-25T10:46:27.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-25T10:40:22.608Z
@@ -22,8 +22,6 @@ The best way to do this is to drop by during our regular Monday open night. You 
 
 ## I'm a volunter and need to issue a swipe card
 Only the current committee members, or someone they authorise can issue a swipe card and complete new member inductions. If you'd like to help run our new member inductions, please reach out to a member of the committee and ask. Once you've run enough of them under supervision, you'll get access to the member portal as an admin to issue swipe cards.
-
-Please familiarise yourself with the new member or existing member procedures above, before continuing.
 
 1. Go to the manage members page in the portal under Admin Tools > Members.
 2. Ask for their full name and email address (or phone) to verify their identity. Do not ask them "is it x", they must say it to you first.
