@@ -2,7 +2,7 @@
 title: Issue or Collect a Swipe Card
 description: Find out how to issue or collect a swipe card for a member.
 published: true
-date: 2026-10-25T10:46:27.242Z
+date: 2026-10-25T10:47:31.473Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-25T10:40:22.608Z
@@ -26,8 +26,8 @@ Only the current committee members, or someone they authorise can issue a swipe 
 1. Go to the manage members page in the portal under Admin Tools > Members.
 2. Ask for their full name and email address (or phone) to verify their identity. Do not ask them "is it x", they must say it to you first.
 3. Let them know the following:
-	* once you issue a new swipe card, the old one will stop working straight away;
-	* if they find the previous one, ask them to cut it up and throw it out so they don't get them mixed up;
+	* once you issue a new swipe card, any previous card will stop working straight away;
+	* if they find a previous one, ask them to cut it up and throw it out so they don't get them mixed up;
 	* advise them not to mark it with anything that lets a passerby easily work out they can use it at BMS (e.g. avoid putting our address or name on it).
 	* remind them that if they lose it, they must tell a member of the committee or post in Discord immediately so it can be deactivated and they will be held responsible for anyone who uses it.
 4. Replace (or add) the card number to the RFID Card field on their profile page.
