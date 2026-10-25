@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2026-06-28T08:25:47.128Z
+date: 2026-10-25T09:51:46.406Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -60,6 +60,7 @@ Red links mean the how to guide doesn't exist yet, and we'd love someone to make
 - [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
 - [Make changes to this wiki](/howto/make-wiki-changes)
 - [Manage your membership](/howto/manage-membership)
+- [Issue or collect a swipe card](/howto/issue-or-collect-swipe-card)
 - [Manage our shared Google calendars](/howto/manage-shared-google-calendars)
 - [Manage our appointment booking system](/howto/manage-appointment-booking-system)
 - [Access our Canva account](/howto/canva)
