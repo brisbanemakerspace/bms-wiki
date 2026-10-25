@@ -2,7 +2,7 @@
 title: Issue or Collect a Swipe Card
 description: Find out how to issue or collect a swipe card for a member.
 published: true
-date: 2026-10-25T10:40:22.608Z
+date: 2026-10-25T10:44:20.338Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-25T10:40:22.608Z
@@ -37,3 +37,6 @@ Please familiarise yourself with the new member or existing member procedures ab
 	* for example, this card has a card number of `11803077`
 		![rfid_card_id_example.jpg](/howto/rfid_card_id_example.jpg =300x)
 5. Make them swipe it on a real card reader (e.g. the front door) and check that it works. This verifies you typed it correctly and that the card isn't faulty. If it doesn't work and there are no logs posted to Discord, check the card number or try a different card.
+
+**FAQ: Can I use my phone or existing swipe card?**
+**A:** Short answer is no. Your phone is not compatible with the 125kHz frequency our system uses. It's also unlikely your existing card will work unless it has a card number printed on it in the same format as above (you can try if it does!). We are happy to try our best to make it work for unique cases like implanted RFID chips, etc. just reach out to the infrastructure group if you need help.
