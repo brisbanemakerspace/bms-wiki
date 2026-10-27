@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: 
 published: true
-date: 2026-10-27T23:13:54.602Z
+date: 2026-10-27T23:16:43.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T05:51:08.169Z
@@ -20,8 +20,12 @@ Planned Meeting dates:
 * Annual General Meeting: 23 November 2026
 * General Meeting/Christmas Party: 14 December 2026
 
+## November
+
+[Annual General Meeting - 23 November](/meetings/annual/20261123)
+
 ## October
-[Annual Gneeral Meeting - 12 October](/meetings/general/20261012)
+[Gneeral Meeting - 12 October](/meetings/general/20261012)
 
 ## September
 
