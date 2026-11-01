@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2026-10-25T10:44:43.936Z
+date: 2026-11-01T05:10:48.119Z
 tags: public
 editor: markdown
 dateCreated: 2021-09-07T13:19:37.419Z
@@ -55,7 +55,6 @@ These how to guides are not part of our by laws and are meant to document how al
 
 Red links mean the how to guide doesn't exist yet, and we'd love someone to make one!
 ## General
-- [Make a tax deductible donation](/howto/dgr-donation)
 - [Close up as the last person to leave](/howto/closeup)
 - [Charge your EV (car or scooter etc.)](/howto/charge-an-ev)
 - [Make changes to this wiki](/howto/make-wiki-changes)
@@ -66,6 +65,10 @@ Red links mean the how to guide doesn't exist yet, and we'd love someone to make
 - [Access our Canva account](/howto/canva)
 - [Create an induction](/howto/create-induction)
 - [Host an event (meetup/workshop etc)](/howto/host-event)
+
+## Donations / Money
+- [Make a tax deductible donation](/howto/dgr-donation)
+- [Donate your 10c containers](/howto/containers-for-change)
 
 ## Governance
 - [Find the right person to contact](/howto/find-someone)
