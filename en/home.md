@@ -2,7 +2,7 @@
 title: Home
 description: The Brisbane Makerspace wiki for documentation, policies and other resources.
 published: true
-date: '2026-11-07T11:58:06.770Z'
+date: '2026-11-08T14:56:09.821Z'
 tags: []
 editor: markdown
 dateCreated: '2021-10-06T00:28:50.385Z'
@@ -14,7 +14,7 @@ dateCreated: '2021-10-06T00:28:50.385Z'
 {.is-info}
 
 
-<p><img alt="bms_logo_horizontal_colour_small.png" src="/bms-logo-horizontal-colour-small.png"></p>
+![gradient-horizontal-logo.png](/logos/gradient-horizontal-logo.png =500x)
 
 <p>Welcome to the BMS Wiki (Brisbane Makerspace Wiki). Like any typical makerspace, you'll find our tool documentation, how to guides, and operational policies here. BMS is Brisbane's best community workshop and makerspace.</p>
 
