@@ -1,8 +1,8 @@
 ---
-title: EV Parking
+title: EV Charging
 description: ''
 published: true
-date: '2026-11-08T14:52:34.515Z'
+date: '2026-11-08T14:52:49.508Z'
 tags: []
 editor: markdown
 dateCreated: '2026-02-13T00:38:19.105Z'
