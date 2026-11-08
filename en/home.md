@@ -2,7 +2,7 @@
 title: Home
 description: The Brisbane Makerspace wiki for documentation, policies and other resources.
 published: true
-date: '2026-11-08T15:02:07.381Z'
+date: '2026-11-08T15:04:34.891Z'
 tags: []
 editor: markdown
 dateCreated: '2021-10-06T00:28:50.385Z'
@@ -36,14 +36,14 @@ dateCreated: '2021-10-06T00:28:50.385Z'
   <tr>
     <td>
       <a href="/tools">
-        <div>Tools &#38; Assets</div><br/>
-        <img style="max-width: 150px;" src="/pixel-icons/tools.png" alt="A tools icon." />
+        <p style="text-align: center;">Tools & Assets</p>
+        <img style="max-width: 150px; margin: auto;" src="/pixel-icons/tools.png" alt="A tools icon." />
       </a>
     </td>
     <td>
       <a href="/policies">
-        <div>Policies &#38; How Tos</div><br/>
-        <img style="max-width: 150px;" src="/pixel-icons/policies.png" alt="A book icon." />
+        <p style="text-align: center;">Policies & How Tos</p>
+        <img style="max-width: 150px; margin: auto;" src="/pixel-icons/policies.png" alt="A book icon." />
       </a>
     </td>
   </tr>
@@ -51,8 +51,8 @@ dateCreated: '2021-10-06T00:28:50.385Z'
   <tr>
     <td>
       <a href="/meetings">
-        <div>Meeting Minutes</div><br/>
-        <img style="max-width: 150px;" src="/pixel-icons/minutes.png" alt="A meeting minutes icon." />
+        <p style="text-align: center;">Meeting Minutes</p>
+        <img style="max-width: 150px; margin: auto;" src="/pixel-icons/minutes.png" alt="A meeting minutes icon." />
       </a>
     </td>
   </tr>
