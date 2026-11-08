@@ -2,7 +2,7 @@
 title: Restricted Resources
 description: How resources can become restricted, and who can access them.
 published: false
-date: '2026-06-11T02:09:30.364Z'
+date: '2026-11-08T15:36:13.451Z'
 tags: []
 editor: markdown
 dateCreated: '2022-05-07T06:22:26.140Z'
@@ -11,7 +11,7 @@ dateCreated: '2022-05-07T06:22:26.140Z'
 # Restricted Resources
 All resources at BMS are accessible to Ordinary Members by default. This page outlines a list of resources that are considered restricted, and who is permitted to access them.
 
-To avoid confusion, teams are able to restrict access to physical resources they are accountable for for safety or maintenance reasons. It is up to teams to decide how this happens.
+To avoid confusion, Working Groups (WGs) are able to restrict access to physical resources they are accountable for for safety or maintenance reasons. It is up to WGs to decide how this happens.
 
 Resources should not be restricted unless a restriction on access or use can be reasonably justified. If access to a restricted resource is to be removed from someone, they must be notified at the time of removal, or preferably at least 24 hours in advance.
 
@@ -25,61 +25,61 @@ The following list of resources are considered restricted. The manager is who is
 **Requirements for access:** Be part of the executive committee.
 
 ### Infrastructure Mailing List (infrastructure@ email account)
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG.
 
 ### Contact Mailing List (hello@ email account)
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of any team or committee.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of any WG or committee.
 
 ### Discord Exec Channel
 **Manager:** Executive Committee
 **Requirements for access:** Be part of the executive committee.
 
-### Discord Team Channels
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the relevant team.
+### Discord Volunteers Channels
+**Manager:** Infrastructure WG
+**Requirements for access:** Have held an official volunteer position.
 
 ### Discord Community Advisor Channel
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the community advisor committee, executive committee, or part of any other team.
+**Manager:** Infrastructure WG
+**Requirements for access:** Have held an official vollunteer position or have been invited as a trusted external community member.
 
 ### Wiki (Edit Access)
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team, executive team, or want to contribute to the wiki.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG, executive WG, or want to contribute to the wiki.
 
 ### Wiki (Admin Access)
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG.
 
 ### Forum (Moderator Access)
-**Manager:** Infrastructure Team
+**Manager:** Infrastructure WG
 **Requirements for access:** Be part of the Infraction Committee, Executive Committee, or be authorised as a moderator.
 
 ### Forum (Admin Access)
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team or executive committee.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG or executive committee.
 
 ### Social Media Accounts
 This includes Facebook, Instagram, Meetup and Tiktok.
-**Manager:** Social Media Team
-**Requirements for access:** Be part of the social media team, be approved for access by the social media team, or be part of the executive committee.
+**Manager:** Social Media WG
+**Requirements for access:** Be part of the social media WG, be approved for access by the social media WG, or be part of the executive committee.
 
 ### GitHub Repositories
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team, be part of the policy team, or be part of the executive committee.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG or be part of the executive committee.
 
 ### AWS, Cloudflare, and Namecheap Accounts
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG.
 
 ### Unifi Network / Controller
-**Manager:** Infrastructure Team
-**Requirements for access:** Be part of the infrastructure team.
+**Manager:** Infrastructure WG
+**Requirements for access:** Be part of the infrastructure WG.
 
 ### Canvas LMS Admin
-**Manager:** Executive Team
-**Requirements for access:** Be part of any team that manages an asset with an induction, or be part of the executive.
+**Manager:** Executive WG
+**Requirements for access:** Be part of any WG that manages an asset with an induction, or be part of the executive.
 
 ### Nest Cameras
 **Manager:** Infraction Committee
