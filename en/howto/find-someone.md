@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: '2026-07-26T11:59:54.043Z'
+date: '2026-11-08T14:46:18.367Z'
 tags: []
 editor: markdown
 dateCreated: '2023-12-12T10:34:53.366Z'
@@ -41,6 +41,11 @@ The president is responsible for governance of the organisation and can help wit
 
 **Currently:** Jaimyn Mayer ([president@brisbanemaker.space](mailto:president@brisbanemaker.space))
 
+### Head Maker
+The Head Maker is responsible for the associations day to day operations and can help with questions about tool inductions, ordering supplies, fixing things, booking appointments, etc.
+
+**Currently**: Drew Spriggs ([headmaker@brisbanemaker.space](mailto:headmaker@brisbanemaker.space))
+
 ### Treasurer
 The treasurer is responsible for managing our finances and can help with questions about fees, refunds, payments, reimbursements, and other financial related concerns.
 
@@ -51,25 +56,18 @@ The secretary is responsible for helping with general association admin and can 
 
 **Currently:** Timothy Chew ([secretary@brisbanemaker.space](mailto:secretary@brisbanemaker.space))
 
-### Head Maker
-The Head Maker is responsible for the associations day to day operations and can help with questions about tool inductions, ordering supplies, fixing things, booking appointments, etc.
-
-**Currently**: Adam Jacobus ([headmaker@brisbanemaker.space](mailto:headmaker@brisbanemaker.space))
-
 ### General Positions
 The general committee members assist the committee when necessary and provide balanced views during discussions and meetings.
-
-**Currently:**
-Dave Mac (Fundraising Officer)
-Avalon Burrows (Social Media Manager)
-
-They can be reached here: [committee@brisbanemaker.space](mailto:committee@brisbanemaker.space)
 
 #### Fundraising Officer
 The fundraising officer's job is to assist finding opportunities for the organisation to raise money.
 
+**CURRENTLLY VACANT**
+
 #### Social Media Manager
 The social media manager's role is to assist and run the social media channels of the organisation, to raise awareness of us.
+
+**Currently:** Avalon (Avi) Burrows ([committee@brisbanemaker.space](mailto:committee@brisbanemaker.space))
 
 ## Other Contacts
 ### Less important questions/concerns
