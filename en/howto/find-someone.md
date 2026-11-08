@@ -2,7 +2,7 @@
 title: How to find the right person to contact
 description: How to find the right person to contact
 published: true
-date: '2026-11-08T14:46:18.367Z'
+date: '2026-11-08T14:46:33.853Z'
 tags: []
 editor: markdown
 dateCreated: '2023-12-12T10:34:53.366Z'
@@ -73,7 +73,7 @@ The social media manager's role is to assist and run the social media channels o
 ### Less important questions/concerns
 Generally, the best way to find the right person to contact about less important things is by posting in Discord. For example, infrastructure problems like wifi and swipe card glitches should be reported in the #infrastructure channel or help with a woodworking tool in the #woodwork channel.
 
-> If you don't have access to Discord [tap here](discord.brisbanemaker.space) for the invite link.
+> If you don't have access to Discord [tap here](https://discord.brisbanemaker.space) for the invite link.
 {.is-info}
 
 ### Serious or important questions/concerns
