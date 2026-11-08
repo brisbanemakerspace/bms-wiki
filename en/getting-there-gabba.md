@@ -1,8 +1,8 @@
 ---
-title: Getting There - Woolloongabba premises
-description: Tips on how to get to the makerspace! (Woolloongabba Premises)
-published: true
-date: '2026-07-13T09:23:26.245Z'
+title: Getting There - Fortitude Valley (ARCHIVED)
+description: Tips on how to get to the makerspace! (Fortitude Valley Premises)
+published: false
+date: '2026-11-08T14:43:01.799Z'
 tags: []
 editor: markdown
 dateCreated: '2026-07-13T09:23:24.163Z'
