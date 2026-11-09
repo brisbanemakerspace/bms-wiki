@@ -2,7 +2,7 @@
 title: Tools
 description: Here's a list of all Brisbane Makerspace tools available for use by members.
 published: true
-date: '2026-09-25T03:00:57.229Z'
+date: '2026-11-09T12:02:41.760Z'
 tags:
   - public
 editor: markdown
@@ -18,96 +18,96 @@ All tools are available on a first come, first serve basis. Most of the time the
 
 ## Digital Fabrication
 - [iMac Computers
-		![imac.png](/digitalfabrication/imac.png =x80)
+		![imac.png](/digitalfabrication/imac.png =100x)
 	](/tools/digifab/imacs)
   
 - [Laser Cutter (700x500 area)
-		![laser.png](/digitalfabrication/laser.png =60x)
+		![laser.png](/digitalfabrication/laser.png =100x)
 	](/tools/digifab/lasercutter)
 
 - [CNC Router (1200x750 area)
-		![laser.png](/digitalfabrication/cnc-xs.png =70x)
+		![laser.png](/digitalfabrication/cnc-xs.png =100x)
 	](/tools/digifab/cncrouter)
 
 - [3D Printer 1 & 2 (Bambu Lab A1 minis)
-		![bambu-lab-a1-mini.png](/digitalfabrication/bambu-lab-a1-mini.png =x60)
+		![bambu-lab-a1-mini.png](/digitalfabrication/bambu-lab-a1-mini.png =100x)
   ](/tools/digifab/a1-mini)
 
 - [3D Printer 3 (Bambu Lab P1S)
-		![bambu-labs-p1s.png](/digitalfabrication/bambu-labs-p1s.png =x70)
+		![bambu-labs-p1s.png](/digitalfabrication/bambu-labs-p1s.png =100x)
   ](/tools/digifab/p1s)
   
   
 - [3D Scanner
-		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
+		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =100x)
   ](/tools/digifab/revopointpop2)
 
 - [Cricut
-		![cricut.png](/digitalfabrication/cricut.png =x60)
+		![cricut.png](/digitalfabrication/cricut.png =100x)
 	](/tools/digifab/cricut)
   
   
   
   ### The following tools are out of action until further notice.
 - [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
-  	![mars_2_pro.png](/digitalfabrication/mars-2-pro.png =40x)
+  	![mars_2_pro.png](/digitalfabrication/mars-2-pro.png =100x)
   ](/tools/digifab/elegoomars2pro)
 
 ## Electronics
 - [Induction Soldering Iron
-		![solder_station.png](/electronics/induction.png =x70)
+		![solder_station.png](/electronics/induction.png =100x)
 	](/tools/electronics/induction-soldering-iron)
 
 - [Soldering Iron / Hot Air
-		![solder_station.png](/electronics/solder-station.png =x60)
+		![solder_station.png](/electronics/solder-station.png =100x)
 	](/tools/electronics/soldering)
 
 - [Lab Power Supply
-			![lab_power_supply.png](/electronics/lab-power-supply.png =x60)
+			![lab_power_supply.png](/electronics/lab-power-supply.png =100x)
   ](/tools/electronics/lab-supply)
 
 - [Oscilloscope
-		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =x60)
+		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =100x)
 	](/tools/electronics/oscilloscope)
   
 - [kWeld Battery Spot Welder
-		![kweld.png](/electronics/kweld-battery-spot-welder.png =x60)
+		![kweld.png](/electronics/kweld-battery-spot-welder.png =100x)
 	](/tools/electronics/kweld)
   
 - [Digital Multimeters
-		![multimeters.png](/electronics/multimeters.png =x60)
+		![multimeters.png](/electronics/multimeters.png =100x)
 	](/tools/electronics/multimeters)
 
 - [Fume Extractor / Filter
-		![fume-extractor.png](/electronics/fume-extractor.png =x60)
+		![fume-extractor.png](/electronics/fume-extractor.png =100x)
 	](/tools/electronics/fume-extractor)
 
 - [Consumables
-		![wire.png](/electronics/wire.png =x60)
+		![wire.png](/electronics/wire.png =100x)
 	](/tools/electronics/consumables)
   
 ## Other Electronic Equipment
 - [A4 Colour Printing (Laser and Inkjet)
-		![a4-printer.png](/other/a4-printer.png =60x)
+		![a4-printer.png](/other/a4-printer.png =100x)
 	](/tools/other/printing)
 
 - [Shipping Label Printer
-		![hero-printer.png](/tools/hero-printer.png =60x)
+		![hero-printer.png](/tools/hero-printer.png =100x)
 	](/tools/other/label-printer)
 
 - [Thermal Camera (Flir One Pro - iOS)
-		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
+		![flir-one-pro.png](/tools/flir-one-pro.png =100x)
 	](/tools/other/flir-one-pro)
 
 - [Audio Recording Equipment](/tools/audio-recording)
 
 - [Photo Lightbox
-		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
+		![photo-lightbox.png](/tools/photo-lightbox.png =100x)
   ](/tools/other/lightbox)
 
 ## Craft
 - [Badge Maker
-		![photo-lightbox.png](/tools/badge-maker.png =80x)](/tools/other/badge-maker)
+		![photo-lightbox.png](/tools/badge-maker.png =100x)](/tools/other/badge-maker)
 
 - [Craft Supplies / Consumables](/craft-supply-boxes)
 
@@ -116,45 +116,45 @@ All tools are available on a first come, first serve basis. Most of the time the
 - Sewing
 
 - [Sewing Machine
-		![brother-ns50.png](/other/brother-ns50.png =x70)](/tools/other/brother-ns50)
+		![brother-ns50.png](/other/brother-ns50.png =100x)](/tools/other/brother-ns50)
 
 - Overlocker Machine
 
 - Dremel Rotary Tools
 
 - [Small Heat Press
-		![saba-heatpress.png](/craft/saba-heatpress.png =x70)](/tools/other/smallheatpress)
+		![saba-heatpress.png](/craft/saba-heatpress.png =100x)](/tools/other/smallheatpress)
 
 - [Shachihata Origami Factory ZPC-AF2/H](/tools/other/shachihata-origami-factory)
 
 
 ## Ryobi Cordless Tools
 - [Ryobi ONE+ Batteries
-		![ryobi-battery.png](/ryobi/ryobi-battery.png =x60)
+		![ryobi-battery.png](/ryobi/ryobi-battery.png =100x)
   ](/tools/ryobi)
 
 - [Ryobi ONE+ Random Orbital Sander
-		![ryobi-orbital-sander.png](/ryobi/ryobi-orbital-sander.png =x60)
+		![ryobi-orbital-sander.png](/ryobi/ryobi-orbital-sander.png =100x)
   ](/tools/ryobi)
 
 - [Ryobi ONE+ Hand Vacuum
-		![ryobi-hand-vacuum.png](/ryobi/ryobi-hand-vacuum.png =x50)
+		![ryobi-hand-vacuum.png](/ryobi/ryobi-hand-vacuum.png =100x)
   ](/tools/ryobi)
 
 - [Ryobi ONE+ Impact Driver
-		![ryobi-impact-driver.png](/ryobi/ryobi-impact-driver.png =x60)
+		![ryobi-impact-driver.png](/ryobi/ryobi-impact-driver.png =100x)
   ](/tools/ryobi)
 
 - [Ryobi ONE+ Drill Driver
-		![ryobi-drill-driver.png](/ryobi/ryobi-drill-driver.png =x60)
+		![ryobi-drill-driver.png](/ryobi/ryobi-drill-driver.png =100x)
   ](/tools/ryobi)
 
 - [Ryobi ONE+ Compact Glue Gun
-		![ryobi-compact-glue-gun.png](/ryobi/ryobi-compact-glue-gun.png =x60)
+		![ryobi-compact-glue-gun.png](/ryobi/ryobi-compact-glue-gun.png =100x)
   ](/tools/ryobi)
 
 - [Ryobi ONE+ Heat Gun
-		![ryobi-heat-gun.png](/ryobi/ryobi-heat-gun.png =x60)
+		![ryobi-heat-gun.png](/ryobi/ryobi-heat-gun.png =100x)
   ](/tools/ryobi)
  
 
@@ -166,69 +166,69 @@ We are in the process of setting up a proper induction process so stay tuned!
 
 
 - [Mitre Saw
-		![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =60x)
+		![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =100x)
 	](/tools/woodworking/makita-mitre-saw)
   
 - [Tablesaw
-		![tablesaw.png](/woodworking/tablesaw.png =60x)
+		![tablesaw.png](/woodworking/tablesaw.png =100x)
 	](/tools/woodworking/tablesaw)
   
 - [Band Saw
-		![ferrex_hbs20_bandsaw.png](/woodworking/ferrex-hbs20-bandsaw.png =60x)
+		![ferrex_hbs20_bandsaw.png](/woodworking/ferrex-hbs20-bandsaw.png =100x)
 	](/tools/woodworking/bandsaw)
   
 - [Drill Press
-		![ferrex_dp55_scheppach_drill_press.png](/woodworking/ferrex-dp55-scheppach-drill-press.png =60x)
+		![ferrex_dp55_scheppach_drill_press.png](/woodworking/ferrex-dp55-scheppach-drill-press.png =100x)
 	](/tools/woodworking/drillpress)
   
 - [Router Table
-		![ozito_router_table.png](/woodworking/ozito-router-table.png =x60)
+		![ozito_router_table.png](/woodworking/ozito-router-table.png =100x)
 	](/tools/woodworking/routertable)
   
 - [Belt & Disc Sander
-		![beltsander.png](/woodworking/beltsander.png =60x)
+		![beltsander.png](/woodworking/beltsander.png =100x)
 	](/tools/woodworking/beltsander)
   
 - [Bench Grinder
-		![ryobi_bench_grinder.png](/woodworking/ryobi-bench-grinder.png =60x)
+		![ryobi_bench_grinder.png](/woodworking/ryobi-bench-grinder.png =100x)
 	](/tools/woodworking/benchgrinder)
   
 ## Other Tools
 - [Hand Tools
-		![hammer.png](/other/hand-tools/hammer.png =x60)
+		![hammer.png](/other/hand-tools/hammer.png =100x)
   ](/tools/other/hand-tools)
   
 - [Air Compressor
-		![ryobi-compressor.png](/ryobi/ryobi-compressor.png =x60)
+		![ryobi-compressor.png](/ryobi/ryobi-compressor.png =100x)
   ](/tools/other/compressor)
   
 - [Ryobi Airwave Nailer and Stapler
-		![ryobi-nailer.png](/other/ryobi-nailer.png =x60)
+		![ryobi-nailer.png](/other/ryobi-nailer.png =100x)
   ](/tools/other/nailer)
 
 - [Ryobi Airwave Cutoff Tool
-		![ryobi-cutoff.png](/other/ryobi-cutoff.png =x60)
+		![ryobi-cutoff.png](/other/ryobi-cutoff.png =100x)
   ](/tools/other/cutoff)
 
 - [Shop Vacs
-		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =x60)
+		![ryobi-shopvac.png](/ryobi/ryobi-shopvac.png =100x)
   ](/tools/other/shopvac)
   
 - [Multipurpose Sharpener
-		![ferrex-sharpener.png](/other/ferrex-sharpener.png =x60)
+		![ferrex-sharpener.png](/other/ferrex-sharpener.png =100x)
   ](/tools/other/sharpener)
   
 ## Vending Machines
 - [Dixie Narco 440 Vending Machine
-		![Dixie Narco 440 Vending Machine](/other/dn-440.png =x80)
+		![Dixie Narco 440 Vending Machine](/other/dn-440.png =100x)
   ](/tools/other/dn-440)
   
 - [Poly Vend 6000 Series Vending Machine
-		![Poly Vend 6000 Series Vending Machine](/other/pv-6000.png =x80)
+		![Poly Vend 6000 Series Vending Machine](/other/pv-6000.png =100x)
   ](/tools/other/pv-6000)
   
 - [Saeco Phedra Cappuccino Vending Machine
-		![Saeco Phedra Cappuccino Vending Machine](/other/vending/saeco-phedra.png =x60)
+		![Saeco Phedra Cappuccino Vending Machine](/other/vending/saeco-phedra.png =100x)
     
     ## AQUARIUM
     
