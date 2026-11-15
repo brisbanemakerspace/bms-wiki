@@ -4,7 +4,7 @@ description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
 published: false
-date: '2026-11-15T07:56:02.245Z'
+date: '2026-11-15T12:52:26.005Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
@@ -14,92 +14,79 @@ dateCreated: '2026-11-15T07:56:02.245Z'
 {.is-warning}
 
 # What is a do-ocracy?
-Brisbane Makerspace is run by volunteers, and one of the four pillars of our culture is **just do it**. A do-ocracy is how we put that into practice:
+Brisbane Makerspace is run by volunteers, and one of our four policy principles is **just do it**. A do-ocracy culture is how we put that into practice. Broadly speaking, it can be summed up by saying:
 
 > **If you see something that needs doing, you're empowered to do it. The people who do the work get to make the decisions about that work.**
 
 You don't need permission to make the space better. You don't need to be on the committee, in a Working Group, or a voting member. If the fridge is gross, clean it. If a tool is missing a label, label it. If the wiki is wrong, fix it.
 
-The flip side is that doing something makes you **responsible** for it. A do-ocracy works because people act in good faith, own their results, and check in with others when their actions affect them.
+The flip side is that doing something makes you **responsible** for it. A do-ocracy works because people act in good faith, take responsibility for what they do, and check in with others when consensus is needed.
 
 ## Principles
 1. **Bias towards action.** It's better to do something useful than to wait for someone else to do it, or for a meeting to approve it.
-2. **Those who do, decide.** If you're the one doing the work, you get to decide how it's done, within our policies and the limits below.
-3. **Don't block doers without good reason.** If someone is doing something you'd do differently, that's not a reason to stop them. Offer to help, or do your own thing alongside it. A good reason to object is safety, a policy breach, real harm to others, or it affects something you're responsible for.
-4. **Finish what you start (or hand it off).** Half-done projects are often worse than nothing. If you can't finish, tell people and leave things safe and tidy.
-5. **Leave a trail.** Tell people what you did and why, and update the wiki if it changes how something works. The next person will thank you.
+2. **Those who do, decide.** If you're the one doing the work, you get to decide how it's done, as long as you follow consensus principles.
+3. **Don't block doers without good reason.** If someone is doing something differently to how you would, that's not a reason to stop them. Offer to help instead of an opinion. A good reason to object is usually related to safety, a policy breach, or impacting work someone else is doing.
+4. **Finish what you start (or hand it off).** Half-done changes are often worse than no change at all. If you can't finish something, leave things safe and tidy and hand it off.
+5. **Leave a documentation trail.** Tell people what you did and why, and update the wiki if you change a process or how something works.
 6. **Small and reversible beats big and permanent.** The easier something is to undo, the less you need to ask about it first.
-7. **Assume good intent.** If someone changed something you didn't expect, talk to them before undoing it.
+7. **Assume good intent.** If someone changed something you didn't expect, or it has side effects they didn't think about, talk to them before undoing it.
 
-This policy does **not** override any other policy. Our [Code of Conduct](/bylaws/coc), [Safe Space](/bylaws/safespace), [Safety](/bylaws/safety), [Tool Inductions](/bylaws/inductions), [Storage](/bylaws/storage) and all other policies still apply. "I was just doing it" is never an excuse for breaking one of them.
+This policy does **not** override any other policy. Our [Code of Conduct](/bylaws/coc), [Safe Space](/bylaws/safespace), [Safety](/bylaws/safety), [Tool Inductions](/bylaws/inductions), [Storage](/bylaws/storage) and all other policies still apply. "I was just doing it" is never an excuse for breaking another policy.
 
-# The quick test
-Before you do something, ask yourself these questions. If the answer to all of them is **no**, just do it.
+# The "just do it" checklist
+Before you do something, follow this checklist. If the answer to all of them is **no**, just do it!
 
 1. **Could it hurt someone or damage something?**
-2. **Would it be hard or expensive to undo?**
-3. **Does it affect something that someone else (a person, Working Group or the committee) looks after?**
-4. **Does it spend BMS money, or commit BMS to something (a contract, a promise, a public statement)?**
+2. **Does it modify the building or would it be hard to undo?**
+3. **Does it affect something that someone else (e.g. a Working Group) looks after?**
+4. **Will it cost BMS money?**
 5. **Does it go against a policy, or a decision made at a meeting?**
 
-If you answer **yes** to any of them, check in first (see below for who to check in with). If you're unsure, that's a yes. A quick message costs a lot less than a fix.
+If you answered **yes** to any of them, keep reading and get consensus before doing it. If you're unsure, that's a yes.
 
-```mermaid
-flowchart TD
-  A[I want to do something] --> B{Unsafe, hard to undo, affects someone else's area,<br/>spends money or breaks a policy/decision?}
-  B -- No --> C[Just do it 🎉<br/>Tell people if it changes how things work]
-  B -- Yes / unsure --> D{Is it a big decision?<br/>Policy, budgets, contracts, assets, the building}
-  D -- No --> E[Check in with whoever looks after it<br/>then go ahead]
-  D -- Yes --> F[Raise it at a General Meeting<br/>or Committee Meeting]
-```
+If it's a large change, you need to take it to a general meeting for consensus. If it's a smaller change, ask a few people (who it will impact most) or take it to the relevant Working Group.
 
-# What you can (and should) just do
-These are things any member can do without asking first. This list isn't exhaustive. If it's similar to something here and passes the quick test, go for it.
+# Examples of "just do it" things
+These are things any member can do without asking first. This list isn't exhaustive. If it's similar to something here and passes the quick test, just do it!
 
 **Cleaning and tidying**
 * Clean up a mess, empty bins, wash dishes, sweep the floor, wipe down a bench.
 * Put tools and materials back where they belong.
-* Clean out the fridge of expired or unlabelled food (in line with our [Community Rules](/policies/communityrules)).
+* Clean out the fridge of expired or unlabelled food.
 
 **Small fixes and improvements**
-* Label things: tool homes, shelves, drawers, cables, switches.
-* Replace basic consumables we already stock (paper towel, glue sticks, sandpaper, bin bags) from our supplies.
+* Label things: tools, shelves, drawers, cables, switches.
+* Replace basic consumables we already stock (paper towel, glue sticks, sandpaper, bin bags).
 * Tighten a loose screw, replace a battery, refill something that's empty.
-* Make a sign that helps people (e.g. "please return clamps here"). Keep it friendly and in line with our [Code of Conduct](/bylaws/coc).
-* Rearrange *common* areas in small, easily reversible ways, like moving a chair or shuffling things on a general shelf to make space.
+* Make a sign that helps people (e.g. "please return clamps here"). Keep it friendly and in line with our [Code of Conduct](/bylaws/coc). Use a Canva template, avoid hand written versions.
+* Rearrange common areas in small, easily reversible ways, like moving a chair or shuffling things on a general shelf to make space.
 
 **Documentation and digital**
-* Fix mistakes, typos and outdated info on the wiki, or write a new how-to guide ([how to make wiki changes](/howto/make-wiki-changes)).
+* Fix mistakes, typos and outdated info on the wiki, or write a new how-to guide ([see how to make wiki changes](/howto/make-wiki-changes)).
 * Answer questions from other members on Discord or the forum.
 * Report problems in the right Discord channel (e.g. #infrastructure for wifi or swipe card glitches).
 
 **Community**
-* Welcome new people and show them around (within your own inductions and knowledge).
+* Welcome new people and show them around.
 * Help someone with their project, or share your skills.
-* Start a casual meetup, a project or a skill-share. If it needs a booking or a regular slot, see [hosting an event](/howto/host-event).
-* Propose an idea on the forum, or put something on a general meeting agenda.
+* Start a casual meetup, a project or a skill-share. See [hosting an event](/howto/host-event).
+* Propose an idea on the forum, or put something on a meeting agenda.
 
-**Safety (always)**
-* Stop someone using a tool unsafely, or ask them to stop.
+**Safety**
+* Stop someone using a tool unsafely.
 * Tag out a broken or unsafe tool and report it, following our [Safety](/bylaws/safety) policy.
 * Clear a blocked walkway or exit.
 
-> If something is an **emergency** (a medical, fire or safety incident), don't wait. Act, call emergency services if needed, then follow [time sensitive / emergencies](/howto/find-someone#time-sensitive-emergencies).
-{.is-danger}
-
-# Do it, then tell people
+# Just do it, then tell people
 Some things are fine to do without asking, but you should let people know afterwards so nobody is surprised:
-* Moving something to a new "home" in a shared area: post in Discord and update any signs or wiki pages that mention where it lives.
-* Fixing or adjusting a tool in a way that changes how it's used (e.g. replacing a blade, recalibrating): tell the Working Group that looks after it and note it on the tool's wiki page.
-* Small purchases of everyday consumables within the limits in [Spending money](#spending-money). Keep the receipt.
-* Throwing out something that's clearly rubbish (broken, empty, unlabelled food). If there's *any* chance it belongs to someone, follow the [Storage](/bylaws/storage) policy instead.
+* Moving something to a new "home": post in Discord and update any signs or wiki pages that mention where it lives.
+* Fixing or adjusting a tool in a way that changes how it's used: tell the Working Group that looks after it and note it on the tool's wiki page.
+* Small purchases of everyday consumables within the limits in [Spending money](#spending-money). Send the receipt to the treasurer.
 
-# Check in first
-If your idea fails the quick test, it might still be a great idea. You just need to check in with the right people first. Checking in isn't asking for a vote. It gives people who are affected, or who look after that area, a chance to raise concerns or help out.
+# How to get consensus if you can't "just do it"
+If your idea fails the "just do it" checklist, it might still be a great idea. You just need to check in with the right people first. Checking in isn't asking for a vote. It gives people who are affected, or who look after that area, a chance to raise concerns or help out.
 
 ## Who to check in with
-Use [How to find the right person to contact](/howto/find-someone) for current names and contact details.
-
 | If it involves... | Check in with |
 |---|---|
 | A tool, area or resource that a Working Group looks after (repairs, modifications, moving it, changing how it's used, inductions) | That **[Working Group](/bylaws/working-groups)**, via its Facilitator or Discord channel |
