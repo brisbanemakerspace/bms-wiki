@@ -4,7 +4,7 @@ description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
 published: false
-date: '2026-11-15T12:52:26.005Z'
+date: '2026-11-15T13:07:47.119Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
@@ -90,44 +90,38 @@ If your idea fails the "just do it" checklist, it might still be a great idea. Y
 | If it involves... | Check in with |
 |---|---|
 | A tool, area or resource that a Working Group looks after (repairs, modifications, moving it, changing how it's used, inductions) | That **[Working Group](/bylaws/working-groups)**, via its Facilitator or Discord channel |
-| A tool or area with **no** Working Group, or day to day operations (supplies, layout of common areas, onboarding) | The **Head Maker** |
-| Spending BMS money, reimbursements, fees or anything financial | The **Treasurer** |
-| Network, swipe card / access system, wiki, forum, Discord, email or other digital systems, or anything on the [Restricted Resources](/policies/restricted-resources) list | The **Infrastructure Working Group** (or whoever the list names as manager) |
-| Social media, or posting publicly on behalf of BMS | The **Social Media Manager** |
-| Another member's project, belongings or stored items | **That member.** If you can't reach them, follow the [Storage](/bylaws/storage) policy |
+| A tool or area with **no** Working Group, or day to day operations (supplies, layout of common areas) | At least a few other members |
+| Spending BMS money without an existing budget | Agenda item at general meeting |
+| Wi-Fi, swipe card system, wiki, forum, Discord, email or other digital systems, or anything on the [Restricted Resources](/policies/restricted-resources) list | The Infrastructure Working Group |
+| Social media, or posting publicly on behalf of BMS | The Social Media Manager or committee |
+| Another member's project, belongings or stored items | **That member.** If you can't reach them, follow the [tickets](/bylaws/storage) policy |
 | Accepting a donation or loan | Someone who can approve it under the [Donations and Loans](/bylaws/donations) policy |
-| Running a workshop or event, especially a paid one | The **Head Maker**, and see [hosting an event](/howto/host-event) |
+| Running a workshop or event, especially a paid one | Anyone on the committee, and see [hosting an event](/howto/host-event) |
 | Talking to the landlord, neighbours, media, sponsors or other organisations on behalf of BMS | The **President** or the **Committee** |
 | Anything else you're unsure about | Ask in Discord, or email the **Committee** |
 
 ## How to check in
-1. **Post it where people will see it.** Use the relevant Discord channel or the forum, and tag the people or group above. Say what you want to do, why, and roughly what it will cost (in money, space and time).
-2. **Give people a reasonable chance to respond.** For small things, a couple of days is usually enough. For bigger changes, allow about 7 days.
-3. **If nobody objects, go ahead.** Silence after a reasonable check in counts as "go for it". Make a note that you checked in, in case it comes up later.
-4. **If someone raises a concern, talk it through.** Most concerns can be fixed by adjusting the plan. A concern isn't a veto, but the person who looks after that area has the final say on it.
-5. **If you can't agree,** take it to the Head Maker. If it still isn't sorted, put it on the agenda for the next [general meeting](/bylaws/meetings).
+1. **Use the relevant Discord channel**. Tag the right people or group above so they see it. Say what you want to do, why, and roughly what it will cost (in money, space and time).
+2. **If nobody objects, go ahead.** Silence after a reasonable notice period counts as "just do it". (a few hours for minor things, a few days for bigger things)
+3. **If the conensus is already "just do it".** You don't have to wait the full notice period.
+4. **If someone raises a concern, talk it through.** Most concerns can be fixed by adjusting the plan, just make sure to get consensus.
+5. **If you can't agree,** put it on the agenda for the next Working Group or [general meeting](/bylaws/meetings).
 
 # Bigger decisions (not covered by the do-ocracy)
-Some things are too big, permanent or risky for one person to decide. These need a motion at a General Meeting, a Committee Meeting, or a Working Group meeting (where a Working Group has the authority):
+Some things are too big, permanent or risky to "just do it". These need a motion at a General Meeting, a Committee Meeting, or a Working Group meeting (where a Working Group has the authority):
 * Creating or changing a policy ([Policy Changes](/policies/policy-changes)).
 * Creating a new budget, changing one, or spending outside an approved budget.
 * Buying a new asset or tool for general use (see [Asset Purchases](/policies/asset-purchases)), or selling, disposing of or permanently removing an existing asset.
 * Signing contracts, leases, grant applications or other agreements on behalf of BMS.
 * Permanent changes to the building or fixtures (drilling into walls, electrical work, plumbing, structural changes). These may also need approval from our landlord.
-* Restricting access to a resource or space, or removing someone's access.
+* Restricting access to a resource or space.
 * Anything to do with membership, discipline or [Infractions](/bylaws/infractions).
-* Speaking for BMS on a sensitive issue, or anything that could affect our reputation, charity status or insurance.
+* Speaking for BMS on a sensitive issue, or anything that could affect our reputation.
 
 # Spending money
-You're welcome to spend your own money on things for the space. Please remember:
-* **Small everyday consumables** (roughly under $50) that we already use and stock can be bought without asking first. Keep an itemised tax invoice or receipt and send it to the Treasurer if you'd like to be reimbursed.
-* **Anything larger, or anything that isn't a routine consumable,** needs a check in with the Treasurer (and the relevant Working Group or Head Maker) *before* you buy it if you want to be reimbursed. Reimbursement isn't guaranteed for purchases that weren't checked in.
-* **Working Group budgets** are spent under the [Working Groups](/bylaws/working-groups) policy.
-* If you don't want to be reimbursed, it's a donation and the [Donations and Loans](/bylaws/donations) policy applies. That includes having someone who can approve it, and making sure tools meet our documentation and induction standards.
+You're welcome to spend your own money on things for the space. Most people chip in small things every now and then to keep the space running.
 
-# When things go wrong
-Mistakes happen, and that's okay. We'd rather people try things and occasionally get it wrong than never do anything at all.
-* **If you mess up,** own it, fix it if you can, and tell the people affected. Genuine mistakes made in good faith aren't punished.
-* **If someone undoes your work,** talk to them. Don't get into a back-and-forth of redoing and undoing. If you can't sort it out, follow step 5 under [How to check in](#how-to-check-in).
-* **If someone repeatedly ignores this policy,** for example by making big changes without checking in, or blocking others without good reason, raise it with the Head Maker or the Committee. Patterns of behaviour may be handled under the [Infractions](/bylaws/infractions) policy.
+If you want to spend BMS money or get reimbursed, please remember:
+* Working Group budgets are spent under the [Working Groups](/bylaws/working-groups) policy.
+* All other expenses must be approved under an existing budget, or approved at a general meeting. If you spend money without getting approval first, or contrary to the budget conditions, it will not be reimbursed.
 
