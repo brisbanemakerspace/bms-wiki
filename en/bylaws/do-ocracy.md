@@ -3,8 +3,8 @@ title: Do-ocracy
 description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
-published: false
-date: '2026-11-15T13:15:06.378Z'
+published: true
+date: '2026-11-15T13:24:49.430Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
