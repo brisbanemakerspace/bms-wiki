@@ -4,7 +4,7 @@ description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
 published: false
-date: '2026-11-15T13:07:47.119Z'
+date: '2026-11-15T13:15:06.378Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
@@ -81,15 +81,15 @@ These are things any member can do without asking first. This list isn't exhaust
 Some things are fine to do without asking, but you should let people know afterwards so nobody is surprised:
 * Moving something to a new "home": post in Discord and update any signs or wiki pages that mention where it lives.
 * Fixing or adjusting a tool in a way that changes how it's used: tell the Working Group that looks after it and note it on the tool's wiki page.
-* Small purchases of everyday consumables within the limits in [Spending money](#spending-money). Send the receipt to the treasurer.
+* Unsure who to tell? Just tell someone else, preferably on Discord in a public channel.
 
 # How to get consensus if you can't "just do it"
-If your idea fails the "just do it" checklist, it might still be a great idea. You just need to check in with the right people first. Checking in isn't asking for a vote. It gives people who are affected, or who look after that area, a chance to raise concerns or help out.
+If your idea fails the "just do it" checklist, it might still be a great idea. You just need to check in with the right people first. It gives people who are affected, or who look after that area, a chance to raise concerns or help out.
 
 ## Who to check in with
 | If it involves... | Check in with |
 |---|---|
-| A tool, area or resource that a Working Group looks after (repairs, modifications, moving it, changing how it's used, inductions) | That **[Working Group](/bylaws/working-groups)**, via its Facilitator or Discord channel |
+| A tool, area or resource that a Working Group looks after (repairs, modifications, moving it, changing how it's used, inductions) | That **[Working Group](/bylaws/working-groups)**, via its Discord channel |
 | A tool or area with **no** Working Group, or day to day operations (supplies, layout of common areas) | At least a few other members |
 | Spending BMS money without an existing budget | Agenda item at general meeting |
 | Wi-Fi, swipe card system, wiki, forum, Discord, email or other digital systems, or anything on the [Restricted Resources](/policies/restricted-resources) list | The Infrastructure Working Group |
