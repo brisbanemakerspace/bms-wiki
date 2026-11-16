@@ -3,8 +3,8 @@ title: AI-Generated Content
 description: >-
   Where AI-generated content can and can't be used at BMS, balancing member
   expression, artists' rights, and keeping our space and channels human-made.
-published: false
-date: '2026-11-16T10:20:31.337Z'
+published: true
+date: '2026-11-16T10:23:52.439Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-16T07:24:57.418Z'
