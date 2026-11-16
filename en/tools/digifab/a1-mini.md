@@ -2,7 +2,7 @@
 title: Bambu Lab A1 mini
 description: ''
 published: true
-date: '2026-06-11T02:10:55.321Z'
+date: '2026-11-16T01:31:36.419Z'
 tags: []
 editor: markdown
 dateCreated: '2024-09-24T06:49:56.326Z'
@@ -84,11 +84,11 @@ Bambu Studio is installed on our Mac computers ready to go (bring your model on 
 
 You may be required to enter an access code for the printers when you try to connect to them from Bambu Slicer. Enter the appropriate access code as written below.
 
-|Printer Name|Access Code|Position|
+|Printer Name|Access Code|IP Address|
 |---|---|---|
-|Printer 1 (AMS)|`82643552`|Right|
-|Printer 2|`10648999`|Middle|
-|Printer 3 (P1S)|[See Here](https://wiki.brisbanemaker.space/en/tools/digifab/p1s#connecting-via-bambu-slicer)|Left|
+|Printer 1 (AMS)|`81664397`|192.168.1.201|
+|Printer 2|`10648999`|192.168.1.202|
+|Printer 3 (P1S)|[See Here](https://wiki.brisbanemaker.space/en/tools/digifab/p1s#connecting-via-bambu-slicer)||
 
 # How To Operate
 You should be familiar with how to operate this tool after completing an induction. However, a quick reference guide is included below to assist you.
