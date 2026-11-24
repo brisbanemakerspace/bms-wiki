@@ -4,14 +4,14 @@ description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
 published: true
-date: '2026-11-15T13:24:49.430Z'
+date: '2026-11-24T03:34:09.950Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
 ---
 
-> **Draft – not yet adopted.** This policy is a proposal and needs to be adopted at a general meeting under our [Policy Changes](/policies/policy-changes) process before it applies. Feedback is welcome on the forum.
-{.is-warning}
+> Adopted at the general meeting on 23 November 2026.
+{.is-info}
 
 # What is a do-ocracy?
 Brisbane Makerspace is run by volunteers, and one of our four policy principles is **just do it**. A do-ocracy culture is how we put that into practice. Broadly speaking, it can be summed up by saying:
