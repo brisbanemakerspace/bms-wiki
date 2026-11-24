@@ -1,0 +1,14 @@
+{
+  "title": "Policies (Redirect)",
+  "description": "",
+  "published": true,
+  "date": "2026-11-24T03:42:44.920Z",
+  "tags": [],
+  "editor": "redirect",
+  "dateCreated": "2026-11-24T03:42:44.920Z",
+  "content": {
+    "kind": "page",
+    "target": "/policies",
+    "showInterstitial": false
+  }
+}
