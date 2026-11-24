@@ -4,14 +4,14 @@ description: >-
   Where AI-generated content can and can't be used at BMS, balancing member
   expression, artists' rights, and keeping our space and channels human-made.
 published: true
-date: '2026-11-16T10:23:52.439Z'
+date: '2026-11-24T03:34:11.251Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-16T07:24:57.418Z'
 ---
 
-> **Draft – not yet adopted.** This policy is a proposal and needs to be adopted at a general meeting under our [Policy Changes](/policies/policy-changes) process before it applies. Feedback is welcome on the forum.
-{.is-warning}
+> Adopted at the general meeting on 23 November 2026.
+{.is-info}
 
 # Why we have this policy
 BMS is a community of like-minded makers who love socialising around our common love of making things. This includes members who produce creative works in many different forms.
