@@ -4,13 +4,13 @@ description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
 published: true
-date: '2026-11-24T03:34:09.950Z'
+date: '2026-11-24T03:36:06.869Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
 ---
 
-> Adopted at the general meeting on 23 November 2026.
+> Adopted at the [2nd Annual General Meeting](/meetings/general/20261123#12d-motion-adopt-do-ocracy-policy) on 23 November 2026.
 {.is-info}
 
 # What is a do-ocracy?
