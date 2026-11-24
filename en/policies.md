@@ -2,7 +2,7 @@
 title: Policies
 description: ''
 published: true
-date: '2026-11-24T03:34:12.478Z'
+date: '2026-11-24T03:34:22.163Z'
 tags:
   - public
 editor: markdown
@@ -64,7 +64,6 @@ Red links mean the how to guide doesn't exist yet, and we'd love someone to make
 - [Manage your membership](/howto/manage-membership)
 - [Issue or collect a swipe card](/howto/issue-or-collect-swipe-card)
 - [Manage our shared Google calendars](/howto/manage-shared-google-calendars)
-- [Manage our appointment booking system](/howto/manage-appointment-booking-system)
 - [Access our Canva account](/howto/canva)
 - [Create an induction](/howto/create-induction)
 - [Host an event (meetup/workshop etc)](/howto/host-event)
