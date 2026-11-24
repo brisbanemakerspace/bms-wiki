@@ -2,7 +2,7 @@
 title: Policies
 description: ''
 published: true
-date: '2026-11-24T03:41:00.192Z'
+date: '2026-11-24T03:43:34.942Z'
 tags:
   - public
 editor: markdown
@@ -25,6 +25,8 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Constitution](/constitution)
 - [Code of Conduct](/bylaws/coc)
 - [Safe Space](/bylaws/safespace)
+- [Do-ocracy](/bylaws/do-ocracy)
+- [Working Groups](/bylaws/working-groups)
 - [Infractions](/bylaws/infractions)
 - [Tool Inductions](/bylaws/inductions)
 - [Safety](/bylaws/safety)
@@ -35,15 +37,13 @@ Under the Associations Act and our constitution, the association can make by-law
 - [Fee Schedule](/bylaws/fees)
 - [Fair Use](/bylaws/fair-use)
 - [Guests](/bylaws/guests)
-- [Working Groups](/bylaws/working-groups)
 - [Donations and Loans](/bylaws/donations)
 - [Membership Processes](/bylaws/membership-processes)
+- [AI-Generated Content](/bylaws/ai-content)
 - [[WIP] Disputes and Complaints](/bylaws/disputes)
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
 - [[WIP] Paid Events and Workshops](/bylaws/paid-events)
-- [Do-ocracy](/bylaws/do-ocracy)
-- [AI-Generated Content](/bylaws/ai-content)
 
 # Working Groups
 This section contains links to each of our working group pages for convenience. Working group rules and policies are enabled by our Working Groups policy (above) and are considered part of our by-laws.
