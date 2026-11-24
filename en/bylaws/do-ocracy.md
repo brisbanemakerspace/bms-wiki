@@ -4,14 +4,11 @@ description: >-
   How BMS runs as a do-ocracy: what members can just do, when to check in first,
   and who to check in with.
 published: true
-date: '2026-11-24T03:36:06.869Z'
+date: '2026-11-24T03:37:50.198Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-15T07:56:02.245Z'
 ---
-
-> Adopted at the [2nd Annual General Meeting](/meetings/general/20261123#12d-motion-adopt-do-ocracy-policy) on 23 November 2026.
-{.is-info}
 
 # What is a do-ocracy?
 Brisbane Makerspace is run by volunteers, and one of our four policy principles is **just do it**. A do-ocracy culture is how we put that into practice. Broadly speaking, it can be summed up by saying:
@@ -124,4 +121,7 @@ You're welcome to spend your own money on things for the space. Most people chip
 If you want to spend BMS money or get reimbursed, please remember:
 * Working Group budgets are spent under the [Working Groups](/bylaws/working-groups) policy.
 * All other expenses must be approved under an existing budget, or approved at a general meeting. If you spend money without getting approval first, or contrary to the budget conditions, it will not be reimbursed.
+
+# Policy history
+* **23 November 2026:** Adopted at the [2nd Annual General Meeting](/meetings/general/20261123#12d-motion-adopt-do-ocracy-policy).
 
