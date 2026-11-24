@@ -2,7 +2,7 @@
 title: Policies
 description: ''
 published: true
-date: '2026-11-24T03:32:30.332Z'
+date: '2026-11-24T03:34:12.478Z'
 tags:
   - public
 editor: markdown
@@ -42,8 +42,8 @@ Under the Associations Act and our constitution, the association can make by-law
 - [[WIP] Moderation](/bylaws/moderation)
 - [[WIP] Access & Accounts](/bylaws/access)
 - [[WIP] Paid Events and Workshops](/bylaws/paid-events)
-- [[WIP] Do-ocracy](/bylaws/do-ocracy)
-- [[WIP] AI-Generated Content](/bylaws/ai-content)
+- [Do-ocracy](/bylaws/do-ocracy)
+- [AI-Generated Content](/bylaws/ai-content)
 
 # Working Groups
 This section contains links to each of our working group pages for convenience. Working group rules and policies are enabled by our Working Groups policy (above) and are considered part of our by-laws.
