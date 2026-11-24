@@ -2,7 +2,7 @@
 title: Policies
 description: ''
 published: true
-date: '2026-11-24T03:34:22.163Z'
+date: '2026-11-24T03:41:00.192Z'
 tags:
   - public
 editor: markdown
@@ -12,7 +12,7 @@ dateCreated: '2021-09-07T13:19:37.419Z'
 # Introduction
 We try to foster a fun, safe and collaborative environment at Brisbane Makerspace. To assist us, we have a list of policies and rules that everyone is required to follow. If you are using our physical space, attending a workshop, or using our digital resources, these rules apply to you.
 
-Our policies may change at any time. Significant changes will be anounced to members via email.
+Our policies may change at any time. Significant changes will be announced to members via email.
 
 The four pillars of our culture can be summarised as:
 * be respectful
@@ -21,7 +21,7 @@ The four pillars of our culture can be summarised as:
 * just do it
 
 # Policies
-Under the Associations Act and our constitution, the association can make by-laws that are enforcable and apply to all members. We refer to these as "policies" and they can be found below.
+Under the Associations Act and our constitution, the association can make by-laws that are enforceable and apply to all members. We refer to these as "policies" and they can be found below.
 - [Constitution](/constitution)
 - [Code of Conduct](/bylaws/coc)
 - [Safe Space](/bylaws/safespace)
