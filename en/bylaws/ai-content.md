@@ -4,7 +4,7 @@ description: >-
   Where AI-generated content can and can't be used at BMS, balancing member
   expression, artists' rights, and keeping our space and channels human-made.
 published: true
-date: '2026-11-24T03:37:51.464Z'
+date: '2026-11-24T03:41:03.100Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-16T07:24:57.418Z'
@@ -64,4 +64,4 @@ On Discord, the forum, and our other online spaces:
 * We respectfully ask that you limit what AI-generated content you post because many members don't want to see it.
 
 # Policy history
-* **23 November 2026:** Adopted at the [2nd Annual General Meeting](/meetings/general/20261123).
+* **23 November 2026:** Adopted at the [2nd Annual General Meeting](/meetings/general/20261123#12-general-business).
